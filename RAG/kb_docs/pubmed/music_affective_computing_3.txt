@@ -1,0 +1,82 @@
+1. BMC Med Inform Decis Mak. 2024 Mar 19;24(1):79. doi:
+10.1186/s12911-024-02478-3.
+
+Development of a new computer simulated environment to screen cognition: 
+assessing the feasibility and acceptability of Leaf Café in younger and older 
+adults.
+
+Siette J(1)(2), Guion J(3), Ijaz K(4), Strutt P(5), Porte M(6), Savage G(7), 
+Richards D(6).
+
+Author information:
+(1)The MARCS Institute for Brain, Behaviour and Development, Western Sydney 
+University, Westmead, NSW, 2145, Australia. joyce.siette@westernsydney.edu.au.
+(2)Australian Institute of Health Innovation, Macquarie University, Macquarie 
+Park, NSW, 2109, Australia. joyce.siette@westernsydney.edu.au.
+(3)The MARCS Institute for Brain, Behaviour and Development, Western Sydney 
+University, Westmead, NSW, 2145, Australia.
+(4)Affective Interactions Lab, School of Architecture, Design and Planning, 
+University of Sydney, Sydney, NSW, Australia.
+(5)School of Psychology, Western Sydney University, Kingswood, NSW, 2747, 
+Australia.
+(6)School of Computing, Macquarie University, Macquarie Park, NSW, 2109, 
+Australia.
+(7)School of Psychological Sciences, Macquarie University, Macquarie Park, NSW, 
+2109, Australia.
+
+BACKGROUND: Existing traditional cognitive screening tools for dementia 
+have various limitations, including overreliance on tests assessing verbal 
+memory and, to a lesser extent, on some aspects of executive functioning. 
+Comprehensive neuropsychological assessment is sensitive to impairment but 
+time-intensive and expensive. Virtual reality may provide a dynamic and unique 
+understanding of cognitive performance and increase the ecological validity of 
+cognitive assessment. The use of virtual reality in screening for cognitive 
+function in older persons is promising, but evidence for its use remains sparse.
+OBJECTIVE: Our primary aim was to examine the feasibility and acceptability of a 
+newly developed, virtual reality assessment module, 'Leaf Café', a 
+computer-based program that assesses cognition in an engaging, efficient, and 
+ecologically relevant way. The secondary aim was to assess the ability of the 
+module to discriminate between performances of younger and older adults.
+METHODS: A cross-sectional study was carried out in Sydney, Australia, targeting 
+adults aged 18 years and above. Participants completed a traditional cognitive 
+screening tool (Telephone Interview for Cognitive Status-Modified, TICS-M) and 
+Leaf Café, a low-immersive virtual reality module designed to evaluate learning 
+and memory, perceptual-motor function, and executive functioning. The total 
+performance score for each participant, ranging from 0 to 180, was correlated 
+with their cognitive performance assessed by TICS-M, using Pearson's correlation 
+coefficient. Following module completion, participants were presented with an 
+open and closed-question survey to capture their perceptions, attitudes, and 
+feedback on the module, encompassing practicality, acceptability, and enjoyment. 
+Both descriptive and content analyses were employed to interpret the obtained 
+data.
+RESULTS: A sample of 131 participants (mean age 54.9 years, SD = 20.8, range 
+20-85) took part. The majority were female (71.8%) and born in an 
+English-speaking country (75.8%). The mean amount of time spent in the module 
+was 32.8 min (SD = 13.3) with a mean module score of 107.6 (SD = 38.7). Most 
+participants completed the highest level (5; 80.5%). There was a significant 
+correlation between Leaf Café total scores with TICS-M cognitive scores overall, 
+and for both younger (aged 18-64 years) and older adult (aged 65 + years) 
+groups. No significant difference was found on performance between age groups on 
+TICS-M performance, however, younger adults had significantly better performance 
+on the Leaf Café module than older adults (M = 124.1 vs 95.9; p < .001). 
+Participants had similar response proportions regarding user experience with 
+most agreeing that the module was easy to use (84%) and to navigate (85%). 
+Compared with younger adults, older adults had lower rates of agreement on the 
+module's design (36.8% vs 64.3%; p = .020) and support experienced (20.5% vs 
+53.6%; p = .007). Participants highlighted the significance of practicality and 
+the cognitive challenges presented by the module, in terms of memory strain and 
+user interface concerns. Feedback encompassed different opinions on the 
+usefulness of music, with suggestions for improvements centred around clearer 
+instructions, varied game dynamics, and considerations for diverse user needs.
+CONCLUSIONS: Leaf Café is a feasible and acceptable tool to be used for 
+screening for cognitive impairment in older adults and has real-world assessment 
+value. Further verification on the game's utility in detecting cognitive 
+impairment is required.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12911-024-02478-3
+PMCID: PMC10949698
+PMID: 38504250 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests. 

@@ -1,0 +1,41 @@
+1. Front Psychol. 2013 May 27;4:292. doi: 10.3389/fpsyg.2013.00292. eCollection 
+2013.
+
+On the Acoustics of Emotion in Audio: What Speech, Music, and Sound have in 
+Common.
+
+Weninger F(1), Eyben F, Schuller BW, Mortillaro M, Scherer KR.
+
+Author information:
+(1)Machine Intelligence and Signal Processing Group, 
+Mensch-Maschine-Kommunikation, Technische Universität München , Munich , 
+Germany.
+
+WITHOUT DOUBT, THERE IS EMOTIONAL INFORMATION IN ALMOST ANY KIND OF SOUND 
+RECEIVED BY HUMANS EVERY DAY: be it the affective state of a person transmitted 
+by means of speech; the emotion intended by a composer while writing a musical 
+piece, or conveyed by a musician while performing it; or the affective state 
+connected to an acoustic event occurring in the environment, in the soundtrack 
+of a movie, or in a radio play. In the field of affective computing, there is 
+currently some loosely connected research concerning either of these phenomena, 
+but a holistic computational model of affect in sound is still lacking. In turn, 
+for tomorrow's pervasive technical systems, including affective companions and 
+robots, it is expected to be highly beneficial to understand the affective 
+dimensions of "the sound that something makes," in order to evaluate the 
+system's auditory environment and its own audio output. This article aims at a 
+first step toward a holistic computational model: starting from standard 
+acoustic feature extraction schemes in the domains of speech, music, and sound 
+analysis, we interpret the worth of individual features across these three 
+domains, considering four audio databases with observer annotations in the 
+arousal and valence dimensions. In the results, we find that by selection of 
+appropriate descriptors, cross-domain arousal, and valence regression is 
+feasible achieving significant correlations with the observer annotations of up 
+to 0.78 for arousal (training on sound and testing on enacted speech) and 0.60 
+for valence (training on enacted speech and testing on music). The high degree 
+of cross-domain consistency in encoding the two main dimensions of affect may be 
+attributable to the co-evolution of speech and music from multimodal affect 
+bursts, including the integration of nature sounds for expressive effects.
+
+DOI: 10.3389/fpsyg.2013.00292
+PMCID: PMC3664314
+PMID: 23750144

@@ -1,0 +1,40 @@
+1. Front Psychol. 2023 Jan 30;14:1076552. doi: 10.3389/fpsyg.2023.1076552. 
+eCollection 2023.
+
+The effect of teacher support on Chinese university students' sustainable online 
+learning engagement and online academic persistence in the post-epidemic era.
+
+Ma X(1)(2), Jiang M(1), Nong L(3).
+
+Author information:
+(1)Chinese International College, Dhurakij Pundit University, Bangkok, Thailand.
+(2)Department of Basic Science, Guizhou Aerospace Vocational and Technical 
+College, Zunyi, China.
+(3)School of Education and Music, Hezhou University, Hezhou, China.
+
+Since entering the post-epidemic era of COVID-19 at the end of 2021, schools 
+have mostly adopted a combined online and offline teaching mode to effectively 
+respond to the normalized epidemic, which has changed the traditional learning 
+mode of students. Based on the study demand-resources (SD-R) model theory, this 
+study developed a research model and proposed six research hypotheses to explore 
+the relationship between Chinese university students' perceived teacher support 
+(PTS), online academic self-efficacy (OAS-E), online academic emotions (OAE), 
+sustainable online learning engagement (SOLE), and online academic persistence 
+(OAP) in the post-epidemic era. In this study, 593 Chinese university students 
+were invited to respond to a questionnaire survey using the convenience sampling 
+method. The results of the study showed that: PTS had a positive effect on OAS-E 
+and OAE; OAS-E had a positive effect on OAE; OAS-E and OAE had a positive effect 
+on the students' SOLE; and SOLE had a positive effect on their OAP. Based on the 
+analysis, it is recommended that teachers provide more support and resources to 
+further enhance students' academic self-efficacy and academic emotions, and thus 
+ensure students' SOLE and OAP.
+
+Copyright © 2023 Ma, Jiang and Nong.
+
+DOI: 10.3389/fpsyg.2023.1076552
+PMCID: PMC9922889
+PMID: 36794084
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

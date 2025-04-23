@@ -1,0 +1,61 @@
+1. J Psychosom Res. 2025 Apr;191:112065. doi: 10.1016/j.jpsychores.2025.112065. 
+Epub 2025 Feb 19.
+
+Effects of non-pharmacological interventions on anxiety in patients undergoing 
+colonoscopy: A network meta-analysis of randomized controlled trials.
+
+Chen YS(1), Feng GH(1), Yue QQ(1), Wang YF(1), Liu M(1), Zhao KH(1), Tang T(1), 
+Huang MT(1), Yi WT(1), Yan HL(1), Yan JH(1), Zeng Y(2).
+
+Author information:
+(1)Department of International and Humanistic Nursing, Hunan Science 
+Popularization Education Base, School of Nursing, Hengyang Medical School, 
+University of South China, Hengyang, China.
+(2)Department of International and Humanistic Nursing, Hunan Science 
+Popularization Education Base, School of Nursing, Hengyang Medical School, 
+University of South China, Hengyang, China.; Hunan Engineering Research Center 
+for Early Diagnosis and Treatment of Liver Cancer, Cancer Research Institute, 
+Hengyang Medical School, University of South China; Hunan Province Key 
+Laboratory of Tumor Cellular & Molecular Pathology, Cancer Research Institute, 
+Hengyang Medical School, University of South China, Hengyang, China.. Electronic 
+address: zengying2003@126.com.
+
+BACKGROUND: Anxiety is a common and significant problem in patients who need to 
+undergo colonoscopy. However, the question of which non-pharmacological 
+intervention is the best strategy to reduce anxiety in patients undergoing 
+colonoscopy remains unanswered.
+OBJECTIVES: To evaluate and rank the effectiveness of various 
+non-pharmacological interventions for reducing anxiety in patients undergoing 
+colonoscopy in order to identify the most effective strategies.
+METHODS: We searched PubMed, Cochrane Library, Embase, Web of Science, and 
+Medline for randomized controlled trials published from the database 
+construction to March 2024. The primary outcome was the difference between pre- 
+and post-intervention anxiety means. A network meta-analysis was conducted 
+utilizing the "gemtc" package based on R4.3.0.
+RESULTS: The analysis encompassed 24 randomized controlled trials, incorporating 
+2525 participants and evaluating 9 non-pharmacological interventions. All 
+non-pharmacological interventions reduced anxiety in patients undergoing 
+colonoscopy compared to standard care, with music intervention (SMD = -0.52, 
+95 %CI (-0.84,-0.20)), audiovisual distraction (SMD = -0.54, 
+95 %CI(-0.96,-0.12)), video information (SMD = -1.47, 95 %CI(-2.03,-0.90)), 
+individual education (SMD = -1.72, 95 %CI(-2.76,-0.70)), and electroacupuncture 
+(SMD = -1.12, 95 %CI(-2.10,-0.13)) having statistically significant effects. 
+SUCRA ranking identified the priority of individual education (SUCRA: 92.5 %) 
+and video information (SUCRA: 87.7 %). Meta-regression and sensitivity analysis 
+further demonstrated the stability of the evidence. The certainty of the 
+evidence was mostly rated as medium to low.
+CONCLUSION: This review highlights the superior effects of individual education 
+and video information in reducing anxiety in patients undergoing colonoscopy. 
+The findings of our review could provide clinical decision-makers and healthcare 
+practitioners, such as doctors and nurses, with evidence-based practices for 
+selecting interventions to reduce anxiety in patients undergoing colonoscopy.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpsychores.2025.112065
+PMID: 40043571 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

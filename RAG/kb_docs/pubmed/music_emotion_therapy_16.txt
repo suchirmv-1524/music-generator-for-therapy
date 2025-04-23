@@ -1,0 +1,44 @@
+1. Children (Basel). 2025 Mar 7;12(3):335. doi: 10.3390/children12030335.
+
+Motor-Sensory Learning in Children with Disabilities: Does Piano Practice Help?
+
+Strübbe S(1), Roy S(1), Sidorenko I(1), Lampe R(1)(2).
+
+Author information:
+(1)Research Unit of the Buhl-Strohmaier Foundation for Cerebral Palsy and 
+Pediatric Neuroorthopaedics, Department of Orthopaedics and Sports Orthopaedics, 
+School of Medicine and Health, TUM University Hospital Rechts der Isar, 
+Technical University of Munich, Ismaninger Str. 22, 81675 Munich, Germany.
+(2)Markus Würth Professorship, Technical University of Munich, Ismaninger 
+Strasse 22, 81675 Munich, Germany.
+
+Background/Objectives: Patients with physical disabilities, like cerebral palsy, 
+the most common movement disorder in childhood, can benefit from instrumental 
+therapy using piano. Playing the piano promotes the interaction between 
+different brain regions and integrates motor skills, sensory skills, musical 
+hearing, and emotions. A pilot music study examined the effects of six months of 
+piano lessons on hand motor skills and musical hearing in groups of children 
+with motor disabilities. Methods: The allocation to the group was not 
+randomized. Various tests, including the standardized Box and Block Test (BBT) 
+and piano tests, assessed hand motor skills. Musical hearing was evaluated, and 
+a questionnaire was used to determine the participants' enjoyment and experience 
+with the piano lessons. The regularity, tempo of keystrokes, and synchronization 
+between the two hands were assessed and compared to evaluate the effects of six 
+months of piano training. Results: After six months of piano training, 
+statistically significant improvements were observed in the BBT, as well as in 
+the regularity and tempo of the non-dominant hand. The children showed 
+significant improvement in hand-motor control, moving 27.3% more cubes in the 
+BBT. Regularity and tempo in piano playing, especially in the non-dominant hand, 
+also improved. Moreover, 55% of the children better recognized the correct 
+pitches of notes. Conclusions: Thus, this study supports the concept that piano 
+lessons are an effective form of physical therapy for the development of hand 
+motor skills and musical hearing.
+
+DOI: 10.3390/children12030335
+PMCID: PMC11941049
+PMID: 40150617
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analyses, 
+or interpretation of data; in the writing of the manuscript; or in the decision 
+to publish the results.

@@ -1,0 +1,42 @@
+1. Australas Phys Eng Sci Med. 2019 Nov 27. doi: 10.1007/s13246-019-00825-7.
+Online  ahead of print.
+
+The potential of photoplethysmogram and galvanic skin response in emotion 
+recognition using nonlinear features.
+
+Goshvarpour A(1), Goshvarpour A(2)(3).
+
+Author information:
+(1)Department of Biomedical Engineering, Faculty of Electrical Engineering, 
+Sahand University of Technology, Tabriz, Iran.
+(2)Department of Biomedical Engineering, Imam Reza International University, 
+Mashhad, Razavi Khorasan, Iran. ateke.goshvarpour@gmail.com.
+(3)Imam Reza International University, Rezvan Campus (Female Students), 
+Phalestine Sq., PO. BOX 91735-553, Mashhad, Razavi Khorasan, Iran. 
+ateke.goshvarpour@gmail.com.
+
+Recently, developing an accurate automatic emotion recognition system using a 
+minimum number of bio-signals has become a challenging issue in "affective 
+computing." This study aimed to propose a reliable system by examining nonlinear 
+dynamics of photoplethysmogram (PPG) and galvanic skin response (GSR). To 
+address this goal, two strategies were adopted. First, the efficiency of each 
+signal in valence/arousal based emotion categorization was examined. Then, the 
+proficiency of a hybrid feature, by combining both GSR and PPG features was 
+studied. Lyapunov exponents, lagged Poincare's measures, and approximate entropy 
+were extracted to characterize the irregularity and chaotic behavior of the 
+phase space. To discriminate two levels of arousal and two levels of the 
+valence, a probabilistic neural network (PNN) with different sigma adjustment 
+parameter was examined. The results showed that the phase space geometry and 
+consequently, the signal dynamics are influenced by the emotional music video. 
+Additionally, distinctive patterns of the phase space behavior were observed 
+under the influence of different lags. For both signals, the most irregularity 
+was observed during the high valence, and the least irregularity was seen during 
+the low valence. Consequently, signals' irregularity is affected by the valence 
+dimension. The results showed that the fusion has more potential for emotion 
+recognition than that of using each signal separately. For sigma = 0.1, the 
+highest recognition rate was 100% in a subject-dependent mode. In a 
+subject-independent mode, the maximum accuracies of 88.57 and 86.8% were 
+obtained for arousal and valence dimensions, respectively.
+
+DOI: 10.1007/s13246-019-00825-7
+PMID: 31776972

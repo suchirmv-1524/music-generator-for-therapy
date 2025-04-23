@@ -1,0 +1,46 @@
+1. PLoS One. 2017 Jun 28;12(6):e0179289. doi: 10.1371/journal.pone.0179289. 
+eCollection 2017.
+
+Shared acoustic codes underlie emotional communication in music and 
+speech-Evidence from deep transfer learning.
+
+Coutinho E(1)(2), Schuller B(2).
+
+Author information:
+(1)Department of Music, University of Liverpool, Liverpool, United Kingdom.
+(2)Department of Computing, Imperial College London, London, United Kingdom.
+
+Erratum in
+    PLoS One. 2018 Jan 19;13(1):e0191754. doi: 10.1371/journal.pone.0191754.
+
+Music and speech exhibit striking similarities in the communication of emotions 
+in the acoustic domain, in such a way that the communication of specific 
+emotions is achieved, at least to a certain extent, by means of shared acoustic 
+patterns. From an Affective Sciences points of view, determining the degree of 
+overlap between both domains is fundamental to understand the shared mechanisms 
+underlying such phenomenon. From a Machine learning perspective, the overlap 
+between acoustic codes for emotional expression in music and speech opens new 
+possibilities to enlarge the amount of data available to develop music and 
+speech emotion recognition systems. In this article, we investigate 
+time-continuous predictions of emotion (Arousal and Valence) in music and 
+speech, and the Transfer Learning between these domains. We establish a 
+comparative framework including intra- (i.e., models trained and tested on the 
+same modality, either music or speech) and cross-domain experiments (i.e., 
+models trained in one modality and tested on the other). In the cross-domain 
+context, we evaluated two strategies-the direct transfer between domains, and 
+the contribution of Transfer Learning techniques 
+(feature-representation-transfer based on Denoising Auto Encoders) for reducing 
+the gap in the feature space distributions. Our results demonstrate an excellent 
+cross-domain generalisation performance with and without feature representation 
+transfer in both directions. In the case of music, cross-domain approaches 
+outperformed intra-domain models for Valence estimation, whereas for Speech 
+intra-domain models achieve the best performance. This is the first 
+demonstration of shared acoustic codes for emotional expression in music and 
+speech in the time-continuous domain.
+
+DOI: 10.1371/journal.pone.0179289
+PMCID: PMC5489171
+PMID: 28658285 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

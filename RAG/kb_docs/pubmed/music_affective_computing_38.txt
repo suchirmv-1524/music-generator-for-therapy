@@ -1,0 +1,46 @@
+1. Front Neurosci. 2014 May 1;8:94. doi: 10.3389/fnins.2014.00094. eCollection 
+2014.
+
+Fusion of electroencephalographic dynamics and musical contents for estimating 
+emotional responses in music listening.
+
+Lin YP(1), Yang YH(2), Jung TP(1).
+
+Author information:
+(1)Swartz Center for Computational Neuroscience, Institute for Neural 
+Computation, University of California San Diego, La Jolla, CA, USA ; Center for 
+Advanced Neurological Engineering, Institute of Engineering in Medicine, 
+University of California San Diego, La Jolla, CA, USA.
+(2)Music and Audio Computing Lab, Research Center for IT Innovation Academia 
+Sinica, Taipei, Taiwan.
+
+Electroencephalography (EEG)-based emotion classification during music listening 
+has gained increasing attention nowadays due to its promise of potential 
+applications such as musical affective brain-computer interface (ABCI), 
+neuromarketing, music therapy, and implicit multimedia tagging and triggering. 
+However, music is an ecologically valid and complex stimulus that conveys 
+certain emotions to listeners through compositions of musical elements. Using 
+solely EEG signals to distinguish emotions remained challenging. This study 
+aimed to assess the applicability of a multimodal approach by leveraging the EEG 
+dynamics and acoustic characteristics of musical contents for the classification 
+of emotional valence and arousal. To this end, this study adopted 
+machine-learning methods to systematically elucidate the roles of the EEG and 
+music modalities in the emotion modeling. The empirical results suggested that 
+when whole-head EEG signals were available, the inclusion of musical contents 
+did not improve the classification performance. The obtained performance of 
+74~76% using solely EEG modality was statistically comparable to that using the 
+multimodality approach. However, if EEG dynamics were only available from a 
+small set of electrodes (likely the case in real-life applications), the music 
+modality would play a complementary role and augment the EEG results from around 
+61-67% in valence classification and from around 58-67% in arousal 
+classification. The musical timber appeared to replace less-discriminative EEG 
+features and led to improvements in both valence and arousal classification, 
+whereas musical loudness was contributed specifically to the arousal 
+classification. The present study not only provided principles for constructing 
+an EEG-based multimodal approach, but also revealed the fundamental insights 
+into the interplay of the brain activity and musical contents in emotion 
+modeling.
+
+DOI: 10.3389/fnins.2014.00094
+PMCID: PMC4013455
+PMID: 24822035

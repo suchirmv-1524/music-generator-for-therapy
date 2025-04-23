@@ -1,0 +1,35 @@
+1. Emotion. 2025 Feb;25(1):57-69. doi: 10.1037/emo0001358. Epub 2024 Aug 29.
+
+Judging emotion in natural images of crowds.
+
+Hao S(1), Whitney D(1), Bishop SJ(1).
+
+Author information:
+(1)Department of Psychology, University of California, Berkeley.
+
+It has been suggested that humans use summary statistics such as the average of 
+the emotion of individual faces when they rapidly judge group emotion. Previous 
+studies have mainly used faces of actors posing basic emotions, and morphed 
+versions of these faces, against a plain background. In the present study, 
+photographs taken in real-world settings were used to investigate the influence 
+of mean facial emotion, maximal facial emotion, and background context on 
+judgments of group emotion, assessed using dimensional ratings of valence, 
+arousal, and dominance. Background context explained a significant amount of 
+unique variance in group ratings for each dimension. Mean emotion explained 
+additional unique variance for valence ratings, whereas maximal emotion 
+explained additional unique variance for arousal, with dominance showing more 
+mixed results. Removing background context and disrupting the contextual and 
+spatial relationship between faces by randomly replacing faces with ones from 
+other images within the stimulus set increased reliance on mean emotion. 
+However, under all conditions, the maximally arousing face continued to exert an 
+influence on ratings of group arousal, in line with theoretical accounts arguing 
+for a unique bottom-up effect of emotional arousal on attentional competition 
+and postattentive perceptual processing. Together these findings suggest that 
+individuals' reliance on average emotion when judging crowd scenes differs as a 
+function of the dimension of affect. In addition, the presence of background 
+context both directly impacts judgments of crowd emotion and modulates the 
+relative influence of maximal versus mean emotion on these judgments. (PsycInfo 
+Database Record (c) 2025 APA, all rights reserved).
+
+DOI: 10.1037/emo0001358
+PMID: 39207394 [Indexed for MEDLINE]

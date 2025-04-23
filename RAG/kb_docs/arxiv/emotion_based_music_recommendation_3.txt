@@ -1,0 +1,5 @@
+Title: Video-Music Retrieval:A Dual-Path Cross-Modal Network
+
+Abstract: We propose a method to recommend background music for videos. Current work rarely considers the emotional information of music, which is essential for video music retrieval. To achieve this, we design two paths to process content information and emotional information between modal. Based on characteristics of video and music, we design various feature extraction schemes and common representation spaces. More importantly, we propose a way to combine content information with emotional information. Additionally, we make improvements to the classical metric loss to be more suited to this task. Experiments show that this dual path video music retrieval network can effectively merge information. Compare with existing methods, the retrieval task evaluation index: increasing Recall@1 by 3.94 and Recall@25 by 16.36.
+
+Link: http://arxiv.org/abs/2211.08878v1

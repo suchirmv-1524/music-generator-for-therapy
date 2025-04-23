@@ -1,0 +1,5 @@
+Title: Interpretable Deep Neural Networks for Facial Expression and Dimensional   Emotion Recognition in-the-wild
+
+Abstract: In this project, we created a database with two types of annotations used in the emotion recognition domain : Action Units and Valence Arousal to try to achieve better results than with only one model. The originality of the approach is also based on the type of architecture used to perform the prediction of the emotions : a categorical Generative Adversarial Network. This kind of dual network can generate images based on the pictures from the new dataset thanks to its generative network and decide if an image is fake or real thanks to its discriminative network as well as help to predict the annotations for Action Units and Valence Arousal due to its categorical nature. GANs were trained on the Action Units model only, then the Valence Arousal model only and then on both the Action Units model and Valence Arousal model in order to test different parameters and understand their influence. The generative and discriminative aspects of the GANs have performed interesting results.
+
+Link: http://arxiv.org/abs/1910.05877v2

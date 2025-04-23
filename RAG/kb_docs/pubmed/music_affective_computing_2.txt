@@ -1,0 +1,46 @@
+1. Front Hum Neurosci. 2024 Mar 28;18:1324897. doi: 10.3389/fnhum.2024.1324897. 
+eCollection 2024.
+
+Music emotion recognition based on temporal convolutional attention network 
+using EEG.
+
+Qiao Y(1)(2)(3), Mu J(1)(2)(3), Xie J(1)(2)(3), Hu B(1)(2)(3), Liu G(1)(2)(3).
+
+Author information:
+(1)School of Electronic and Information Engineering, Southwest University, 
+Chongqing, China.
+(2)Institute of Affective Computing and Information Processing, Southwest 
+University, Chongqing, China.
+(3)Chongqing Key Laboratory of Nonlinear Circuits and Intelligent Information 
+Processing, Southwest University, Chongqing, China.
+
+Music is one of the primary ways to evoke human emotions. However, the feeling 
+of music is subjective, making it difficult to determine which emotions music 
+triggers in a given individual. In order to correctly identify emotional 
+problems caused by different types of music, we first created an 
+electroencephalogram (EEG) data set stimulated by four different types of music 
+(fear, happiness, calm, and sadness). Secondly, the differential entropy 
+features of EEG were extracted, and then the emotion recognition model 
+CNN-SA-BiLSTM was established to extract the temporal features of EEG, and the 
+recognition performance of the model was improved by using the global perception 
+ability of the self-attention mechanism. The effectiveness of the model was 
+further verified by the ablation experiment. The classification accuracy of this 
+method in the valence and arousal dimensions is 93.45% and 96.36%, respectively. 
+By applying our method to a publicly available EEG dataset DEAP, we evaluated 
+the generalization and reliability of our method. In addition, we further 
+investigate the effects of different EEG bands and multi-band combinations on 
+music emotion recognition, and the results confirm relevant neuroscience 
+studies. Compared with other representative music emotion recognition works, 
+this method has better classification performance, and provides a promising 
+framework for the future research of emotion recognition system based on brain 
+computer interface.
+
+Copyright © 2024 Qiao, Mu, Xie, Hu and Liu.
+
+DOI: 10.3389/fnhum.2024.1324897
+PMCID: PMC11010638
+PMID: 38617132
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

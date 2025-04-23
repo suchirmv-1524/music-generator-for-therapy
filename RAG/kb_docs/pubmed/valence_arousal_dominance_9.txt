@@ -1,0 +1,40 @@
+1. Sci Rep. 2024 Nov 13;14(1):27766. doi: 10.1038/s41598-024-78156-1.
+
+Music communicates social emotions: Evidence from 750 music excerpts.
+
+Pring EX(1), Olsen KN(2), Mobbs AED(1), Thompson WF(3)(4).
+
+Author information:
+(1)School of Psychological Sciences, Macquarie University, Sydney, Australia.
+(2)Australian Institute of Health Innovation, Macquarie University, Sydney, 
+Australia.
+(3)School of Psychological Sciences, Macquarie University, Sydney, Australia. 
+bthompso@bond.edu.au.
+(4)Faculty of Society and Design, Bond University, Gold Coast, Australia. 
+bthompso@bond.edu.au.
+
+Humans perceive a range of basic emotional connotations from music, such as joy, 
+sadness, and fear, which can be decoded from structural characteristics of 
+music, such as rhythm, harmony, and timbre. However, despite theory and evidence 
+that music has multiple social functions, little research has examined whether 
+music conveys emotions specifically associated with social status and social 
+connection. This investigation aimed to determine whether the social emotions of 
+dominance and affiliation are perceived in music and whether structural features 
+of music predict social emotions, just as they predict basic emotions. 
+Participants (N = 1513) listened to subsets of 750 music excerpts and provided 
+ratings of energy arousal, tension arousal, valence, dominance, and affiliation. 
+Ratings were modelled based on ten structural features of music. Dominance and 
+affiliation were readily perceived in music and predicted by structural features 
+including rhythm, harmony, dynamics, and timbre. In turn, energy arousal, 
+tension arousal and valence were also predicted by musical structure. We discuss 
+the results in view of current models of music and emotion and propose research 
+to illuminate the significance of social emotions in music.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-78156-1
+PMCID: PMC11557968
+PMID: 39532962 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations Competing interests The authors 
+declare no competing interests.

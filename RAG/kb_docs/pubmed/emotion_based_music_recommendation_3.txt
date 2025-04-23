@@ -1,0 +1,65 @@
+1. Phys Life Rev. 2025 Mar;52:80-106. doi: 10.1016/j.plrev.2024.11.017. Epub 2024
+ Dec 5.
+
+The major-minor mode dichotomy in music perception.
+
+Carraturo G(1), Pando-Naude V(2), Costa M(3), Vuust P(2), Bonetti L(4), Brattico 
+E(5).
+
+Author information:
+(1)Center for Music in the Brain, Department of Clinical Medicine, Aarhus 
+University and The Royal Academy of Music, Aarhus/Aalborg, Aarhus, Denmark; 
+Department of Education, Psychology, Communication, University of Bari Aldo 
+Moro, Italy; Department of Psychology, University of Bologna, Italy.
+(2)Center for Music in the Brain, Department of Clinical Medicine, Aarhus 
+University and The Royal Academy of Music, Aarhus/Aalborg, Aarhus, Denmark.
+(3)Department of Psychology, University of Bologna, Italy.
+(4)Center for Music in the Brain, Department of Clinical Medicine, Aarhus 
+University and The Royal Academy of Music, Aarhus/Aalborg, Aarhus, Denmark; 
+Department of Psychology, University of Bologna, Italy; Centre for Eudaimonia 
+and Human Flourishing, Linacre College, University of Oxford, United Kingdom; 
+Department of Psychiatry, University of Oxford, United Kingdom.
+(5)Center for Music in the Brain, Department of Clinical Medicine, Aarhus 
+University and The Royal Academy of Music, Aarhus/Aalborg, Aarhus, Denmark; 
+Department of Education, Psychology, Communication, University of Bari Aldo 
+Moro, Italy. Electronic address: elvira.brattico@clin.au.dk.
+
+In Western tonal music, major and minor modes are recognized as the primary 
+musical features in eliciting emotional responses. The underlying correlates of 
+this dichotomy in music perception have been extensively investigated through 
+decades of psychological and neuroscientific research, yielding plentiful yet 
+often discordant results that highlight the complexity and individual 
+differences in how these modes are perceived. This variability suggests that a 
+deeper understanding of major-minor mode perception in music is still needed. We 
+present the first comprehensive systematic review and meta-analysis, providing 
+both qualitative and quantitative syntheses of major-minor mode perception and 
+its behavioural and neural correlates. The qualitative synthesis includes 70 
+studies, revealing significant diversity in how the major-minor dichotomy has 
+been empirically investigated. Most studies focused on adults, considered 
+participants' expertise, used real-life musical stimuli, conducted behavioural 
+evaluations, and were predominantly performed with Western listeners. 
+Meta-analyses of behavioural, electroencephalography, and neuroimaging data (37 
+studies) consistently show that major and minor modes elicit distinct neural and 
+emotional responses, though these differences are heavily influenced by 
+subjective perception. Based on our findings, we propose a framework to describe 
+a Major-Minor Mode(l) of music perception and its correlates, incorporating 
+individual factors such as age, expertise, cultural background, and emotional 
+disorders. Moreover, this work explores the cultural and historical implications 
+of the major-minor dichotomy in music, examining its origins, universality, and 
+emotional associations across both Western and non-Western contexts. By 
+considering individual differences and acoustic characteristics, we contribute 
+to a broader understanding of how musical frameworks develop across cultures. 
+Limitations, implications, and suggestions for future research are discussed, 
+including potential clinical applications for mood regulation and emotional 
+disorders, alongside recommendations for experimental paradigms in investigating 
+major-minor modes.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.plrev.2024.11.017
+PMID: 39721138 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

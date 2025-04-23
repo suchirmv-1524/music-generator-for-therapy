@@ -1,0 +1,48 @@
+1. Medicine (Baltimore). 2025 Jan 3;104(1):e41224. doi: 
+10.1097/MD.0000000000041224.
+
+The effect of Chinese 5-element music with midnight-noon ebb-flow theory on 
+depression, anxiety, quality of life satisfaction among older adults: A 
+randomized controlled trial.
+
+Li J(1), Beh WF(1), Wang IT(1), Wu Y(2).
+
+Author information:
+(1)Faculty of Creative Arts, Universiti Malaya, Kuala Lumpur, Malaysia.
+(2)Psychiatry Department, Qinhuangdao No. 5 Hospital, Qinhuangdao, Hebei 
+Province, China.
+
+BACKGROUND: The prevalence rates of depression and anxiety are constantly 
+increasing, and the aging population is growing in China. Music-based 
+intervention is a nonpharmacological treatment that is used to treat depression 
+and anxiety and that has very few side effects. The aim of this study was to 
+explore the effect of Chinese 5-element music-based intervention (CFEMBI) based 
+on the midnight-noon ebb-flow theory on depression and anxiety among older 
+adults.
+METHODS: A total of 86 patients were divided into the control and experimental 
+groups. The control group underwent a traditional CFEMBI, and the experimental 
+group underwent a CFEMBI based on the midnight-noon ebb-flow theory. Outcomes 
+were assessed at the 4th week, 8th week, and 12th week during the intervention.
+RESULTS: After the 12th week, there was a significant difference in scores on 
+the Hamilton Depression Rating Scale (HAM-D) between the control and 
+experimental groups (Z = -6.375, P value < 0.001). Additionally, there was a 
+significant difference in the cure rate of depression between the 2 groups at 
+week 12 (P < .001). After the 8th week, there was a significant difference in 
+Hamilton Anxiety Rating Scale (HAM-A) scores between the 2 groups (t = 7.422, P 
+value < 0.001). Furthermore, there was a significant difference in scores on the 
+Quality of Life, Enjoyment, and Satisfaction Questionnaire-Short Form 
+(Q-LES-Q-SF) between the 2 groups (Z = 4.991, P value < 0.001; Z = 3.023, P 
+value < 0.01; Z = 3.023, P value < 0.01).
+CONCLUSIONS: CFEMBI based on the midnight-noon ebb-flow theory is effective at 
+alleviating depression and anxiety in older adults and improving life 
+satisfaction.
+
+Copyright © 2025 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000041224
+PMCID: PMC11709211
+PMID: 40184117 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, or publication of this 
+article.

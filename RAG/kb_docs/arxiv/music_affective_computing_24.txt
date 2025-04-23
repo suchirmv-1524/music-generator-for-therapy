@@ -1,0 +1,5 @@
+Title: A novel CS Beamformer root-MUSIC algorithm and its subspace deviation   analysis
+
+Abstract: Subspace based techniques for direction of arrival (DOA) estimation need large amount of snapshots to detect source directions accurately. This poses a problem in the form of computational burden on practical applications. The introduction of compressive sensing (CS) to solve this issue has become a norm in the last decade. In this paper, a novel CS beamformer root-MUSIC algorithm is presented with a revised optimal measurement matrix bound. With regards to this algorithm, the effect of signal subspace deviation under low snapshot scenario (e.g. target tracking) is analysed. The CS beamformer greatly reduces computational complexity without affecting resolution of the algorithm, works on par with root-MUSIC under low snapshot scenario and also, gives an option of non-uniform linear array sensors unlike the case of root-MUSIC algorithm. The effectiveness of the algorithm is demonstrated with simulations under various scenarios.
+
+Link: http://arxiv.org/abs/1707.08115v2

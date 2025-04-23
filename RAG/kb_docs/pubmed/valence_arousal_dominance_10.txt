@@ -1,0 +1,36 @@
+1. Cogn Emot. 2024 Oct 27:1-15. doi: 10.1080/02699931.2024.2420708. Online ahead
+of  print.
+
+An image-based investigation on color associations among 100 Chinese emotion 
+words.
+
+Dou J(1), Zhang Z(2).
+
+Author information:
+(1)Department of Chinese Language and Literature, School of Humanities, Shanghai 
+Jiao Tong University, Shanghai, People's Republic of China.
+(2)Department of Linguistics and Translation, City University of Hong Kong, Hong 
+Kong, People's Republic of China.
+
+ABSTRACTImage data serves as a valuable resource for investigating relationships 
+between colors and emotions. This study conducts an image-based visual corpus 
+analysis on the color associations of 100 Chinese emotion words, aiming to 
+uncover the pivotal roles of colors in understanding emotional concepts. The 
+study addresses two primary objectives: (i) examining the interrelations among 
+four affective properties (valence, arousal, prototypicality, and emotionality) 
+and four image-based color attributes (Jz: a dimension depicting black-white 
+color distinction, Az: a dimension for green-red, Bz: a dimension for 
+blue-yellow, and color variability) associated with these emotion words; and 
+(ii) assessing the efficacy of image-based color information in profiling 
+affective (dis)similarities among different emotion words. The empirical results 
+reveal (i) significant positive correlations between color variability and 
+arousal, Jz and valence, Az and arousal, Bz and valence, as well as a negative 
+correlation between Jz and prototypicality; (ii) the effectiveness of 
+image-based color information in depicting the valence-dominated affective 
+(dis)similarities among the 100 Chinese emotion words. This study contributes 
+image-based empirical support to complement existing research on color-emotion 
+mappings. Moreover, it advances methodological approaches by advocating for the 
+utilisation of image data to address theoretical inquiries in cognitive science.
+
+DOI: 10.1080/02699931.2024.2420708
+PMID: 39462760

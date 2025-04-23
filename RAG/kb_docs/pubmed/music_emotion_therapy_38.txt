@@ -1,0 +1,67 @@
+1. J Affect Disord. 2025 Jun 1;378:271-280. doi: 10.1016/j.jad.2025.03.011. Epub 
+2025 Mar 4.
+
+Sharper minds: Feasibility and effectiveness of a mental health promotion 
+package for university students targeting multiple health and self-care 
+behaviours.
+
+Dingle GA(1), Han R(2), Huang K(3), Alhadad SSJ(4), Beckman E(3), Bentley SV(5), 
+Edmed S(6), Gomersall SR(7), Hides L(2), Lorimer N(8), Maccallum F(2), McKimmie 
+BM(2), Ng N(3), Rossa K(6), Smith SS(6), Walter ZC(2), Williams E(2), Wright 
+ORL(3), Tanksale R(2).
+
+Author information:
+(1)School of Psychology, The University of Queensland, Brisbane, Australia. 
+Electronic address: dingle@psy.uq.edu.au.
+(2)School of Psychology, The University of Queensland, Brisbane, Australia.
+(3)School of Human Movement and Nutrition Sciences, The University of 
+Queensland, Brisbane, Australia.
+(4)School of Education and Professional Studies, Griffith University, Brisbane, 
+Australia.
+(5)School of Psychology, The University of Queensland, Brisbane, Australia; 
+Commonwealth Scientific and Industrial Research Organisation (CSIRO), Brisbane, 
+Australia.
+(6)Child Health Research Centre, The University of Queensland, Brisbane, 
+Australia; ARC Centre of Excellence for Children and Families over the Life 
+Course, The University of Queensland, Brisbane, Australia.
+(7)Health and Wellbeing Centre for Research Innovation, School of Human Movement 
+and Nutrition Sciences, The University of Queensland, Brisbane, Australia; 
+School of Health and Rehabilitation Sciences, The University of Queensland, 
+Brisbane, Australia.
+(8)School of Psychology, The University of Queensland, Brisbane, Australia; ARC 
+Centre of Excellence for Children and Families over the Life Course, The 
+University of Queensland, Brisbane, Australia.
+
+OBJECTIVE: This study assessed the feasibility and effectiveness of the Sharper 
+Minds package, a mental health intervention designed for university students, 
+co-developed with student input. The program included a weekly self-monitoring 
+e-tool and/or a short course targeting six self-care areas: physical activity, 
+diet, sleep, music to aid study, mood regulation, and social connection.
+METHOD: A non-randomised controlled trial involved 433 undergraduate students in 
+three conditions: control, one-intervention (either e-tool or course), and 
+two-intervention (both e-tool and course). Data were collected at baseline and 
+after six weeks. Feasibility was measured by reach, retention, and 
+acceptability, while primary outcomes focused on mental health indicators such 
+as depression and anxiety, and secondary outcomes were somatic symptoms, 
+wellbeing and academic motivation.
+RESULTS: Results indicated good retention (72 %) and positive feedback on 
+acceptability. Students receiving both interventions (two-intervention 
+condition) showed a 17.6 % reduction in the proportion screening positive for 
+mental health issues, a change not seen in other conditions. A MANCOVA analysis 
+identified a significant interaction between condition and time across combined 
+outcomes (depression, anxiety, somatic symptoms, wellbeing, and motivation), 
+with a small effect size.
+CONCLUSIONS: This is the first mental health promotion package for Australian 
+university students addressing multiple health and self-care behaviours. 
+Findings indicate students found the package components acceptable and 
+experienced positive effects on mental health.
+ANZ CLINICAL TRIAL REGISTRATION: Retrospectively registered 1/09/2023, 
+https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=386141&isReview=true.
+
+Copyright © 2025. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jad.2025.03.011
+PMID: 40049528 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+report there are no competing interests to declare.

@@ -1,0 +1,56 @@
+1. BMC Complement Med Ther. 2025 Feb 26;25(1):77. doi:
+10.1186/s12906-025-04824-y.
+
+Psychophysiological effects of music on sadness in participants with and without 
+depressive symptoms.
+
+Wang X(1), Lu T(2), Zhou B(1), Chen W(1), Zheng J(2), Chen H(2), Chen S(3).
+
+Author information:
+(1)Department of Psychological and Behavioral Sciences, Zhejiang University, No 
+866 Yuhangtang Rd, Hangzhou, 310058, China.
+(2)College of Biomedical Engineering and Instrument Science, Zhejiang 
+University, Hangzhou, China.
+(3)Department of Psychological and Behavioral Sciences, Zhejiang University, No 
+866 Yuhangtang Rd, Hangzhou, 310058, China. chenshulin@zju.edu.cn.
+
+BACKGROUND: Sadness can be a harbinger of serious medical conditions and a 
+primary manifestation of depressive symptoms. Music is a promising modality for 
+regulating sadness, although its effect on participants, whether with or without 
+long-term depressive symptoms, remains unknown. In this study, the effect of 
+music on sadness regulation was investigated using psychological and 
+physiological indicators between depressed and non-depressed individuals.
+METHODS: Data were collected from 149 participants (18 to 29 years old). The 
+participants were divided into two groups (depressed and non-depressed groups) 
+based on their depressive symptoms, experienced sadness induction, and music 
+intervention. Electrocardiogram signals were collected to measure heart rate 
+variability (HRV).
+RESULTS: (1) Music alleviated sadness (increasing positive emotions, valence and 
+dominance, while decreasing arousal); (2) sadness increased the duration between 
+consecutive heartbeats, and music decreased this duration; (3) participants with 
+depressive symptoms showed lower HRV than those without, and music enhanced HRV 
+for the depressed group; (4) no significant difference in the effects of music 
+was found between the two groups; and (5) the regulatory impact of music on 
+sadness was not influenced by prior music listening habits.
+CONCLUSIONS: The findings indicate that listening to music can be beneficial for 
+both healthy and subclinical individuals when managing sadness. The findings 
+underscore the importance of recognizing the role of music in promoting 
+emotional well-being.
+TRIAL REGISTRATION: This trial was retrospectively registered on 
+ClinicalTrials.gov PRS (Protocol Registration and Results System) (number 
+NCT06516666) on July 22, 2024 ( https://register.
+CLINICALTRIALS: gov/ ).
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12906-025-04824-y
+PMCID: PMC11863932
+PMID: 40011873 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study followed the Declaration of Helsinki and was approved by 
+the Institutional Review Board (IRB) of the Department of Psychology and 
+Behavioral Science, Zhejiang University (IRB approval code: [2023]034). Informed 
+consent was obtained from all individual participants included in the study. 
+Consent for publication: Not Applicable. Competing interests: The authors 
+declare no competing interests.

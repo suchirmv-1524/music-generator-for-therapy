@@ -1,0 +1,5 @@
+Title: Frechet Music Distance: A Metric For Generative Symbolic Music   Evaluation
+
+Abstract: In this paper we introduce the Frechet Music Distance (FMD), a novel evaluation metric for generative symbolic music models, inspired by the Frechet Inception Distance (FID) in computer vision and Frechet Audio Distance (FAD) in generative audio. FMD calculates the distance between distributions of reference and generated symbolic music embeddings, capturing abstract musical features. We validate FMD across several datasets and models. Results indicate that FMD effectively differentiates model quality, providing a domain-specific metric for evaluating symbolic music generation, and establishing a reproducible standard for future research in symbolic music modeling.
+
+Link: http://arxiv.org/abs/2412.07948v2

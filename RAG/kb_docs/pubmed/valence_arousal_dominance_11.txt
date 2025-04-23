@@ -1,0 +1,46 @@
+1. Front Psychol. 2024 Aug 21;15:1344350. doi: 10.3389/fpsyg.2024.1344350. 
+eCollection 2024.
+
+The relative importance of affect variability and mean levels of affect in 
+predicting complex task performance.
+
+North MN(1), Huck JT(2), Day EA(1), Jorgensen AG(3), Richels KA(4).
+
+Author information:
+(1)Department of Psychology, University of Oklahoma, Norman, OK, United States.
+(2)Institutional Analytics & Research, Western Governors University, Salt Lake 
+City, UT, United States.
+(3)Human Resources Research Organization (HumRRO), Alexandria, VA, United 
+States.
+(4)Colarelli, Meyer & Associates, Denver, CO, United States.
+
+Although research indicates affect variability-the extent to which an 
+individual's emotions fluctuate-is associated with behavioral outcomes related 
+to adjustment and adaptability, it is unclear to what extent findings make 
+important contributions to the literature when past research has failed to 
+account for the role of mean levels of emotion. Accordingly, we conducted a 
+repeated-measures laboratory study of college students (N = 253) learning to 
+perform a complex computer task to examine the relative importance of affect 
+variability indices (i.e., spin, pulse, and flux) compared to mean levels in 
+explaining variance in off-task attention and task performance before and after 
+changes in task demands (i.e., skill acquisition and adaptation). In doing so, 
+we also disentangled valence and arousal (i.e., activating versus deactivating) 
+aspects of emotion. Relative importance analyses showed mean levels of emotion 
+were the most dominant predictors (i.e., explained the most variance)-negative 
+deactivating emotions for off-task attention and positive activating emotions 
+for performance. However, flux in negative activating and negative deactivating 
+emotions also explained enough variance to be considered important, suggesting 
+that flux has been overlooked in empirical research. Our findings also highlight 
+that future research must account for mean levels when examining relationships 
+between affect variability and outcomes of interest.
+
+Copyright © 2024 North, Huck, Day, Jorgensen and Richels.
+
+DOI: 10.3389/fpsyg.2024.1344350
+PMCID: PMC11372583
+PMID: 39233881
+
+Conflict of interest statement: KR is employed by Colarelli, Meyer & Associates. 
+The remaining authors declare that the research was conducted in the absence of 
+any commercial or financial relationships that could be construed as a potential 
+conflict of interest.

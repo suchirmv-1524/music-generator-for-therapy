@@ -1,0 +1,30 @@
+1. Sensors (Basel). 2023 Jul 29;23(15):6789. doi: 10.3390/s23156789.
+
+Comparing Synchronicity in Body Movement among Jazz Musicians with Their 
+Emotions.
+
+Bhave A(1), van Delden J(1), Gloor PA(1), Renold FK(2).
+
+Author information:
+(1)MIT Center for Collective Intelligence, Cambridge, MA 02142, USA.
+(2)Shanti Music Productions Renold & Co., 5012 Schönenwerd, Switzerland.
+
+This paper presents novel preliminary research that investigates the 
+relationship between the flow of a group of jazz musicians, quantified through 
+multi-person pose synchronization, and their collective emotions. We have 
+developed a real-time software to calculate the physical synchronicity of team 
+members by tracking the difference in arm, leg, and head movements using 
+Lightweight OpenPose. We employ facial expression recognition to evaluate the 
+musicians' collective emotions. Through correlation and regression analysis, we 
+establish that higher levels of synchronized body and head movements correspond 
+to lower levels of disgust, anger, sadness, and higher levels of joy among the 
+musicians. Furthermore, we utilize 1-D CNNs to predict the collective emotions 
+of the musicians. The model leverages 17 body synchrony keypoint vectors as 
+features, resulting in a training accuracy of 61.47% and a test accuracy of 
+66.17%.
+
+DOI: 10.3390/s23156789
+PMCID: PMC10422624
+PMID: 37571571 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

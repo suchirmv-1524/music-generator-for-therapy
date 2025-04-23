@@ -1,0 +1,47 @@
+1. A A Pract. 2025 Feb 28;19(3):e01931. doi: 10.1213/XAA.0000000000001931. 
+eCollection 2025 Mar 1.
+
+The 95% Effective Duration of Music for Anxiolysis Before Elective Cesarean 
+Delivery.
+
+Fong TM(1), Drzymalski DM(1)(2).
+
+Author information:
+(1)From the Tufts University School of Medicine, Boston, Massachusetts.
+(2)Department of Anesthesiology, Tufts Medical Center, Boston, Massachusetts.
+
+BACKGROUND: Music can be used in the perioperative period as a 
+nonpharmacological intervention to reduce anxiety, but how long it should be 
+played to be effective is unknown. The goal of this study was to determine the 
+95% effective duration (ED95) of music of different subtypes for anxiolysis in 
+parturients awaiting elective cesarean delivery. It was hypothesized that the 
+overall ED95 would be <15 minutes and similar between music groups.
+METHODS: A prospective, randomized, biased coin study was conducted at a major 
+academic institution. Consented parturients undergoing elective cesarean 
+delivery were randomly assigned to one of 2 music groups: preselected Mozart 
+sonatas or patient preference. Music duration began at 4 minutes and was 
+subsequently increased, decreased, or kept the same based on the previous 
+subject's response. Anxiety on a verbal scale of 0 to 10 and vital signs were 
+compared pre-and postmusic. Successful intervention was defined as a decrease in 
+anxiety by at least 1 point. Primary ED95 estimates with centered isotonic 
+regressions (CIRs) were compared utilizing 83% confidence intervals (CI), while 
+turning-point and simple means were compared with Student's t tests for 
+sensitivity analysis.
+RESULTS: A total of 57 pregnant women were approached and 40 agreed to 
+participate. The mean age was 33 (standard deviation [SD] 5.1). Primary ED95 
+estimates by CIR were 6.8 (83% CI, 5.9-8.4) minutes and 6.7 (83% CI, 5.9-8.3) 
+minutes for Mozart and personal preference music, respectively. Mean ED95 by CIR 
+for any music type was 6.8 minutes. Mean immediate postintervention anxiety 
+reduction with Mozart music was 1.7 (SD 1.4) and personal preference was 2.6 (SD 
+2.0). There were no significant changes in heart rate or blood pressure 
+immediately after music.
+CONCLUSIONS: Playing music for <7 minutes is a versatile, effective, and 
+low-risk method for anxiolysis in women awaiting elective cesarean delivery.
+
+Copyright © 2025 International Anesthesia Research Society.
+
+DOI: 10.1213/XAA.0000000000001931
+PMCID: PMC11875458
+PMID: 40019185 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

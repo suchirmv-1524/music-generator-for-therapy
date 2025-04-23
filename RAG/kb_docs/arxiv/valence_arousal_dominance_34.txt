@@ -1,0 +1,5 @@
+Title: An Ensemble Approach for Facial Expression Analysis in Video
+
+Abstract: Human emotions recognization contributes to the development of human-computer interaction. The machines understanding human emotions in the real world will significantly contribute to life in the future. This paper will introduce the Affective Behavior Analysis in-the-wild (ABAW3) 2022 challenge. The paper focuses on solving the problem of the valence-arousal estimation and action unit detection. For valence-arousal estimation, we conducted two stages: creating new features from multimodel and temporal learning to predict valence-arousal. First, we make new features; the Gated Recurrent Unit (GRU) and Transformer are combined using a Regular Networks (RegNet) feature, which is extracted from the image. The next step is the GRU combined with Local Attention to predict valence-arousal. The Concordance Correlation Coefficient (CCC) was used to evaluate the model.
+
+Link: http://arxiv.org/abs/2203.12891v1

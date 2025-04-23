@@ -1,0 +1,41 @@
+1. Multimed Tools Appl. 2023 Mar 22:1-13. doi: 10.1007/s11042-023-15008-6. Online
+ ahead of print.
+
+Analysis of facial emotion expression in eating occasions using deep learning.
+
+Yildirim E(1), Akbulut FP(1), Catal C(2).
+
+Author information:
+(1)Department of Computer Engineering, Istanbul Kültür University, Istanbul, 
+Turkey.
+(2)Department of Computer Science and Engineering, Qatar University, Doha, 
+Qatar.
+
+Eating is experienced as an emotional social activity in any culture. There are 
+factors that influence the emotions felt during food consumption. The emotion 
+felt while eating has a significant impact on our lives and affects different 
+health conditions such as obesity. In addition, investigating the emotion during 
+food consumption is considered a multidisciplinary problem ranging from 
+neuroscience to anatomy. In this study, we focus on evaluating the emotional 
+experience of different participants during eating activities and aim to analyze 
+them automatically using deep learning models. We propose a facial 
+expression-based prediction model to eliminate user bias in questionnaire-based 
+assessment systems and to minimize false entries to the system. We measured the 
+neural, behavioral, and physical manifestations of emotions with a mobile app 
+and recognize emotional experiences from facial expressions. In this research, 
+we used three different situations to test whether there could be any factor 
+other than the food that could affect a person's mood. We asked users to watch 
+videos, listen to music or do nothing while eating. This way we found out that 
+not only food but also external factors play a role in emotional change. We 
+employed three Convolutional Neural Network (CNN) architectures, fine-tuned 
+VGG16, and Deepface to recognize emotional responses during eating. The 
+experimental results demonstrated that the fine-tuned VGG16 provides remarkable 
+results with an overall accuracy of 77.68% for recognizing the four emotions. 
+This system is an alternative to today's survey-based restaurant and food 
+evaluation systems.
+
+© The Author(s) 2023.
+
+DOI: 10.1007/s11042-023-15008-6
+PMCID: PMC10031178
+PMID: 37362640

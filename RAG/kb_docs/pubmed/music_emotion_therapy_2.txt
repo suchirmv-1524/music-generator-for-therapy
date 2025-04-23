@@ -1,0 +1,45 @@
+1. Depress Anxiety. 2024 Jul 18;2024:5556702. doi: 10.1155/2024/5556702. 
+eCollection 2024.
+
+Effects of Binaural Beat Music Integrated with Rhythmical Photic Stimulation on 
+Anxiety Reduction among Healthy Daycare Center Staff.
+
+Liu C(1), Yang SY(2), Wang JY(2)(3).
+
+Author information:
+(1)Department of Physical Education, Huazhong University of Science and 
+Technology, Wuhan 430074, China.
+(2)Department of Healthcare Administration, College of Medical and Health 
+Science, Asia University, Taichung 41354, Taiwan.
+(3)Department of Medical Research, China Medical University Hospital, China 
+Medical University, Taichung 404, Taiwan.
+
+This study investigated the efficacy of combining binaural beat music (BBM) with 
+rhythmical photic stimulation at the α frequency in alleviating anxiety among 
+daycare staff and explored its impacts on daycare staff with different anxiety 
+levels. A quasi-experimental research design was adopted, which included three 
+interventions: BBM, BBM integrated with rhythmical photic stimulation, and 
+relaxation music (control group). Participants completed a questionnaire prior 
+to the first intervention, which included personal demographic information and 
+the Beck Anxiety Inventory. The effects of these interventions on anxiety relief 
+among daycare staff were evaluated through heart rate variability (HRV), brain 
+waves, and blood pressure before and after the interventions. Statistical 
+analysis primarily employed the Friedman test to analyze the differences in 
+changes in HRV, brain waves, and blood pressure before and after the 
+interventions. A total of 40 individuals participated in this study (16 males 
+and 24 females), with an average age of 31.73 ± 8.83 years. The results showed 
+that, compared to BBM alone, BBM integrated with rhythmical photic stimulation 
+significantly reduced the normalized low/high frequency (nLF/nHF) ratio in 
+participants with moderate anxiety (p < 0.05). The results suggest that BBM 
+integrated with rhythmical photic stimulation may serve as an intervention for 
+the prevention and relief of anxiety by regulating an individual's autonomic 
+nervous system. However, further research is required to confirm these findings.
+
+Copyright © 2024 Cheng Liu et al.
+
+DOI: 10.1155/2024/5556702
+PMCID: PMC11918958
+PMID: 40226741 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

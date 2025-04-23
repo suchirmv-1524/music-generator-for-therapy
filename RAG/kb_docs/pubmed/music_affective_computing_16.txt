@@ -1,0 +1,56 @@
+1. Front Neurosci. 2021 Jul 14;15:689791. doi: 10.3389/fnins.2021.689791. 
+eCollection 2021.
+
+Dual-Threshold-Based Microstate Analysis on Characterizing Temporal Dynamics of 
+Affective Process and Emotion Recognition From EEG Signals.
+
+Chen J(1), Li H(1), Ma L(1), Bo H(2), Soong F(3), Shi Y(4).
+
+Author information:
+(1)School of Computer Science and Technology, Faculty of Computing, Harbin 
+Institute of Technology, Harbin, China.
+(2)Shenzhen Academy of Aerospace Technology, Shenzhen, China.
+(3)Speech Group, Microsoft Research Asia, Beijing, China.
+(4)Heilongjiang Provincial Hospital, Harbin, China.
+
+Recently, emotion classification from electroencephalogram (EEG) data has 
+attracted much attention. As EEG is an unsteady and rapidly changing voltage 
+signal, the features extracted from EEG usually change dramatically, whereas 
+emotion states change gradually. Most existing feature extraction approaches do 
+not consider these differences between EEG and emotion. Microstate analysis 
+could capture important spatio-temporal properties of EEG signals. At the same 
+time, it could reduce the fast-changing EEG signals to a sequence of 
+prototypical topographical maps. While microstate analysis has been widely used 
+to study brain function, few studies have used this method to analyze how brain 
+responds to emotional auditory stimuli. In this study, the authors proposed a 
+novel feature extraction method based on EEG microstates for emotion 
+recognition. Determining the optimal number of microstates automatically is a 
+challenge for applying microstate analysis to emotion. This research proposed 
+dual-threshold-based atomize and agglomerate hierarchical clustering (DTAAHC) to 
+determine the optimal number of microstate classes automatically. By using the 
+proposed method to model the temporal dynamics of auditory emotion process, we 
+extracted microstate characteristics as novel temporospatial features to improve 
+the performance of emotion recognition from EEG signals. We evaluated the 
+proposed method on two datasets. For public music-evoked EEG Dataset for Emotion 
+Analysis using Physiological signals, the microstate analysis identified 10 
+microstates which together explained around 86% of the data in global field 
+power peaks. The accuracy of emotion recognition achieved 75.8% in valence and 
+77.1% in arousal using microstate sequence characteristics as features. Compared 
+to previous studies, the proposed method outperformed the current feature sets. 
+For the speech-evoked EEG dataset, the microstate analysis identified nine 
+microstates which together explained around 85% of the data. The accuracy of 
+emotion recognition achieved 74.2% in valence and 72.3% in arousal using 
+microstate sequence characteristics as features. The experimental results 
+indicated that microstate characteristics can effectively improve the 
+performance of emotion recognition from EEG signals.
+
+Copyright © 2021 Chen, Li, Ma, Bo, Soong and Shi.
+
+DOI: 10.3389/fnins.2021.689791
+PMCID: PMC8318040
+PMID: 34335165
+
+Conflict of interest statement: FS was employed by company Microsoft Research 
+Asia. The remaining authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could be construed as 
+a potential conflict of interest.

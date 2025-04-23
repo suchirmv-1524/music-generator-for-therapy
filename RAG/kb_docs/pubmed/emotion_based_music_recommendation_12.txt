@@ -1,0 +1,71 @@
+1. Sci Rep. 2024 Jul 17;14(1):16532. doi: 10.1038/s41598-024-66836-x.
+
+Effect of music therapy on anxiety and depression in breast cancer patients: 
+systematic review and meta-analysis.
+
+Xu Z(1), Liu C(1), Fan W(2), Li S(1), Li Y(3).
+
+Author information:
+(1)School of Physical Education, Shanghai University of Sport, Shanghai, China.
+(2)School of Music, University of Leeds, Leeds, UK.
+(3)School of Physical Education, Shanghai University of Sport, Shanghai, China. 
+yuzhang07@126.com.
+
+To systematically evaluate the intervention effect of music therapy on anxiety 
+and depression in breast cancer patients. Randomised controlled trial (RCT) on 
+music therapy for anxiety and depression in breast cancer patients was searched 
+from 7 major databases, PubMed, Embase, the Cochrane Library, WOS, CNIC, 
+Wanfang, and Wipro, spanning the period of library construction to 23 October 
+2023, and the literature screening of music therapy for anxiety or depression in 
+breast cancer patients was carried out by 2 experimentalists, each of whom 
+conducted a literature screening RCT independently of the other anxiety or 
+depression in a RCT. Methodological quality was evaluated using the PEDro scale; 
+GRADE profiler software for quality of evidence; and RevMan 5.4 was used for 
+effect size merging and forest plots; publication bias tests and sensitivity 
+analyses were performed using Stata 17.0; and standardized mean difference (SMD) 
+and 95% CI were used as the effect statistics. A total of 13 RCTs with 1326 
+subjects (aged 18-70 years) were included in the literature, with a mean PEDro 
+score of 6.8, and the literature was overall of good methodological quality. 
+Meta-analysis showed that music therapy improved anxiety in breast cancer 
+patients (841 cases), with a combined effect size (SMD = - 0.82, 95% CI [- 1.03, 
+- 0.61] and P < 0.001); and improved depression in breast cancer patients (387 
+cases) with a combined effect size (SMD = - 0.76, 95% CI [- 1.15, - 0.38], 
+P < 0.001). Subgroup analyses showed that music intervention with off-site music 
+(757 cases) and music choice of non-self-selected music (537 cases) had the best 
+effect on anxiety improvement, with corresponding combined effect sizes 
+(SMD = - 0.88, P < 0.001; SMD = - 0.83, P < 0.001), respectively; followed by an 
+intervention length of < 30 min (589 cases), a frequency of 2 times/day (382 
+cases), and intervention period of 2-3 weeks (101 cases) had the best effect on 
+anxiety improvement, and the corresponding combined effect sizes were 
+(SMD = - 0.80, P < 0.001; SMD = - 0.91, P < 0.001; SMD = - 1.02, P < 0.001), 
+respectively; and the music selection was the choice of one's own favourite 
+music among the expert recommendations (219 cases) (270 cases) had the best 
+effect on the improvement of depressed mood, with combined effect sizes of 
+(SMD = - 1.15, P < 0.001; SMD = - 0.71, P < 0.001) and music with an 
+intervention duration of 30 min (287 cases), an intervention frequency of 1 
+time/day (348 cases), and an intervention period of 2-4 weeks (120 cases), 
+respectively, with corresponding combined effect sizes of (SMD = - 0.75, 
+P < 0.001; SMD = - 0.86, P < 0.001; SMD = - 1.06, P < 0.001), respectively. 
+Music therapy can improve anxiety and depression in breast cancer patients, and 
+the level of evidence is moderate. Although the heterogeneity between studies is 
+high, which may lead to bias in the results, we explored the source of 
+heterogeneity through subgroup and sensitivity analyses, providing a good 
+evidence-based basis for clinical practice. The heterogeneity of anxiety and 
+depression was explored by subgroup analysis, with anxiety due to music duration 
+and music cycle; and depression due to intervention cycles and music duration. 
+Sensitivity analyses also identified music duration and music cycle as 
+contributing to the heterogeneity. Also, this study has some limitations since 
+the included literature did not take into account the duration of the disease, 
+education, and family economic status and did not categorize the age stages. 
+This study found that music therapy improves anxiety and depression in breast 
+cancer patients and the results can be used as a basis for clinical practice and 
+researcher enquiry. This research has been registered on the INPLASY platform ( 
+https://inplasy.com/contact/ ) under the number: INPLASY2023100057.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-66836-x
+PMCID: PMC11255342
+PMID: 39019965 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

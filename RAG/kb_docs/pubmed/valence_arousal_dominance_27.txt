@@ -1,0 +1,53 @@
+1. Front Hum Neurosci. 2024 Mar 13;18:1319574. doi: 10.3389/fnhum.2024.1319574. 
+eCollection 2024.
+
+Real-time EEG-based emotion recognition for neurohumanities: perspectives from 
+principal component analysis and tree-based algorithms.
+
+Blanco-Ríos MA(#)(1), Candela-Leal MO(#)(1)(2), Orozco-Romo C(1), Remis-Serna 
+P(1), Vélez-Saboyá CS(3), Lozoya-Santos JJ(1), Cebral-Loureda M(3), 
+Ramírez-Moreno MA(1).
+
+Author information:
+(1)School of Engineering and Sciences, Mechatronics Department, Tecnológico de 
+Monterrey, Monterrey, Mexico.
+(2)Fetal-Neonatal Neuroimaging and Developmental Science Center, Boston 
+Children's Hospital, Harvard Medical School, Boston, MA, United States.
+(3)School of Humanities and Education, Department of Humanistic Studies, 
+Tecnólogico de Monterrey, Monterrey, Mexico.
+(#)Contributed equally
+
+Within the field of Humanities, there is a recognized need for educational 
+innovation, as there are currently no reported tools available that enable 
+individuals to interact with their environment to create an enhanced learning 
+experience in the humanities (e.g., immersive spaces). This project proposes a 
+solution to address this gap by integrating technology and promoting the 
+development of teaching methodologies in the humanities, specifically by 
+incorporating emotional monitoring during the learning process of humanistic 
+context inside an immersive space. In order to achieve this goal, a real-time 
+emotion recognition EEG-based system was developed to interpret and classify 
+specific emotions. These emotions aligned with the early proposal by Descartes 
+(Passions), including admiration, love, hate, desire, joy, and sadness. This 
+system aims to integrate emotional data into the Neurohumanities Lab interactive 
+platform, creating a comprehensive and immersive learning environment. This work 
+developed a ML, real-time emotion recognition model that provided Valence, 
+Arousal, and Dominance (VAD) estimations every 5 seconds. Using PCA, PSD, RF, 
+and Extra-Trees, the best 8 channels and their respective best band powers were 
+extracted; furthermore, multiple models were evaluated using shift-based data 
+division and cross-validations. After assessing their performance, Extra-Trees 
+achieved a general accuracy of 94%, higher than the reported in the literature 
+(88% accuracy). The proposed model provided real-time predictions of VAD 
+variables and was adapted to classify Descartes' six main passions. However, 
+with the VAD values obtained, more than 15 emotions can be classified (reported 
+in the VAD emotion mapping) and extend the range of this application.
+
+Copyright © 2024 Blanco-Ríos, Candela-Leal, Orozco-Romo, Remis-Serna, 
+Vélez-Saboyá, Lozoya-Santos, Cebral-Loureda and Ramírez-Moreno.
+
+DOI: 10.3389/fnhum.2024.1319574
+PMCID: PMC10965560
+PMID: 38545515
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

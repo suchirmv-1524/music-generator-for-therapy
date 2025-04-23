@@ -1,0 +1,37 @@
+1. IEEE Trans Affect Comput. 2015 Oct-Dec;6(4):361-370. doi: 
+10.1109/TAFFC.2015.2422702. Epub 2015 Apr 13.
+
+Head Movement Dynamics During Play and Perturbed Mother-Infant Interaction.
+
+Hammal Z(1), Cohn JF(2), Messinger DS(3).
+
+Author information:
+(1)The Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA.
+(2)the Robotics Institute, Carnegie Mellon University and the Department of 
+Psychology, University of Pittsburgh, Pittsburgh, PA, USA.
+(3)the Department of Psychology at the University of Miami with secondary 
+appointment in Pediatrics, Electrical and Computer Engineering, and Music 
+Engineering, University of Miami, FL, USA.
+
+We investigated the dynamics of head movement in mothers and infants during an 
+age-appropriate, well-validated emotion induction, the Still Face paradigm. In 
+this paradigm, mothers and infants play normally for 2 minutes (Play) followed 
+by 2 minutes in which the mothers remain unresponsive (Still Face), and then two 
+minutes in which they resume normal behavior (Reunion). Participants were 42 
+ethnically diverse 4-month-old infants and their mothers. Mother and infant 
+angular displacement and angular velocity were measured using the CSIRO head 
+tracker. In male but not female infants, angular displacement increased from 
+Play to Still-Face and decreased from Still Face to Reunion. Infant angular 
+velocity was higher during Still-Face than Reunion with no differences between 
+male and female infants. Windowed cross-correlation suggested changes in how 
+infant and mother head movements are associated, revealing dramatic changes in 
+direction of association. Coordination between mother and infant head movement 
+velocity was greater during Play compared with Reunion. Together, these findings 
+suggest that angular displacement, angular velocity and their coordination 
+between mothers and infants are strongly related to age-appropriate emotion 
+challenge. Attention to head movement can deepen our understanding of emotion 
+communication.
+
+DOI: 10.1109/TAFFC.2015.2422702
+PMCID: PMC4666546
+PMID: 26640622

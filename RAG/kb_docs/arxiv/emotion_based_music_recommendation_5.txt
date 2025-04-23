@@ -1,0 +1,5 @@
+Title: Psychologically-Inspired Music Recommendation System
+
+Abstract: In the last few years, automated recommendation systems have been a major focus in the music field, where companies such as Spotify, Amazon, and Apple are competing in the ability to generate the most personalized music suggestions for their users. One of the challenges developers still fail to tackle is taking into account the psychological and emotional aspects of the music. Our goal is to find a way to integrate users' personal traits and their current emotional state into a single music recommendation system with both collaborative and content-based filtering. We seek to relate the personality and the current emotional state of the listener to the audio features in order to build an emotion-aware MRS. We compare the results both quantitatively and qualitatively to the output of the traditional MRS based on the Spotify API data to understand if our advancements make a significant impact on the quality of music recommendations.
+
+Link: http://arxiv.org/abs/2205.03459v1

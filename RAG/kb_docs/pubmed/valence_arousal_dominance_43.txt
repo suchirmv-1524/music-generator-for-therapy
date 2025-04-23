@@ -1,0 +1,33 @@
+1. Sci Rep. 2023 Sep 11;13(1):14997. doi: 10.1038/s41598-023-41573-9.
+
+Unveiling the dynamics of emotions in society through an analysis of online 
+social network conversations.
+
+Sener B(1), Akpinar E(2), Ataman MB(3).
+
+Author information:
+(1)McGill University, Montreal, Quebec, Canada. begum.senersengul@mcgill.ca.
+(2)Sabancı University, Istanbul, Turkey.
+(3)Özyeğin University, Istanbul, Turkey.
+
+Social networks can provide insights into the emotions expressed by a society. 
+However, the dynamic nature of emotions presents a significant challenge for 
+policymakers, politicians, and communication professionals who seek to 
+understand and respond to changes in emotions over time. To address this 
+challenge, this paper investigates the frequency, duration, and transition of 24 
+distinct emotions over a 2-year period, analyzing more than 5 million tweets. 
+The study shows that emotions with lower valence but higher dominance and/or 
+arousal are more prevalent in online social networks. Emotions with higher 
+valence and arousal tend to last longer, while dominant emotions tend to have 
+shorter durations. Emotions occupying the conversations predominantly inhibit 
+others with similar valence and dominance, and higher arousal. Over a month, 
+emotions with similar valences tend to prevail in online social network 
+conversations.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-41573-9
+PMCID: PMC10495421
+PMID: 37696868 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

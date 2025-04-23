@@ -1,0 +1,33 @@
+1. Comput Methods Biomech Biomed Engin. 2024 Jun 26:1-24. doi: 
+10.1080/10255842.2024.2369257. Online ahead of print.
+
+An improved empirical mode decomposition method with ensemble classifiers for 
+analysis of multichannel EEG in BCI emotion recognition.
+
+Samal P(1), Hashmi MF(1).
+
+Author information:
+(1)Department of Electronics and Communication Engineering, National Institute 
+of Technology, Warangal, Telangana, India.
+
+Emotion recognition using EEG is a difficult study because the signals' unstable 
+behavior, which is brought on by the brain's complex neuronal activity, makes it 
+difficult to extract the underlying patterns inside it. Therefore, to analyse 
+the signal more efficiently, in this article, a hybrid model based on 
+IEMD-KW-Ens (Improved Empirical Mode Decomposition-Kruskal Wallis-Ensemble 
+classifiers) technique is used. Here IEMD based technique is proposed to 
+interpret EEG signals by adding an improved sifting stopping criterion with 
+median filter to get the optimal decomposed EEG signals for further processing. 
+A mixture of time, frequency and non-linear distinct features are extracted for 
+constructing the feature vector. Afterward, we conducted feature selection using 
+KW test to remove the insignificant ones from the feature set. Later the 
+classification of emotions in three-dimensional model is performed in two 
+categories i.e. machine learning based RUSBoosted trees and deep learning based 
+convolutional neural network (CNN) for DEAP and DREAMER datasets and the 
+outcomes are evaluated for valence, arousal, and dominance classes. The findings 
+demonstrate that the hybrid model can successfully classify emotions in 
+multichannel EEG signals. The decomposition approach is also instructive for 
+improving the model's utility in emotional computing.
+
+DOI: 10.1080/10255842.2024.2369257
+PMID: 38920119

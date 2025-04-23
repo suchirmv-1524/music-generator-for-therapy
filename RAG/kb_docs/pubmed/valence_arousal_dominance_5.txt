@@ -1,0 +1,49 @@
+1. Mem Cognit. 2025 Jan 24. doi: 10.3758/s13421-024-01678-6. Online ahead of
+print.
+
+Semantic similarity is not emotional: No effect of similarity defined by 
+valence, arousal, and dominance on short-term ordered recall.
+
+Sonier RP(1), Guitard D(2), Melanson E(1), Jamieson RK(3), Saint-Aubin J(4).
+
+Author information:
+(1)École de Psychologie, Université de Moncton, Moncton, NB, E1A 3E9, Canada.
+(2)School of Psychology, Cardiff University, Cardiff, UK.
+(3)Department of Psychology, University of Manitoba, Winnipeg, Canada.
+(4)École de Psychologie, Université de Moncton, Moncton, NB, E1A 3E9, Canada. 
+jean.saint-aubin@umoncton.ca.
+
+In short-term ordered recall tasks, phonological similarity impedes item and 
+order recall, while semantic similarity benefits item recall with a weak or null 
+effect on order recall. Ishiguro and Saito recently suggested that these 
+contradictory findings were due to an inadequate assessment of semantic 
+similarity. They proposed a novel measure of semantic similarity based on the 
+distance between items in a three-dimensional space composed of the semantic 
+dimensions of valence, arousal, and dominance. We conducted an experimental 
+examination of their proposal. In four experiments, participants performed an 
+immediate serial recall or an immediate order reconstruction task. Performance 
+of dissimilar lists was contrasted with performance for semantically similar 
+lists defined by valence, arousal, and dominance or by the typical latent 
+semantic analysis. Two sets of words were used to assess the reproducibility of 
+the findings and similar results were observed with both sets. As expected, when 
+similarity was defined with latent semantic analysis, items were better recalled 
+without noticeable impact on their order. However, contrary to Ishiguro and 
+Saito's predictions, when similarity was defined with valence, arousal and 
+dominance, no effect emerged.
+
+© 2025. The Psychonomic Society, Inc.
+
+DOI: 10.3758/s13421-024-01678-6
+PMID: 39853515
+
+Conflict of interest statement: Declarations. Ethics approval: All Experiments 
+were approved by the research ethics committee of the Université de Moncton 
+(2223–007). Consent to participate: Informed consent was obtained from all 
+participants included in the study. Consent for publication: Consent for 
+publication was obtained from all participants included in the study. Author 
+notes: This research was supported by Discovery grants from the Natural Sciences 
+and Engineering Research Council of Canada (NSERC) to J.S.A. and to R.K.J. While 
+working on this article, R.P.S. was supported by a graduate scholarship from the 
+New Brunswick Innovation Foundation. Conflicts of interest/Competing interests: 
+The authors have no competing interests to report that are relevant to the 
+contents of this article.

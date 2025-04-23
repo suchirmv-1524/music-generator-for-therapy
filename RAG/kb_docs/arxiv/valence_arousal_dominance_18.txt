@@ -1,0 +1,5 @@
+Title: Technical Report for Valence-Arousal Estimation on Affwild2 Dataset
+
+Abstract: In this work, we describe our method for tackling the valence-arousal estimation challenge from ABAW FG-2020 Competition. The competition organizers provide an in-the-wild Aff-Wild2 dataset for participants to analyze affective behavior in real-life settings. We use MIMAMO Net \cite{deng2020mimamo} model to achieve information about micro-motion and macro-motion for improving video emotion recognition and achieve Concordance Correlation Coefficient (CCC) of 0.415 and 0.511 for valence and arousal on the reselected validation set.
+
+Link: http://arxiv.org/abs/2105.01502v2

@@ -1,0 +1,45 @@
+1. Clin Oral Investig. 2023 Nov;27(11):6321-6332. doi:
+10.1007/s00784-023-05247-0.  Epub 2023 Sep 20.
+
+Effect of music during endodontic treatment on patients' anxiety: a systematic 
+review of randomized clinical trials.
+
+Troian-Michel CH(1), Tietz L(2), Mendes AT(2), Duarte PHM(2), Weissheimer T(2), 
+da Rosa RA(2), Só MVR(2).
+
+Author information:
+(1)Department of Endodontics, School of Dentistry, Rio Grande Do Sul Federal 
+University (UFRGS), Porto Alegre, RS, Brazil. carolinaendo@gmail.com.
+(2)Department of Endodontics, School of Dentistry, Rio Grande Do Sul Federal 
+University (UFRGS), Porto Alegre, RS, Brazil.
+
+OBJECTIVES: Endodontic treatment is one of the most fearful procedures among 
+dentistry, and the use of music during the procedure has been evaluated to 
+control patients' anxiety. This systematic review has been conducted to provide 
+a synthesis of the state of knowledge in this field and aimed to answer the 
+following question: "Can music therapy reduce patient's state anxiety during 
+endodontic treatment?".
+METHODS: A search was performed in six electronic databases (PubMed, Cochrane 
+Library, Scopus, Web of Science, EMBASE, and Open Gray) for articles published 
+until April 2022. The eligibility criteria, based on the PICOS strategy, were as 
+follows: (P) patients undergoing endodontic treatment; (I) exposure to music; 
+(C) no music; (O) patients' anxiety; (S) only randomized clinical trials. The 
+risk of bias was analyzed according to the Cochrane Risk of Bias tool for 
+randomized controlled trials (RoB 2). The strength of evidence from the included 
+studies was assessed using the Grading of Assessment, Development, and 
+Assessment Recommendations (GRADE) tool.
+RESULTS: Five eligible studies were retrieved. A low to high risk of bias was 
+verified. Descriptive analysis showed an effect in favor of music intervention, 
+with differences among state anxiety, heart rate and blood pressure.
+CONCLUSIONS: With a very low quality of evidence, dental care professionals may 
+consider playing background music during endodontic treatment since it is a 
+cost-effective and easy alternative to trying to reduce dental anxiety.
+CLINICAL RELEVANCE: Five studies were included in this systematic review and 
+showed, with a very low quality of evidence, that music may reduce state anxiety 
+levels on patients during root canal treatment.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00784-023-05247-0
+PMID: 37728616 [Indexed for MEDLINE]

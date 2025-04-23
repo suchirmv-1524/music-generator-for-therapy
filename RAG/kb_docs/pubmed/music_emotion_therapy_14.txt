@@ -1,0 +1,43 @@
+1. J Indian Soc Pedod Prev Dent. 2025 Jan 1;43(1):104-110. doi: 
+10.4103/jisppd.jisppd_18_25. Epub 2025 Mar 31.
+
+Comparative evaluation of effectiveness among various sensory distractors for 
+reducing dental anxiety in pediatric population aged 6-9 years - A randomized 
+controlled trial.
+
+Chawla T(1), Nangia T, Srivastava M, Kalra G, Langpoklakpam C.
+
+Author information:
+(1)Department of Pediatric and Preventive Dentistry, Manav Rachna Dental 
+College, MRIIRS, SDS, Faridabad, Haryana, India.
+
+AIM: The aim is to evaluate and compare the efficacy of sensory distractors in 
+the management of anxious pediatric patients during dental treatment aged 
+between 6 and 9 years.
+MATERIALS AND METHODS: A total of 350 children were divided into five groups (70 
+each): Group A: Visual distraction using distraction cards, Group B: Olfactory 
+distraction using lemongrass oil aromatherapy, Group C: Auditory distraction 
+through music therapy, Group D: Tactile distraction using Hugo acupressure, and 
+Group E: Gustatory distraction using honey for taste. Each group received one of 
+the sensory distraction interventions during dental treatment. Anxiety levels 
+were assessed using the Chota Bheem Chutki Scale, pulse rate, and oxygen 
+saturation (SpO2) before and after the procedure. Statistical analysis was 
+performed using SPSS version 24, employing paired t-tests and one-way ANOVA to 
+compare pre- and postintervention data.
+RESULTS: All sensory distraction methods significantly reduced anxiety levels 
+and improved SPO2 readings (P < 0.001). The auditory distraction group showed 
+the greatest reduction in anxiety (mean change = 1.10) and the largest increase 
+in SPO2 levels (mean change = -4.98). Visual distraction also demonstrated 
+significant efficacy, notably reducing posttreatment anxiety (mean = 1.04). Both 
+the auditory and visual groups were more effective compared to gustatory and 
+olfactory methods.
+CONCLUSION: Auditory distraction, particularly music, was the most effective in 
+managing pediatric dental anxiety, followed by visual distraction. Sensory 
+distractions are valuable nonpharmacological tools for reducing anxiety and 
+improving physiological comfort in children undergoing dental procedures.
+
+Copyright © 2025 Journal of Indian Society of Pedodontics and Preventive 
+Dentistry.
+
+DOI: 10.4103/jisppd.jisppd_18_25
+PMID: 40159612 [Indexed for MEDLINE]

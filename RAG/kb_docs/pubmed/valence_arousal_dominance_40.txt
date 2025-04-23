@@ -1,0 +1,57 @@
+1. Front Hum Neurosci. 2023 Oct 10;17:1174104. doi: 10.3389/fnhum.2023.1174104. 
+eCollection 2023.
+
+Enhancing the accuracy of electroencephalogram-based emotion recognition through 
+Long Short-Term Memory recurrent deep neural networks.
+
+Yousefi MR(1)(2), Dehghani A(3), Taghaavifar H(2).
+
+Author information:
+(1)Department of Electrical Engineering, Najafabad Branch, Islamic Azad 
+University, Najafabad, Iran.
+(2)Digital Processing and Machine Vision Research Center, Najafabad Branch, 
+Islamic Azad University, Najafabad, Iran.
+(3)Department of Electrical Engineering, K. N. Toosi University of Technology, 
+Tehran, Iran.
+
+INTRODUCTION: Emotions play a critical role in human communication, exerting a 
+significant influence on brain function and behavior. One effective method of 
+observing and analyzing these emotions is through electroencephalography (EEG) 
+signals. Although numerous studies have been dedicated to emotion recognition 
+(ER) using EEG signals, achieving improved accuracy in recognition remains a 
+challenging task. To address this challenge, this paper presents a deep-learning 
+approach for ER using EEG signals.
+BACKGROUND: ER is a dynamic field of research with diverse practical 
+applications in healthcare, human-computer interaction, and affective computing. 
+In ER studies, EEG signals are frequently employed as they offer a non-invasive 
+and cost-effective means of measuring brain activity. Nevertheless, accurately 
+identifying emotions from EEG signals poses a significant challenge due to the 
+intricate and non-linear nature of these signals.
+METHODS: The present study proposes a novel approach for ER that encompasses 
+multiple stages, including feature extraction, feature selection (FS) employing 
+clustering, and classification using Dual-LSTM. To conduct the experiments, the 
+DEAP dataset was employed, wherein a clustering technique was applied to Hurst's 
+view and statistical features during the FS phase. Ultimately, Dual-LSTM was 
+employed for accurate ER.
+RESULTS: The proposed method achieved a remarkable accuracy of 97.5% in 
+accurately classifying emotions across four categories: arousal, valence, 
+liking/disliking, dominance, and familiarity. This high level of accuracy serves 
+as strong evidence for the effectiveness of the deep-learning approach to 
+emotion recognition (ER) utilizing EEG signals.
+CONCLUSION: The deep-learning approach proposed in this paper has shown 
+promising results in emotion recognition using EEG signals. This method can be 
+useful in various applications, such as developing more effective therapies for 
+individuals with mood disorders or improving human-computer interaction by 
+allowing machines to respond more intelligently to users' emotional states. 
+However, further research is needed to validate the proposed method on larger 
+datasets and to investigate its applicability to real-world scenarios.
+
+Copyright © 2023 Yousefi, Dehghani and Taghaavifar.
+
+DOI: 10.3389/fnhum.2023.1174104
+PMCID: PMC10597690
+PMID: 37881690
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

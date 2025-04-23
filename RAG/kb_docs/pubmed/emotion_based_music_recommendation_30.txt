@@ -1,0 +1,41 @@
+1. Sensors (Basel). 2023 Jan 10;23(2):805. doi: 10.3390/s23020805.
+
+A Dual-Path Cross-Modal Network for Video-Music Retrieval.
+
+Gu X(1), Shen Y(1), Lv C(1).
+
+Author information:
+(1)School of Information and Communications Engineering, Communication 
+University of China, Beijing 100024, China.
+
+In recent years, with the development of the internet, video has become more and 
+more widely used in life. Adding harmonious music to a video is gradually 
+becoming an artistic task. However, artificially adding music takes a lot of 
+time and effort, so we propose a method to recommend background music for 
+videos. The emotional message of music is rarely taken into account in current 
+work, but it is crucial for video music retrieval. To achieve this, we design 
+two paths to process content information and emotional information between 
+modals. Based on the characteristics of video and music, we design various 
+feature extraction schemes and common representation spaces. In the content 
+path, the pre-trained network is used as the feature extraction network. As 
+these features contain some redundant information, we use an encoder-decoder 
+structure for dimensionality reduction. Where encoder weights are shared to 
+obtain content sharing features for video and music. In the emotion path, an 
+emotion key frames scheme was used for video and a channel attention mechanism 
+was used for music in order to obtain the emotion information effectively. We 
+also added emotion distinguish loss to guarantee that the network acquires the 
+emotion information effectively. More importantly, we propose a way to combine 
+content information with emotional information. That is, content features are 
+first stitched together with sentiment features and then passed through a fused 
+shared space structured as an MLP to obtain more effective fused shared 
+features. In addition, a polarity penalty factor has been added to the classical 
+metric loss function to make it more suitable for this task. Experiments show 
+that this dual path video music retrieval network can effectively merge 
+information. Compared with existing methods, the retrieval task evaluation index 
+increases Recall@1 by 3.94.
+
+DOI: 10.3390/s23020805
+PMCID: PMC9861296
+PMID: 36679605
+
+Conflict of interest statement: The authors declare no conflict of interest.

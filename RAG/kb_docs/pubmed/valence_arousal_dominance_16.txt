@@ -1,0 +1,44 @@
+1. IEEE/ACM Trans Audio Speech Lang Process. 2024;32:917-929. doi: 
+10.1109/taslp.2023.3340603. Epub 2023 Dec 7.
+
+Selective Acoustic Feature Enhancement for Speech Emotion Recognition With Noisy 
+Speech.
+
+Leem SG(1), Fulford D(2), Onnela JP(3), Gard D(4), Busso C(1).
+
+Author information:
+(1)Department of Electrical and Computer Engineering, University of Texas at 
+Dallas, Richardson, TX 75080 USA.
+(2)Occupational Therapy and Psychological and Brain Sciences, Boston University, 
+Boston, MA 02215 USA.
+(3)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Harvard University, Cambridge, MA 02138 USA.
+(4)Department of Psychology, San Francisco State University, San Francisco, CA 
+94132 USA.
+
+A speech emotion recognition (SER) system deployed on a real-world application 
+can encounter speech contaminated with unconstrained background noise. To deal 
+with this issue, a speech enhancement (SE) module can be attached to the SER 
+system to compensate for the environmental difference of an input. Although the 
+SE module can improve the quality and intelligibility of a given speech, there 
+is a risk of affecting discriminative acoustic features for SER that are 
+resilient to environmental differences. Exploring this idea, we propose to 
+enhance only weak features that degrade the emotion recognition performance. Our 
+model first identifies weak feature sets by using multiple models trained with 
+one acoustic feature at a time using clean speech. After training the 
+single-feature models, we rank each speech feature by measuring three criteria: 
+performance, robustness, and a joint rank ranking that combines performance and 
+robustness. We group the weak features by cumulatively incrementing the features 
+from the bottom to the top of each rank. Once the weak feature set is defined, 
+we only enhance those weak features, keeping the resilient features unchanged. 
+We implement these ideas with the low-level descriptors (LLDs). We show that 
+directly enhancing the weak LLDs leads to better performance than extracting 
+LLDs from an enhanced speech signal. Our experiment with clean and noisy 
+versions of the MSP-Podcast corpus shows that the proposed approach yields a 
+17.7% (arousal), 21.2% (dominance), and 3.3% (valence) performance gains over a 
+system that enhances all the LLDs for the 10dB signal-to-noise ratio (SNR) 
+condition.
+
+DOI: 10.1109/taslp.2023.3340603
+PMCID: PMC11250502
+PMID: 39015743

@@ -1,0 +1,26 @@
+1. IEEE J Biomed Health Inform. 2024 May;28(5):2512-2523. doi: 
+10.1109/JBHI.2023.3307606. Epub 2024 May 6.
+
+DAST: A Domain-Adaptive Learning Combining Spatio-Temporal Dynamic Attention for 
+Electroencephalography Emotion Recognition.
+
+Jin H, Gao Y, Wang T, Gao P.
+
+Multimodal emotion recognition with EEG-based have become mainstream in 
+affective computing. However, previous studies mainly focus on perceived 
+emotions (including posture, speech or face expression et al.) of different 
+subjects, while the lack of research on induced emotions (including video or 
+music et al.) limited the development of two-ways emotions. To solve this 
+problem, we propose a multimodal domain adaptive method based on EEG and music 
+called the DAST, which uses spatio-temporal adaptive attention (STA-attention) 
+to globally model the EEG and maps all embeddings dynamically into 
+high-dimensionally space by adaptive space encoder (ASE). Then, adversarial 
+training is performed with domain discriminator and ASE to learn invariant 
+emotion representations. Furthermore, we conduct extensive experiments on the 
+DEAP dataset, and the results show that our method can further explore the 
+relationship between induced and perceived emotions, and provide a reliable 
+reference for exploring the potential correlation between EEG and music 
+stimulation.
+
+DOI: 10.1109/JBHI.2023.3307606
+PMID: 37607151 [Indexed for MEDLINE]

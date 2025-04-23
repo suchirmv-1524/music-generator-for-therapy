@@ -1,0 +1,47 @@
+1. Br J Health Psychol. 2024 Sep;29(3):533-550. doi: 10.1111/bjhp.12712. Epub
+2023  Dec 11.
+
+Attentional bias in psoriasis: The role of processing time and emotional 
+valence.
+
+Etty S(1), George DN(1), van Laarhoven AIM(2)(3), Kleyn CE(4), Walton S(5), 
+Holle H(1).
+
+Author information:
+(1)School of Psychology and Social Work, University of Hull, Hull, UK.
+(2)Health, Medical and Neuropsychology Unit, Faculty of Social and Behavioural 
+Sciences, Institute of Psychology, Leiden University, Leiden, The Netherlands.
+(3)Leiden Institute for Brain and Cognition, Leiden, The Netherlands.
+(4)Dermatology Centre, Salford Royal Hospital, Manchester NIHR Biomedical 
+Research Centre, University of Manchester, Manchester, UK.
+(5)Hull University Teaching Hospitals NHS Trust, Hull, UK.
+
+PURPOSE: The present study explored whether people with psoriasis display an 
+attentional bias towards disease-related threat words and whether this bias 
+occurs relatively early during the phase of stimulus disengagement, or during a 
+later maintained attention phase dominated by controlled strategic processes. We 
+also explored the degree to which attentional bias is dependent on the emotional 
+valence of control words.
+METHODS: Individuals with psoriasis and matched controls took part in 4 online 
+experiments. Participants completed a spatial cueing paradigm using 
+disease-related threat words and control words as cues, in order to obtain 
+reaction time estimates of attentional bias.
+RESULTS: We did not observe evidence for attentional bias when control words 
+were matched with threat words for emotional valence, regardless of whether 
+processing time for the cues was limited (Experiment 1: SOA = 250 ms) or 
+extended (Experiment 2: SOA = 1050 ms). We also did not observe evidence for 
+attentional bias when control words of positive valence were used, but 
+processing time was limited (Experiment 3). An attentional bias was only 
+observed (p = .012, Cohen's d = .37) when sufficient processing time was 
+available and positively-valanced control words were used (Experiment 4).
+CONCLUSION: Rather than showing large and generalized AB effects as predicted by 
+previous accounts, our results tentatively suggest that AB in psoriasis is 
+restricted to situations where participants have ample processing time and 
+threat words are easily distinguishable from control words on the basis of 
+emotional valence. The pattern of results suggests that attentional bias in 
+psoriasis is best characterized as a relatively slow strategic process.
+
+© 2023 British Psychological Society.
+
+DOI: 10.1111/bjhp.12712
+PMID: 38082501 [Indexed for MEDLINE]

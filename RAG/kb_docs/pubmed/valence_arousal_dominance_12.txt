@@ -1,0 +1,50 @@
+1. Crim Behav Ment Health. 2024 Oct;34(5):446-461. doi: 10.1002/cbm.2351. Epub
+2024  Sep 4.
+
+Psychopathy, criminogenic cognitions and emotional responses to affective 
+stimuli among male adult offenders.
+
+Manole S(1), Enea V(1).
+
+Author information:
+(1)Department of Psychology, Alexandru Ioan Cuza University, Iasi, Romania.
+
+BACKGROUND: Previous research has consistently shown value in studying emotion 
+processing with psychopathy, but the relative effect of aural and visual 
+stimulation has hardly been considered.
+AIMS: Our aims were to (1) compare reaction time and self-rated valence 
+((un)pleasantness), arousal and sense of being dominated by affective sounds or 
+visual images among offenders with and without psychopathy (=/>26) on the 
+psychopathy check-list revised; (2) investigate any associations, controlling 
+for social desirability and depression; (3) explore the possible mediating 
+effect of criminogenic cognitions on any relationships between psychopathy and 
+emotional responses to affective stimuli.
+METHODS: Professional educators invited all male offenders serving semi-open 
+custody sentences in one prison to participate. After a semi structured 
+interview to assess psychopathy, they self-reported on criminogenic cognition, 
+depression and social desirability scales, before a computer task using 
+standardised human and animal sounds and images. Using the self-assessment 
+manikin, participants rated the emotional valence, arousal and dominance levels 
+when pleasant, unpleasant and neutral sounds or images were presented.
+RESULTS: About one in three prisoners completed all the ratings-120 men, of mean 
+age 38.8 years (SD = 11.06). All had shorter reaction times to sounds than 
+images. Offenders with high affective-interpersonal factor scores rated all 
+types of sounds as less pleasant. Men with high psychopathy scores took longer 
+to respond to unpleasant images than those with lower scores. There was a 
+positive relationship between psychopathy factors and criminogenic cognitions 
+and the external locus of criminogenic cognitions mediated the relationship 
+between psychopathy facets and emotional responses of valence to pleasant 
+sounds.
+CONCLUSION: Our findings confirm the potential importance of emotional reactions 
+to sounds as well as images among men with psychopathy. Given the shorter 
+reaction times to sounds, in real life sounds could prove more provocative than 
+images. While only small differences emerged between men above and below the 
+PCL-R threshold, indications from facet analyses suggest that further study of 
+sound stimuli could enhance the understanding of emotional response differences 
+to inform interventions. Future research in this area should focus on 
+human-related stimuli and add alexithymia measures.
+
+© 2024 John Wiley & Sons Ltd.
+
+DOI: 10.1002/cbm.2351
+PMID: 39233382 [Indexed for MEDLINE]

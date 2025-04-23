@@ -1,0 +1,41 @@
+1. Healthcare (Basel). 2025 Apr 4;13(7):826. doi: 10.3390/healthcare13070826.
+
+Effectiveness of Telecoaching and Music Therapy in Neurological Disorders: A 
+Narrative Review and Proposal for a New Interventional Approach.
+
+Leale I(1), Vinciguerra C(2), Di Stefano V(3), Brighina F(3), Battaglia G(1).
+
+Author information:
+(1)Sport and Exercise Research Unit, Department of Psychology, Educational 
+Sciences and Human Movement, University of Palermo, 90144 Palermo, Italy.
+(2)Neurology Unit, Department of Medicine, Surgery and Dentistry "Scuola Medica 
+Salernitana", University Hospital "San Giovanni di Dio e Ruggi D'Aragona", 84131 
+Salerno, Italy.
+(3)Department of Biomedicine, Neuroscience, and Advanced Diagnostics (BiND), 
+University of Palermo, 90129 Palermo, Italy.
+
+Neurological disorders represent a significant challenge for healthcare systems, 
+necessitating innovative and multidisciplinary therapeutic approaches. These 
+disorders often lead to difficulties in various aspects of daily life, including 
+physical functioning, mental health, and quality of life (QoL). Telecoaching 
+(TC) and Music Therapy (MT) are two emerging modalities that may provide 
+valuable support for individuals with these conditions. This narrative review 
+aims to analyse recent studies investigating the efficacy of TC and MT in this 
+population. A total of 23 studies were included in this narrative review. These 
+studies indicate that TC positively affects physical functioning and adherence 
+to intervention programs, with participants reporting improvements in gait and 
+balance, as well as a reduction in postural instability and fall rates. 
+Similarly, MT has shown promising outcomes in decreasing anxiety and sleep 
+disorders while enhancing cognitive and emotional well-being. Integrating TC and 
+MT into treatment approaches offers a promising alternative for improving QoL 
+and overall well-being. However, further research is needed to consolidate the 
+evidence and optimize the implementation of these interventions in clinical 
+practice. Future research should focus on longitudinal studies and comparative 
+evaluations to further clarify the role of TC and MT in the treatment of 
+neurological disorders, as well as their long-term effects.
+
+DOI: 10.3390/healthcare13070826
+PMCID: PMC11988938
+PMID: 40218122
+
+Conflict of interest statement: The authors declare no conflicts of interest.

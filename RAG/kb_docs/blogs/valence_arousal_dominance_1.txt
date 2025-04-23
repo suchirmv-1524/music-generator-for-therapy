@@ -1,0 +1,31 @@
+Title: Understanding Emotion Models. We all have to deal with emotions every… | by nishkhendry | Medium
+Link: https://medium.com/@nishka.nkhendry/understanding-emotion-models-9c59411525cb
+
+--- Full Text Start ---
+
+Understanding Emotion Models. We all have to deal with emotions every… | by nishkhendry | Medium
+We all have to deal with emotions every day, be it our own or someone else’s. From joy or excitement to anger or grief, each emotion has an exceedingly distinct character — much like in Disney’s Inside Out.
+But what if we could quantify each emotion with numbers? That’s exactly what emotion models aim to do.
+Why do we need to understand emotion models?
+In my experience working with emotion recognition, a large part of why we need these models is the requirement to quantify emotions in an objective way, given that emotions are notoriously subjective by their very nature.
+For example, while training a deep learning model, it is far more intuitive to label emotion data with different valence, arousal, and dominance values than to label it with an abstract emotion such as joy or fear. That is, computers are just better at understanding numbers compared to abstract concepts.
+Think back to basic graphing in school. Back then, each graph had an X and a Y axis. A point that you plot on that axis would have an X and a Y coordinate, each value holding some meaning based on what the X and Y axes represent.
+Understanding a 2-dimensional system
+For example, in the 2-coordinate system shown above, the X axis tells us the number of apples and the Y axis tells us their corresponding price. To be more specific, the blue point tells us that 3 apples (X = 3) can be bought for 2 dollars (Y = 2).
+I explain this because understanding what a value means on an axis helped me understand how emotion models work.
+Now, let’s expand this idea from a
+-dimensional system. Then, we have 3 axes- X, Y, and Z.
+Valence-Arousal-Dominance Models
+A popular model used in the field of affective computing is the Valence-Arousal-Dominance (VAD) model — also called the Pleasure-Arousal-Dominance (PAD) model. In these models, the X, Y, and Z axes span only from -1 to 1 and can be defined as follows-
+Valence — How pleasant you feel on a range from -1 to 1. Here, -1 would mean you are feeling very negative/unpleasant whereas a 1 would mean you are feeling very positive or pleasant.
+Dominance — How much control you have over what you feel on a range from -1 to 1. In this case, -1 implies no control and 1 implies feeling very much in control of your emotion.
+Arousal — How engaged or alert you feel on a range from -1 to 1. -1 would mean that you are more on the calmer or sleepier extreme while 1 would mean you are more active and energetic.
+The underlying concept behind the model is that emotions can be defined in different combinations of these 3 dimensions.
+VAD model for the six basic emotions [
+Let’s interpret how the model works based on the table and the graph above by contrasting joy and sadness.
+Someone experiencing joy feels more pleasant (valence = 0.76) and relatively more neutral to energetic (arousal = 0.48) and more in control (dominance = 0.35). On the other hand, someone experiencing sadness feels far less pleasant (valence = -0.63) and often less energetic (arousal = 0.27) and less in control (dominance = -0.33) compared to someone who is feeling joyful.
+The other basic emotion values and their plots in the VAD space can be interpreted in a similar way.
+Hope this helped build some emotion model basics! Please reach out or leave a question if you have any, I’m happy to help out :)
+Love simplifying technical concepts and programs I've spent time working with! Research Assistant at the Centre for Brain Computing Research, NTU Singapore.
+
+--- End ---

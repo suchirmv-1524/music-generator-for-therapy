@@ -1,0 +1,5 @@
+Title: A New Multilabel System for Automatic Music Emotion Recognition
+
+Abstract: Achieving advancements in automatic recognition of emotions that music can induce require considering multiplicity and simultaneity of emotions. Comparison of different machine learning algorithms performing multilabel and multiclass classification is the core of our work. The study analyzes the implementation of the Geneva Emotional Music Scale 9 in the Emotify music dataset and investigates its adoption from a machine-learning perspective. We approach the scenario of emotions expression/induction through music as a multilabel and multiclass problem, where multiple emotion labels can be adopted for the same music track by each annotator (multilabel), and each emotion can be identified or not in the music (multiclass). The aim is the automatic recognition of induced emotions through music.
+
+Link: http://arxiv.org/abs/1905.12629v2

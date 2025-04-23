@@ -1,0 +1,35 @@
+1. Q J Exp Psychol (Hove). 2024 May;77(5):1093-1105. doi: 
+10.1177/17470218231200955. Epub 2023 Oct 4.
+
+Database of Expressionist, Impressionist, and Post-Impressionist paintings: 
+Affective norms for 60 art pieces.
+
+Imbir KK(1), Wielgopolan A(1), Stępniewska J(1), Benda K(1).
+
+Author information:
+(1)Faculty of Psychology, University of Warsaw, Warsaw, Poland.
+
+Modern painters' art is not only different from canvas created earlier, but also 
+shows high internal variability. Being aware of the conditions arising from art 
+history, we used paintings from three art movements-Impressionism, 
+Post-Impressionism, and Expressionism, to see if we are able to respond to 
+claims made by art theorists by using methods specific to social sciences, and 
+validate the paintings as stimuli which might evoke different emotional reaction 
+based on the movement they were created in. We wanted to conduct an exploratory 
+analysis comparing the mean assessment of valence, arousal, and dominance among 
+the three art movements. A total of 60 different paintings were selected (20 for 
+each art movement) showing figurative works and visible human figures. They were 
+assessed on five different affective scales: valence, arousal, dominance, 
+origin, and subjective significance with use of Self-Assessment Manikins. The 
+results showed expected differences in affective reactions to Expressionist 
+paintings compared with those of Impressionist and Post-Impressionist ones. 
+Therefore, we provided the very first dataset of emotional stimuli with 
+validated affective norms, categorised by the art movement that they were 
+created in and ready to be used in future experimental studies.
+
+DOI: 10.1177/17470218231200955
+PMID: 37658483 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interestsThe 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.

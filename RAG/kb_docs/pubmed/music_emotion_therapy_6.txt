@@ -1,0 +1,52 @@
+1. J Neurol. 2025 Apr 9;272(5):329. doi: 10.1007/s00415-025-13048-6.
+
+Structural and functional neuroplasticity in music and dance-based 
+rehabilitation: a systematic review.
+
+Blasi V(1), Rapisarda L(1)(2), Cacciatore DM(1)(2), Palumbo E(1), Di Tella S(2), 
+Borgnis F(3), Baglio F(1).
+
+Author information:
+(1)IRCCS Fondazione Don Carlo Gnocchi Onlus, Milan, Italy.
+(2)Department of Psychology, Università Cattolica del Sacro Cuore, Milan, Italy.
+(3)IRCCS Fondazione Don Carlo Gnocchi Onlus, Milan, Italy. 
+fborgnis@dongnocchi.it.
+
+BACKGROUND: Music- and dance-based rehabilitation has gained prominence in 
+promoting social engagement and improving motor, cognitive, and mood domains in 
+individuals affected by different neurological disorders.
+AIM: This systematic review aims to synthesize existing evidence from randomized 
+controlled trials (RCTs) investigating neuroimaging-based structural and 
+functional neuroplasticity following music- and dance-based interventions among 
+people with neurological disorders.
+METHODS: Literature research was performed using PubMed (MEDLINE), Scopus, and 
+Web of Science (WOS). A multidimensional approach was employed to assess the 
+efficacy of music- and dance-based interventions, integrating neuroimaging and 
+clinical assessments.
+RESULTS: Out of a total of 2247 papers reviewed, 20 RCTs met the inclusion 
+criteria for this review, with a total of 718 subjects. Among them, 88% 
+underwent a neuroimaging investigation to evaluate structural or functional 
+neuroplasticity. Six studies involved dance-based interventions, while 14 
+examined music-based rehabilitation. These interventions targeted cognitive, 
+motor, and mood impairments in people at risk of dementia or with neurological 
+disorders including Huntington's Disease, stroke, traumatic brain injury, spinal 
+cord injury, and disorder of consciousness.
+DISCUSSION: Overall, the selected studies demonstrated significant effects on 
+behavioral and neuroimaging outcomes, showing structural and functional changes 
+in critical areas for perception and memory in patients at risk of dementia, as 
+well as in regions essential for language processing, emotional regulation, and 
+motor control in patients with acute and chronic stroke. Nevertheless, several 
+biases were identified, specifically related to neuroimaging biomarkers, such as 
+a lack of baseline and between-group comparisons and a lack of prior 
+registration of neuroimaging biomarkers investigated. The protocol of this 
+review was registered in the International Prospective Register of Systematic 
+Reviews (PROSPERO), with registration number CRD42024574754.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00415-025-13048-6
+PMCID: PMC11982153
+PMID: 40204940 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflicts of interest: The authors 
+declare they have no competing interests.

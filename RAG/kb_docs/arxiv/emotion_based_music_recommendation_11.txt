@@ -1,0 +1,5 @@
+Title: Emotion Detection and Music Recommendation System
+
+Abstract: As artificial intelligence becomes more and more ingrained in daily life, we present a novel system that uses deep learning for music recommendation and emotion-based detection. Through the use of facial recognition and the DeepFace framework, our method analyses human emotions in real-time and then plays music that reflects the mood it has discovered. The system uses a webcam to take pictures, analyses the most common facial expression, and then pulls a playlist from local storage that corresponds to the mood it has detected. An engaging and customised experience is ensured by allowing users to manually change the song selection via a dropdown menu or navigation buttons. By continuously looping over the playlist, the technology guarantees continuity. The objective of our system is to improve emotional well-being through music therapy by offering a responsive and automated music-selection experience.
+
+Link: http://arxiv.org/abs/2503.20739v1

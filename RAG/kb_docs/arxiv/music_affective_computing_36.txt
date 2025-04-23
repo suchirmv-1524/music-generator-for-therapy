@@ -1,0 +1,5 @@
+Title: Proceedings of the 1st International Workshop on Reading Music Systems
+
+Abstract: The International Workshop on Reading Music Systems (WoRMS) is a workshop that tries to connect researchers who develop systems for reading music, such as in the field of Optical Music Recognition, with other researchers and practitioners that could benefit from such systems, like librarians or musicologists.   The relevant topics of interest for the workshop include, but are not limited to: Music reading systems; Optical music recognition; Datasets and performance evaluation; Image processing on music scores; Writer identification; Authoring, editing, storing and presentation systems for music scores; Multi-modal systems; Novel input-methods for music to produce written music; Web-based Music Information Retrieval services; Applications and projects; Use-cases related to written music.   These are the proceedings of the 1st International Workshop on Reading Music Systems, held in Paris on the 20th of September 2018.
+
+Link: http://arxiv.org/abs/2301.10062v1

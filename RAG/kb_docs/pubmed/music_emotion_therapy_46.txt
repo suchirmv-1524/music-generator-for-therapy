@@ -1,0 +1,79 @@
+1. Complement Ther Med. 2025 May;89:103148. doi: 10.1016/j.ctim.2025.103148. Epub
+ 2025 Feb 26.
+
+Effect of music intervention on dental anxiety and fear: A bibliometric analysis 
+of RCTs from 2004 to 2024.
+
+Gan Y(1), Huang J(2), Han S(1), Xu H(3), Zhu H(1), Li D(4), Wei Z(5), Sun F(6), 
+Cai Z(7).
+
+Author information:
+(1)Department of Academic Research, International Research Center for Medicinal 
+Administration, Peking University, Beijing, PR China.
+(2)Department of General Dentistry II, Peking University School and Hospital of 
+Stomatology & National Center for Stomatology & National Clinical Research 
+Center for Oral Diseases & National Engineering Research Center of Oral 
+Biomaterials and Digital Medical Devices & Beijing Key Laboratory of Digital 
+Stomatology & Research Center of Engineering and Technology for Computerized 
+Dentistry Ministry of Health, Beijing, PR China.
+(3)Department of Pediatric Dentistry, Peking University School and Hospital of 
+Stomatology & National Center for Stomatology & National Clinical Research 
+Center for Oral Diseases & National Engineering Research Center of Oral 
+Biomaterials and Digital Medical Devices & Beijing Key Laboratory of Digital 
+Stomatology & Research Center of Engineering and Technology for Computerized 
+Dentistry Ministry of Health, Beijing, PR China.
+(4)Department of Tuina and Pain, Dongzhimen Hospital, Beijing University of 
+Chinese Medicine, Beijing, PR China.
+(5)Institute of Medical Innovation and Research & Medical Research Center, 
+Peking University Third Hospital, Beijing, PR China.
+(6)Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+University, Beijing, PR China. Electronic address: sunfeng@bjmu.edu.cn.
+(7)Department of Oral and Maxillofacial Surgery, Peking University School and 
+Hospital of Stomatology & National Center for Stomatology & National Clinical 
+Research Center for Oral Diseases & National Engineering Research Center of Oral 
+Biomaterials and Digital Medical Devices & Beijing Key Laboratory of Digital 
+Stomatology & Research Center of Engineering and Technology for Computerized 
+Dentistry Ministry of Health, Beijing, PR China. Electronic address: 
+c2013xs@163.com.
+
+BACKGROUND: Dental treatments, especially invasive procedures, often induce 
+anxiety and fear, impacting future treatment adherence. Music intervention, a 
+non-pharmacological approach, has shown promise in reducing anxiety and 
+enhancing well-being, but further research is needed to explore its application 
+in dental settings and the influence of factors like music type, duration, and 
+volume.
+OBJECTIVE: To assess the effects of music interventions on dental anxiety and 
+fear, analyze research trends, and identify knowledge gaps through a 
+bibliometric analysis of randomized controlled trials.
+METHODS: Data from eligible studies were extracted through a comprehensive 
+search. Descriptive bibliometrics, citation analysis, and keyword analysis were 
+performed to assess research outputs, distribution, hotspots, and trends. 
+Different human development indices (HDI) were used to analyze variations in 
+publication year, sex distribution, and interventions across countries.
+RESULTS: This study included 46 randomized controlled trials (RCTs) from 2004 to 
+2024, with a mean annual growth rate of 5.95 %. India, Japan, and Turkey led the 
+research output and citations. Approximately 4112 participants, with 45.68 % 
+males were enrolled. Most RCTs focused on adults (65.22 %) and used passive 
+music interventions (73.91 %). The most common treatment was dental extraction 
+(39.13 %), with classical music being the predominant intervention (60.87 %). 
+The control group were often blank (80.43 %). Various indicators of anxiety and 
+fear have been reported. Significant differences were found in the sex 
+distribution among the different HDI ranks (p < 0.001).
+CONCLUSIONS: This study outlined the research profile of music interventions for 
+reducing anxiety and fear during dental treatments, with India, Japan, and 
+Turkey leading in terms of output. The most frequently studied intervention is 
+classical music, which is typically used preoperatively. Notable sex 
+distribution differences were observed across HDI groups. Future research trends 
+should include more extensive trials, personalized interventions, standardized 
+guidelines, and enhanced collaboration to optimize patient engagement and 
+emotional regulation.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctim.2025.103148
+PMID: 40021023 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+article’

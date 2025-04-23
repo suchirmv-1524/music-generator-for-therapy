@@ -1,0 +1,5 @@
+Title: Musical composition and 2D cellular automata based on music intervals
+
+Abstract: This study is a theoretical approach for exploring the applicability of a 2D cellular automaton based on melodic and harmonic intervals in random arrays of musical notes. The aim of this study was to explore alternatives uses for a cellular automaton in the musical context for better understanding the musical creativity. We used the complex systems and humanities approaches as a framework for capturing the essence of creating music based on rules of music theory. Findings suggested that such rules matter for generating large-scale patterns of organized notes. Therefore, our formulation provides a novel approach for understanding and replicating aspects of the musical creativity.
+
+Link: http://arxiv.org/abs/2411.19844v1

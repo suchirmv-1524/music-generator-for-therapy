@@ -1,0 +1,5 @@
+Title: Multimodal Emotion Recognition for One-Minute-Gradual Emotion Challenge
+
+Abstract: The continuous dimensional emotion modelled by arousal and valence can depict complex changes of emotions. In this paper, we present our works on arousal and valence predictions for One-Minute-Gradual (OMG) Emotion Challenge. Multimodal representations are first extracted from videos using a variety of acoustic, video and textual models and support vector machine (SVM) is then used for fusion of multimodal signals to make final predictions. Our solution achieves Concordant Correlation Coefficient (CCC) scores of 0.397 and 0.520 on arousal and valence respectively for the validation dataset, which outperforms the baseline systems with the best CCC scores of 0.15 and 0.23 on arousal and valence by a large margin.
+
+Link: http://arxiv.org/abs/1805.01060v1

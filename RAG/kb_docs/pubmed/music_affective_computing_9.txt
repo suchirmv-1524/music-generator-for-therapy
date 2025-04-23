@@ -1,0 +1,42 @@
+1. Front Psychol. 2023 Jun 6;14:1158172. doi: 10.3389/fpsyg.2023.1158172. 
+eCollection 2023.
+
+AffectMachine-Classical: a novel system for generating affective classical 
+music.
+
+Agres KR(#)(1)(2), Dash A(#)(1), Chua P(3).
+
+Author information:
+(1)Yong Siew Toh Conservatory of Music, National University of Singapore, 
+Singapore, Singapore.
+(2)Centre for Music and Health, National University of Singapore, Singapore, 
+Singapore.
+(3)Augmented Human Lab, DISA, National University of Singapore, Singapore, 
+Singapore.
+(#)Contributed equally
+
+This work introduces a new music generation system, called 
+AffectMachine-Classical, that is capable of generating affective Classic music 
+in real-time. AffectMachine was designed to be incorporated into biofeedback 
+systems (such as brain-computer-interfaces) to help users become aware of, and 
+ultimately mediate, their own dynamic affective states. That is, this system was 
+developed for music-based MedTech to support real-time emotion self-regulation 
+in users. We provide an overview of the rule-based, probabilistic system 
+architecture, describing the main aspects of the system and how they are novel. 
+We then present the results of a listener study that was conducted to validate 
+the ability of the system to reliably convey target emotions to listeners. The 
+findings indicate that AffectMachine-Classical is very effective in 
+communicating various levels of Arousal (R2 = 0.96) to listeners, and is also 
+quite convincing in terms of Valence (R2 = 0.90). Future work will embed 
+AffectMachine-Classical into biofeedback systems, to leverage the efficacy of 
+the affective music for emotional wellbeing in listeners.
+
+Copyright © 2023 Agres, Dash and Chua.
+
+DOI: 10.3389/fpsyg.2023.1158172
+PMCID: PMC10281186
+PMID: 37346414
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

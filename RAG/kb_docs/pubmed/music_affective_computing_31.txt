@@ -1,0 +1,28 @@
+1. Cogn Sci. 2018 Apr;42(3):771-819. doi: 10.1111/cogs.12557. Epub 2017 Nov 13.
+
+Reading Emotion From Mouse Cursor Motions: Affective Computing Approach.
+
+Yamauchi T(1), Xiao K(1).
+
+Author information:
+(1)Department of Psychological and Brain Science, Texas A&M University.
+
+Affective computing research has advanced emotion recognition systems using 
+facial expressions, voices, gaits, and physiological signals, yet these methods 
+are often impractical. This study integrates mouse cursor motion analysis into 
+affective computing and investigates the idea that movements of the computer 
+cursor can provide information about emotion of the computer user. We extracted 
+16-26 trajectory features during a choice-reaching task and examined the link 
+between emotion and cursor motions. Participants were induced for positive or 
+negative emotions by music, film clips, or emotional pictures, and they 
+indicated their emotions with questionnaires. Our 10-fold cross-validation 
+analysis shows that statistical models formed from "known" participants 
+(training data) could predict nearly 10%-20% of the variance of positive affect 
+and attentiveness ratings of "unknown" participants, suggesting that cursor 
+movement patterns such as the area under curve and direction change help infer 
+emotions of computer users.
+
+Copyright © 2017 Cognitive Science Society, Inc.
+
+DOI: 10.1111/cogs.12557
+PMID: 29131372 [Indexed for MEDLINE]

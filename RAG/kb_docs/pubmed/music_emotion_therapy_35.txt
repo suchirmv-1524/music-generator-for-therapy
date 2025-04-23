@@ -1,0 +1,48 @@
+1. Acta Psychol (Amst). 2025 Apr;254:104820. doi: 10.1016/j.actpsy.2025.104820. 
+Epub 2025 Mar 8.
+
+Music therapy in psychological and educational context: Enhancing emotional and 
+cognitive development of students.
+
+Guo Y(1).
+
+Author information:
+(1)Music Art, Lviv National Music Academy named after Mykola Lysenko, Lviv, 
+Ukraine. Electronic address: yingdongguo@onmail.com.
+
+In recent years, music therapy has gained popularity, sparking interest in 
+examining its effectiveness. The primary objective of this article is to analyze 
+the effectiveness of an intervention program of music therapy on the emotional 
+and cognitive development of young individuals. The study design is the 
+intervention-control study. The participants consisted of 140 students from a 
+university in Ukraine: 70 individuals diagnosed with clinical depression and 70 
+individuals who did not report any psychological disorders. The instruments 
+utilized included the Psychological General Well-Being Index, Wechsler Memory 
+Scale, and Conners' Continuous Performance Test-Second Edition. The results 
+indicated that music therapy led to a significant improvement in the measured 
+parameters across both contexts, albeit with varying degrees of effectiveness. 
+In the educational context, psychological well-being increased by 10.40 points 
+(p = 0.000), memory by 1.89 points (p = 0.005), and attention by 1.69 points 
+(p = 0.000). In the psychological context, the effects were more pronounced: 
+psychological well-being increased by 11.92 points, memory by 3.31 points, and 
+attention by 1.57 points (all p = 0.000). Furthermore, effect size analysis 
+revealed that music therapy exerted a very large impact in the psychological 
+context on psychological well-being (d = 3.71), memory (d = 2.67), and attention 
+(d = 1.17), whereas in the educational context, the effects were significant but 
+comparatively lower (d = 4.36, 0.90, and 0.67, respectively). These findings 
+highlight the differential impact of music therapy depending on the context of 
+its implementation, emphasizing the necessity of context-specific approaches to 
+maximize its benefits. This study contributes to the growing body of research 
+demonstrating the effectiveness of music therapy in both psychological treatment 
+and educational enhancement, supporting its broader integration into mental 
+health and academic settings.
+
+Copyright © 2025 The Author. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.actpsy.2025.104820
+PMID: 40058124 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

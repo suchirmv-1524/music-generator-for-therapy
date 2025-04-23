@@ -1,0 +1,38 @@
+1. Front Neurosci. 2022 Oct 6;16:1024316. doi: 10.3389/fnins.2022.1024316. 
+eCollection 2022.
+
+Cognitive psychology-based artificial intelligence review.
+
+Zhao J(1), Wu M(1), Zhou L(1), Wang X(1), Jia J(2)(3).
+
+Author information:
+(1)School of Information Science and Technology, Northwest University, Xi'an, 
+China.
+(2)Medical Big Data Research Center, Northwest University, Xi'an, China.
+(3)School of Mathematics, Northwest University, Xi'an, China.
+
+Most of the current development of artificial intelligence is based on brain 
+cognition, however, this replication of biology cannot simulate the subjective 
+emotional and mental state changes of human beings. Due to the imperfections of 
+existing artificial intelligence, this manuscript summarizes and clarifies that 
+artificial intelligence system combined with cognitive psychology is the 
+research direction of artificial intelligence. It aims to promote the 
+development of artificial intelligence and give computers human advanced 
+cognitive abilities, so that computers can recognize emotions, understand human 
+feelings, and eventually achieve dialog and empathy with humans and other 
+artificial intelligence. This paper emphasizes the development potential and 
+importance of artificial intelligence to understand, possess and discriminate 
+human mental states, and argues its application value with three typical 
+application examples of human-computer interaction: face attraction, affective 
+computing, and music emotion, which is conducive to the further and higher level 
+of artificial intelligence research.
+
+Copyright © 2022 Zhao, Wu, Zhou, Wang and Jia.
+
+DOI: 10.3389/fnins.2022.1024316
+PMCID: PMC9582153
+PMID: 36278021
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

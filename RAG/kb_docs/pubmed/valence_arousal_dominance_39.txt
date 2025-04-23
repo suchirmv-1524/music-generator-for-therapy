@@ -1,0 +1,61 @@
+1. PLoS One. 2023 Oct 26;18(10):e0293003. doi: 10.1371/journal.pone.0293003. 
+eCollection 2023.
+
+Measuring novice-expert sense of place for a far-away place: Implications for 
+geoscience instruction.
+
+Gold AU(1), Geraghty Ward EM(1), Marsh CL(1), Moon TA(2), Schoeneman SW(3), Khan 
+AL(4), Littrell MK(1).
+
+Author information:
+(1)Cooperative Institute for Research in Environmental Sciences (CIRES), CIRES 
+Education and Outreach Program, University of Colorado Boulder, Boulder, 
+Colorado, United States of America.
+(2)Cooperative Institute for Research in Environmental Sciences (CIRES), 
+National Snow and Ice Data Center, University of Colorado Boulder, Boulder, 
+Colorado, United States of America.
+(3)Environmental Sciences Department, Spruce W. Schoenemann, University of 
+Montana Western, Dillon, MT, United States of America.
+(4)Department of Environmental Science, Western Washington University, 
+Bellingham, WA, United States of America.
+
+Individuals usually develop a sense of place through lived experiences or 
+travel. Here we introduce new and innovative tools to measure sense of place for 
+remote, far-away locations, such as Greenland. We apply this methodology within 
+place-based education to study whether we can distinguish a sense of place 
+between those who have visited Greenland or are otherwise strongly connected to 
+the place from those who never visited. Place-based education research indicates 
+that an increased sense of place has a positive effect on learning outcomes. 
+Thus, we hypothesize that vicarious experiences with a place result in a 
+measurably stronger sense of place when compared to the sense of place of those 
+who have not experienced the place directly. We studied two distinct groups; the 
+first are people with a strong Greenland connection (experts, n = 93). The 
+second are students who have never been there (novices, n = 142). Using i) 
+emotional value attribution of words, ii) thematic analysis of phrases and iii) 
+categorization of words, we show significant differences between novice's and 
+expert's use of words and phrases to describe Greenland as a proxy of sense of 
+place. Emotional value of words revealed statistically significant differences 
+between experts and novices such as word power (dominance), feeling pleasantness 
+(valence), and degree of arousal evoked by the word. While both groups have an 
+overall positive impression of Greenland, 31% of novices express a neutral view 
+with little to no awareness of Greenland (experts 4% neutral). We found 
+differences between experts and novices along dimensions such as natural 
+features; cultural attributes; people of Greenland; concerns, importance, or 
+interest in and feeling connected to Greenland. Experts exhibit more complex 
+place attributes, frequently using emotional words, while novices present a 
+superficial picture of Greenland. Engaging with virtual environments may shift 
+novice learners to a more expert-like sense of place, for a far-away places like 
+Greenland, thus, we suggest virtual field trips can supplement geoscience 
+teaching of concepts in far-away places like Greenland and beyond.
+
+Copyright: © 2023 Gold et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0293003
+PMCID: PMC10602358
+PMID: 37883501 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

@@ -1,0 +1,55 @@
+1. Behav Res Methods. 2025 Apr 11;57(5):143. doi: 10.3758/s13428-025-02644-z.
+
+Psycholinguistic norms for the dominant and secondary names of 700 LinguaPix 
+color photographs in Mandarin Chinese.
+
+Chang YN(1), Cheng L(2), Wang J(3), Tsang YK(4), Krautz AE(5), Yeung SS(2), Wang 
+S(6), Chen HC(7).
+
+Author information:
+(1)Miin Wu School of Computing, National Cheng Kung University, Tainan, Taiwan.
+(2)Department of Psychology, The Education University of Hong Kong, Hong Kong 
+S.A.R, 10 Lo Ping Road, Taipo, N.T, China.
+(3)Department of Psychology, The Education University of Hong Kong, Hong Kong 
+S.A.R, 10 Lo Ping Road, Taipo, N.T, China. jwang@eduhk.hk.
+(4)Department of Education Studies, Hong Kong Baptist University, Hong Kong, 
+S.A.R., China.
+(5)Department of English, American and Celtic Studies, University of Bonn, Bonn, 
+Germany.
+(6)Philosophy and Social Science Laboratory of Reading and Development in 
+Children and Adolescents (South China Normal University), Ministry of Education, 
+Guangzhou, China.
+(7)Department of Psychology, The Chinese University of Hong Kong, Hong Kong, 
+S.A.R., China.
+
+Norming studies on picture naming usually identify different correct names for 
+each picture and provide more information on the dominant name (i.e., the most 
+frequently produced name of a given picture) or weighted values based on all the 
+names. The current study is among the first attempts to establish 
+psycholinguistic norms for both the dominant and secondary names of pictures. 
+The following norms in Mandarin Chinese were provided for 700 color photographs 
+from the LinguaPix database: name agreement, naming latency, name length, image 
+agreement, age of acquisition (AoA), and concept familiarity of the dominant and 
+secondary names, as well as overall accuracy, number of names, H-statistic, 
+familiarity, visual complexity, valence, and arousal of the pictures. This 
+dataset increases the diversity of stimuli available for picture naming studies 
+in Chinese and greatly facilitates stimuli selection by allowing researchers to 
+manipulate not only common psycholinguistic properties of the dominant picture 
+name but also those of the secondary name and the relations between them. The 
+database is available in the Open Science Framework repository ( 
+https://osf.io/5rphx/ ).
+
+© 2025. The Author(s).
+
+DOI: 10.3758/s13428-025-02644-z
+PMCID: PMC11991977
+PMID: 40216696 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: The methodology 
+of this study was approved by the Human Research Ethics Committee of the 
+Education University of Hong Kong (Ethics approval number: 2022–2023-0043). 
+Consent to participate: Informed consent for participation was obtained from 
+each participant before the experiment. Consent for publication: Informed 
+consent for dissemination of the finding (international conferences or 
+scientific journals) was obtained from each participant before the experiment. 
+Conflicts of interest: The authors declare no competing financial interests.

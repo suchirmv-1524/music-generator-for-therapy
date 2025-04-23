@@ -1,0 +1,53 @@
+1. BMJ Open. 2024 Sep 17;14(9):e078526. doi: 10.1136/bmjopen-2023-078526.
+
+Efficacy of reminiscence therapy with different media on cognitive function and 
+negative moods for older adult patients who had a stroke: protocol of a network 
+meta-analysis.
+
+Liu Q(1), Liu L(1), Wang F(1), Tan L(1), Cheng H(2), Hu X(3).
+
+Author information:
+(1)Innovation Center of Nursing Research, Nursing Key Laboratory of Sichuan 
+Province, West China Hospital of Sichuan University, Chengdu, China.
+(2)University of Electronic Science and Technology of China, Chengdu, China.
+(3)Innovation Center of Nursing Research, Nursing Key Laboratory of Sichuan 
+Province, West China Hospital of Sichuan University, Chengdu, China 
+huxiuying@scu.edu.cn.
+
+INTRODUCTION: Stroke is a common cause of death and disability in the older 
+adult and increases the risk and severity of cognitive impairment, which is a 
+factor for long-term death among stroke survivors. Some studies have focused on 
+the effects of reminiscence therapy with different media on stroke survivors. It 
+is currently unclear which is the best medium. This protocol aims to deal with 
+this problem by using a network meta-analysis.
+METHODS AND ANALYSIS: Published randomised controlled trials will be included if 
+reminiscence therapy plus usual care was applied in older adult patients who had 
+a stroke in the experimental group and usual care was applied in the control 
+group. Six electronic databases will be searched from their inception to August 
+2023, including the Cochrane Library, CINAHL, PubMed, Web of Science, Medline 
+and Embase. The media of reminiscence therapy may include (but not restricted 
+to) old photos, music or movies. Outcomes will be cognitive function and 
+negative moods. Study selection, data extraction and quality assessment will be 
+performed independently by two reviewers. The risk of bias (RoB) of the included 
+studies will be evaluated in accordance with the Cochrane Collaboration's RoB 
+tool. The evidence quality will be measured based on the Grading of 
+Recommendations Assessment, Development and Evaluation. To compare the efficacy 
+of reminiscence therapy with different media, standard pairwise meta-analysis 
+and Bayesian network meta-analysis will be conducted. The probabilities of 
+intervention for all outcomes will be ranked based on the surface under the 
+cumulative ranking curve.
+ETHICS AND DISSEMINATION: Ethical approval is not required for reviewing 
+published studies. The findings will be submitted to a peer-reviewed journal for 
+review and publication to provide important evidence for clinicians and 
+guideline developers to determine interventions for older adult patients who had 
+a stroke.
+PROSPERO REGISTRATION NUMBER: CRD42023447828.
+
+© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2023-078526
+PMCID: PMC11409348
+PMID: 39289018 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

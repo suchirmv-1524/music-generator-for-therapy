@@ -1,0 +1,43 @@
+1. Acta Psychol (Amst). 2025 May;255:104898. doi: 10.1016/j.actpsy.2025.104898. 
+Epub 2025 Mar 18.
+
+Music therapy and its impact on anxiety and mental well-being of Chinese 
+students: An experimental comparison of traditional and VR approaches.
+
+Liu G(1), Hu J(2), Kostikova I(3).
+
+Author information:
+(1)Department of Educational Studies and Innovative Pedagogy, H.S. Skovoroda 
+Kharkiv National Pedagogical University, Kharkiv, Ukraine.
+(2)Department of Educational Studies and Innovative Pedagogy, H.S. Skovoroda 
+Kharkiv National Pedagogical University, Kharkiv, Ukraine. Electronic address: 
+15651787938@163.com.
+(3)Department of Theory and Practice of the English, H.S. Skovoroda Kharkiv 
+National Pedagogical University, Kharkiv, Ukraine.
+
+The incorporation of advanced technologies into music therapy can potentially 
+benefit many therapeutic approaches. This study aims to examine the 
+effectiveness of music therapy, conventional and VR-enhanced, in improving 
+graduate students' mental well-being and reducing their anxiety level. The study 
+involved 270 fourth-year undergraduate students from three universities in 
+China. Using the Chinese versions of the Warwick-Edinburgh Mental Well-Being 
+Scale (WEMWBS) and the Test Anxiety Scale (TAS), the study found that the 
+control group experienced the worsening of mental well-being and higher anxiety 
+when compared to baseline, with the mean differences of 2.62 and 2.60 points, 
+respectively. The conventional music therapy group exhibited an improvement in 
+mental well-being of 3.81 points, whereas their anxiety level decreased by 3.53 
+points. The effects of the intervention were even more pronounced in the VR-MT 
+group, with an increase in the WEMWBS score of 7.48 points and a decrease in the 
+anxiety score of 6.36 points. The results provided strong evidence of 
+significant differences between the three conditions (p < 0.001). This study 
+provides empirical evidence that VR-enhanced music therapy is a more effective 
+method for reducing anxiety and improving mental health than the conventional 
+approach.
+
+Copyright © 2025 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.actpsy.2025.104898
+PMID: 40106973 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors 
+declare that they have no conflict of interest.

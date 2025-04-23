@@ -1,0 +1,67 @@
+1. J Crit Care. 2025 Jun;87:155044. doi: 10.1016/j.jcrc.2025.155044. Epub 2025
+Mar  3.
+
+The effects of hypnosis and music intervention on comfort and anxiety during 
+weaning from mechanical ventilation: A pilot study.
+
+Devroey M(1), Orbegozo Cortes D(2), Gaspard N(3), Foucart J(4), Preiser JC(2), 
+Taccone FS(5).
+
+Author information:
+(1)Department of Intensive Care Medicine, Erasme Hospital, Université Libre de 
+Bruxelles (ULB), Brussels, Belgium; Psychophysiology of Movement Research Unit, 
+Faculty of Motor Sciences, Université Libre de Bruxelles (ULB), Biomedical 
+Research Department, Erasme Hospital, Université Libre de Bruxelles (ULB), 
+Brussels, Belgium.
+(2)Department of Intensive Care Medicine, Erasme Hospital, Université Libre de 
+Bruxelles (ULB), Brussels, Belgium.
+(3)Department of Neurology, Erasme Hospital, Université Libre de Bruxelles 
+(ULB), Brussels, Belgium.
+(4)Psychophysiology of Movement Research Unit, Faculty of Motor Sciences, 
+Université Libre de Bruxelles (ULB), Biomedical Research Department, Erasme 
+Hospital, Université Libre de Bruxelles (ULB), Brussels, Belgium.
+(5)Department of Intensive Care Medicine, Erasme Hospital, Université Libre de 
+Bruxelles (ULB), Brussels, Belgium. Electronic address: fabio.taccone@ulb.be.
+
+OBJECTIVE: To compare the efficacy of hypnosis or music intervention in 
+alleviating distressing symptoms in critically ill patients facing extended or 
+challenging liberation from mechanical ventilation (MV).
+STUDY DESIGN: Single-center, prospective interventional trial.
+METHODS: Critically ill patients experiencing extended or challenging MV weaning 
+were assigned to either a hypnosis group or a music intervention group where 
+participants chose calming music from a provided list for a 30-min session. 
+Inclusion criteria encompassed periods during pressure support ventilation, 
+spontaneous breathing trials with tracheostomy or immediately after MV weaning. 
+Hemodynamic, respiratory and electroencephalogram (EEG) parameters were 
+collected before, during and after the intervention. Cortisol blood levels were 
+also assessed. The primary outcome was the patient comfort and anxiety levels 
+assessed using a Visual Analog Scale (VAS).
+RESULTS: Twenty-nine patients out of 75 eligible patients were enrolled in the 
+study (15 in the hypnosis group and 14 in the music intervention group). The 
+comfort level increased from 4 [2-6] to 8 [7-9] (p < 0.01) and from 5 [4-6] to 7 
+[5-8] (p < 0.01) for the hypnosis and music intervention groups, respectively 
+(both p < 0.01). The anxiety level decreased from 5 [5-7] to 3 [2-5] (p < 0.01) 
+and from 6 [5-8] to 4 [3-6] (p < 0.01) for the hypnosis and music intervention 
+groups, respectively (both p < 0.01). No differences were observed between the 
+study groups. Respiratory rate decreased after hypnosis from 28 [25-37] to 24 
+[23-35] (p < 0.01), but was unchanged with music intervention. Heart rate showed 
+a significant decline from baseline values after both interventions, but 
+reverted to initial values subsequently. Mean arterial pressure exhibited an 
+elevation from 94 (86-110) to 99 (80-108) mmHg after hypnosis (p = 0.01), while 
+a reduction from 87 (75-101) to 82 (74-88) mmHg after music intervention 
+(p = 0.01). Cortisol concentrations significantly decreased from 249 [175-291] 
+to 207 [145-242] μg/L after music intervention (p = 0.02), but was unchanged 
+after hypnosis (both p = 0.04). Both interventions led to a significant decrease 
+in slow delta power and an increase in theta and alpha power on EEG, indicative 
+of a hypnosis-like state.
+CONCLUSIONS: In this pilot study, a single session of either hypnosis or music 
+intervention was demonstrated to effectively reduce anxiety and enhance comfort, 
+in critically ill patients facing extended or challenging MV weaning.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcrc.2025.155044
+PMID: 40036993 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+report no conflict of interest.

@@ -1,0 +1,49 @@
+1. Noise Health. 2025 Jan-Feb 01;27(124):89-94. doi: 10.4103/nah.nah_124_24. Epub
+ 2025 Feb 28.
+
+Effects of Music Therapy Combined with Hospice Care on the Quality of Life and 
+Negative Emotions of Elderly Patients with Advanced Breast Cancer.
+
+Wu L(1)(2)(3), Zhou F(4), Cheng Y(1)(2)(3), Lv W(1)(2)(3), Shi W(1)(2)(3), Xu 
+X(1)(2)(3).
+
+Author information:
+(1)Nursing Department, Affiliated Hospital 6th of Nantong University, Jiangsu 
+224005, China.
+(2)Nursing Department, The Yancheng School of Clinical Medicine of Nanjing 
+Medical University, Jiangsu 224005, China.
+(3)Nursing Department, Yancheng Third People's Hospital, Jiangsu 224005, China.
+(4)Oncology Department, Yancheng First People's Hospital, Jiangsu 224005, China.
+
+OBJECTIVE: The study aims to explore the effects of music therapy combined with 
+hospice care on the quality of life and negative emotions of elderly patients 
+with advanced breast cancer.
+METHODS: A retrospective analysis was performed on 240 elderly patients with 
+advanced breast cancer who were treated at Yancheng Third People's Hospital and 
+Yancheng First People's Hospital from January 2020 to June 2024. The patients 
+were classified into the hospice care group and the music therapy group, with 
+120 cases in each group. The hospice care group received only hospice care, 
+while the music therapy group received music therapy combined with hospice care. 
+Quality of life [Functional Assessment of Cancer Therapy-Breast (FACT-B)], pain 
+level [visual analog scale (VAS)], cancer-related fatigue symptoms [Brief 
+Fatigue Inventory (BFI)], negative emotions [Hamilton Anxiety Scale (HAMA) and 
+Hamilton Depression Scale (HAMD)], and medication compliance were compared 
+between the two groups.
+RESULTS: After care, the FACT-B scores of the music therapy group were 
+significantly higher than those of the hospice care group, whereas its VAS, BFI, 
+HAMA, and HAMD scores were significantly lower in the music therapy group 
+compared to the hospice care group (P < 0.05). The total compliance rate of the 
+music therapy group was 96.67%, which was significantly higher than that of the 
+hospice care group (80.00%, P < 0.05).
+CONCLUSION: Music therapy combined with hospice care for elderly patients with 
+breast cancer can effectively relieve their pain and cancer-related fatigue 
+symptoms, reduce their negative emotions, and improve their therapy compliance 
+and quality of life.
+
+Copyright © 2025 Noise & Health.
+
+DOI: 10.4103/nah.nah_124_24
+PMCID: PMC11991126
+PMID: 40029683 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflicts of interest.

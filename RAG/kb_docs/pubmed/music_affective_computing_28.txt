@@ -1,0 +1,40 @@
+1. Front Comput Neurosci. 2018 Jan 10;11:115. doi: 10.3389/fncom.2017.00115. 
+eCollection 2017.
+
+Electroencephalography Amplitude Modulation Analysis for Automated Affective 
+Tagging of Music Video Clips.
+
+Clerico A(1), Tiwari A(1), Gupta R(1), Jayaraman S(1), Falk TH(1).
+
+Author information:
+(1)Centre Energie, Materiaux, Telecommunications, Institut National de la 
+Recherche Scientifique, University of Quebec, Montreal, QC, Canada.
+
+The quantity of music content is rapidly increasing and automated affective 
+tagging of music video clips can enable the development of intelligent 
+retrieval, music recommendation, automatic playlist generators, and music 
+browsing interfaces tuned to the users' current desires, preferences, or 
+affective states. To achieve this goal, the field of affective computing has 
+emerged, in particular the development of so-called affective brain-computer 
+interfaces, which measure the user's affective state directly from measured 
+brain waves using non-invasive tools, such as electroencephalography (EEG). 
+Typically, conventional features extracted from the EEG signal have been used, 
+such as frequency subband powers and/or inter-hemispheric power asymmetry 
+indices. More recently, the coupling between EEG and peripheral physiological 
+signals, such as the galvanic skin response (GSR), have also been proposed. 
+Here, we show the importance of EEG amplitude modulations and propose several 
+new features that measure the amplitude-amplitude cross-frequency coupling per 
+EEG electrode, as well as linear and non-linear connections between multiple 
+electrode pairs. When tested on a publicly available dataset of music video 
+clips tagged with subjective affective ratings, support vector classifiers 
+trained on the proposed features were shown to outperform those trained on 
+conventional benchmark EEG features by as much as 6, 20, 8, and 7% for arousal, 
+valence, dominance and liking, respectively. Moreover, fusion of the proposed 
+features with EEG-GSR coupling features showed to be particularly useful for 
+arousal (feature-level fusion) and liking (decision-level fusion) prediction. 
+Together, these findings show the importance of the proposed features to 
+characterize human affective states during music clip watching.
+
+DOI: 10.3389/fncom.2017.00115
+PMCID: PMC5767842
+PMID: 29367844

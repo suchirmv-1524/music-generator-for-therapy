@@ -1,0 +1,63 @@
+1. Neuroimage. 2025 Jan;305:120986. doi: 10.1016/j.neuroimage.2024.120986. Epub 
+2024 Dec 21.
+
+Emotional pictures in the brain and their interaction with the task: A 
+fine-grained fMRI coordinate-based meta-analysis study.
+
+Mansueto SP(1), Romeo Z(2), Angrilli A(3), Spironelli C(4).
+
+Author information:
+(1)Department of General Psychology, University of Padova, via Venezia 8, 35131 
+Padova, Italy.
+(2)Department of General Psychology, University of Padova, via Venezia 8, 35131 
+Padova, Italy; Neuroscience Institute, National Research Council (CNR), via 
+Gallucci 16, 35121 Padova, Italy.
+(3)Department of General Psychology, University of Padova, via Venezia 8, 35131 
+Padova, Italy; Padova Neuroscience Center, University of Padova, via Orus 2/B, 
+35129 Padova, Italy.
+(4)Department of General Psychology, University of Padova, via Venezia 8, 35131 
+Padova, Italy; Padova Neuroscience Center, University of Padova, via Orus 2/B, 
+35129 Padova, Italy. Electronic address: chiara.spironelli@unipd.it.
+
+The impacting research on emotions of the last decades was carried out with 
+different methods. The most popular was based on the use of a validated sample 
+of slides, the International Affective Pictures System (IAPS), divided mainly 
+into pleasant, neutral and unpleasant categories, and on fMRI as a measure of 
+brain activation induced by these stimuli. With the present coordinate-based 
+meta-analysis (CBMA) based on ALE approach, we aimed to unmask the main brain 
+networks involved in the contrast of pleasant vs. neutral and unpleasant vs. 
+neutral IAPS slide categories. Furthermore, we included studies employing both 
+IAPS and non-IAPS (but analogously validated) pictures, a condition termed as 
+IAPS EXTENDED. After selecting 97 papers published in the 2000-2023 interval, 
+the planned contrasts were analyzed by also considering their interaction with 
+the Load factor of the concomitant task, which comprised the conditions: No Load 
+(passive viewing), Low-Load tasks and High-Load tasks. We analyzed a total of 
+152 experiments (106 focusing on the negative vs. neutral contrast; 46 reporting 
+positive vs. neutral contrasts). We additionally performed conjunction and 
+contrast analyses. Results confirmed outcomes of past meta-analyses on the 
+involvement of a number of cortical and subcortical paralimbic and limbic 
+regions during unpleasant picture processing, but the increase of the 
+pubblications on this topic in last years, together with a more fine-grained 
+analysis, allowed us to find also the involvement of additional areas, such as 
+the right middle frontal gyrus, left inferior frontal gyrus (BA 9), posterior 
+cingulate, and left inferior parietal lobule. Concerning passive viewing and 
+low-load tasks, a clear frontal asymmetry emerged with greater right prefrontal 
+activation (BA9) to unpleasant vs. pleasant pictures, whereas, during No Load 
+tasks only, left frontal dominance to pleasant vs. unpleasant stimuli was found 
+(BA13). The unpleasant vs. neutral comparison on High-Load tasks (the pleasant 
+condition had an insufficient sample size) revealed a specific lateralization of 
+several areas of the right hemisphere (STG-BA 38, MFG-BA 46, FG-BA 37), whereas, 
+in the other load conditions, the inferior frontal gyrus was right lateralized, 
+but the main activated regions were bilateral or left lateralized. Results are 
+discussed considering the effects of both valence and task/load variables, and 
+the involvement of hippocampus/amygdala, hemispheric asymmetries of emotions, 
+the occipito-temporal areas, several sub-regions of the prefrontal/orbitofrontal 
+cortex, and an extended motor network.
+
+Copyright © 2024. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2024.120986
+PMID: 39716521 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest.

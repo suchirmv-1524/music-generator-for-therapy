@@ -1,0 +1,45 @@
+1. Front Neuroinform. 2022 Oct 25;16:997282. doi: 10.3389/fninf.2022.997282. 
+eCollection 2022.
+
+A review: Music-emotion recognition and analysis based on EEG signals.
+
+Cui X(1), Wu Y(2), Wu J(3), You Z(4), Xiahou J(5), Ouyang M(6).
+
+Author information:
+(1)The Art School, Xiamen University, Xiamen, China.
+(2)Department of Software Engineering, Xiamen University, Xiamen, China.
+(3)Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 
+Shenzhen, China.
+(4)National Institute for Data Science in Health and Medicine, School of 
+Medicine, Xiamen University, Xiamen, China.
+(5)The Mathematics and Computer School, Quanzhou Normal University, Quanzhou, 
+China.
+(6)The Affiliated Hospital of Medical School, Ningbo University, Ningbo, China.
+
+Music plays an essential role in human life and can act as an expression to 
+evoke human emotions. The diversity of music makes the listener's experience of 
+music appear diverse. Different music can induce various emotions, and the same 
+theme can also generate other feelings related to the listener's current 
+psychological state. Music emotion recognition (MER) has recently attracted 
+widespread attention in academics and industry. With the development of brain 
+science, MER has been widely used in different fields, e.g., recommendation 
+systems, automatic music composing, psychotherapy, and music visualization. 
+Especially with the rapid development of artificial intelligence, deep 
+learning-based music emotion recognition is gradually becoming mainstream. 
+Besides, electroencephalography (EEG) enables external devices to sense 
+neurophysiological signals in the brain without surgery. This non-invasive 
+brain-computer signal has been used to explore emotions. This paper surveys EEG 
+music emotional analysis, involving the analysis process focused on the music 
+emotion analysis method, e.g., data processing, emotion model, and feature 
+extraction. Then, challenging problems and development trends of EEG-based music 
+emotion recognition is proposed. Finally, the whole paper is summarized.
+
+Copyright © 2022 Cui, Wu, Wu, You, Xiahou and Ouyang.
+
+DOI: 10.3389/fninf.2022.997282
+PMCID: PMC9640432
+PMID: 36387584
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

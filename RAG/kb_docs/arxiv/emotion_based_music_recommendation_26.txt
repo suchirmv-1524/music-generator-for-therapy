@@ -1,0 +1,5 @@
+Title: Use of Variational Inference in Music Emotion Recognition
+
+Abstract: This work was developed aiming to employ Statistical techniques to the field of Music Emotion Recognition, a well-recognized area within the Signal Processing world, but hardly explored from the statistical point of view. Here, we opened several possibilities within the field, applying modern Bayesian Statistics techniques and developing efficient algorithms, focusing on the applicability of the results obtained. Although the motivation for this project was the development of a emotion-based music recommendation system, its main contribution is a highly adaptable multivariate model that can be useful interpreting any database where there is an interest in applying regularization in an efficient manner. Broadly speaking, we will explore what role a sound theoretical statistical analysis can play in the modeling of an algorithm that is able to understand a well-known database and what can be gained with this kind of approach.
+
+Link: http://arxiv.org/abs/2106.14323v2

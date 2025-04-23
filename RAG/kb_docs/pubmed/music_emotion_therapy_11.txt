@@ -1,0 +1,73 @@
+1. J Affect Disord. 2025 Apr 1:S0165-0327(25)00522-1. doi: 
+10.1016/j.jad.2025.03.173. Online ahead of print.
+
+The efficacy of psychotherapeutic interventions for prolonged grief disorder: A 
+systematic review.
+
+Srivastava T(1), Lee K(2), Ehrenkranz R(3), Cozzolino P(4), Wise FA(5), Burns 
+M(6), McCormick T(7), Yaden D(8), Agrawal M(9), Penberthy JK(10).
+
+Author information:
+(1)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: TS5SS@uvahealth.org.
+(2)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: RRA4WY@uvahealth.org.
+(3)Johns Hopkins Center for Psychedelic and Consciousness Research, Baltimore, 
+MD 21224, United States of America. Electronic address: rehrenk1@jh.edu.
+(4)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: RXQ6QZ@uvahealth.org.
+(5)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: RGZ8UD@uvahealth.org.
+(6)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: FFP7HJ@uvahealth.org.
+(7)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: THM8RC@uvahealth.org.
+(8)Johns Hopkins Center for Psychedelic and Consciousness Research, Baltimore, 
+MD 21224, United States of America. Electronic address: dyaden1@jhmi.edu.
+(9)Sunstone Therapies, Rockville, MD 20850, United States of America. Electronic 
+address: manish.agrawal@sunstonetherapies.com.
+(10)University of Virginia, Department of Psychiatry & Neurobehavioral Sciences, 
+Division of Perceptual Studies, P.O. Box 800152, Charlottesville, VA 22908-0152, 
+United States of America. Electronic address: jkp2n@uvahealth.org.
+
+Prolonged Grief Disorder (PGD), newly recognized in the ICD-11 and DSM-5-TR, 
+represents a severe and persistent bereavement response that disrupts adaptive 
+functioning. Characterized by intense yearning, preoccupation with the deceased, 
+and profound social and emotional disturbances, PGD is associated with adverse 
+physical and mental health outcomes. While most individuals progress from acute 
+to integrated grief, those with PGD remain entrenched in maladaptive grief 
+patterns. With prevalence estimates ranging from 9.8 % to 34.3 % in bereaved 
+populations, especially following traumatic or sudden losses, the need for 
+effective interventions is urgent. This systematic review examines the efficacy 
+of psychotherapeutic interventions for PGD across 30 randomized controlled 
+trials published between 2011 and 2024. Cognitive Behavioral Therapy (CBT) 
+emerged as the predominant and most effective approach, demonstrating 
+versatility across individual, group, and internet-based formats. Innovations 
+such as combining CBT with mindfulness, exposure therapy, or EMDR showed 
+promise, particularly in addressing trauma-related grief. Alternative 
+interventions, including music therapy and Accelerated Resolution Therapy, 
+revealed potential benefits but require further investigation. Mindfulness-based 
+therapies, while less prevalent, showed modest efficacy when integrated with CBT 
+frameworks. Findings emphasize the need for personalized, culturally sensitive 
+treatments tailored to the diverse circumstances of grief. The success of 
+internet-delivered interventions highlights opportunities to expand access, 
+particularly in resource-limited settings. Despite progress, gaps remain in 
+understanding the role of pharmacological adjuncts, long-term outcomes, and 
+underrepresented populations. This review underscores the importance of 
+advancing therapeutic approaches to mitigate PGD's profound impact on 
+individuals and communities, proposing directions for future research and 
+clinical practice.
+
+Copyright © 2025. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jad.2025.03.173
+PMID: 40180039
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no competing interests.

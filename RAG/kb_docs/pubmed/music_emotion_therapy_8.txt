@@ -1,0 +1,60 @@
+1. Psychooncology. 2025 Apr;34(4):e70143. doi: 10.1002/pon.70143.
+
+Storytelling Through Music With Parents Whose Children Have Died From Cancer: A 
+Randomized Controlled Feasibility Trial.
+
+Phillips CS(1), Morris SE(2), Rodriguez E(3), Woods H(4), Hebdon M(5), Choi 
+E(6), Morris J(7), Morgan RB(7), Moorjani D(1), Lutrell J(8), Gruber C(9), 
+Schroder A(9), Umberson D(10), Mao JJ(11).
+
+Author information:
+(1)School of Nursing, The University of Texas at Austin, Austin, Texas, USA.
+(2)Department of Supportive Oncology, Harvard Medical School, Dana-Farber Cancer 
+Institute, Boston, Massachusetts, USA.
+(3)Department of Educational Psychology, The University of Texas at Austin, 
+Austin, Texas, USA.
+(4)Community Hospital of the Monterey Peninsula, Ohana Center for Child and 
+Adolescent Behavioral Health, Monterey, California, USA.
+(5)College of Nursing, University of Utah, Salt Lake City, Utah, USA.
+(6)Department of Nursing, The University of Texas MD Anderson Cancer Center, 
+Houston, Texas, USA.
+(7)Dell Children's Medical Center, Austin, Texas, USA.
+(8)Quality of Life & Palliative Care Division Grief and Bereavement Services, 
+St. Jude Children's Research Hospital, Memphis, Tennessee, USA.
+(9)No Academic Affiliation.
+(10)Department of Sociology and Population Research Center, The University of 
+Texas at Austin, Austin, Texas, USA.
+(11)Weill Cornell Medicine, Memorial Sloan Kettering Cancer Center, New York, 
+New York, USA.
+
+BACKGROUND: Bereaved parents have significantly higher morbidity and mortality 
+than non-bereaved parents. Despite national guidelines recommending bereavement 
+care, resources for bereaved parents are scarce. Most intervention studies lack 
+empirical evidence of effectiveness or alignment with key theoretical concepts.
+AIMS: To evaluate the feasibility of a 6-week intervention with parents of 
+children who have died from cancer. Storytelling Through Music (STM) combines 
+multiple modalities of expression (storytelling, reflective writing, 
+songwriting) and psychoeducation to facilitate loss- and restoration-oriented 
+coping by creating a legacy piece (self-written story paired with a song) to 
+help bereaved parents adapt to a life-long process of finding meaning after 
+loss.
+METHODS: Two-group, randomized controlled trial, utilizing multiple methods. 
+Participants were randomized to STM or waitlist control. The intervention is 
+delivered online and in a group setting. Descriptive statistics were used for 
+feasibility data, content analysis to evaluate open-ended acceptability 
+questions, and RM ANOVA to evaluate the differences between psychosocial, 
+coping, and grief outcomes.
+RESULTS: Twenty-three parents were enrolled. Average age was (range: 32-68) and 
+the child's average age was 18.9 (range: 1.5-35). This study indicates that the 
+online delivery of STM is feasible and acceptable and provides preliminary 
+evidence of reducing prolonged grief and loneliness.
+CONCLUSIONS: STM is a theoretically driven, innovative approach to addressing 
+grief in a high-risk, underserved population. Findings suggest STM can be 
+delivered online and is acceptable to participants. Adding music to storytelling 
+and reflective writing provides a unique expression and preliminary data 
+suggests improvements in psychosocial well-being, coping, and grief intensity.
+
+© 2025 John Wiley & Sons Ltd.
+
+DOI: 10.1002/pon.70143
+PMID: 40195024 [Indexed for MEDLINE]

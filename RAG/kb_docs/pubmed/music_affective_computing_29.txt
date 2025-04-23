@@ -1,0 +1,43 @@
+1. Front Hum Neurosci. 2017 Dec 19;11:611. doi: 10.3389/fnhum.2017.00611. 
+eCollection 2017.
+
+Effect of Explicit Evaluation on Neural Connectivity Related to Listening to 
+Unfamiliar Music.
+
+Liu C(1), Brattico E(2)(3), Abu-Jamous B(1), Pereira CS(3), Jacobsen T(4), Nandi 
+AK(1)(5).
+
+Author information:
+(1)Department of Electronic and Computer Engineering, Brunel University London, 
+Uxbridge, United Kingdom.
+(2)Department of Clinical Medicine, Center for Music in the Brain, Aarhus 
+University & Royal Academy of Music Aarhus/Aalborg, Aarhus, Denmark.
+(3)AMI Centre, School of Science, Aalto University, Espoo, Finland.
+(4)Experimental Psychology Unit, Helmut Schmidt University, University of 
+Federal Armed Forces, Hamburg, Germany.
+(5)The Key Laboratory of Embedded Systems and Service Computing, College of 
+Electronic and Information Engineering, Tongji University, Shanghai, China.
+
+People can experience different emotions when listening to music. A growing 
+number of studies have investigated the brain structures and neural 
+connectivities associated with perceived emotions. However, very little is known 
+about the effect of an explicit act of judgment on the neural processing of 
+emotionally-valenced music. In this study, we adopted the novel consensus 
+clustering paradigm, called binarisation of consensus partition matrices 
+(Bi-CoPaM), to study whether and how the conscious aesthetic evaluation of the 
+music would modulate brain connectivity networks related to emotion and reward 
+processing. Participants listened to music under three conditions - one 
+involving a non-evaluative judgment, one involving an explicit evaluative 
+aesthetic judgment, and one involving no judgment at all (passive listening 
+only). During non-evaluative attentive listening we obtained auditory-limbic 
+connectivity whereas when participants were asked to decide explicitly whether 
+they liked or disliked the music excerpt, only two clusters of 
+intercommunicating brain regions were found: one including areas related to 
+auditory processing and action observation, and the other comprising 
+higher-order structures involved with visual processing. Results indicate that 
+explicit evaluative judgment has an impact on the neural auditory-limbic 
+connectivity during affective processing of music.
+
+DOI: 10.3389/fnhum.2017.00611
+PMCID: PMC5742221
+PMID: 29311874

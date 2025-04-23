@@ -1,0 +1,34 @@
+1. Comput Intell Neurosci. 2022 Jun 2;2022:2778181. doi: 10.1155/2022/2778181. 
+eCollection 2022.
+
+Analysis of Sentiment and Personalised Recommendation in Musical Performance.
+
+Wang D(1).
+
+Author information:
+(1)Huaihua University, School of Music and Dance, Huaihua, Hunan Province 
+418000, China.
+
+Music performance research is a comprehensive study of aspects such as emotional 
+analysis and personalisation in music performance, which help to add richness 
+and creativity to the art of music performance. The labels in this paper in 
+collaborative annotation contain rich personalised descriptive information as 
+well as item content information and can therefore be used to help provide 
+better recommendations. The algorithm is based on bipartite graph node structure 
+similarity and restarted random wandering. It analyses the connection between 
+users, items, and tags in the music social network, firstly constructs the 
+adjacency relationship between music and tags, obtains the music recommendation 
+list and indirectly associated music collection, then fuses the results 
+according to the proposed algorithm, and reorders them to obtain the final 
+recommendation list, thus realising the personalised music recommendation 
+algorithm. The experiments show that the proposed method can meet the 
+personalised demand of users for music on this dataset.
+
+Copyright © 2022 Dan Wang.
+
+DOI: 10.1155/2022/2778181
+PMCID: PMC9184155
+PMID: 35694570 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest regarding the publication of this work.

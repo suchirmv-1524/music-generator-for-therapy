@@ -1,0 +1,5 @@
+Title: Decoding and Visualising Intended Emotion in an Expressive Piano   Performance
+
+Abstract: Expert musicians can mould a musical piece to convey specific emotions that they intend to communicate. In this paper, we place a mid-level features based music emotion model in this performer-to-listener communication scenario, and demonstrate via a small visualisation music emotion decoding in real time. We also extend the existing set of mid-level features using analogues of perceptual speed and perceived dynamics.
+
+Link: http://arxiv.org/abs/2303.01875v1

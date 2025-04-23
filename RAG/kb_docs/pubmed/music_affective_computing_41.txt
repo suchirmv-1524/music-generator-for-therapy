@@ -1,0 +1,40 @@
+1. Scand J Psychol. 2010 Dec;51(6):455-64. doi: 10.1111/j.1467-9450.2010.00830.x.
+
+The effects of music on time perception and performance of a driving game.
+
+Cassidy GG(1), Macdonald RA.
+
+Author information:
+(1)Department of Computing and Engineering, Glasgow Caledonian University, 
+Scotland, UK. Gianna.Cassidy@gcal.ac.uk
+
+There is an established and growing body of evidence highlighting that music can 
+influence behavior across a range of diverse domains (Miell, MacDonald, & 
+Hargreaves 2005). One area of interest is the monitoring of "internal timing 
+mechanisms", with features such as tempo, liking, perceived affective nature and 
+everyday listening contexts implicated as important (North & Hargreaves, 2008). 
+The current study addresses these issues by comparing the effects of 
+self-selected and experimenter-selected music (fast and slow) on actual and 
+perceived performance of a driving game activity. Seventy participants completed 
+three laps of a driving game in seven sound conditions: (1) silence; (2) car 
+sounds; (3) car sounds with self-selected music, and car sounds with 
+experimenter-selected music; (4) high-arousal (70 bpm); (5) high-arousal (130 
+bpm); (6) low-arousal (70 bpm); and (7) low-arousal (130 bpm) music. Six 
+performance measures (time, accuracy, speed, and retrospective perception of 
+these), and four experience measures (perceived distraction, liking, 
+appropriateness and enjoyment) were taken. Exposure to self-selected music 
+resulted in overestimation of elapsed time and inaccuracy, while benefiting 
+accuracy and experience. In contrast, exposure to experimenter-selected music 
+resulted in poorest performance and experience. Increasing the tempo of 
+experimenter-selected music resulted in faster performance and increased 
+inaccuracy for high-arousal music, but did not impact experience. It is 
+suggested that personal meaning and subjective associations connected to 
+self-selected music promoted increased engagement with the activity, overriding 
+detrimental effects attributed to unfamiliar, less liked and less appropriate 
+experimenter-selected music.
+
+© 2010 The Authors. Scandinavian Journal of Psychology © 2010 The Scandinavian 
+Psychological Associations.
+
+DOI: 10.1111/j.1467-9450.2010.00830.x
+PMID: 20602740 [Indexed for MEDLINE]

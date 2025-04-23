@@ -1,0 +1,44 @@
+1. Sci Rep. 2024 May 18;14(1):11397. doi: 10.1038/s41598-024-62203-y.
+
+Prosocial emotions predict individual differences in economic decision-making 
+during ultimatum game with dynamic reciprocal contexts.
+
+Kim J(1), Bong SH(1), Yoon D(1), Jeong B(2).
+
+Author information:
+(1)Graduate School of Medical Science and Engineering, Korea Advanced Institute 
+of Science and Technology (KAIST), 291, Daehak-Ro, Yuseong-Gu, Daejeon, 34141, 
+South Korea.
+(2)Graduate School of Medical Science and Engineering, Korea Advanced Institute 
+of Science and Technology (KAIST), 291, Daehak-Ro, Yuseong-Gu, Daejeon, 34141, 
+South Korea. bs.jeong@kaist.ac.kr.
+
+Social decision-making is known to be influenced by predictive emotions or the 
+perceived reciprocity of partners. However, the connection between emotion, 
+decision-making, and contextual reciprocity remains less understood. Moreover, 
+arguments suggest that emotional experiences within a social context can be 
+better conceptualised as prosocial rather than basic emotions, necessitating the 
+inclusion of two social dimensions: focus, the degree of an emotion's relevance 
+to oneself or others, and dominance, the degree to which one feels in control of 
+an emotion. For better representation, these dimensions should be considered 
+alongside the interoceptive dimensions of valence and arousal. In an ultimatum 
+game involving fair, moderate, and unfair offers, this online study measured the 
+emotions of 476 participants using a multidimensional affective rating scale. 
+Using unsupervised classification algorithms, we identified individual 
+differences in decisions and emotional experiences. Certain individuals 
+exhibited consistent levels of acceptance behaviours and emotions, while 
+reciprocal individuals' acceptance behaviours and emotions followed external 
+reward value structures. Furthermore, individuals with distinct emotional 
+responses to partners exhibited unique economic responses to their emotions, 
+with only the reciprocal group exhibiting sensitivity to dominance prediction 
+errors. The study illustrates a context-specific model capable of subtyping 
+populations engaged in social interaction and exhibiting heterogeneous mental 
+states.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-62203-y
+PMCID: PMC11102497
+PMID: 38762655 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

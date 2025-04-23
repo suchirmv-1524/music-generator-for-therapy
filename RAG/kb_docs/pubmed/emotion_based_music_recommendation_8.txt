@@ -1,0 +1,79 @@
+1. Complement Med Res. 2024;31(6):540-550. doi: 10.1159/000540263. Epub 2024 Aug 
+22.
+
+Effect of Music-Based Interventions on Maternal and Fetal Parameters during 
+Pregnancy: A Systematic Review.
+
+Dogan-Gangal A(1), Akin B(2), Kocoglu-Tanyer D(3).
+
+Author information:
+(1)Department of Obstetrics and Gynecology Nursing, Faculty of Nursing, Gazi 
+University, Ankara, Turkey.
+(2)Nursing Department, Faculty of Health Sciences, Lokman Hekim University, 
+Ankara, Turkey.
+(3)Public Health Nursing Department, Faculty of Nursing, Selcuk University, 
+Konya, Turkey.
+
+INTRODUCTION: Music is a non-pharmacological intervention often used to improve 
+maternal mental health during pregnancy. However, there is limited evidence 
+regarding the effectiveness of music-based interventions on maternal and fetal 
+parameters during pregnancy. We present a systematic review of the available 
+research literature on the effects of music interventions on maternal and fetal 
+parameters.
+METHODS: A comprehensive literature search was conducted on the Web of Science, 
+PubMed, ScienceDirect, Scopus, CINAHL, MEDLINE, Cochrane, ProQuest, and Turkish 
+databases. The review included randomized controlled and quasi-experimental 
+studies. Two independent authors evaluated the methodological quality of each 
+study using the Quality Assessment Tool for Quantitative Studies. The study was 
+registered in PROSPERO (CRD42018102914).
+RESULTS: The literature review yielded a total of 723 studies. Among these 
+studies, 13 were included in this study. Most of the studies involving low-risk 
+pregnant women reported that music had no effect on stress but reduced anxiety 
+and depression. The effect of music on pregnant women's blood pressure varied 
+depending on the presence of medical conditions that could affect their blood 
+pressure. While some studies showed that music interventions effectively 
+increased fetal movement and acceleration, the available findings were limited.
+CONCLUSION: Healthcare professionals can use simple, cost-effective, and 
+practical music interventions to improve maternal mental health during pregnancy 
+without neglecting medical treatment. Future well-designed studies are 
+recommended to investigate the effects of music on maternal psychological, 
+physiological parameters and fetal parameters in high-risk pregnancies.
+
+Publisher: <title>Einleitung</title> Musik ist eine nicht-medikamentöse 
+Intervention, die häufig eingesetzt wird, um die mentale Gesundheit von 
+Schwangeren zu verbessern. Es gibt jedoch nur begrenzte Evidenz zur Wirksamkeit 
+musikbasierter Interventionen auf maternale und fetale Parameter während der 
+Schwangerschaft. Wir legen hier eine systematische Übersicht der verfügbaren 
+Forschungsliteratur über die Effekte von Musikinterventionen auf maternale und 
+fetale Parameter vor.<title>Methoden</title> In den Datenbanken Web of Science, 
+PubMed, Science Direct, Scopus, CINAHL, MEDLINE, Cochrane und ProQuest sowie 
+türkischen Datenbanken wurde eine umfassende Literaturrecherche durchgeführt. In 
+die Übersicht eingeschlossen wurden randomisierte, kontrollierte und 
+quasi-experimentelle Studien. Zwei unabhängige Autoren evaluierten die 
+methodische Qualität der einzelnen Studie mit dem Quality Assessment Tool for 
+Quantitative Studies. Die Studie wurde in PROSPERO registriert 
+(CRD42018102914).<title>Ergebnisse</title> Die Literaturrecherche ergab 
+insgesamt 723 Studien. Hiervon wurden 13 in diese Studie eingeschlossen. Die 
+meisten Studien, an denen Frauen mit niedrigem Schwangerschaftsrisiko 
+teilnahmen, ergaben, dass die Musik keine Auswirkung auf die Stressbelastung 
+hatte, jedoch Angst und Depression reduzierte. Der Effekt der Musik auf den 
+Blutdruck der Schwangeren variierte je nach Vorliegen weiterer medizinischer 
+Gegebenheiten, die jeweils den Blutdruck beeinflussen konnten. Manche Studien 
+stellten zwar eine effektive Zunahme fetaler Bewegungen und Akzelerationen fest, 
+die verfügbaren Daten waren jedoch begrenzt.<title>Schlussfolgerung</title> Das 
+medizinische Fachpersonal kann Musikinterventionen als einfache, 
+kosteneffiziente und praktikable Maβnahme einsetzen, um die mentale Gesundheit 
+von Schwangeren zu verbessern, wobei die medizinische Behandlung nicht 
+vernachlässigt werden darf. Für die Zukunft werden gut aufgebaute Studien 
+empfohlen, um die Effekte von Musik auf psychische und physische Parameter der 
+Mutter sowie auf fetale Parameter in Hochrisiko-Schwangerschaften zu 
+untersuchen.
+
+© 2024 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000540263
+PMCID: PMC11633902
+PMID: 39173611 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.

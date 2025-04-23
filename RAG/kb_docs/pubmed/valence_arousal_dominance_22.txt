@@ -1,0 +1,48 @@
+1. PLoS One. 2024 May 23;19(5):e0304107. doi: 10.1371/journal.pone.0304107. 
+eCollection 2024.
+
+Capture of emotional responses under a simulated earthquake experience using 
+near-infrared spectroscopy and virtual reality.
+
+Otsuka H(1), Okahashi S(1)(2)(3), Ishii H(4), Asaba W(4), Liu C(1), Yamamoto 
+G(1), Seiyama A(3).
+
+Author information:
+(1)Graduate School of Medicine, Kyoto University, Kyoto, Japan.
+(2)Center for Gerontology and Social Science, National Center for Geriatrics and 
+Gerontology, Obu, Japan.
+(3)Creative Design & Data Science Center, Akita International University, Akita, 
+Japan.
+(4)Graduate School of Energy Science, Kyoto University, Kyoto, Japan.
+
+AIM: In a previous study, we reported that watching two-dimensional videos of 
+earthquakes significantly reduced sympathetic nerve activity in healthy young 
+adults. In the present study, we aimed to investigate the emotional responses to 
+earthquakes using immersive virtual reality (VR), which can provide a more 
+realistic experience.
+METHODS: In total, 24 healthy young adults (12 males, 21.4 ± 0.2 years old) 
+participated. Participants were required to watch earthquake and neutral videos 
+while wearing a head-mounted display and near-infrared spectroscopy (NIRS), 
+during which physiological signals, including pulse rate and cerebral blood flow 
+(CBF) in the dorsolateral prefrontal cortex, were measured. We also analyzed 
+changes in sympathetic and parasympathetic indices and obtained seven emotion 
+ratings: valence, arousal, dominance, fear, astonishment, anxiety, and panic.
+RESULTS: The VR earthquake videos evoked negative subjective emotions, and the 
+pulse rate significantly decreased. Sympathetic nerve activity tended to 
+decrease, whereas CBF in the left prefrontal cortex showed a slight increase, 
+although this was not significant.
+CONCLUSIONS: This study showed that measurements combined with NIRS and 
+immersive VR have the potential to capture emotional responses to different 
+stimuli.
+
+Copyright: © 2024 Otsuka et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0304107
+PMCID: PMC11115202
+PMID: 38781193 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

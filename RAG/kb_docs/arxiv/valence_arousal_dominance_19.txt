@@ -1,0 +1,5 @@
+Title: The Exploration and Evaluation of Generating Affective 360$^\circ$   Panoramic VR Environments Through Neural Style Transfer
+
+Abstract: Affective virtual reality (VR) environments with varying visual style can impact users' valence and arousal responses. We applied Neural Style Transfer (NST) to generate 360$^\circ$ VR environments that elicited users' varied valence and arousal responses. From a user study with 30 participants, findings suggested that generative VR environments changed participants' arousal responses but not their valence levels. The generated visual features, e.g., textures and colors, also altered participants' affective perceptions. Our work contributes novel insights about how users respond to generative VR environments and provided a strategy for creating affective VR environments without altering content.
+
+Link: http://arxiv.org/abs/2303.13535v1

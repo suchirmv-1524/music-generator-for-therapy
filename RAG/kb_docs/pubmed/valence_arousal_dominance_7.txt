@@ -1,0 +1,46 @@
+1. Brain Sci. 2024 Dec 21;14(12):1289. doi: 10.3390/brainsci14121289.
+
+Emotion Recognition Model of EEG Signals Based on Double Attention Mechanism.
+
+Ma Y(1), Huang Z(2), Yang Y(1), Zhang S(1), Dong Q(3), Wang R(1), Hu L(4).
+
+Author information:
+(1)Xi'an Key Laboratory of High Pricision Industrial Intelligent Vision 
+Measurement Technology, School of Electronic Information, Xijing University, 
+Xi'an 710123, China.
+(2)Affiliation College of Computer Science and Technology, Chongqing University 
+of Posts and Telecommunications, Chongqing 400065, China.
+(3)School of Mathematics and Statistics, Zhengzhou University, Zhengzhou 710003, 
+China.
+(4)West China Institute of Children's Brain and Cognition, Chongqing University 
+of Education, Chongqing 400065, China.
+
+BACKGROUND: Emotions play a crucial role in people's lives, profoundly affecting 
+their cognition, decision-making, and interpersonal communication. Emotion 
+recognition based on brain signals has become a significant challenge in the 
+fields of affective computing and human-computer interaction.
+METHODS: Addressing the issue of inaccurate feature extraction and low accuracy 
+of existing deep learning models in emotion recognition, this paper proposes a 
+multi-channel automatic classification model for emotion EEG signals named DACB, 
+which is based on dual attention mechanisms, convolutional neural networks, and 
+bidirectional long short-term memory networks. DACB extracts features in both 
+temporal and spatial dimensions, incorporating not only convolutional neural 
+networks but also SE attention mechanism modules for learning the importance of 
+different channel features, thereby enhancing the network's performance. DACB 
+also introduces dot product attention mechanisms to learn the importance of 
+spatial and temporal features, effectively improving the model's accuracy.
+RESULTS: The accuracy of this method in single-shot validation tests on the 
+SEED-IV and DREAMER (Valence-Arousal-Dominance three-classification) datasets is 
+99.96% and 87.52%, 90.06%, and 89.05%, respectively. In 10-fold cross-validation 
+tests, the accuracy is 99.73% and 84.26%, 85.40%, and 85.02%, outperforming 
+other models.
+CONCLUSIONS: This demonstrates that the DACB model achieves high accuracy in 
+emotion classification tasks, demonstrating outstanding performance and 
+generalization ability and providing new directions for future research in EEG 
+signal recognition.
+
+DOI: 10.3390/brainsci14121289
+PMCID: PMC11674476
+PMID: 39766488
+
+Conflict of interest statement: The authors declare no conflicts of interest.

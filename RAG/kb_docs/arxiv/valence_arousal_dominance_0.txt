@@ -1,0 +1,5 @@
+Title: NRC VAD Lexicon v2: Norms for Valence, Arousal, and Dominance for over   55k English Terms
+
+Abstract: Factor analysis studies have shown that the primary dimensions of word meaning are Valence (V), Arousal (A), and Dominance (D) (also referred to in social cognition research as Competence (C)). These dimensions impact various aspects of our lives from social competence and emotion regulation to success in the work place and how we view the world. We present here the NRC VAD Lexicon v2, which has human ratings of valence, arousal, and dominance for more than 55,000 English words and phrases. Notably, it adds entries for $\sim$25k additional words to v1.0. It also now includes for the first time entries for common multi-word phrases (~10k). We show that the associations are highly reliable. The lexicon enables a wide variety of research in psychology, NLP, public health, digital humanities, and social sciences. The NRC VAD Lexicon v2 is made freely available for research through our project webpage.
+
+Link: http://arxiv.org/abs/2503.23547v1

@@ -1,0 +1,5 @@
+Title: Enabling Embodied Analogies in Intelligent Music Systems
+
+Abstract: The present methodology is aimed at cross-modal machine learning and uses multidisciplinary tools and methods drawn from a broad range of areas and disciplines, including music, systematic musicology, dance, motion capture, human-computer interaction, computational linguistics and audio signal processing. Main tasks include: (1) adapting wisdom-of-the-crowd approaches to embodiment in music and dance performance to create a dataset of music and music lyrics that covers a variety of emotions, (2) applying audio/language-informed machine learning techniques to that dataset to identify automatically the emotional content of the music and the lyrics, and (3) integrating motion capture data from a Vicon system and dancers performing on that music.
+
+Link: http://arxiv.org/abs/1712.00334v1

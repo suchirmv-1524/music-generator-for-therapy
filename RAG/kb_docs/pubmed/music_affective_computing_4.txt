@@ -1,0 +1,49 @@
+1. Patterns (N Y). 2023 Aug 22;4(10):100816. doi: 10.1016/j.patter.2023.100816. 
+eCollection 2023 Oct 13.
+
+Bodily expressed emotion understanding through integrating Laban movement 
+analysis.
+
+Wu C(1), Davaasuren D(1), Shafir T(2), Tsachor R(3), Wang JZ(1)(4).
+
+Author information:
+(1)Data Science and Artificial Intelligence Area, College of Information 
+Sciences and Technology, The Pennsylvania State University, University Park, PA 
+16802, USA.
+(2)The Emili Sagol Creative Arts Therapies Research Center, University of Haifa, 
+Haifa 3498838, Israel.
+(3)School of Theatre and Music, University of Illinois, Chicago, IL 60607, USA.
+(4)Human-Computer Interaction Area, College of Information Sciences and 
+Technology, The Pennsylvania State University, University Park, PA 16802, USA.
+
+Bodily expressed emotion understanding (BEEU) aims to automatically recognize 
+human emotional expressions from body movements. Psychological research has 
+demonstrated that people often move using specific motor elements to convey 
+emotions. This work takes three steps to integrate human motor elements to study 
+BEEU. First, we introduce BoME (body motor elements), a highly precise dataset 
+for human motor elements. Second, we apply baseline models to estimate these 
+elements on BoME, showing that deep learning methods are capable of learning 
+effective representations of human movement. Finally, we propose a dual-source 
+solution to enhance the BEEU model with the BoME dataset, which trains with both 
+motor element and emotion labels and simultaneously produces predictions for 
+both. Through experiments on the BoLD in-the-wild emotion understanding 
+benchmark, we showcase the significant benefit of our approach. These results 
+may inspire further research utilizing human motor elements for emotion 
+understanding and mental health analysis.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.patter.2023.100816
+PMCID: PMC10591137
+PMID: 37876902
+
+Conflict of interest statement: J.Z.W. is a named inventor on US patent 
+11,636,368, “Probabilistic multigraph modeling for improving the quality of 
+crowdsourced affective data,” and is a named inventor on the US patent 
+application titled “Systems and methods for automated recognition of bodily 
+expression of emotion.” J.Z.W. and C.W. are named inventors on the US 
+provisional patent application titled “Systems and methods for learning emotion 
+representations from verbal and nonverbal communication.” They are all assigned 
+to The Penn State Research Foundation. These interests do not influence the 
+integrity of the research, and all efforts have been made to ensure that the 
+research was conducted and presented in an unbiased manner.

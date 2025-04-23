@@ -1,0 +1,59 @@
+1. Support Care Cancer. 2025 Mar 4;33(3):245. doi: 10.1007/s00520-025-09281-4.
+
+Randomised controlled trial of music listening combined with progressive muscle 
+relaxation for mood management in women receiving chemotherapy for cancer.
+
+Nguyen KT(1), Chan DNS(1), Cheung AT(1), Hoang HTX(2), Truong AT(3), Chow KM(1), 
+Choi KC(1), Chan CWH(4).
+
+Author information:
+(1)The Nethersole School of Nursing, The Chinese University of Hong Kong, Hong 
+Kong SAR, China.
+(2)Faculty of Nursing, Phenikaa University, Hanoi, Vietnam.
+(3)Nam Dinh University of Nursing, Nam Dinh, Vietnam.
+(4)The Nethersole School of Nursing, The Chinese University of Hong Kong, Hong 
+Kong SAR, China. whchan@cuhk.edu.hk.
+
+AIMS: To evaluate the effects of passive music listening combined with 
+progressive muscle relaxation on anxiety, depression, stress, coping, and 
+quality-of-life in women with breast and gynaecological cancers receiving 
+chemotherapy.
+METHODS: This was an assessor-blinded, randomised wait-list controlled trial. A 
+total of 120 participants were randomly allocated into an intervention group or 
+a wait-list control group. The intervention group received an intervention 
+comprising training on passive music listening and progressive muscle 
+relaxation, with once-daily self-practice at home for 3 weeks. The wait-list 
+control group received the same intervention after the outcome assessment at 
+week 6. All outcome data were collected before (T0) and 3 weeks (T1), 6 weeks 
+(T2), and 12 months (T3) after randomisation. A generalised estimating equations 
+model was used to compare the changes in each outcome at different time points. 
+Process evaluation was conducted using data from the patient's self-report forms 
+and interviews.
+RESULTS: The findings indicated that at T1 and T2, the intervention group's 
+reductions in anxiety were significantly larger than those of the control group. 
+Additionally, the intervention group exhibited significantly better decreases in 
+depression at T2, stress at T1, and dysfunctional coping at T2, and a greater 
+improvement in quality-of-life score at T1 and T2 when compared to the control 
+group. Most of the interviewed participants provided positive feedback on the 
+intervention.
+CONCLUSIONS: The intervention was beneficial for lowering anxiety, depression, 
+and stress and increasing the quality-of-life of women receiving chemotherapy 
+for breast and gynaecological cancers.
+TRIAL REGISTRATION: The trial was prospectively registered with 
+ClinicalTrials.gov on 9 February 2022 (registration number: NCT05262621).
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00520-025-09281-4
+PMCID: PMC11880154
+PMID: 40035884 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethical approval: Approval for 
+this study was obtained from the Ethics Committee in Medical Research, Nam Dinh 
+University of Nursing, Vietnamese Ministry of Health (No. 2792) on 14 December 
+2021, the Joint Chinese University of Hong Kong—New Territories East Cluster 
+Clinical Research Ethics Committee (No. 2021.725) on 18 January 2022, and the 
+permission from the study sites. The study was conducted according to the 
+principles of the Declaration of Helsinki, and all participants provided written 
+informed consent before enrolment. Competing interests: The authors declare no 
+competing interests.

@@ -1,0 +1,5 @@
+Title: A Comparative Study of Western and Chinese Classical Music based on   Soundscape Models
+
+Abstract: Whether literally or suggestively, the concept of soundscape is alluded in both modern and ancient music. In this study, we examine whether we can analyze and compare Western and Chinese classical music based on soundscape models. We addressed this question through a comparative study. Specifically, corpora of Western classical music excerpts (WCMED) and Chinese classical music excerpts (CCMED) were curated and annotated with emotional valence and arousal through a crowdsourcing experiment. We used a sound event detection (SED) and soundscape emotion recognition (SER) models with transfer learning to predict the perceived emotion of WCMED and CCMED. The results show that both SER and SED models could be used to analyze Chinese and Western classical music. The fact that SER and SED work better on Chinese classical music emotion recognition provides evidence that certain similarities exist between Chinese classical music and soundscape recordings, which permits transferability between machine learning models.
+
+Link: http://arxiv.org/abs/2002.09021v1

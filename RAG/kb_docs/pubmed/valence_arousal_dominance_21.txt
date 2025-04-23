@@ -1,0 +1,43 @@
+1. Sci Rep. 2024 Jun 12;14(1):13491. doi: 10.1038/s41598-024-62990-4.
+
+TPRO-NET: an EEG-based emotion recognition method reflecting subtle changes in 
+emotion.
+
+Zhang X(1)(2), Cheng X(3)(4), Liu H(5).
+
+Author information:
+(1)School of Biomedical Engineering (Suzhou), Division of Life Sciences and 
+Medicine, University of Science and Technology of China, Hefei, 230026, China.
+(2)Suzhou Institute of Biomedical Engineering and Technology, China Academy of 
+Science, Suzhou, 215163, China.
+(3)School of Biomedical Engineering (Suzhou), Division of Life Sciences and 
+Medicine, University of Science and Technology of China, Hefei, 230026, China. 
+chengxk@sibet.ac.cn.
+(4)Suzhou Institute of Biomedical Engineering and Technology, China Academy of 
+Science, Suzhou, 215163, China. chengxk@sibet.ac.cn.
+(5)Cognitive Systems Lab, University of Bremen, Bremen, Germany. 
+hui.liu@uni-bremen.de.
+
+Emotion recognition based on Electroencephalogram (EEG) has been applied in 
+various fields, including human-computer interaction and healthcare. However, 
+for the popular Valence-Arousal-Dominance emotion model, researchers often 
+classify the dimensions into high and low categories, which cannot reflect 
+subtle changes in emotion. Furthermore, there are issues with the design of EEG 
+features and the efficiency of transformer. To address these issues, we have 
+designed TPRO-NET, a neural network that takes differential entropy and enhanced 
+differential entropy features as input and outputs emotion categories through 
+convolutional layers and improved transformer encoders. For our experiments, we 
+categorized the emotions in the DEAP dataset into 8 classes and those in the 
+DREAMER dataset into 5 classes. On the DEAP and the DREAMER datasets, TPRO-NET 
+achieved average accuracy rates of 97.63%/97.47%/97.88% and 
+98.18%/98.37%/98.40%, respectively, on the Valence/Arousal/Dominance dimension 
+for the subject-dependent experiments. Compared to other advanced methods, 
+TPRO-NET demonstrates superior performance.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-62990-4
+PMCID: PMC11169376
+PMID: 38866813 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

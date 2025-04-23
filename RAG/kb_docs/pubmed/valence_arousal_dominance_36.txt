@@ -1,0 +1,33 @@
+1. Anxiety Stress Coping. 2024 Sep;37(5):651-666. doi: 
+10.1080/10615806.2023.2295476. Epub 2023 Dec 17.
+
+Emotional processing of math-related words in people with math anxiety.
+
+Linares R(1), Pelegrina S(1), Delgado-Rodríguez R(1).
+
+Author information:
+(1)Department of Psychology, University of Jaén, Jaén, España.
+
+BACKGROUND: Research exploring emotional responses to math-related words in 
+individuals with math anxiety (MA) is scarce. Here, we examined MA participants' 
+subjective emotional processing of math-related cues within Lang's 
+bioinformational model of emotion to further understand the role of those cues 
+in MA.
+METHODS: In total, 41 high-MA and 32 low-MA undergraduates rated math-related 
+words, along with neutral, pleasant, and unpleasant words, from the Affective 
+Norms for English Words. The Self-Assessment Manikin was used to calculate 
+valence, arousal, and dominance scores for each word.
+RESULTS: The low-MA group rated math-related words as neutral on the three 
+emotional scales, however, the high-MA group rated them lower and higher for 
+valence and dominance than neutral and unpleasant words, respectively. Moreover, 
+math-related words were rated as more and less activating than neutral and 
+unpleasant words, respectively. The two groups significantly differed in scores 
+on the three scales only for the math-related words.
+CONCLUSIONS: These results provide evidence that individuals with high MA show 
+altered emotional processing of math-related words, experiencing them as 
+moderately aversive and moderately activating. The findings emphasize that the 
+altered emotional processing of words associated with math should be considered 
+a symptom of MA.
+
+DOI: 10.1080/10615806.2023.2295476
+PMID: 38105540 [Indexed for MEDLINE]

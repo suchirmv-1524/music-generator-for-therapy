@@ -1,0 +1,63 @@
+1. Cochrane Database Syst Rev. 2025 Apr 10;4(4):CD016139. doi: 
+10.1002/14651858.CD016139.
+
+Music-based interventions for people with chronic kidney disease undergoing 
+haemodialysis.
+
+Nishiwaki H(1)(2)(3)(4)(5), Levack WM(6), Hasegawa T(3)(4)(7)(8)(9)(10), Ota 
+E(11), Noma H(12), Suzuki T(13), Watanabe Y(14), Abe Y(15), Tomioka H(16), Kondo 
+D(17), Li D(18), Han Y(18), Kelly TN(2).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, Showa University Fujigaoka 
+Hospital, Yokohama, Japan.
+(2)Division of Nephrology, Department of Medicine, University of Illinois 
+Chicago, Chicago, Illinois, USA.
+(3)Institute of Clinical Epidemiology (iCE), Showa University, Tokyo, Japan.
+(4)Showa University Research Administration Center, Showa University, Tokyo, 
+Japan.
+(5)Department of Clinical Epidemiology, Fukushima Medical University, Fukushima, 
+Japan.
+(6)Rehabilitation Teaching and Research Unit, Department of Medicine, University 
+of Otago, Wellington, New Zealand.
+(7)Department of Hygiene, Public Health, and Preventive Medicine, Showa 
+University Graduate School of Medicine, Tokyo, Japan.
+(8)Department of Nephrology, Showa University Graduate School of Medicine, 
+Tokyo, Japan.
+(9)Center for Innovative Research for Communities and Clinical Excellence, 
+Fukushima Medical University, Fukushima, Japan.
+(10)Department of Healthcare Epidemiology, School of Public Health in the 
+Graduate School of Medicine, Kyoto University, Japan.
+(11)Global Health Nursing, St.Luke's International University, Tokyo, Japan.
+(12)Department of Interdisciplinary Statistical Mathematics, The Institute of 
+Statistical Mathematics, Tokyo, Japan.
+(13)Division of Nephrology, Department of Medicine, Showa University School of 
+Medicine, Tokyo, Japan.
+(14)Children's Medical Center, Showa University Northern Yokohama Hospital, 
+Yokohama, Japan.
+(15)Children's Medical Center, Showa University Koto Toyosu Hospital, Tokyo, 
+Japan.
+(16)Mental Care Center, Showa University Northern Yokohama Hospital, Yokohama, 
+Japan.
+(17)Yokohama, Japan.
+(18)College of Medicine, University of Illinois, Chicago, Illinois, USA.
+
+This is a protocol for a Cochrane Review (intervention). The objectives are as 
+follows: To assess the effects of music-based interventions on fatigue, blood 
+pressure, depression, pain, anxiety, stress, QoL, and sleep quality in people 
+with CKD receiving HD.
+
+Copyright © 2025 The Authors. Cochrane Database of Systematic Reviews published 
+by John Wiley & Sons, Ltd. on behalf of The Cochrane Collaboration.
+
+DOI: 10.1002/14651858.CD016139
+PMCID: PMC11983671
+PMID: 40207669 [Indexed for MEDLINE]
+
+Conflict of interest statement: HNishiwaki, TH, EO, TS, YW, YA, HT, DK, DL, YH 
+and TK: No commercial or non‐commercial conflicts of interest relevant to this 
+review. WML: Employee of the University of Otago, member of Cochrane 
+Rehabilitation Advisory Committee and has no commercial or non‐commercial 
+conflicts of interest relevant to this review. He was not involved in the 
+editorial process for this protocol. HNoma received a grant from 
+GlaxoSmithKline.

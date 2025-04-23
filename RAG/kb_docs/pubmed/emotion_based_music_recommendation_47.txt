@@ -1,0 +1,49 @@
+1. Front Psychol. 2022 Apr 13;13:822264. doi: 10.3389/fpsyg.2022.822264. 
+eCollection 2022.
+
+The CODA Model: A Review and Skeptical Extension of the Constructionist Model of 
+Emotional Episodes Induced by Music.
+
+Lennie TM(1), Eerola T(1).
+
+Author information:
+(1)Department of Music, Durham University, Durham, United Kingdom.
+
+This paper discusses contemporary advancements in the affective sciences 
+(described together as skeptical theories) that can inform the music-emotion 
+literature. Key concepts in these theories are outlined, highlighting their 
+points of agreement and disagreement. This summary shows the importance of 
+appraisal within the emotion process, provides a greater emphasis upon 
+goal-directed accounts of (emotion) behavior, and a need to move away from 
+discrete emotion "folk" concepts and toward the study of an emotional episode 
+and its components. Consequently, three contemporary music emotion theories 
+(BRECVEMA, Multifactorial Process Approach, and a Constructionist Account) are 
+examined through a skeptical lens. This critique highlights the over-reliance 
+upon categorization and a lack of acknowledgment of appraisal processes, 
+specifically goal-directed appraisal, in examining how individual experiences of 
+music emerge in different contexts. Based on this critique of current 
+music-emotion models, we present our skeptically informed CODA model - 
+Constructivistly-Organised Dimensional-Appraisal model. This model addresses 
+skeptical limitations of existing theories, reinstates the role of goal-directed 
+appraisal as central to what makes music relevant and meaningful to an 
+individual in different contexts and brings together different theoretical 
+frameworks into a single model. From the development of the CODA model, several 
+hypotheses are proposed and applied to musical contexts. These hypotheses 
+address theoretical issues such as acknowledging individual and contextual 
+differences in emotional intensity and valence, as well as differentiating 
+between induced and perceived emotions, and utilitarian and aesthetic emotions. 
+We conclude with a sections of recommendations for future research. Altogether, 
+this theoretical critique and proposed model points toward a positive future 
+direction for music-emotion science. One where researchers can take forward 
+testable predictions about what makes music relevant and meaningful to an 
+individual.
+
+Copyright © 2022 Lennie and Eerola.
+
+DOI: 10.3389/fpsyg.2022.822264
+PMCID: PMC9043863
+PMID: 35496245
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

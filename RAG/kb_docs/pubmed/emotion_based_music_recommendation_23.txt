@@ -1,0 +1,71 @@
+1. J Clin Oncol. 2023 Oct 1;41(28):4562-4591. doi: 10.1200/JCO.23.00857. Epub
+2023  Aug 15.
+
+Integrative Oncology Care of Symptoms of Anxiety and Depression in Adults With 
+Cancer: Society for Integrative Oncology-ASCO Guideline.
+
+Carlson LE(1), Ismaila N(2), Addington EL(3), Asher GN(4), Atreya C(5), 
+Balneaves LG(6), Bradt J(7), Fuller-Shavel N(8), Goodman J(9), Hoffman CJ(10), 
+Huston A(11), Mehta A(12), Paller CJ(13), Richardson K(14), Seely D(15)(16), 
+Siwik CJ(17), Temel JS(18), Rowland JH(19).
+
+Author information:
+(1)Department of Oncology, Cumming School of Medicine, University of Calgary, 
+Calgary, AB, Canada.
+(2)American Society of Clinical Oncology, Alexandria, VA.
+(3)Northwestern University Feinberg School of Medicine, Chicago, IL.
+(4)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel 
+Hill, NC.
+(5)University of California San Francisco, San Francisco, CA.
+(6)College of Nursing, University of Manitoba, Winnipeg, MB, Canada.
+(7)Department of Creative Arts Therapies, Drexel University, Philadelphia, PA.
+(8)Synthesis Clinic, Winchester, United Kingdom.
+(9)The George Washington University, Washington, DC.
+(10)Paul's Cancer Support, London, United Kingdom.
+(11)University of Rochester Medical Center, Rochester, NY.
+(12)Memorial Healthcare System, Hollywood, FL.
+(13)Sidney Kimmel Comprehensive Cancer Center, John Hopkins University, 
+Baltimore, MD.
+(14)Patient Representative, University of Illinois Cancer Center, Chicago, IL.
+(15)University of Ottawa, Ottawa, ON, Canada.
+(16)Canadian College of Naturopathic Medicine, Toronto, ON, Canada.
+(17)Osher Center for Integrative Health, University of California, San 
+Francisco, San Francisco, CA.
+(18)Massachusetts General Hospital and Harvard Medical School, Boston, MA.
+(19)Smith Center for Healing and the Arts, Washington, DC.
+
+PURPOSE: To provide evidence-based recommendations to health care providers on 
+integrative approaches to managing anxiety and depression symptoms in adults 
+living with cancer.
+METHODS: The Society for Integrative Oncology and ASCO convened an expert panel 
+of integrative oncology, medical oncology, radiation oncology, surgical 
+oncology, palliative oncology, social sciences, mind-body medicine, nursing, 
+methodology, and patient advocacy representatives. The literature search 
+included systematic reviews, meta-analyses, and randomized controlled trials 
+published from 1990 through 2023. Outcomes of interest included anxiety or 
+depression symptoms as measured by validated psychometric tools, and adverse 
+events. Expert panel members used this evidence and informal consensus with the 
+Guidelines into Decision Support methodology to develop evidence-based guideline 
+recommendations.
+RESULTS: The literature search identified 110 relevant studies (30 systematic 
+reviews and 80 randomized controlled trials) to inform the evidence base for 
+this guideline.
+RECOMMENDATIONS: Recommendations were made for mindfulness-based interventions 
+(MBIs), yoga, relaxation, music therapy, reflexology, and aromatherapy (using 
+inhalation) for treating symptoms of anxiety during active treatment; and MBIs, 
+yoga, acupuncture, tai chi and/or qigong, and reflexology for treating anxiety 
+symptoms after cancer treatment. For depression symptoms, MBIs, yoga, music 
+therapy, relaxation, and reflexology were recommended during treatment, and 
+MBIs, yoga, and tai chi and/or qigong were recommended post-treatment.
+DISCUSSION: Issues of patient-health care provider communication, health 
+disparities, comorbid medical conditions, cost implications, guideline 
+implementation, provider training and credentialing, and quality assurance of 
+natural health products are discussed. While several approaches such as MBIs and 
+yoga appear effective, limitations of the evidence base including assessment of 
+risk of bias, nonstandardization of therapies, lack of diversity in study 
+samples, and lack of active control conditions as well as future research 
+directions are discussed.Additional information is available at 
+www.asco.org/survivorship-guidelines.
+
+DOI: 10.1200/JCO.23.00857
+PMID: 37582238 [Indexed for MEDLINE]

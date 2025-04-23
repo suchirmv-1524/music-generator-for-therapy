@@ -1,0 +1,52 @@
+1. PLoS One. 2018 Jan 2;13(1):e0189367. doi: 10.1371/journal.pone.0189367. 
+eCollection 2018.
+
+Evidence of emotion-antecedent appraisal checks in electroencephalography and 
+facial electromyography.
+
+Coutinho E(1)(2), Gentsch K(3), van Peer J(4), Scherer KR(3), Schuller BW(2)(5).
+
+Author information:
+(1)Department of Music, University of Liverpool, Liverpool, United Kingdom.
+(2)Department of Computing, Imperial College London, London, United Kingdom.
+(3)Swiss Center for Affective Sciences, University of Geneva, Geneva, 
+Switzerland.
+(4)Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, 
+Netherlands.
+(5)Chair of Complex & Intelligent Systems, University of Passau, Passau, 
+Germany.
+
+In the present study, we applied Machine Learning (ML) methods to identify 
+psychobiological markers of cognitive processes involved in the process of 
+emotion elicitation as postulated by the Component Process Model (CPM). In 
+particular, we focused on the automatic detection of five appraisal 
+checks-novelty, intrinsic pleasantness, goal conduciveness, control, and 
+power-in electroencephalography (EEG) and facial electromyography (EMG) signals. 
+We also evaluated the effects on classification accuracy of averaging the raw 
+physiological signals over different numbers of trials, and whether the use of 
+minimal sets of EEG channels localized over specific scalp regions of interest 
+are sufficient to discriminate between appraisal checks. We demonstrated the 
+effectiveness of our approach on two data sets obtained from previous studies. 
+Our results show that novelty and power appraisal checks can be consistently 
+detected in EEG signals above chance level (binary tasks). For novelty, the best 
+classification performance in terms of accuracy was achieved using features 
+extracted from the whole scalp, and by averaging across 20 individual trials in 
+the same experimental condition (UAR = 83.5 ± 4.2; N = 25). For power, the best 
+performance was obtained by using the signals from four pre-selected EEG 
+channels averaged across all trials available for each participant (UAR = 70.6 ± 
+5.3; N = 24). Together, our results indicate that accurate classification can be 
+achieved with a relatively small number of trials and channels, but that 
+averaging across a larger number of individual trials is beneficial for the 
+classification for both appraisal checks. We were not able to detect any 
+evidence of the appraisal checks under study in the EMG data. The proposed 
+methodology is a promising tool for the study of the psychophysiological 
+mechanisms underlying emotional episodes, and their application to the 
+development of computerized tools (e.g., Brain-Computer Interface) for the study 
+of cognitive processes involved in emotions.
+
+DOI: 10.1371/journal.pone.0189367
+PMCID: PMC5749688
+PMID: 29293572 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

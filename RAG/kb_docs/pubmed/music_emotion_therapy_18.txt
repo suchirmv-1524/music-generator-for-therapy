@@ -1,0 +1,62 @@
+1. BMC Pregnancy Childbirth. 2025 Mar 27;25(1):361. doi: 
+10.1186/s12884-025-07435-0.
+
+The effect of virtual reality (VR) glasses and therapeutic touch (TT) on pain, 
+anxiety, and patient satisfaction during intrauterine insemination (IUI) 
+compared to standard care: a single-blind, randomized controlled trial.
+
+Bal S(1), Karakaya N(2), Koç E(2), Güven D(3).
+
+Author information:
+(1)Department of Midwifery, Faculty of Health Sciences, Ondokuz Mayis 
+University, Samsun, Türkiye, Turkey. sumeyyebal@gmail.com.
+(2)Department of Midwifery, Faculty of Health Sciences, Ondokuz Mayis 
+University, Samsun, Türkiye, Turkey.
+(3)Faculty of Medicine, Gynecology and Obstetrics, Ondokuz Mayis University, 
+Samsun, Türkiye, Turkey.
+
+BACKGROUND: Intrauterine insemination (IUI) also found that this experience was 
+associated with anxiety. Therefore, measures must be taken to reduce or 
+eliminate the pain and anxiety associated with it.
+OBJECTIVES: This study investigated the effect of virtual reality glasses (VRG) 
+and therapeutic touch (TT) on pain, anxiety and satisfaction during intrauterine 
+insemination.
+METHODS: A single blind randomized controlled trial design was used. Patients 
+were randomized into three groups: the virtual reality group (VRG, n = 32), the 
+therapeutic touch group (TT, n = 32), and the control group (CG, n = 32). The 
+study was conducted between January and June 2022 in the obstetric outpatient 
+clinics of a public hospital in northern Türkiye. Anxiety was evaluated using 
+the State Anxiety Inventory. Pain, and satisfaction were evaluated using the 
+Visual Analogue Scale [VAS]. "The study used non-parametric tests for its 
+statistics."
+RESULTS: There was a significant difference in the pain level of the VRG group 
+during IUI was lower than those of CG 3.7 ± 2.7 and TT 3.6 ± 2.9 (p = 0.01). 
+Women were most satisfied with the TT application 9.2 ± 1.1 in the IUI procedure 
+(p = 0.000). Anxiety levels after IUI were lower in the TT 43.0 ± 4.2 and VRG 
+43.9 ± 4.4 than in CG 49.9 ± 4.0 (p = 0.000).
+CONCLUSION: VRG application was effective in reducing pain associated with IUI 
+procedure in women. Although the use of VRG with music reduced the pain 
+associated with IUI more than the TT application, the women left the TT 
+application satisfied.
+TRIAL REGISTRATION: The study was registered at the Clinical Trials.gov website 
+under the code NCT05192330. The first trial registration date was (12/01/2022).
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12884-025-07435-0
+PMCID: PMC11948925
+PMID: 40148795 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The trial will be conducted in accordance with the requirements of 
+the Declaration of Helsinki. The whole project has been approved by the Clinical 
+Research Ethics Committee of the Ondokuz Mayıs University (Approval Number: 
+2021/350, number: B.30.2.ODM.Ü.20.08/464) and the study was registered at the 
+Clinical Trials.gov website under the code NCT05192330. The first trial 
+registration date was (12/01/2022). Before randomization, patients are required 
+to sign an informed consent form. Subject’s personal information is 
+confidential, participation in the study is entirely voluntary, with the right 
+to withdraw at any time during any study phase. Consent for publication: Not 
+applicable. Competing interests: The author(s) declared no potential conflicts 
+of interest with respect to the research, authorship, and/or publication of this 
+article.

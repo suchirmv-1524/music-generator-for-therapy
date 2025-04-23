@@ -1,0 +1,52 @@
+1. Front Robot AI. 2024 May 27;11:1363713. doi: 10.3389/frobt.2024.1363713. 
+eCollection 2024.
+
+Recommendations for designing conversational companion robots with older adults 
+through foundation models.
+
+Irfan B(1), Kuoppamäki S(2), Skantze G(1).
+
+Author information:
+(1)Division of Speech, Music and Hearing, KTH Royal Institute of Technology, 
+Stockholm, Sweden.
+(2)Division of Health Informatics and Logistics, KTH Royal Institute of 
+Technology, Stockholm, Sweden.
+
+Companion robots are aimed to mitigate loneliness and social isolation among 
+older adults by providing social and emotional support in their everyday lives. 
+However, older adults' expectations of conversational companionship might 
+substantially differ from what current technologies can achieve, as well as from 
+other age groups like young adults. Thus, it is crucial to involve older adults 
+in the development of conversational companion robots to ensure that these 
+devices align with their unique expectations and experiences. The recent 
+advancement in foundation models, such as large language models, has taken a 
+significant stride toward fulfilling those expectations, in contrast to the 
+prior literature that relied on humans controlling robots (i.e., Wizard of Oz) 
+or limited rule-based architectures that are not feasible to apply in the daily 
+lives of older adults. Consequently, we conducted a participatory design 
+(co-design) study with 28 older adults, demonstrating a companion robot using a 
+large language model (LLM), and design scenarios that represent situations from 
+everyday life. The thematic analysis of the discussions around these scenarios 
+shows that older adults expect a conversational companion robot to engage in 
+conversation actively in isolation and passively in social settings, remember 
+previous conversations and personalize, protect privacy and provide control over 
+learned data, give information and daily reminders, foster social skills and 
+connections, and express empathy and emotions. Based on these findings, this 
+article provides actionable recommendations for designing conversational 
+companion robots for older adults with foundation models, such as LLMs and 
+vision-language models, which can also be applied to conversational robots in 
+other domains.
+
+Copyright © 2024 Irfan, Kuoppamäki and Skantze.
+
+DOI: 10.3389/frobt.2024.1363713
+PMCID: PMC11163135
+PMID: 38860032
+
+Conflict of interest statement: GS is co-affiliated with Furhat Robotics, as its 
+Co-founder and Chief Scientist. The remaining authors declare that the research 
+was conducted in the absence of any commercial or financial relationships that 
+could be construed as a potential conflict of interest. The author(s) declared 
+that they were an editorial board member of Frontiers, at the time of 
+submission. This had no impact on the peer review process and the final 
+decision.

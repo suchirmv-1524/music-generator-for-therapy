@@ -1,0 +1,55 @@
+1. Behav Res Methods. 2024 Oct;56(7):7427-7439. doi: 10.3758/s13428-024-02428-x. 
+Epub 2024 Apr 29.
+
+TACO: A Turkish database for abstract concepts.
+
+Conca F(1), Gibbons DM(1), Bayram B(2), Incesoy EI(3)(4)(5), Tacchini M(6)(7), 
+Düzel E(3)(4), Cappa SF(8)(9), Catricalà E(1).
+
+Author information:
+(1)ICoN Cognitive Neuroscience Center, Institute for Advanced Studies, IUSS, 
+Pavia, Italy.
+(2)Department of Brain and Behavioral Sciences, University of Pavia, Pavia, 
+Italy.
+(3)German Center for Neurodegenerative Diseases (DZNE), Magdeburg, Germany.
+(4)Institute for Cognitive Neurology and Dementia Research, Magdeburg, Germany.
+(5)Department for Psychiatry and Psychotherapy, University Clinic Magdeburg, 
+Magdeburg, Germany.
+(6)Experimental Neurophysiology Unit, Institute of Experimental Neurology-INSPE, 
+Milan, Italy.
+(7)San Raffaele Vita-Salute University, Milan, Italy.
+(8)ICoN Cognitive Neuroscience Center, Institute for Advanced Studies, IUSS, 
+Pavia, Italy. stefano.cappa@iusspavia.it.
+(9)IRCCS Mondino Foundation, Pavia, Italy. stefano.cappa@iusspavia.it.
+
+The organization of abstract concepts reflects different dimensions, grounded in 
+the brain regions coding for the corresponding experience. Normative measures of 
+linguistic stimuli offer noteworthy insights into the organization of conceptual 
+knowledge, but studies differ in the dimensions and classes of concepts 
+considered. Additionally, most of the available information has been collected 
+in English, without considering possible linguistic and cultural differences. 
+Here, we aimed to create a comprehensive Turkish database for abstract concepts 
+(TACO), including rarely investigated classes such as political concepts. We 
+included 503 words-78 concrete (fruits, animals, tools) and 425 abstract 
+(emotions, social, mental states, theoretical, quantity, space, political)-rated 
+by 134 Turkish speakers for familiarity, imageability, age of acquisition, 
+valence, arousal, quantity, space, theoretical, social, mental state, and 
+political dimensions. We calculated dominance and exclusivity, indicating the 
+dimension receiving the highest mean score for each word, and the position of 
+the word along the unidimensional-multidimensional continuum, respectively. A 
+principal component analysis (PCA) was conducted on the semantic dimensions. The 
+results showed that mental state was the dominant dimension for most concepts. 
+Moderate to low levels of exclusivity indicated that the concepts were 
+multidimensional. PCA revealed three components: Component 1 captured the 
+juxtaposition between social/mental state and magnitude polarities, Component 2 
+highlighted affective components, and Component 3 grouped together political and 
+theoretical dimensions. The introduction of political concepts provided insights 
+into the multidimensional nature of this unexplored class, closely intertwined 
+with the theoretical dimension. TACO constitutes the first comprehensive Turkish 
+database covering several abstract dimensions, paving the way for 
+cross-linguistic and cross-cultural studies of semantic representations.
+
+© 2024. The Psychonomic Society, Inc.
+
+DOI: 10.3758/s13428-024-02428-x
+PMID: 38684624 [Indexed for MEDLINE]

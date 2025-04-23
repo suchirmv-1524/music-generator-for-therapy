@@ -1,0 +1,49 @@
+1. Hum Brain Mapp. 2018 May;39(5):2224-2234. doi: 10.1002/hbm.24001. Epub 2018
+Feb  7.
+
+Functional connectivity corresponding to the tonotopic differentiation of the 
+human auditory cortex.
+
+Yuan G(1)(2), Liu G(1)(2)(3)(4), Wei D(5), Wang G(6), Li Q(1)(2), Qi M(5)(2), Wu 
+S(1)(2).
+
+Author information:
+(1)College of Electronic and Information Engineering, Southwest University, 
+Chongqing, China.
+(2)Institute of Affective Computing and Information Processing, Southwest 
+University, Chongqing, China.
+(3)Chongqing Key Laboratory of Nonlinear Circuits and Intelligent Information 
+Processing, Southwest University, Chongqing, China.
+(4)Chongqing Brain Science Collaborative Innovation Center, Chongqing, China.
+(5)Faculty of Psychology, Southwest University, Chongqing, China.
+(6)College of Music, Southwest University, Chongqing, China.
+
+Recent research has demonstrated that resting-state functional connectivity 
+(RS-FC) within the human auditory cortex (HAC) is frequency-selective, but 
+whether RS-FC between the HAC and other brain areas is differentiated by 
+frequency remains unclear. Three types of data were collected in this study, 
+including resting-state functional magnetic resonance imaging (fMRI) data, 
+task-based fMRI data using six pure tone stimuli (200, 400, 800, 1,600, 3,200, 
+and 6,400 Hz), and structural imaging data. We first used task-based fMRI to 
+identify frequency-selective cortical regions in the HAC. Six regions of 
+interest (ROIs) were defined based on the responses of 50 participants to the 
+six pure tone stimuli. Then, these ROIs were used as seeds to determine RS-FC 
+between the HAC and other brain regions. The results showed that there was RS-FC 
+between the HAC and brain regions that included the superior temporal gyrus, 
+dorsolateral prefrontal cortex (DL-PFC), parietal cortex, occipital lobe, and 
+subcortical structures. Importantly, significant differences in FC were observed 
+among most of the brain regions that showed RS-FC with the HAC. Specifically, 
+there was stronger RS-FC between (1) low-frequency (200 and 400 Hz) regions and 
+brain regions including the premotor cortex, somatosensory/-association cortex, 
+and DL-PFC; (2) intermediate-frequency (800 and 1,600 Hz) regions and brain 
+regions including the anterior/posterior superior temporal sulcus, supramarginal 
+gyrus, and inferior frontal cortex; (3) intermediate/low-frequency regions and 
+vision-related regions; (4) high-frequency (3,200 and 6,400 Hz) regions and the 
+anterior cingulate cortex or left DL-PFC. These findings demonstrate that RS-FC 
+between the HAC and other brain areas is frequency selective.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hbm.24001
+PMCID: PMC6866416
+PMID: 29417705 [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+1. Entropy (Basel). 2022 Sep 20;24(10):1322. doi: 10.3390/e24101322.
+
+Automated Emotion Identification Using Fourier-Bessel Domain-Based Entropies.
+
+Nalwaya A(1), Das K(1), Pachori RB(1).
+
+Author information:
+(1)Department of Electrical Engineering, Indian Institute of Technology Indore, 
+Indore 453552, India.
+
+Human dependence on computers is increasing day by day; thus, human interaction 
+with computers must be more dynamic and contextual rather than static or 
+generalized. The development of such devices requires knowledge of the emotional 
+state of the user interacting with it; for this purpose, an emotion recognition 
+system is required. Physiological signals, specifically, electrocardiogram (ECG) 
+and electroencephalogram (EEG), were studied here for the purpose of emotion 
+recognition. This paper proposes novel entropy-based features in the 
+Fourier-Bessel domain instead of the Fourier domain, where frequency resolution 
+is twice that of the latter. Further, to represent such non-stationary signals, 
+the Fourier-Bessel series expansion (FBSE) is used, which has non-stationary 
+basis functions, making it more suitable than the Fourier representation. EEG 
+and ECG signals are decomposed into narrow-band modes using FBSE-based empirical 
+wavelet transform (FBSE-EWT). The proposed entropies of each mode are computed 
+to form the feature vector, which are further used to develop machine learning 
+models. The proposed emotion detection algorithm is evaluated using publicly 
+available DREAMER dataset. K-nearest neighbors (KNN) classifier provides 
+accuracies of 97.84%, 97.91%, and 97.86% for arousal, valence, and dominance 
+classes, respectively. Finally, this paper concludes that the obtained entropy 
+features are suitable for emotion recognition from given physiological signals.
+
+DOI: 10.3390/e24101322
+PMCID: PMC9601119
+PMID: 37420342
+
+Conflict of interest statement: The authors declare no conflict of interest.

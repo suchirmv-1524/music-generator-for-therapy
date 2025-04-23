@@ -1,0 +1,5 @@
+Title: The Design of Tangible Digital Musical Instruments
+
+Abstract: Here we present guidelines that highlight the impact of haptic feedback upon the experiences of computer musicians using Digital Musical Instruments (DMIs). In this context, haptic feedback offers a tangible, bi-directional exchange between a musician and a DMI. We propose that by adhering to and exploring these guidelines the application of haptic feedback can enhance and augment the physical and affective experiences of a musician in interactions with these devices. It has been previously indicated that in the design of haptic DMIs, the experiences and expectations of a musician must be considered for the creation of tangible DMIs and that haptic feedback can be used to address the physical-digital divide that currently exists between users of such instruments.
+
+Link: http://arxiv.org/abs/2010.01323v1

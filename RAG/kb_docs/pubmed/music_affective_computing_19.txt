@@ -1,0 +1,43 @@
+1. Neuromodulation. 2021 Dec;24(8):1475-1482. doi: 10.1111/ner.13281. Epub 2020
+Oct  7.
+
+Evaluation of the Efficacy of Musical Vibroacupuncture in Pain Relief: A 
+Randomized Controlled Pilot Study.
+
+Weber A(1), Busbridge S(1), Governo R(2).
+
+Author information:
+(1)School of Computing, Engineering and Mathematics, University of Brighton, 
+Brighton, East Sussex, UK.
+(2)Brighton and Sussex Medical School (BSMS), University of Sussex, Brighton, 
+East Sussex, UK.
+
+OBJECTIVES: To investigate if skin vibration employing consonant frequencies 
+emitted by skin transducers attached to a combination of acupuncture points and 
+according to musical harmony (musical chord) produces more significant pain 
+relief compared to just a single frequency.
+MATERIALS AND METHODS: Skin vibrostimulation produced by five electromagnet 
+transducers was applied at five acupoints traditionally used to pain relief and 
+anxiety in 13 pain-free healthy volunteers using the cold pressor test (CPT). 
+The study consisted of three randomized sessions conducted on alternate days, 
+with participants receiving either simultaneous frequencies of 32, 48, and 64 Hz 
+that equate those used in a musical chord, hereby defined as musical 
+vibroacupuncture (MVA), a single frequency of 32 Hz, set as vibroacupuncture 
+(VA) and sham procedure (SP). CPT scores for pain thresholds and pain tolerance 
+were assessed using repeated-measures ANOVAs. Pain intensity was evaluated using 
+a numerical rating scale (NRS), while sensory and affective aspects of pain were 
+rated using the short-form McGill Pain Questionnaire (SF-MPQ) and State-Trait 
+Anxiety Inventory (STAI) Y-Form.
+RESULTS: Pain thresholds did not vary significantly between trials. Pain 
+tolerance scores were markedly higher in MVA compared to baseline (p = 0.0043) 
+or SP (p = 0.006) but not for VA. Pain intensity for MVA also differed 
+significantly from the baseline (p = 0.007) or SP (p = 0.027), but not for VA. 
+No significant differences were found in SF-MPQ and STAI questionnaires.
+CONCLUSIONS: These results suggest that MVA effectively increased pain tolerance 
+and reduced pain intensity when compared with all groups, although not 
+significant to the VA group.
+
+© 2020 International Neuromodulation Society.
+
+DOI: 10.1111/ner.13281
+PMID: 33029913 [Indexed for MEDLINE]

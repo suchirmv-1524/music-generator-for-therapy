@@ -1,0 +1,47 @@
+1. Noise Health. 2025 Jan-Feb 01;27(124):20-25. doi: 10.4103/nah.nah_127_24. Epub
+ 2025 Feb 28.
+
+Effects of Child-Friendly Music Nursing in the Ward on Mental Health of Children 
+with Henoch-Schönlein Purpura Nephritis: A Retrospective Study.
+
+Wang Y(1), Li L, Qu A, Wang J.
+
+Author information:
+(1)Department of Pediatrics, Yantai Yuhuangding Hospital, Yantai 264000, 
+Shandong, China.
+
+OBJECTIVE: This study aims to improve the clinical nursing model by exploring 
+the effects of child-friendly music nursing in the ward on the mental health of 
+children with Henoch-Schönlein purpura nephritis (HSPN).
+METHODS: This study retrospectively analyzed the clinical data of 105 children 
+with HSPN treated at our hospital from January 2022 to December 2023. Five cases 
+were excluded, resulting in the inclusion of 100 cases. Based on different 
+nursing methods, the children were divided into the reference group (routine 
+nursing, n = 52) and the observation group (child-friendly music nursing plus 
+routine nursing, n = 48). A comparison was made between the two groups regarding 
+the levels of anxiety and depression, inflammatory and immune function indexes 
+[C-reactive protein (CRP), interleukin-6 (IL-6), tumor necrosis factor-α 
+(TNF-α), and immunoglobulin A (IgA)], and renal function indexes [serum 
+creatinine (Scr), blood urea nitrogen (BUN), and hemoglobin (HB)].
+RESULTS: Before nursing, there were no significant differences between the two 
+groups in terms of levels of anxiety and depression, inflammatory and immune 
+function indexes (such as CRP, IL-6, TNF-α, and IgA), and renal function indexes 
+(such as Scr, BUN, and HB, P > 0.05). After nursing, the observation group 
+demonstrated significantly lower levels of anxiety, depression, CRP, IL-6, 
+TNF-α, and IgA (P < 0.05) compared to the the reference group, while no 
+significant differences were observed in Scr, BUN, and HB (P > 0.05).
+CONCLUSIONS: Child-friendly music nursing can improve the inflammatory level and 
+immune function of children with HSPN to a certain extent. At the same time, it 
+can also improve the anxiety and depression of children. Therefore, 
+child-friendly music nursing in the ward is helpful for the recovery of the 
+physical and mental health of children with HSPN, with a potential clinical 
+application value.
+
+Copyright © 2025 Noise & Health.
+
+DOI: 10.4103/nah.nah_127_24
+PMCID: PMC11991137
+PMID: 40029674 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.

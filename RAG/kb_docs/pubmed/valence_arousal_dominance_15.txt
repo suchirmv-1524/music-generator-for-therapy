@@ -1,0 +1,56 @@
+1. Alzheimers Dement (Amst). 2024 Aug 1;16(3):e12604. doi: 10.1002/dad2.12604. 
+eCollection 2024 Jul-Sep.
+
+Speech markers of depression dimensions across cognitive status.
+
+Soleimani L(1), Ouyang Y(1), Cho S(2), Kia A(1), Beeri MS(3), Lin HM(4), 
+Ravona-Springer R(5)(6), Ramsingh N(1), Liberman MY(2), Grossman M(7), Nevler 
+N(7).
+
+Author information:
+(1)Icahn School of Medicine at Mount Sinai New York New York USA.
+(2)Linguistic Data Consortium University of Pennsylvania Philadelphia 
+Pennsylvania USA.
+(3)Rutgers Robert Wood Johnson Medical School New Brunswick New Jersey USA.
+(4)Department of Anesthesiology Yale School of Medicine New Haven Connecticut 
+USA.
+(5)The Joseph Sagol Neuroscience Center Sheba Medical Center Tel-Hashomer 
+Israel.
+(6)Sackler Faculty of Medicine Tel Aviv University Tel Aviv Israel.
+(7)Perelman School of Medicine University of Pennsylvania Philadelphia 
+Pennsylvania USA.
+
+INTRODUCTION: Depression and its components significantly impact dementia 
+prediction and severity, necessitating reliable objective measures for 
+quantification.
+METHODS: We investigated associations between emotion-based speech measures 
+(valence, arousal, and dominance) during picture descriptions and depression 
+dimensions derived from the geriatric depression scale (GDS, dysphoria, 
+withdrawal-apathy-vigor (WAV), anxiety, hopelessness, and subjective memory 
+complaint).
+RESULTS: Higher WAV was associated with more negative valence 
+(estimate = -0.133, p = 0.030). While interactions of apolipoprotein E (APOE) 4 
+status with depression dimensions on emotional valence did not reach 
+significance, there was a trend for more negative valence with higher dysphoria 
+in those with at least one APOE4 allele (estimate = -0.404, p = 0.0846). 
+Associations were similar irrespective of dementia severity.
+DISCUSSION: Our study underscores the potential utility of speech biomarkers in 
+characterizing depression dimensions. In future research, using emotionally 
+charged stimuli may enhance emotional measure elicitation. The role of APOE on 
+the interaction of speech markers and depression dimensions warrants further 
+exploration with greater sample sizes.
+HIGHLIGHTS: Participants reporting higher apathy used more negative words to 
+describe a neutral picture.Those with higher dysphoria and at least one APOE4 
+allele also tended to use more negative words.Our results suggest the potential 
+use of speech biomarkers in characterizing depression dimensions.
+
+© 2024 The Author(s). Alzheimer's & Dementia: Diagnosis, Assessment & Disease 
+Monitoring published by Wiley Periodicals LLC on behalf of Alzheimer's 
+Association.
+
+DOI: 10.1002/dad2.12604
+PMCID: PMC11292393
+PMID: 39092182
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare. Disclosures are available in the supporting information.

@@ -1,0 +1,50 @@
+1. PLoS One. 2023 Jan 30;18(1):e0281079. doi: 10.1371/journal.pone.0281079. 
+eCollection 2023.
+
+Perception and classification of emotions in nonsense speech: Humans versus 
+machines.
+
+Parada-Cabaleiro E(1)(2)(3), Batliner A(3), Schmitt M(3), Schedl M(1)(2), 
+Costantini G(4), Schuller B(3)(5).
+
+Author information:
+(1)Institute of Computational Perception, Johannes Kepler University Linz, Linz, 
+Austria.
+(2)Human-centered AI Group, Linz Institute of Technology (LIT), Linz, Austria.
+(3)Chair of Embedded Intelligence for Health Care and Wellbeing, University of 
+Augsburg, Augsburg, Germany.
+(4)Department of Electronic Engineering, University of Rome Tor Vergata, Rome, 
+Italy.
+(5)GLAM-Group on Language, Audio & Music, Imperial College London, London, 
+United Kindom.
+
+This article contributes to a more adequate modelling of emotions encoded in 
+speech, by addressing four fallacies prevalent in traditional affective 
+computing: First, studies concentrate on few emotions and disregard all other 
+ones ('closed world'). Second, studies use clean (lab) data or real-life ones 
+but do not compare clean and noisy data in a comparable setting ('clean world'). 
+Third, machine learning approaches need large amounts of data; however, their 
+performance has not yet been assessed by systematically comparing different 
+approaches and different sizes of databases ('small world'). Fourth, although 
+human annotations of emotion constitute the basis for automatic classification, 
+human perception and machine classification have not yet been compared on a 
+strict basis ('one world'). Finally, we deal with the intrinsic ambiguities of 
+emotions by interpreting the confusions between categories ('fuzzy world'). We 
+use acted nonsense speech from the GEMEP corpus, emotional 'distractors' as 
+categories not entailed in the test set, real-life noises that mask the clear 
+recordings, and different sizes of the training set for machine learning. We 
+show that machine learning based on state-of-the-art feature representations 
+(wav2vec2) is able to mirror the main emotional categories ('pillars') present 
+in perceptual emotional constellations even in degradated acoustic conditions.
+
+Copyright: © 2023 Parada-Cabaleiro et al. This is an open access article 
+distributed under the terms of the Creative Commons Attribution License, which 
+permits unrestricted use, distribution, and reproduction in any medium, provided 
+the original author and source are credited.
+
+DOI: 10.1371/journal.pone.0281079
+PMCID: PMC9886254
+PMID: 36716307 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

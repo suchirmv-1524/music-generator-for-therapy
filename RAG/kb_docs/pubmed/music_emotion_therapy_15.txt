@@ -1,0 +1,68 @@
+1. BMC Complement Med Ther. 2025 Mar 28;25(1):119. doi:
+10.1186/s12906-025-04861-7.
+
+The effect of music on patient anxiety undergoing bronchoscopy: a randomized 
+controlled trial.
+
+Amani K(1)(2)(3)(4)(5), Sana A(6)(7)(8)(9)(10), Wassim J(7), Dhekra C(8)(9), 
+Rahma BJ(11)(6)(7)(8)(9), Imen K(11)(6)(7)(8)(9), Wafa B(6)(7)(8)(9)(10), Asma 
+K(6)(7)(8)(9), Baraa BB(6)(7)(8)(9), Imen G(6)(7)(8)(9), Anis M(11), Ahmed 
+A(6)(7)(8)(9)(10).
+
+Author information:
+(1)Pneumology Department, University Hospital Ibn Jazzar, Kairouan, Tunisia. 
+kacem.amani@gmail.com.
+(2)Pneumology Department, University Hospital Farhat Hached, Sousse, Tunisia. 
+kacem.amani@gmail.com.
+(3)Higher Institute of Musicology of Sousse, University of Sousse, Sousse, 
+Tunisia. kacem.amani@gmail.com.
+(4)Preventive Medecine department of Kairouan, Research Laboratory LR19SP01, 
+Sousse, Tunisia. kacem.amani@gmail.com.
+(5)Faculty of Medicine Ibn E Jazzar, Sousse, Tunisia. kacem.amani@gmail.com.
+(6)Pneumology Department, University Hospital Farhat Hached, Sousse, Tunisia.
+(7)Higher Institute of Musicology of Sousse, University of Sousse, Sousse, 
+Tunisia.
+(8)Preventive Medecine department of Kairouan, Research Laboratory LR19SP01, 
+Sousse, Tunisia.
+(9)Faculty of Medicine Ibn E Jazzar, Sousse, Tunisia.
+(10)Research Laboratory LR - Interaction Cœur-Poumons (Lr14es05), Faculty of 
+Medicine Ibn E Jazzar, University of Sousse, Sousse, Tunisia.
+(11)Pneumology Department, University Hospital Ibn Jazzar, Kairouan, Tunisia.
+
+BACKGROUND: Bronchoscopy is a fundamental diagnostic and therapeutic examination 
+with rare complications which is often associated to anxiety and discomfort. The 
+aim of our study is to evaluate the effect of music on anxiety levels among 
+patients undergoing bronchoscopy in the pneumology department.
+METHODS: We conducted a prospective, randomized, investigator-blinded, 
+controlled trial performed in two university hospitals. The patients were 
+randomized into two groups: experimental group who had preselected classic 
+Tunisian music during bronchoscopy and control group who had bronchoscopy 
+without music. we assessed anxiety level using Spilberger's State Anxiety 
+inventory (S-STAI) and comfort level using visual analogic scale (VAS). Vital 
+signs and side effects during bronchoscopy were also assessed.
+RESULTS: One hundred thirty-six patients were equally assigned into the two 
+groups. the anxiety levels before and after bronchoscopy were similar into the 
+two groups. The music had no effect on anxiety level using the S-STAI . There 
+was no significant difference between the two groups regarding side effects and 
+vital signs during bronchoscopy. There was a significant effect of music on mean 
+change of VAS score (p = 0.018).
+CONCLUSION: The music improved comfort level of patients undergoing 
+bronchoscopy.
+TRIAL REGISTRATION: This study was retrospectively registered in the pan African 
+Clinical Trial Registry with the trial number PACTR202309620440045 on 3 
+September 2023.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12906-025-04861-7
+PMCID: PMC11951599
+PMID: 40155890 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study protocol was approved by the ethics committee of the 
+faculty of medicine of Sousse (Tunisia) and registered in the pan African 
+Clinical Trial Registry on 3 September 2023, with the trial number 
+PACTR202309620440045. Verbal and written informed consents about the 
+bronchoscopy procedure and the research study were obtained from all 
+participants prior to enrollment in the study. Consent for publication: Not 
+applicable. Competing interests: The authors declare no competing interests.

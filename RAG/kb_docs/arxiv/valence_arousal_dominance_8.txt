@@ -1,0 +1,5 @@
+Title: Decoding Human Emotions: Analyzing Multi-Channel EEG Data using LSTM   Networks
+
+Abstract: Emotion recognition from electroencephalogram (EEG) signals is a thriving field, particularly in neuroscience and Human-Computer Interaction (HCI). This study aims to understand and improve the predictive accuracy of emotional state classification through metrics such as valence, arousal, dominance, and likeness by applying a Long Short-Term Memory (LSTM) network to analyze EEG signals. Using a popular dataset of multi-channel EEG recordings known as DEAP, we look towards leveraging LSTM networks' properties to handle temporal dependencies within EEG signal data. This allows for a more comprehensive understanding and classification of emotional parameter states. We obtain accuracies of 89.89%, 90.33%, 90.70%, and 90.54% for arousal, valence, dominance, and likeness, respectively, demonstrating significant improvements in emotion recognition model capabilities. This paper elucidates the methodology and architectural specifics of our LSTM model and provides a benchmark analysis with existing papers.
+
+Link: http://arxiv.org/abs/2408.10328v1

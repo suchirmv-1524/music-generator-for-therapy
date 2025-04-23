@@ -1,0 +1,46 @@
+1. PeerJ Comput Sci. 2024 Jun 24;10:e2104. doi: 10.7717/peerj-cs.2104.
+eCollection  2024.
+
+Deep learning-based dimensional emotion recognition for conversational 
+agent-based cognitive behavioral therapy.
+
+Striegl J(1), Richter JW(2), Grossmann L(3), Bråstad B(3), Gotthardt M(4), Rück 
+C(3), Wallert J(3), Loitsch C(1).
+
+Author information:
+(1)Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI 
+Dresden/Leipzig), Technische Universität Dresden, Dresden, Saxony, Germany.
+(2)Chair of Human-Computer Interaction, Technische Universität Dresden, Dresden, 
+Saxony, Germany.
+(3)Centre for Psychiatry Research, Department of Clinical Neuroscience, Huddinge 
+& Stockholm Health Care Services, Region Stockholm, Karolinska Institute, 
+Stockholm, Sweden.
+(4)Kungliga Tekniska Högskolan, Stockholm, Sweden.
+
+Internet-based cognitive behavioral therapy (iCBT) offers a scalable, 
+cost-effective, accessible, and low-threshold form of psychotherapy. Recent 
+advancements explored the use of conversational agents such as chatbots and 
+voice assistants to enhance the delivery of iCBT. These agents can deliver 
+iCBT-based exercises, recognize and track emotional states, assess therapy 
+progress, convey empathy, and potentially predict long-term therapy outcome. 
+However, existing systems predominantly utilize categorical approaches for 
+emotional modeling, which can oversimplify the complexity of human emotional 
+states. To address this, we developed a transformer-based model for dimensional 
+text-based emotion recognition, fine-tuned with a novel, comprehensive 
+dimensional emotion dataset comprising 75,503 samples. This model significantly 
+outperforms existing state-of-the-art models in detecting the dimensions of 
+valence, arousal, and dominance, achieving a Pearson correlation coefficient of 
+r = 0.90, r = 0.77, and r = 0.64, respectively. Furthermore, a feasibility study 
+involving 20 participants confirmed the model's technical effectiveness and its 
+usability, acceptance, and empathic understanding in a conversational 
+agent-based iCBT setting, marking a substantial improvement in personalized and 
+effective therapy experiences.
+
+©2024 Striegl et al.
+
+DOI: 10.7717/peerj-cs.2104
+PMCID: PMC11232613
+PMID: 38983201
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.

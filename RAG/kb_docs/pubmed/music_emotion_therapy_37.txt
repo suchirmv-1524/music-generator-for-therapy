@@ -1,0 +1,158 @@
+1. Cochrane Database Syst Rev. 2025 Mar 7;3(3):CD003477. doi: 
+10.1002/14651858.CD003477.pub5.
+
+Music-based therapeutic interventions for people with dementia.
+
+van der Steen JT(1)(2)(3), van der Wouden JC(4), Methley AM(5), Smaling 
+HJA(1)(6), Vink AC(7), Bruinsma MS(8)(9).
+
+Author information:
+(1)Department of Public Health and Primary Care, Leiden University Medical 
+Center, Leiden, Netherlands.
+(2)Department of Primary and Community Care and Radboudumc Alzheimer Center, 
+Radboud University Medical Center, Nijmegen, Netherlands.
+(3)Cicely Saunders Institute, King's College London, London, UK.
+(4)Department of General Practice and Department of Medicine for Older People, 
+Amsterdam Public Health Research Institute, Amsterdam UMC, Vrije Universiteit, 
+Amsterdam, Netherlands.
+(5)Innovative Clinical Psychology Solutions Ltd, London, UK.
+(6)University Network for the Care Sector Zuid-Holland, Leiden University 
+Medical Center, Leiden, Netherlands.
+(7)Music Therapy Department, ArtEZ University of the Arts, Enschede, 
+Netherlands.
+(8)Muzis, Praktijk voor Muziektherapie, Amersfoort, Netherlands.
+(9)Department of Creative Arts Therapies, HU University of Applied Sciences 
+Utrecht, Utrecht, Netherlands.
+
+Update of
+    doi: 10.1002/14651858.CD003477.pub4.
+
+BACKGROUND: Dementia is a clinical syndrome with a number of different causes. 
+It is characterised by deterioration in cognitive, behavioural, social and 
+emotional functioning. Pharmacological interventions are available but have 
+limited effect on many of the syndrome's features. However, receptivity to music 
+may remain until the late phases of dementia, and music-based therapeutic 
+interventions (which include, but are not limited to, music therapy) are 
+suitable for people with advanced dementia. As there is uncertainty about the 
+effectiveness of music-based therapeutic interventions, trials are being 
+conducted to evaluate this. This review updates one last published in 2018 and 
+examines the current evidence for the effects of music-based interventions for 
+people with dementia.
+OBJECTIVES: To assess the effects of music-based therapeutic interventions for 
+people with dementia on emotional well-being (including quality of life), mood 
+disturbance or negative affect (i.e. depressive symptoms and anxiety), 
+behavioural problems (i.e. overall behavioural problems or neuropsychiatric 
+symptoms, and more specifically agitation or aggression), social behaviour and 
+cognition, at the end of therapy and four or more weeks after the end of 
+treatment, and to assess any adverse effects.
+SEARCH METHODS: We searched the Cochrane Dementia and Cognitive Improvement 
+Group's Specialised Register, MEDLINE (Ovid SP), Embase (Ovid SP), PsycINFO 
+(Ovid SP), CINAHL (EBSCOhost), Web of Science Core Collection (ISI Web of 
+Science), LILACS (BIREME), ClinicalTrials.gov and the World Health 
+Organisation's meta-register-the International Clinical Trials Registry Platform 
+on 30 November 2023.
+SELECTION CRITERIA: We included randomised controlled trials of music-based 
+therapeutic interventions (of at least five sessions) for people with dementia 
+that measured any of our outcomes of interest. Control groups either received 
+usual care or other activities with or without music.
+DATA COLLECTION AND ANALYSIS: Two review authors worked independently to screen 
+the retrieved studies against the inclusion criteria and then to extract data 
+from included studies and assess their risk of bias. If necessary, we contacted 
+trial authors to ask for additional data, such as relevant subscales. We pooled 
+data using the random-effects model. We assessed the certainty of the evidence 
+for our two comparisons and our main outcomes of interest using GRADE.
+MAIN RESULTS: We included 30 studies with 1720 randomised participants that were 
+conducted in 15 countries. Twenty-eight studies with 1366 participants 
+contributed data to meta-analyses. Ten studies contributed data to long-term 
+outcomes. Participants had dementia of varying degrees of severity and resided 
+in institutions in most of the studies. Seven studies delivered an individual 
+intervention; the other studies delivered the intervention to groups. Most 
+interventions involved both active and receptive elements of musical experience. 
+The studies were at high risk of performance bias and some were at high risk of 
+detection or other bias. For music-based therapeutic interventions compared to 
+usual care, we found moderate-certainty evidence that, at the end of treatment, 
+music-based therapeutic interventions probably improved depressive symptoms 
+slightly (standardised mean difference (SMD) -0.23, 95% confidence interval (CI) 
+-0.42 to -0.04; 9 studies, 441 participants), and we found low-certainty 
+evidence that it may have improved overall behavioural problems (SMD -0.31, 95% 
+CI -0.60 to -0.02; 10 studies, 385 participants). We found moderate-certainty 
+evidence that music-based therapeutic interventions likely did not improve 
+agitation or aggression (SMD -0.05, 95% CI -0.27 to 0.17; 11 studies, 503 
+participants). Low to very low certainty evidence showed that they did not 
+improve emotional well-being (SMD 0.14, 95% CI -0.29 to 0.56; 4 studies, 154 
+participants), anxiety (SMD -0.15, 95% CI -0.39 to 0.09; 7 studies, 282 
+participants), social behaviour (SMD 0.22, 95% CI -0.14 to 0.57; 2 studies; 121 
+participants) or cognition (SMD 0.19, 95% CI -0.02 to 0.41; 7 studies, 353 
+participants). Low or very-low -certainty evidence showed that music-based 
+therapeutic interventions may not have been more effective than usual care in 
+the long term (four weeks or more after the end of treatment) for any of the 
+outcomes. For music-based therapeutic interventions compared to other 
+interventions, we found low-certainty evidence that, at the end of treatment, 
+music-based therapeutic interventions may have been more effective than the 
+other activities for social behaviour (SMD 0.52, 95% CI 0.08 to 0.96; 4 studies, 
+84 participants). We found very low-certainty evidence of a positive effect on 
+anxiety (SMD -0.75, 95% CI -1.27 to -0.24; 10 studies, 291 participants). For 
+all other outcomes, low-certainty evidence showed no evidence of an effect: 
+emotional well-being (SMD 0.20, 95% CI -0.09 to 0.49; 9 studies, 298 
+participants); depressive symptoms (SMD -0.14, 95% CI -0.36 to 0.08; 10 studies, 
+359 participants); agitation or aggression (SMD 0.01, 95% CI -0.31 to 0.32; 6 
+studies, 168 participants); overall behavioural problems (SMD -0.08, 95% CI 
+-0.33 to 0.17; 8 studies, 292 participants) and cognition (SMD 0.12, 95% CI 
+-0.21 to 0.45; 5 studies; 147 participants). We found low or very-low certainty 
+evidence that music-based therapeutic interventions may not have been more 
+effective than other interventions in the long term (four weeks or more after 
+the end of treatment) for any of the outcomes. Adverse effects were 
+inconsistently measured or recorded, but no serious adverse events were 
+reported.
+AUTHORS' CONCLUSIONS: When compared to usual care, providing people with 
+dementia with at least five sessions of a music-based therapeutic intervention 
+probably improves depressive symptoms and may improve overall behavioural 
+problems at the end of treatment. When compared to other activities, music-based 
+therapeutic interventions may improve social behaviour at the end of treatment. 
+No conclusions can be reached about the outcome of anxiety as the certainty of 
+the evidence is very low. There may be no effects on other outcomes at the end 
+of treatment. There was no evidence of long-term effects from music-based 
+therapeutic interventions. Adverse effects may be rare, but the studies were 
+inconsistent in their reporting of adverse effects. Future studies should 
+examine the duration of effects in relation to the overall duration of treatment 
+and the number of sessions.
+
+Copyright © 2025 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD003477.pub5
+PMCID: PMC11884930
+PMID: 40049590 [Indexed for MEDLINE]
+
+Conflict of interest statement: JS declares that she is involved in a trial on a 
+music‐based therapeutic intervention for people with dementia. She is serving as 
+a methodologist and is supervising the PhD student who is conducting the trial, 
+which could qualify for inclusion in a future update of this review. This study 
+started in 2019 and has concluded recently (results not fully available yet); it 
+was funded by university funds and Alzheimer Nederland. JW declares that he has 
+no conflicts of interest. AM is a Senior Clinical Psychologist and sole 
+proprietor of the business Innovative Clinical Psychology Solutions Ltd (from 9 
+March 2021 to present), a private clinical psychology practice; she can see 
+patients with dementia and neurological conditions due to her training, but this 
+is not her primary client group. Until 29 December 2022, AM was employed by the 
+NHS and saw people with suspected and confirmed cases of dementia clinically 
+within this role. AM declares consultancy fees from Cochrane to Innovative 
+Clinical Psychology Solutions Ltd for payment for contributing to this review 
+(i.e. to assist with the process of the updated systematic search, including 
+abstract screening and data extraction); this was a personal payment. HS 
+declares that she has no conflicts of interest. AV is affiliated with the ArtEZ 
+Music Therapy Department, and she has published opinion pieces on the website 
+artez.nl. AV declares that she was involved in a study supported by the national 
+funder ZonMw, an independent organisation that supports research and innovation 
+in health, healthcare and well‐being, as part of her dissertation at UMCG The 
+Netherlands, which was eligible for inclusion in the review**. AV is involved in 
+music therapy research and teaching. MB is involved in teaching and practice of 
+music therapy in persons with dementia. She declares that she has no conflicts 
+of interest. **We included two studies on which AV was an author. AV was not 
+involved in assessing the eligibility of these studies, extracting data from 
+them, assessing their risk of bias or grading the certainty of evidence 
+involving these studies. These tasks were performed by JS and HS, and for other 
+articles also by JW and AM. The lead review author, JS, and a co‐author who is a 
+Cochrane expert (JW; and also RS in previous versions), made the final decisions 
+about analysis, presentation and interpretation of the data. None of the authors 
+has a conflict of interest related to the effectiveness of music therapy.

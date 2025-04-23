@@ -1,0 +1,5 @@
+Title: Towards Computational Analysis of Pansori Singing
+
+Abstract: Pansori is one of the most representative vocal genres of Korean traditional music, which has an elaborated vocal melody line with strong vibrato. Although the music is transmitted orally without any music notation, transcribing pansori music in Western staff notation has been introduced for several purposes, such as documentation of music, education, or research. In this paper, we introduce computational analysis of pansori based on both audio and corresponding transcription, how modern Music Information Retrieval tasks can be used in analyzing traditional music and how it revealed different audio characteristics of what pansori contains.
+
+Link: http://arxiv.org/abs/2410.12956v1

@@ -1,0 +1,36 @@
+1. J Acoust Soc Am. 2024 Jan 1;155(1):18-28. doi: 10.1121/10.0023938.
+
+Emotional expressivity in singing. Assessing physiological and acoustic 
+indicators of two opera singers' voice characteristics.
+
+Sundberg J(1), Salomão GL(2), Scherer KR(3).
+
+Author information:
+(1)Department of Speech Music and Hearing, School of Electrical Engineering, 
+Royal Institute of Technology (KTH), Stockholm, Sweden.
+(2)Stockholm University Brain Imaging Centre (SUBIC), Department of Linguistics, 
+Stockholm University, Stockholm, Sweden.
+(3)Department of Psychology, University of Geneva, Geneva, Switzerland.
+
+In an earlier study, we analyzed how audio signals obtained from three 
+professional opera singers varied when they sang one octave wide eight-tone 
+scales in ten different emotional colors. The results showed systematic 
+variations in voice source and long-term-average spectrum (LTAS) parameters 
+associated with major emotion "families". For two of the singers, subglottal 
+pressure (PSub) also was recorded, thus allowing analysis of an additional main 
+physiological voice control parameter, glottal resistance (defined as the ratio 
+between PSub and glottal flow), and related to glottal adduction. In the present 
+study, we analyze voice source and LTAS parameters derived from the audio signal 
+and their correlation with Psub and glottal resistance. The measured parameters 
+showed a systematic relationship with the four emotion families observed in our 
+previous study. They also varied systematically with values of the ten emotions 
+along the valence, power, and arousal dimensions; valence showed a significant 
+correlation with the ratio between acoustic voice source energy and subglottal 
+pressure, while Power varied significantly with sound level and two measures 
+related to the spectral dominance of the lowest spectrum partial. the 
+fundamental.
+
+© 2024 Acoustical Society of America.
+
+DOI: 10.1121/10.0023938
+PMID: 38169520 [Indexed for MEDLINE]

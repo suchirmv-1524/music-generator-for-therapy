@@ -1,0 +1,57 @@
+1. Sci Rep. 2025 Mar 20;15(1):9643. doi: 10.1038/s41598-025-94051-9.
+
+Multidisciplinary characterization of embarrassment through behavioral and 
+acoustic modeling.
+
+Šipka D(1)(2), Vlasenko B(3), Stein M(4)(5), Dierks T(5), Magimai-Doss M(3), 
+Morishima Y(5).
+
+Author information:
+(1)Department of Clinical Psychology and Psychotherapy, University of Bern, 
+Bern, Switzerland. dajana.sipka@unibe.ch.
+(2)Institute for Psychology Clinical Psychology and Psychotherapy Department, 
+University of Bern, Fabrikstrasse 8, Bern, 3012, Switzerland. 
+dajana.sipka@unibe.ch.
+(3)Idiap Research Institute, Martigny, Switzerland.
+(4)Department of Clinical Psychology and Psychotherapy, University of Bern, 
+Bern, Switzerland.
+(5)University Hospital of Psychiatry and Psychotherapy, University of Bern, 
+Bern, Switzerland.
+
+Embarrassment is a social emotion that shares many characteristics with social 
+anxiety (SA). Most people experience embarrassment in their daily lives, but it 
+is quite overlooked in research. We characterized embarrassment through an 
+interdisciplinary approach, introducing a behavioral paradigm and applying 
+machine learning approaches, including acoustic analyses. 33 participants wrote 
+about an embarrassing experience and then, without knowing it prior, had to read 
+it out loud to the conductor. Embarrassment was then examined using two 
+different approaches: Firstly, from a subjective view, with self-report measures 
+from the participants. Secondly, from an objective, machine-learning approach, 
+in which trained models tested the robustness of our embarrassment data set 
+(i.e., prediction accuracy), and then described embarrassment in a dimensional 
+(i.e., dimension: valence, arousal, dominance; VAD) and categorical (i.e., 
+comparing embarrassment to other emotional states) way. The subjective rating of 
+embarrassment was increased after participants read their stories out loud, and 
+participants with higher SA scores experienced higher embarrassment than 
+participants with lower SA scores. The state of embarrassment was predicted with 
+86.4% as the best of the unweighted average recall rates. While the simple VAD 
+dimensional analyses did not differentiate between the state of embarrassment 
+and the references, the complex emotional category analyses characterized 
+embarrassment as closer to boredom, a neutral state, and less of sadness. 
+Combining an effective behavioral paradigm and advanced acoustic modeling, we 
+characterized the emotional state of embarrassment, and the identified 
+characteristics could be used as a biomarker to assess SA.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-94051-9
+PMCID: PMC11926074
+PMID: 40113853 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethics declarations: The ethics committee of the 
+faculty of human sciences at the University of Bern approved the study protocol 
+(2020-06-00004). All participants gave written informed consent to participate 
+in the study. We hereby confirm that the experiment was performed in accordance 
+with the relevant guidelines and regulations according to the Declaration of 
+Helsinki.

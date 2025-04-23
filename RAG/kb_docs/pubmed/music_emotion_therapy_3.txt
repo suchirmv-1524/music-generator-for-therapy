@@ -1,0 +1,55 @@
+1. Depress Anxiety. 2024 Jun 28;2024:1790168. doi: 10.1155/2024/1790168. 
+eCollection 2024.
+
+Music's Dual Role in Emotion Regulation: Network Analysis of Music Use, Emotion 
+Regulation Self-Efficacy, Alexithymia, Anxiety, and Depression.
+
+Tan M(1)(2), Zhou X(1)(2), Shen L(1)(2)(3), Li Y(1)(2), Chen X(1)(2).
+
+Author information:
+(1)Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy of 
+Sciences, Beijing 100101, China.
+(2)Department of Psychology, University of Chinese Academy of Sciences, Beijing 
+101408, China.
+(3)Faculty of Education, Beijing Normal University, Beijing, China.
+
+Music serves as a prevalent emotional regulation tool among young people. 
+However, the correlational and causal relationships between music use, emotion 
+regulation ability, and emotional symptoms remain unclear. This study aimed to 
+investigate the associations and causal relationships between healthy and 
+unhealthy music use, emotion regulation ability, and emotional symptoms, 
+including alexithymia, depression, and anxiety. This study included 16,588 
+college students nationwide in China. All participants were assessed online with 
+the Healthy-Unhealthy Music Scale (HUMS), the Regulatory Emotional Self-Efficacy 
+Scale (RESE), the Toronto Alexithymia Scale (TAS-20), and the 10-item Kessler 
+Psychological Stress Scale (K10) using a cluster convenience sampling method. We 
+applied a regularized partial correlation network (RPCN) and Bayesian network to 
+analyze the network characteristics of the outcomes. In the RPCN analysis, 
+healthy music use showed the second strongest expected influence (one-step) and 
+correlated positively with emotion regulation self-efficacy while inversely 
+correlating with externally oriented thinking of alexithymia and depression. The 
+Bayesian network indicated that healthy music use was located downstream of the 
+network, positively predicted by managing anger-irritation and expressing 
+positive affect in emotion regulation self-efficacy. In contrast, unhealthy 
+music use in the RPCN displayed the strongest bridge strength and bridge 
+expected influence (one-step). It negatively correlated with expressing positive 
+affect in emotion regulation self-efficacy and positively correlated with 
+alexithymia, anxiety, and depression. The Bayesian network highlighted that 
+unhealthy music use was positively affected by anxiety, depression, and 
+difficulty identifying feelings. In addition, managing despondency-distress 
+influences difficulty identifying feelings through depression, subsequently 
+affecting unhealthy music use and, finally, influencing externally oriented 
+thinking. This study provides a novel framework for understanding the role of 
+emotion regulation self-efficacy and alexithymia in the relationship between 
+music use and emotional symptoms. Emotion regulation and mental health may 
+benefit from music-based interventions and therapies informed by the findings of 
+this study.
+
+Copyright © 2024 Min Tan et al.
+
+DOI: 10.1155/2024/1790168
+PMCID: PMC11921861
+PMID: 40226650 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest.

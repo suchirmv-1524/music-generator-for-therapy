@@ -1,0 +1,46 @@
+1. Front Hum Neurosci. 2022 Jan 17;15:789467. doi: 10.3389/fnhum.2021.789467. 
+eCollection 2021.
+
+Rhythm and Music-Based Interventions in Motor Rehabilitation: Current Evidence 
+and Future Perspectives.
+
+Braun Janzen T(1), Koshimori Y(2)(3), Richard NM(2)(4), Thaut MH(2)(5).
+
+Author information:
+(1)Center of Mathematics, Computing and Cognition, Universidade Federal do ABC, 
+São Bernardo do Campo, Brazil.
+(2)Music and Health Science Research Collaboratory, Faculty of Music, University 
+of Toronto, Toronto, ON, Canada.
+(3)Brain Health Imaging Centre, CAMH, Toronto, ON, Canada.
+(4)Faculty of Music, Belmont University, Nashville, TN, United States.
+(5)Rehabilitation Sciences Institute, University of Toronto, Toronto, ON, 
+Canada.
+
+Research in basic and clinical neuroscience of music conducted over the past 
+decades has begun to uncover music's high potential as a tool for 
+rehabilitation. Advances in our understanding of how music engages parallel 
+brain networks underpinning sensory and motor processes, arousal, reward, and 
+affective regulation, have laid a sound neuroscientific foundation for the 
+development of theory-driven music interventions that have been systematically 
+tested in clinical settings. Of particular significance in the context of motor 
+rehabilitation is the notion that musical rhythms can entrain movement patterns 
+in patients with movement-related disorders, serving as a continuous time 
+reference that can help regulate movement timing and pace. To date, a 
+significant number of clinical and experimental studies have tested the 
+application of rhythm- and music-based interventions to improve motor functions 
+following central nervous injury and/or degeneration. The goal of this review is 
+to appraise the current state of knowledge on the effectiveness of music and 
+rhythm to modulate movement spatiotemporal patterns and restore motor function. 
+By organizing and providing a critical appraisal of a large body of research, we 
+hope to provide a revised framework for future research on the effectiveness of 
+rhythm- and music-based interventions to restore and (re)train motor function.
+
+Copyright © 2022 Braun Janzen, Koshimori, Richard and Thaut.
+
+DOI: 10.3389/fnhum.2021.789467
+PMCID: PMC8801707
+PMID: 35111007
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

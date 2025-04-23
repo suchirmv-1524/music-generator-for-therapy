@@ -1,0 +1,43 @@
+1. Neuroimage. 2019 Dec;203:116199. doi: 10.1016/j.neuroimage.2019.116199. Epub 
+2019 Sep 16.
+
+Modality-general representations of valences perceived from visual and auditory 
+modalities.
+
+Gu J(1), Cao L(1), Liu B(2).
+
+Author information:
+(1)College of Intelligence and Computing, Tianjin University, Tianjin, 300350, 
+PR China.
+(2)School of Computer and Communication Engineering, University of Science and 
+Technology Beijing, Beijing, 100083, PR China. Electronic address: 
+liubaolin@tsinghua.edu.cn.
+
+Valence is a dimension of emotion and can be either positive, negative, or 
+neutral. Valences can be expressed through the visual and auditory modalities, 
+and the valences of each modality can be conveyed by different types of stimuli 
+(face, body, voice or music). This study focused on the modality-general 
+representations of valences, that is, valence information can be shared across 
+not only visual and auditory modalities but also different types of stimuli 
+within each modality. Functional magnetic resonance imaging (fMRI) data were 
+collected when subjects made affective judgment on silent videos (face and body) 
+and audio clips (voice and music). The searchlight analysis helped to locate 
+four areas that might be sensitive to the representations of modality-general 
+valences, including the bilateral postcentral gyrus, left middle temporal gyrus 
+(MTG) and right middle frontal gyrus (MFG). Further cross-modal classification 
+based on multivoxel pattern analysis (MVPA) was performed as a validation 
+analysis, which suggested that only the left postcentral gyrus could 
+successfully distinguish three valences (positive versus negative and versus 
+neutral: PvsNvs0) across different types of stimuli (face, body, voice or 
+music), and the classification was also successful in left MTG across the 
+stimuli types of face and body. The univariate analysis further found the 
+valence-specific activation differences across stimulus types in MTG. Our study 
+showed that the left postcentral gyrus was informative to valence 
+representations, and extended the research about valence representation that the 
+modality-general representation of valences across not only visual and auditory 
+modalities but also different types of stimuli within each modality.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2019.116199
+PMID: 31536804 [Indexed for MEDLINE]

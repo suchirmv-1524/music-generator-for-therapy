@@ -1,0 +1,45 @@
+1. PLoS One. 2024 Mar 29;19(3):e0300682. doi: 10.1371/journal.pone.0300682. 
+eCollection 2024.
+
+How self-states help: Observing the embodiment of self-states through nonverbal 
+behavior.
+
+Engel I(1), Dshemuchadse M(2), Surrey C(1), Roos L(1), Kanske P(1), Scherbaum 
+S(1).
+
+Author information:
+(1)Department of Psychology, TUD Dresden Technical University, Dresden, Germany.
+(2)Department of Social Sciences, Hochschule Zittau-Görlitz, Görlitz, Germany.
+
+The concept of self-states is a recurring theme in various psychotherapeutic and 
+counseling methodologies. However, the predominantly unconscious nature of these 
+self-states presents two challenges. Firstly, it renders the process of working 
+with them susceptible to biases and therapeutic suggestions. Secondly, there is 
+skepticism regarding the observability and differentiation of self-states beyond 
+subjective experiences. In this study, we demonstrate the feasibility of 
+eliciting self-states from clients and objectively distinguishing these evoked 
+self-states through the lens of neutral observers. The self-state constellation 
+method, utilized as an embodied approach, facilitated the activation of diverse 
+self-states. External observers then assessed the nonverbal manifestations of 
+affect along three primary dimensions: emotional valence, arousal, and 
+dominance. Our findings indicate that external observers could reliably discern 
+and differentiate individual self-states based on the bodily displayed valence 
+and dominance. However, the ability to distinguish states based on displayed 
+arousal was not evident. Importantly, this distinctiveness of various 
+self-states was not limited to specific individuals but extended across the 
+entire recording sample. Therefore, within the framework of the self-state 
+constellation method, it is evident that individual self-states can be 
+intentionally evoked, and these states can be objectively differentiated beyond 
+the subjective experiences of the client.
+
+Copyright: © 2024 Engel et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0300682
+PMCID: PMC10980216
+PMID: 38551896 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

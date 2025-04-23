@@ -1,0 +1,56 @@
+1. Aust N Z J Psychiatry. 2023 Sep;57(9):1223-1242. doi:
+10.1177/00048674221150362.  Epub 2023 Feb 1.
+
+Community interventions for anxiety and depression in adults and young people: A 
+systematic review.
+
+Buechner H(1), Toparlak SM(1)(2), Ostinelli EG(3), Shokraneh F(4), 
+Nicholls-Mindlin J(1), Cipriani A(1)(2), Geddes JR(1)(2), Syed Sheriff R(1)(2).
+
+Author information:
+(1)Department of Psychiatry, University of Oxford, Oxford, UK.
+(2)Oxford Health NHS Foundation Trust, Oxford, UK.
+(3)Oxford Precision Psychiatry Lab, NIHR Oxford Health Biomedical Research 
+Centre, Oxford, UK.
+(4)Institute of Health Informatics, University College London, London, UK.
+
+BACKGROUND: Growing evidence suggests that community-based interventions may be 
+effective for anxiety and depression. This study aimed to describe studies of 
+community interventions delivered to adults and/or young people, either in 
+person or online, evaluated in randomised controlled trials and provide an 
+indication as to their effectiveness, acceptability, quality of data and where 
+possible, mechanisms of action. We included interventions delivered at and/or by 
+museums, art galleries, libraries, gardens, music groups/choirs and sports 
+clubs.
+METHOD: We developed and followed a preregistered protocol: PROSPERO 
+CRD42020204471. Randomised controlled trials in adults and young people were 
+identified in an extensive search with no date/time, language, document type and 
+publication status limitations. Studies were selected according to predetermined 
+eligibility criteria and data independently extracted and then assessed using 
+Risk of Bias 1. The studies were deemed too heterogeneous for meta-analysis and 
+were therefore reported using a narrative synthesis.
+RESULTS: Our analysis included 31 studies, with 2898 participants. Community 
+interventions most studied in randomised controlled trials were community music 
+(12 studies, 1432 participants), community exercise (14 studies, 955 
+participants) and community gardens/gardening (6 studies, 335 participants). The 
+majority of studies were from high-income countries - many were in specific 
+populations (such as those with physical health problems) and were generally of 
+low quality. Dropout rates across the included studies were low (1 participant 
+on average per 100 participants). The inadequate description of interventions 
+limited identification of potential mechanisms of action.
+DISCUSSION: The uncertainty of the evidence allows only a weak recommendation in 
+support of community interventions for anxiety and depression. The results 
+suggest community engagement is a promising area for wide-reaching interventions 
+to be implemented and evaluated, but more high-quality trials are needed, 
+especially in young people and under-represented communities.
+
+DOI: 10.1177/00048674221150362
+PMCID: PMC10466972
+PMID: 36722407 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared the following potential 
+conflicts of interest with respect to the research, authorship and/or 
+publication of this article: E.G.O. has received research and consultancy fees 
+from Angelini Pharma. A.C. has received research and consultancy fees from 
+INCiPiT (Italian Network for Paediatric Trials), CARIPLO Foundation and Angelini 
+Pharma. H.B., R.S.S., F.S. and S.M.T. do not have any conflicts of interest.

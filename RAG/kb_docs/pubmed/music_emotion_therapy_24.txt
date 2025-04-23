@@ -1,0 +1,58 @@
+1. BMJ Open. 2025 Mar 21;15(3):e097233. doi: 10.1136/bmjopen-2024-097233.
+
+Perceptions of music listening for pain management: a multi-method study.
+
+van der Valk Bouman ES(#)(1), Becker AS(#)(2), Schaap J(3), Cats R(1), Berghman 
+M(3), Klimek M(4).
+
+Author information:
+(1)Department of Neuroscience, Erasmus MC University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+(2)Department of Neuroscience, Erasmus MC University Medical Center Rotterdam, 
+Rotterdam, The Netherlands a.becker@erasmusmc.nl.
+(3)Department of Arts and Culture Studies, Erasmus University Rotterdam, 
+Rotterdam, The Netherlands.
+(4)Anesthesiology, Erasmus MC University Medical Center Rotterdam, Rotterdam, 
+The Netherlands.
+(#)Contributed equally
+
+OBJECTIVES: Music listening for pain relief is well studied in diverse 
+healthcare settings, but its implementation remains challenging. While 
+healthcare providers generally have a positive attitude, there is a lack of 
+knowledge about healthcare recipients' perceptions and attitudes. Therefore, the 
+aim of this study is to explore healthcare recipients' perceptions of listening 
+to music for pain management, focusing on their general attitudes, 
+implementation strategies and subjective experiences of how music helps (or does 
+not help).
+DESIGN: A multi-method study comprising a quantitative survey and qualitative 
+interviews. It is a follow-up conducted 6 months after a randomised experimental 
+study, which assessed the influence of different music genres on pain tolerance. 
+At the end of the original experiment, participants received advice on listening 
+to music in painful situations.
+SETTING: Rotterdam, The Netherlands.
+PARTICIPANTS: The survey involved 169 participants (age mean 30.6, SD 9.8; 61.9% 
+female) who participated in the initial trial. Following this, 20 in-depth 
+interviews were conducted.
+OUTCOME MEASURES: Perceptions of music for pain management were investigated, 
+revealing general trends in the quantitative survey data. Data-led thematic 
+analysis of the qualitative interviews focused on individual perceptions.
+RESULTS: Participants showed a high willingness to use music for pain relief, 
+particularly for so-called emotional pain (eg, anxiety, stress and heartbreak). 
+Individual attitudes varied regarding different situations, types of music and 
+types of pain. Barriers such as not considering the option and social 
+sensitivity within healthcare contexts were discussed. A proactive approach by 
+healthcare professionals and autonomy of healthcare recipients were suggested to 
+overcome these barriers. Interestingly, the 'wrong' type of music or the 'wrong' 
+situation were mentioned as non-beneficial or even harmful.
+CONCLUSIONS: Awareness of individual needs and potential negative effects is 
+crucial for the use of music for pain relief. A proactive and personalised 
+approach is needed to effectively implement music in healthcare.
+
+© Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ Group.
+
+DOI: 10.1136/bmjopen-2024-097233
+PMCID: PMC11931901
+PMID: 40118490 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

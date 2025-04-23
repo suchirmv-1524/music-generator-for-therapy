@@ -1,0 +1,5 @@
+Title: Music Embedding: A Tool for Incorporating Music Theory into   Computational Music Applications
+
+Abstract: Advancements in the digital technologies have enabled researchers to develop a variety of Computational Music applications. Such applications are required to capture, process, and generate data related to music. Therefore, it is important to digitally represent music in a music theoretic and concise manner. Existing approaches for representing music are ineffective in terms of utilizing music theory. In this paper, we address the disjoint of music theory and computational music by developing an opensource representation tool based on music theory. Through the wide range of use cases, we run an analysis on the classical music pieces to show the usefulness of the developed music embedding.
+
+Link: http://arxiv.org/abs/2104.11880v1

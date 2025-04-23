@@ -1,0 +1,49 @@
+1. Stud Health Technol Inform. 2016;229:314-23.
+
+Interaction Design in the Built Environment: Designing for the 'Universal User'.
+
+Dalton C(1).
+
+Author information:
+(1)UCD SMARTlab/Ulster University, Ireland.
+
+Concepts of responsive architecture have to date largely involved response to 
+environmental context, in order to mediate ambient environmental factors and 
+modify internal conditions for the comfort of users, with energy efficiency and 
+sustainability as the main impetus. 'Smart' buildings often address little other 
+than technically functional issues, with any ideas of 'design' as a unifying 
+factor being disregarded. At the same time, music and performance art have been 
+in the vanguard of creating digital interaction that intimately involves the 
+user in aesthetic outcomes, in the creation of what Umberto Eco describes as an 
+'Open Work'. Environments made responsive through embedment of computational 
+technologies can similarly extend usability and user-centred design towards 
+universality, through careful consideration of the relationship between person, 
+context and activity, and of the continuous and ultimately transactional nature 
+of human occupation of built environment. Truly 'smart' environments will learn 
+from and through usage, and can be conceived and designed so as to maximise 
+environmental 'fit' for a wider variety of users, including people described as 
+being 'neurodiverse'. Where user response becomes a significant component in 
+managing a smart environment, the transactional relationship between user and 
+environment is made explicit, and can ultimately be used to drive interaction 
+that favours ease-of-use and personalisation. Inclusion of affective computing 
+in human interaction with built environment offers significant potential for 
+extending the boundaries of Universal Design to include people with autism, 
+people with intellectual disability, and users with acquired cognitive 
+impairment, including that arising from dementia. The same users frequently have 
+issues with sensory-perceptual sensitivity and processing. The resulting 
+mismatch between their individual needs and abilities, and the environments they 
+typically occupy, can give rise to states of chronic and acute anxiety. Analysis 
+of the characteristics of such users gives rise to various 'personas', whose 
+functional and psychosocial needs may be best met by responsive environments 
+which take consideration of affective state, that is, of mood and emotion. 
+Human-computer interaction which marries responsive architecture and affective 
+computing offers a new paradigm for smart environments, which are intrinsically 
+user-centred as a consequence. The technical complexity of designing such an 
+environment must always be balanced by the absolute necessity of utilising 
+Universal Design principles to reduce the underlying technological complexity to 
+a usable interface. This paper is a preliminary exploration of the principles 
+underlying the design of one such responsive environment: an interactive sensory 
+room for children with autism spectrum disorders, (ASDs), which aims to promote 
+relaxation and thus reduce anxiety.
+
+PMID: 27534322 [Indexed for MEDLINE]

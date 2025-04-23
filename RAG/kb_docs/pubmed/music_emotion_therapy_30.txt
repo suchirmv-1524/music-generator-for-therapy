@@ -1,0 +1,46 @@
+1. Healthcare (Basel). 2025 Feb 21;13(5):465. doi: 10.3390/healthcare13050465.
+
+"Grooving in My Body": A Mixed-Methods Pilot Study of Vibroacoustic Therapy's 
+Effects on Emotion Regulation and Attention in Autistic Children.
+
+Moore J(1), Farquharson K(1), Lotter C(1).
+
+Author information:
+(1)Music Therapy Department, School of The Arts, University of Pretoria, 
+Pretoria 0002, South Africa.
+
+Background: Autistic children often face challenges with attention and emotion 
+regulation, which can impact their socio-communication skills and overall 
+well-being. Vibroacoustic therapy (VAT), a sensory-based intervention using 
+low-frequency sound vibrations, may offer a novel approach to address these 
+challenges. The objective of this pilot study is to explore the feasibility and 
+potential efficacy of VAT in improving attention and emotion regulation in 
+autistic children aged 9-12 years. Methods: Eighteen children were recruited 
+with assistance from the school psychologist, using purposive sampling to 
+identify participants with autism spectrum disorder and attentional challenges. 
+The study was conducted at a primary school in Pretoria, South Africa, in March 
+2023. Participants were divided into treatment (n = 9) and control (n = 9) 
+groups. The treatment group underwent 10 VAT sessions over six weeks. Attention 
+was assessed using the NEPSY-II and Joint-Attention Test (JTAT), focusing on 
+sustained, selective, alternating, and joint attention. Qualitative data were 
+collected through observations and creative semi-structured interviews to 
+understand the children's experiences of VAT. Tests were conducted at baseline, 
+midway, post-intervention, and one week post-intervention. Statistical analysis 
+was conducted using a Generalised Linear Mixed Model (GLMM) in R version 4.3.1, 
+with significance assessed using a Likelihood Ratio Test (p < 0.05) to assess 
+attention improvements. Results: Quantitative analysis revealed significant 
+improvements in joint attention in the treatment group (X2 = 11.64, df = 3, p = 
+0.008). Qualitative findings highlighted positive experiences related to emotion 
+regulation, with children reporting a sense of calm and enjoyment during VAT 
+sessions. Teachers also noted improvements in attention and engagement. 
+Conclusions: VAT appears to be a feasible and acceptable intervention for 
+autistic children, with potential benefits for attention and emotion regulation. 
+These findings support further research to validate its efficacy and explore its 
+adaptability for diverse sensory profiles. VAT may hold promise as a holistic 
+therapeutic tool in autism intervention programmes.
+
+DOI: 10.3390/healthcare13050465
+PMCID: PMC11898927
+PMID: 40077026
+
+Conflict of interest statement: The authors declare no conflicts of interest.

@@ -1,0 +1,44 @@
+1. Sensors (Basel). 2024 Mar 20;24(6):1979. doi: 10.3390/s24061979.
+
+FC-TFS-CGRU: A Temporal-Frequency-Spatial Electroencephalography Emotion 
+Recognition Model Based on Functional Connectivity and a Convolutional Gated 
+Recurrent Unit Hybrid Architecture.
+
+Wu X(1)(2)(3), Zhang Y(1)(2)(3), Li J(4), Yang H(1)(2)(3), Wu X(1)(2)(3).
+
+Author information:
+(1)School of Computer Science, Shaanxi Normal University, Xi'an 710062, China.
+(2)Key Laboratory of Intelligent Computing and Service Technology for Folk Song, 
+Ministry of Culture and Tourism, Xi'an 710062, China.
+(3)Key Laboratory of Modern Teaching Technology, Ministry of Education, Shaanxi 
+Normal University, Xi'an 710062, China.
+(4)College of Computer and Information Technology, Nanyang Normal University, 
+Nanyang 473061, China.
+
+The gated recurrent unit (GRU) network can effectively capture temporal 
+information for 1D signals, such as electroencephalography and event-related 
+brain potential, and it has been widely used in the field of EEG emotion 
+recognition. However, multi-domain features, including the spatial, frequency, 
+and temporal features of EEG signals, contribute to emotion recognition, while 
+GRUs show some limitations in capturing frequency-spatial features. Thus, we 
+proposed a hybrid architecture of convolutional neural networks and GRUs (CGRU) 
+to effectively capture the complementary temporal features and spatial-frequency 
+features hidden in signal channels. In addition, to investigate the interactions 
+among different brain regions during emotional information processing, we 
+considered the functional connectivity relationship of the brain by introducing 
+a phase-locking value to calculate the phase difference between the EEG channels 
+to gain spatial information based on functional connectivity. Then, in the 
+classification module, we incorporated attention constraints to address the 
+issue of the uneven recognition contribution of EEG signal features. Finally, we 
+conducted experiments on the DEAP and DREAMER databases. The results 
+demonstrated that our model outperforms the other models with remarkable 
+recognition accuracy of 99.51%, 99.60%, and 99.59% (58.67%, 65.74%, and 67.05%) 
+on DEAP and 98.63%, 98.7%, and 98.71% (75.65%, 75.89%, and 71.71%) on DREAMER in 
+a subject-dependent experiment (subject-independent experiment) for arousal, 
+valence, and dominance.
+
+DOI: 10.3390/s24061979
+PMCID: PMC10976102
+PMID: 38544241 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

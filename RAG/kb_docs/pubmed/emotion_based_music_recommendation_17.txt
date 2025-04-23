@@ -1,0 +1,60 @@
+1. PLoS One. 2023 Dec 27;18(12):e0296287. doi: 10.1371/journal.pone.0296287. 
+eCollection 2023.
+
+Effects of music therapy on degree of cooperation with anesthesia induction and 
+preoperative anxiety in children with simple congenital heart disease: A 
+protocol of systematic review and meta-analysis.
+
+Liu H(1), Song X(2), Xiong L(3), Zhang L(4), Luo B(1), Liu S(5).
+
+Author information:
+(1)Postgraduate Department, Capital University of Physical Education and Sports, 
+Haidian, Beijing, China.
+(2)Postgraduate Department, Beijing Sport University, Haidian, Beijing, China.
+(3)Department of Public Sports, Jiangxi Institute of Applied Science and 
+Technology, Nanchang, Jiangxi, China.
+(4)Taiyuan Tong Shan Rehabilitation Hospital, Taiyuan, Shanxi, China.
+(5)School of Sport and Art, Shenzhen Technology University, Shenzhen, Guangdong 
+province, China.
+
+BACKGROUND: Anxiety is a common preoperative symptom in children with simple 
+congenital heart disease (SCHD). Music therapy shows potential as a non-drug 
+intervention. However, it is unclear how it impacts the level of cooperation 
+during the induction of anesthesia and preoperative anxiety, as well as the 
+factors that influence its effectiveness. Therefore, we will conduct a 
+comprehensive review and meta-analysis to assess the impact of music therapy on 
+the level of cooperation during anesthesia induction and preoperative anxiety in 
+children with SCHD.
+METHODS: Electronic searches will be conducted through various databases 
+including PubMed, Embase, Web of Science, Medline, and CNKI to gather randomized 
+controlled trials (RCTs) examining the impact of music therapy on the level of 
+cooperation during anesthesia induction and preoperative anxiety among children 
+with SCHD. Two evaluators will independently review the literature, extract 
+information, and assess the risk of bias in the included studies. Afterwards, 
+data analysis will be conducted using Stata 14.0 software and Revman 5.4 
+software. The results will be based on random-effects models. The reliability 
+and quality of evidence will be evaluated by using the Grading of 
+Recommendations, Development, and Evaluation (GRADE) system. Heterogeneity will 
+be examined by subgroup analysis stratified by age, gender ratio, type of 
+surgery, drop-out rate, measurement tools, and country of origin. We will assess 
+potential publication bias using funnel plot symmetrical and Begg's ang Egger's 
+regression tests.
+DISCUSSION: Given the multiple advantages that may be associated with music 
+therapy, this therapy may be a desirable alternative to existing therapies for 
+preoperative cooperation and anxiety issues in children with SCHD. We hope that 
+this systematic review will guide clinical decision-making for future efforts 
+related to coping with preoperative fit and anxiety in children with SCHD.
+SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration number: CRD42023445313. 
+https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42023445313.
+
+Copyright: © 2023 Liu et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0296287
+PMCID: PMC10752520
+PMID: 38150450 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

@@ -1,0 +1,51 @@
+1. Heliyon. 2023 Dec 11;10(1):e23611. doi: 10.1016/j.heliyon.2023.e23611. 
+eCollection 2024 Jan 15.
+
+Investigation of different ML approaches in classification of emotions induced 
+by acute stress.
+
+Sourkatti H(1), Pettersson K(1), van der Sanden B(2), Lindholm M(1), Plomp J(1), 
+Määttänen I(3), Henttonen P(3), Närväinen J(1).
+
+Author information:
+(1)VTT Technical Research Center of Finland, Tekniikantie 1, 02150 Espoo, 
+Finland.
+(2)Eindhoven University of Technology, Electrical Engineering, Netherlands.
+(3)University of Helsinki, Department of Psychology and Logopedics, Faculty of 
+Medicine, P.O. Box 63, 00014 University of Helsinki, Finland.
+
+BACKGROUND: Machine learning is becoming a common tool in monitoring emotion. 
+However, methodological studies of the processing pipeline are scarce, 
+especially ones using subjective appraisals as ground truth.
+NEW METHOD: A novel protocol was used to induce cognitive load and physical 
+discomfort, and emotional dimensions (arousal, valence, and dominance) were 
+reported after each task. The performance of five common ML models with a 
+versatile set of features (physiological features, task performance data, and 
+personality trait) was compared in binary classification of subjectively 
+assessed emotions.
+RESULTS: The psychophysiological responses proved the protocol was successful in 
+changing the mental state from baseline, also the cognitive and physical tasks 
+were different. The optimization and performance of ML models used for emotion 
+detection were evaluated. Additionally, methods to account for imbalanced 
+classes were applied and shown to improve the classification performance.
+COMPARISON WITH EXISTING METHODS: Classification of human emotional states often 
+assumes the states are determined by the stimuli. However, individual appraisals 
+vary. None of the past studies have classified subjective emotional dimensions 
+with a set of features including biosignals, personality and behavior.
+CONCLUSION: Our data represent a typical setup in affective computing utilizing 
+psychophysiological monitoring: N is low compared to number of features, 
+inter-individual variability is high, and class imbalance cannot be avoided. Our 
+observations are a) if possible, include features representing physiology, 
+behavior and personality, b) use simple models and limited number of features to 
+improve interpretability, c) address the possible imbalance, d) if the data size 
+allows, use nested cross-validation.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.heliyon.2023.e23611
+PMCID: PMC10761802
+PMID: 38173518
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

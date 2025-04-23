@@ -1,0 +1,41 @@
+1. Comput Biol Med. 2024 Sep;179:108807. doi: 10.1016/j.compbiomed.2024.108807. 
+Epub 2024 Jul 5.
+
+Emotion analysis and recognition in 3D space using classifier-dependent feature 
+selection in response to tactile enhanced audio-visual content using EEG.
+
+Raheel A(1).
+
+Author information:
+(1)Department of Computer Engineering, University of Engineering and Technology 
+Taxila, Pakistan. Electronic address: asim.raheel@uettaxila.edu.pk.
+
+Traditional media such as text, images, audio, and video primarily target 
+specific senses like vision and hearing. In contrast, multiple sensorial media 
+aims to create immersive experiences by integrating additional sensory 
+modalities such as touch, smell, and taste where applicable. Tactile enhanced 
+audio-visual content leverages the sense of touch in addition to visual and 
+auditory stimuli, aiming to create a more immersive and engaging interaction for 
+users. Previously, tactile enhanced content has been explored in 2D emotional 
+space (valence and arousal). In this paper, EEG data against tactile enhanced 
+audio-visual content is labeled based on a self-assessment manikin scale in 3 
+dimensions i.e., valence, arousal, and dominance. Statistical significance (with 
+a 95% confidence interval) is also established based on gathered scores, 
+highlighting a significant difference in the arousal and dominance dimension of 
+traditional media and tactile enhanced media. A new methodology is proposed 
+using classifier-dependent feature selection approach to classify valence, 
+arousal, and dominance states using three different classifiers. A highest 
+accuracy of 75%, 73.8%, and 75% is achieved for classifying valence, arousal, 
+and dominance states, respectively. The proposed scheme outperforms previous 
+emotion recognition based studies in response to enhanced multimedia content in 
+terms of accuracy, F-score, and other error parameters.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2024.108807
+PMID: 38970831 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

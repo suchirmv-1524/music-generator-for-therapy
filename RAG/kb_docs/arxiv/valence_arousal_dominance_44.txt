@@ -1,0 +1,5 @@
+Title: Free Energy in a Circumplex Model of Emotion
+
+Abstract: Previous active inference accounts of emotion translate fluctuations in free energy to a sense of emotion, mainly focusing on valence. However, in affective science, emotions are often represented as multi-dimensional. In this paper, we propose to adopt a Circumplex Model of emotion by mapping emotions into a two-dimensional spectrum of valence and arousal. We show how one can derive a valence and arousal signal from an agent's expected free energy, relating arousal to the entropy of posterior beliefs and valence to utility less expected utility. Under this formulation, we simulate artificial agents engaged in a search task. We show that the manipulation of priors and object presence results in commonsense variability in emotional states.
+
+Link: http://arxiv.org/abs/2407.02474v1

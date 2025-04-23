@@ -1,0 +1,42 @@
+1. Comput Intell Neurosci. 2015;2015:749326. doi: 10.1155/2015/749326. Epub 2015 
+Sep 28.
+
+Neural Cognition and Affective Computing on Cyber Language.
+
+Huang S(1), Zhou X(2), Xue K(3), Wan X(4), Yang Z(5), Xu D(6), Ivanović M(7), Yu 
+X(8).
+
+Author information:
+(1)Overseas Training Center, Shanghai International Studies University, Shanghai 
+200083, China.
+(2)School of Humanities and Social Science, Sichuan Conservatory of Music, 
+Chengdu 610021, China.
+(3)School of Media & Design, Shanghai Jiaotong University, Shanghai 200240, 
+China.
+(4)School of Mathematical Sciences, Fudan University, Shanghai 200433, China.
+(5)School of Software, Fudan University, Shanghai 200433, China.
+(6)Department of Arts Management, Tianjin Conservatory of Music, Tianjin 300171, 
+China.
+(7)Department of Mathematics and Informatics, Faculty of Sciences, University of 
+Novi Sad, 21000 Novi Sad, Serbia.
+(8)College of Arts and Science, Washington University in St. Louis, St. Louis, 
+MO 63130, USA ; Marketing Department, J.L. Kellogg School of Management, 
+Northwestern University, Evanston, IL 60208, USA.
+
+Characterized by its customary symbol system and simple and vivid expression 
+patterns, cyber language acts as not only a tool for convenient communication 
+but also a carrier of abundant emotions and causes high attention in public 
+opinion analysis, internet marketing, service feedback monitoring, and social 
+emergency management. Based on our multidisciplinary research, this paper 
+presents a classification of the emotional symbols in cyber language, analyzes 
+the cognitive characteristics of different symbols, and puts forward a mechanism 
+model to show the dominant neural activities in that process. Through the 
+comparative study of Chinese, English, and Spanish, which are used by the 
+largest population in the world, this paper discusses the expressive patterns of 
+emotions in international cyber languages and proposes an intelligent method for 
+affective computing on cyber language in a unified PAD 
+(Pleasure-Arousal-Dominance) emotional space.
+
+DOI: 10.1155/2015/749326
+PMCID: PMC4600947
+PMID: 26491431 [Indexed for MEDLINE]

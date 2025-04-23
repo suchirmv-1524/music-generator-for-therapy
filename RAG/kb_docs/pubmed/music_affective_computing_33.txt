@@ -1,0 +1,42 @@
+1. Int J Neural Syst. 2017 Mar;27(2):1650042. doi: 10.1142/S0129065716500428.
+Epub  2016 May 26.
+
+Towards Tunable Consensus Clustering for Studying Functional Brain Connectivity 
+During Affective Processing.
+
+Liu C(1), Abu-Jamous B(1), Brattico E(2)(3), Nandi AK(1)(4).
+
+Author information:
+(1)* Department of Electronic and Computer Engineering, Brunel University 
+London, London, UK.
+(2)† Center for Music in the Brain (MIB), Department of Clinical Medicine, 
+Aarhus University, Aarhus, Denmark.
+(3)‡ The Royal Academy of Music Aarhus/Aalborg, Aarhus, Denmark.
+(4)§ The Key Laboratory of Embedded Systems and Service Computing, College of 
+Electronic and Information Engineering, Tongji University, Shanghai, P. R. 
+China.
+
+In the past decades, neuroimaging of humans has gained a position of status 
+within neuroscience, and data-driven approaches and functional connectivity 
+analyses of functional magnetic resonance imaging (fMRI) data are increasingly 
+favored to depict the complex architecture of human brains. However, the 
+reliability of these findings is jeopardized by too many analysis methods and 
+sometimes too few samples used, which leads to discord among researchers. We 
+propose a tunable consensus clustering paradigm that aims at overcoming the 
+clustering methods selection problem as well as reliability issues in 
+neuroimaging by means of first applying several analysis methods (three in this 
+study) on multiple datasets and then integrating the clustering results. To 
+validate the method, we applied it to a complex fMRI experiment involving 
+affective processing of hundreds of music clips. We found that brain structures 
+related to visual, reward, and auditory processing have intrinsic spatial 
+patterns of coherent neuroactivity during affective processing. The comparisons 
+between the results obtained from our method and those from each individual 
+clustering algorithm demonstrate that our paradigm has notable advantages over 
+traditional single clustering algorithms in being able to evidence robust 
+connectivity patterns even with complex neuroimaging data involving a variety of 
+stimuli and affective evaluations of them. The consensus clustering method is 
+implemented in the R package "UNCLES" available on 
+http://cran.r-project.org/web/packages/UNCLES/index.html .
+
+DOI: 10.1142/S0129065716500428
+PMID: 27596928 [Indexed for MEDLINE]

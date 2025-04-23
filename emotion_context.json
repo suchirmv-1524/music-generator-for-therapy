@@ -1,0 +1,22 @@
+{
+    "Happy": ["upbeat", "cheerful", "positive", "joyful", "energetic", "major key", "bright"],
+    "Sad": ["melancholic", "somber", "slow tempo", "minor key", "emotional", "reflective", "deep"],
+    "Angry": ["intense", "aggressive", "high energy", "distorted", "loud", "powerful", "raw"],
+    "Fearful": ["tense", "suspenseful", "dissonant", "atmospheric", "unsettling", "eerie"],
+    "Disgusted": ["dissonant", "atonal", "experimental", "challenging", "unusual", "complex"],
+    "Surprised": ["unexpected", "dynamic", "varied", "unconventional", "interesting", "quirky"],
+    "Neutral": ["balanced", "moderate tempo", "ambient", "background", "instrumental", "calm"],
+    "Tired": ["relaxing", "slow tempo", "ambient", "soothing", "calm", "lo-fi", "gentle"],
+    "Bored": ["stimulating", "complex", "interesting", "varied", "engaging", "diverse"],
+    "Confused": ["complex", "layered", "intricate", "genre-blending", "experimental", "avant-garde"],
+    "Excited": ["upbeat", "fast tempo", "energetic", "dynamic", "euphoric", "bright", "lively"],
+    "Content": ["pleasant", "warm", "flowing", "balanced", "harmonic", "smooth"],
+    "Calm": ["gentle", "quiet", "peaceful", "soft", "minimal", "ambient"],
+    "Relaxed": ["flowing", "easy", "laid-back", "gentle rhythms", "spacious"],
+    "Anxious": ["tremolo", "dissonant", "fast", "irregular", "tense", "agitated"],
+    "Frustrated": ["driving", "dissonant", "building tension", "heavy rhythm", "intensity"],
+    "Awestruck": ["expansive", "harmonic", "crescendo", "epic", "soaring", "reverberant"],
+    "Nostalgic": ["warm tones", "vinyl texture", "gentle reverb", "bittersweet", "melodic"],
+    "Melancholic": ["introspective", "minor key", "slow", "ethereal", "emotional", "delicate"],
+    "Passionate": ["intense", "dynamic", "emotive", "bold", "dramatic", "expressive"]
+} 

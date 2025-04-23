@@ -1,0 +1,75 @@
+1. Cureus. 2025 Mar 16;17(3):e80642. doi: 10.7759/cureus.80642. eCollection 2025 
+Mar.
+
+Hindu Spiritual Music for Perioperative Anxiolysis and Stress Modulation: An 
+Open-Label, Randomized Comparative Trial in Lower Limb Surgery Patients.
+
+Jain A(1), Verma B(1), Saunakiya P(2), Agarwal S(3), Agarwal P(4), Gupta P(5), 
+Thakur C(1).
+
+Author information:
+(1)Anesthesiology, Maharani Laxmi Bai Medical College, Jhansi, IND.
+(2)Surgery, Maharani Laxmi Bai Medical College, Jhansi, IND.
+(3)Orthopedics, Maharani Laxmi Bai Medical College, Jhansi, IND.
+(4)Surgery, Rajkiya Medical College, Jalaun, IND.
+(5)Orthopedics, Rajkiya Medical College, Jalaun, IND.
+
+Background Perioperative anxiety is a common concern in patients undergoing 
+regional anesthesia, as they remain conscious during surgery. Various 
+non-pharmacological interventions, including music therapy, have been explored 
+to reduce anxiety and stress response. Spiritual interventions, particularly 
+religious music, have been shown to provide emotional stability and enhance 
+coping mechanisms during stressful situations. Objective This study aimed to 
+evaluate the impact of Hindu religious music compared to patient-selected 
+instrumental music on intraoperative anxiety, stress response, and patient 
+satisfaction in individuals undergoing lower limb surgery under regional 
+anesthesia. Methods This prospective, open-label, randomized controlled trial 
+was conducted at Maharani Laxmi Bai Medical College, a tertiary care teaching 
+hospital in Jhansi, India, after obtaining approval from the Institutional 
+Ethics Committee (Certificate No. 5208/IEC/I/2022-2023) and registration with 
+the Clinical Trials Registry of India (CTRI/2024/01/062006, registered on 
+January 30, 2024). The trial included 150 ASA class 1 or 2 patients undergoing 
+elective lower limb surgery under regional anesthesia. Participants were 
+randomly assigned to two groups: Group A (Hindu spiritual music) and Group B 
+(patient-preferred instrumental music). Music was played intraoperatively via 
+noise-canceling headphones. The primary outcomes were intraoperative anxiety 
+(measured using the Visual Analog Scale for Anxiety (VAS-A)) and serum cortisol 
+levels as a biochemical marker of stress. Secondary outcomes included 
+hemodynamic parameters, additional analgesic requirements, incidence of nausea 
+and vomiting, and patient satisfaction. Results Group A had significantly lower 
+intraoperative VAS-A scores compared to Group B (2.13 ± 0.91 vs. 3.41 ± 1.12; p 
+= 0.01). Serum cortisol levels were also significantly lower in Group A at the 
+end of surgery (28.54 ± 6.11 vs. 32.50 ± 8.82 µg/dL; p = 0.001) and remained 
+lower on the first postoperative day (p = 0.001). The incidence of postoperative 
+nausea and vomiting was significantly lower in Group A (6.8% vs. 17.5%; p = 
+0.028). Patient satisfaction was also higher in the Hindu spiritual music group 
+(p = 0.03). Conclusion Hindu spiritual music reduced perioperative anxiety, 
+attenuated the stress response, and decreased postoperative nausea and vomiting 
+compared to non-spiritual instrumental music. It should be considered a 
+non-pharmacological intervention in the perioperative period to alleviate 
+anxiety and improve patient comfort. However, the study's findings may have 
+limited generalizability to non-Hindu patients. Future research should explore 
+whether similar benefits are observed in religious individuals listening to 
+music of their own faith and cultural background.
+
+Copyright © 2025, Jain et al.
+
+DOI: 10.7759/cureus.80642
+PMCID: PMC11911900
+PMID: 40099310
+
+Conflict of interest statement: Human subjects: Consent for treatment and open 
+access publication was obtained or waived by all participants in this study. 
+Institute Ethics Committee of Maharani Laxmi Bai Medical College, Jhansi issued 
+approval 5208/IEC/2022-2023. The study adhered to the principles outlined in the 
+Declaration of Helsinki (2013) and Good Clinical Practice guidelines. Animal 
+subjects: All authors have confirmed that this study did not involve animal 
+subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform 
+disclosure form, all authors declare the following: Payment/services info: All 
+authors have declared that no financial support was received from any 
+organization for the submitted work. Financial relationships: All authors have 
+declared that they have no financial relationships at present or within the 
+previous three years with any organizations that might have an interest in the 
+submitted work. Other relationships: All authors have declared that there are no 
+other relationships or activities that could appear to have influenced the 
+submitted work.

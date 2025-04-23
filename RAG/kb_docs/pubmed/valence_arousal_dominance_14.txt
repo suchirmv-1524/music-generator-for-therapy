@@ -1,0 +1,53 @@
+1. Psychon Bull Rev. 2025 Feb;32(1):203-225. doi: 10.3758/s13423-024-02551-y.
+Epub  2024 Aug 22.
+
+The principal components of meaning, revisited.
+
+Westbury C(1), Yang M(2), Anderson K(3).
+
+Author information:
+(1)Department of Psychology, University of Alberta, P220 Biological Sciences 
+Building, Edmonton, AB, T6G 2E9, Canada. chrisw@ualberta.ca.
+(2)Department of Psychology, McGill University, 2001 McGill College Ave, 
+Montreal, QC, H3A 1G1, Canada.
+(3)Department of Psychology, University of Alberta, P220 Biological Sciences 
+Building, Edmonton, AB, T6G 2E9, Canada.
+
+Osgood, Suci, and Tannebaum were the first to attempt to identify the principal 
+components of semantics using dimensional reduction of a high-dimensional model 
+of semantics constructed from human judgments of word relatedness. Modern 
+word-embedding models analyze patterns of words to construct higher dimensional 
+models of semantics that can be similarly subjected to dimensional reduction. 
+Hollis and Westbury characterized the first eight principal components (PCs) of 
+a word-embedding model by correlating them with several well-known lexical 
+measures, such as logged word frequency, age of acquisition, valence, arousal, 
+dominance, and concreteness. The results show some clear differentiation of 
+interpretation between the PCs. Here, we extend this work by analyzing a larger 
+word-embedding matrix using semantic measures initially derived from subjective 
+inspection of the PCs. We then use quantitative analysis to confirm the utility 
+of these subjective measures for predicting PC values and cross-validate them on 
+two word-embedding matrices developed on distinct corpora. Several semantic and 
+word class measures are strongly predictive of early PC values, including 
+first-person and second-person verbs, personal relevance of abstract and 
+concrete words, affect terms, and names of places and people. The predictors of 
+the lowest magnitude PCs generalized well to word-embedding matrices constructed 
+from separate corpora, including matrices constructed using different 
+word-embedding methods. The predictive categories we describe are consistent 
+with Wittgenstein's argument that an autonomous level of social interaction 
+grounds linguistic meaning.
+
+© 2024. The Psychonomic Society, Inc.
+
+DOI: 10.3758/s13423-024-02551-y
+PMID: 39174751 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval/Consent to 
+participate: Since this work relies only on computational modeling, no ethics 
+approval was sought or required. Consent for publication: All authors have 
+approved the publication of this manuscript in its present form. Data 
+availability: All data and R files required for replicating the analyses and 
+plots in this paper are available ( https://osf.io/3zrek/ ). Conflicts of 
+interest: The authors declare that we have no conflicts of interest or competing 
+interests. Open practices statement: The data and materials for all experiments 
+are available online ( https://osf.io/3zrek ). None of the experiments was 
+preregistered.

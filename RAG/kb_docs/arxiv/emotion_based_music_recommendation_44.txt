@@ -1,0 +1,5 @@
+Title: Emotional Musical Prosody: Validated Vocal Dataset for Human Robot   Interaction
+
+Abstract: Human collaboration with robotics is dependant on the development of a relationship between human and robot, without which performance and utilization can decrease. Emotion and personality conveyance has been shown to enhance robotic collaborations, with improved human-robot relationships and increased trust. One under-explored way for an artificial agent to convey emotions is through non-linguistic musical prosody. In this work we present a new 4.2 hour dataset of improvised emotional vocal phrases based on the Geneva Emotion Wheel. This dataset has been validated through extensive listening tests and shows promising preliminary results for use in generative systems.
+
+Link: http://arxiv.org/abs/2010.04839v1

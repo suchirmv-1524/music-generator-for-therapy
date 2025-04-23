@@ -1,0 +1,41 @@
+1. Occup Ther Int. 2022 Jun 18;2022:6841445. doi: 10.1155/2022/6841445.
+eCollection  2022.
+
+Design of Semantic Matching Model of Folk Music in Occupational Therapy Based on 
+Audio Emotion Analysis.
+
+Ouyang W(1).
+
+Author information:
+(1)School of Music Shaanxi Normal University, Xi'an Shaanxi 710119, China.
+
+The main semantic symbol systems for people to express their emotions include 
+natural language and music. The analysis and establishment of semantic 
+association between language and music is helpful to provide more accurate 
+retrieval and recommendation services for text and music. Existing researches 
+mainly focus on the surface symbolic features and association of natural 
+language and music, which limits the performance and interpretability of 
+applications based on semantic association of natural language and music. 
+Emotion is the main meaning of music expression, and the semantic range of text 
+expression includes emotion. In this paper, the semantic features of music are 
+extracted from audio features, and the semantic matching model of audio emotion 
+analysis is constructed to analyze ethnic music audio emotion through feature 
+extraction ability of deep structure. The model is based on the framework of 
+emotional semantic matching technology and realizes the emotional semantic 
+matching of music fragments and words through semantic emotional recognition 
+algorithm. Multiple experiments show that when W = 0.65, the recognition rate of 
+multichannel fusion model is 88.42%, and the model can reasonably realize audio 
+emotion analysis. When the spatial dimension of music data changes, the 
+classification accuracy reaches the highest when the spatial dimension is 25. 
+Analysing the semantic association of audio promotes the application of folk 
+music in occupational therapy.
+
+Copyright © 2022 Wensi Ouyang.
+
+DOI: 10.1155/2022/6841445
+PMCID: PMC9233611
+PMID: 35821710 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no known competing financial 
+interests or personal relationships that could have appeared to influence the 
+work reported in this paper.

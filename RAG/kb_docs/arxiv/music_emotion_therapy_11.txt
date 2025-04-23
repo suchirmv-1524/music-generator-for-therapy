@@ -1,0 +1,5 @@
+Title: HAIDA: Biometric technological therapy tools for neurorehabilitation of   Cognitive Impairment
+
+Abstract: Dementia, and specially Alzheimer s disease (AD) and Mild Cognitive Impairment (MCI) are one of the most important diseases suffered by elderly population. Music therapy is one of the most widely used non-pharmacological treatment in the field of cognitive impairments, given that music influences their mood, behavior, the decrease of anxiety, as well as facilitating reminiscence, emotional expressions and movement. In this work we present HAIDA, a multi-platform support system for Musical Therapy oriented to cognitive impairment, which includes not only therapy tools but also non-invasive biometric analysis, speech, activity and hand activity. At this moment the system is on use and recording the first sets of data.
+
+Link: http://arxiv.org/abs/2203.04645v1

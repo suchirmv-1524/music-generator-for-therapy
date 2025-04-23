@@ -1,0 +1,71 @@
+1. Sci Rep. 2025 Apr 14;15(1):12783. doi: 10.1038/s41598-025-97199-6.
+
+The effect of aromatherapy and music therapy on blood pressure and heart rate of 
+nursing students before taking the exam.
+
+Borzoo T(1), Tafazoli M(2), Ebrahimzadeh M(1), Kazemi-Arpanahi H(3), Tabahfar 
+R(1), Kamyari N(4), Hadideh F(5), Malaekeh SMA(6).
+
+Author information:
+(1)Department of Nursing, School of Nursing, Abadan University of Medical 
+Sciences, Abadan, Iran.
+(2)Department of Nursing, School of Nursing, Abadan University of Medical 
+Sciences, Abadan, Iran. Mahsa.tafazoli@gmail.com.
+(3)Department of Health Information Technology, Abadan University of Medical 
+Sciences, Abadan, Iran.
+(4)Department of Biostatistics and Epidemiology, School of Health, Research 
+Center for Environmental Contaminants (RCEC), Abadan University of Medical 
+Sciences, Abadan, Iran.
+(5)Department of Psychiatry Counselling, Abadan University of Medical Sciences, 
+Abadan, Iran.
+(6)Department of Laboratory Sciences, Abadan University of Medical Sciences, 
+Abadan, Iran.
+
+Anxiety associated with taking exams jeopardizes students' mental and physical 
+health. Complementary alternative methods, such as aromatherapy and music 
+therapy, have shown promise in reducing negative emotions among students. 
+However, few studies have examined the effects of these interventions. This 
+study aimed to investigate the effects of aromatherapy and music therapy on 
+nursing students' blood pressure (BP) and heart rate before taking an exam. This 
+quasi-experimental, double-blinded study was conducted in 2023 at the Nursing 
+College of Abadan University of Medical Sciences in Abadan, Iran. The research 
+included a total of 169 nursing students, who were randomly assigned to three 
+groups: an aromatherapy group (n = 60), a music therapy group (n = 56), and a 
+control group (n = 53). Aromatherapy was administered by inhaling lavender and 
+damask rose essences, while music therapy involved listening to Beethoven's 
+"Moonlight Sonata." The control group received a placebo intervention consisting 
+of cotton soaked in 10 drops of water. Each intervention lasted twenty minutes 
+and was conducted in separate rooms before an exam. Students' heart rates and BP 
+(both systolic and diastolic) were recorded before and after the intervention. 
+The study showed remarkable effects of aromatherapy and music therapy on blood 
+pressure and pulse rate. While systolic blood pressure (SBP) was similar in all 
+groups at the beginning of the study (p = 0.205), SBP decreased significantly 
+after the intervention (p = 0.016), especially in the aromatherapy (p = 0.003) 
+and music therapy (p < 0.001) groups. Both interventions also significantly 
+reduced diastolic blood pressure and pulse rate (p < 0.001) compared to 
+baseline. However, except for SBP (p = 0.021), ANCOVA tests did not reveal 
+significant differences between the study groups for diastolic blood pressure 
+and pulse rate (p > 0.05). The reduction in students' systolic BP before exams, 
+observed with complementary therapies like music therapy and aromatherapy using 
+lavender and damask rose extracts, suggests a decrease in stress-related 
+physiological responses, However, the specific link to exam-related anxiety 
+requires further clarification.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-97199-6
+PMCID: PMC11997094
+PMID: 40229405 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethics approval and consent to participate: This 
+research was conducted in full compliance with the ethical standards of both the 
+institutional and national research committees. Ethics approval was obtained 
+from the Abadan University of Medical Sciences, prior to the commencement of the 
+study (IR.ABADANUMS.REC.1401.162). All methods were performed in accordance with 
+the relevant guidelines and regulations by the ethical committee of Abadan 
+University of Medical Sciences. All experimental protocols were approved by the 
+ethical committee of Abadan University of Medical Sciences. Participation was 
+voluntary, written consent was obtained from the subjects. Participants had the 
+right to withdraw from the study at any time without prejudice. Clinical trial 
+number: not applicable.

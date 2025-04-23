@@ -1,0 +1,57 @@
+1. Front Neurol. 2023 Sep 1;14:1206171. doi: 10.3389/fneur.2023.1206171. 
+eCollection 2023.
+
+Calming effect of Clinically Designed Improvisatory Music for patients admitted 
+to the epilepsy monitoring unit during the COVID-19 pandemic: a pilot study.
+
+Bonakdarpour B(1)(2), Zhou G(1), Huang D(1)(2), Vidano CT(2), Schuele S(1), 
+Zelano C(1), Takarabe C(1)(2).
+
+Author information:
+(1)Department of Neurology, Feinberg School of Medicine, Northwestern 
+University, Chicago, IL, United States.
+(2)Feinberg School of Medicine, Mesulam Center for Cognitive Neurology and 
+Alzheimer's Disease, Northwestern University, Chicago, IL, United States.
+
+BACKGROUND: Epilepsy monitoring requires simulating seizure-inducing conditions 
+which frequently causes discomfort to epilepsy monitoring unit (EMU) patients. 
+COVID-19 hospital restrictions added another layer of stress during hospital 
+admissions. The purpose of this pilot study was to provide evidence that live 
+virtual Clinically Designed Improvisatory Music (CDIM) brings relief to EMU 
+patients for their psychological distress.
+METHODS: Five persons with epilepsy (PWEs) in the EMU during the COVID-19 
+lockdown participated in the study (average age ± SD = 30.2 ± 6 years). 
+Continuous electroencephalogram (EEG) and electrocardiogram (EKG) were obtained 
+before, during, and after live virtual CDIM. CDIM consisted of 40 minutes of 
+calming music played by a certified clinical music practitioner (CMP) on viola. 
+Post-intervention surveys assessed patients' emotional state on a 1-10 Likert 
+scale. Alpha/beta power spectral density ratio was calculated for each subject 
+across the brain and was evaluated using one-way repeated analysis of variance, 
+comparing 20 minutes before, during, and 20 minutes after CDIM. Post-hoc 
+analysis was performed using paired t-test at the whole brain level and regions 
+with peak changes.
+RESULTS: Patients reported enhanced emotional state (9 ± 1.26), decrease in 
+tension (9.6 ± 0.49), decreased restlessness (8.6 ± 0.80), increased pleasure 
+(9.2 ± 0.98), and likelihood to recommend (10 ± 0) on a 10-point Likert scale. 
+Based on one-way repeated analysis of variance, alpha/beta ratio increased at 
+whole-brain analysis (F3,12 = 5.01, P = 0.018) with a peak in midline (F3,12 
+= 6.63, P = 0.0068 for Cz) and anterior medial frontal region (F3,12 = 6.45, P 
+= 0.0076 for Fz) during CDIM and showed a trend to remain increased 
+post-intervention.
+CONCLUSION: In this pilot study, we found positive effects of CDIM as reported 
+by patients, and an increased alpha/beta ratio with meaningful 
+electroencephalographic correlates due to the calming effects in response to 
+CDIM. Our study provides proof of concept that live virtual CDIM offered 
+demonstrable comfort with biologic correlations for patients admitted in the EMU 
+during the COVID-19 pandemic.
+
+Copyright © 2023 Bonakdarpour, Zhou, Huang, Vidano, Schuele, Zelano and 
+Takarabe.
+
+DOI: 10.3389/fneur.2023.1206171
+PMCID: PMC10507627
+PMID: 37731858
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

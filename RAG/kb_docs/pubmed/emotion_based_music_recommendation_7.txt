@@ -1,0 +1,54 @@
+1. Brain Behav. 2024 Sep;14(9):e3629. doi: 10.1002/brb3.3629.
+
+The safety and effectiveness of music medicine as an intervention for 
+depression: A systematic evaluation and re-evaluation.
+
+Zhong D(1), Cheng H(2), Pan Z(3), Liu Y(2), Liu P(1), Li J(1), Chen J(1), Deng 
+Y(4), Ou X(1), Li H(5), Kong X(1).
+
+Author information:
+(1)Nanhai Hospital of Traditional Chinese Medicine, Jinan University, Foshan, 
+China.
+(2)Institute of Traditional Chinese Medicine, Jinan University, Guangzhou, 
+China.
+(3)Graduate School, Guangzhou University of Chinese Medicine, Guangzhou, China.
+(4)Institute of Integrative Medicine, Hunan University of Chinese Medicine, 
+Changsha, China.
+(5)Department of geriatrics, Foshan Hospital of Traditional Chinese Medicine, 
+Foshan, China.
+
+BACKGROUND: As the methodological quality and evidence level of the existing 
+systematic reviews (SRs) on music as an intervention for depression have not 
+been thoroughly evaluated, a systematic evaluation and re-evaluation (SERE) was 
+conducted.
+METHODS: Multiple databases including PubMed, Web of Science, Embase, China 
+National Knowledge Infrastructure, SinoMed, Wanfang, and the VIP database were 
+searched for SRs and meta-analyses (MAs) on the effectiveness of music as an 
+intervention for depression. The literature screening, evaluation of 
+methodological quality, and assessment of evidence level were carried out by a 
+team of researchers. The methodological quality was evaluated using the 
+Assessment of Multiple Systematic Reviews 2 (AMSTAR 2) scale in accordance with 
+the 2020 Preferred Reporting Items for Systematic Reviews and Meta-Analyses 
+(PRISMA) guidelines, and the Grading of Recommendations, Assessment, 
+Development, and Evaluation (GRADE) criteria were utilized to assess the level 
+of evidence.
+RESULTS: A total of 18 SRs were included in the analysis. The 2020 PRISMA 
+guidelines were utilized to evaluate various aspects such as search terms, 
+funding sources, statistical methods for missing values, subgroup and 
+sensitivity analyses, certainty assessment, excluded literature citations, 
+assessment of publication bias, protocol information, conflicts of interest, and 
+data availability, which were rarely reported. The evaluation of the studies 
+using the AMSTAR 2 scale revealed that one article was rated as high quality, 
+six were rated as low quality, and 11 were rated as very low quality. Based on 
+the GRADE criteria evaluation, the quality of the evidence was found to be 
+inconsistent, with reports primarily consisting of medium-quality evidence.
+CONCLUSION: The methodological quality of SRs/MAs of music as an intervention in 
+depression is generally poor, and the level of evidence is generally low.
+
+© 2024 The Author(s). Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.3629
+PMCID: PMC11391024
+PMID: 39262200 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

@@ -1,0 +1,51 @@
+1. PLoS One. 2025 Feb 27;20(2):e0317607. doi: 10.1371/journal.pone.0317607. 
+eCollection 2025.
+
+Using music as a mood regulator in everyday life is associated with unfavourable 
+health and fitness outcomes in overweight adults.
+
+Ginström L(1)(2)(3), Kaseva K(2)(3)(4), Peltonen JE(2)(3), Saarikallio S(5), 
+Tervaniemi M(1)(6).
+
+Author information:
+(1)Centre of Excellence in Music, Mind, Body, and Brain, Faculty of Educational 
+Sciences, University of Helsinki, Helsinki, Finland.
+(2)Sports and Exercise Medicine, Faculty of Medicine, University of Helsinki, 
+Helsinki, Finland.
+(3)Helsinki Sports and Exercise Medicine Clinic (HULA), Foundation for Sports 
+and Exercise Medicine, Helsinki, Finland.
+(4)Department of Education, Faculty of Educational Sciences, University of 
+Helsinki, Helsinki, Finland.
+(5)Centre of Excellence in Music, Mind, Body, and Brain, University of 
+Jyväskylä, Helsinki, Finland.
+(6)Cognitive Brain Research Unit, Department of Psychology, Faculty of Medicine, 
+University of Helsinki, Helsinki, Finland.
+
+Individual traits and habits have shown to be associated with health and health 
+behaviour. One such habit is how individuals use music. This study aimed to 
+examine if using music as a mood regulator is related to risk factors of 
+lifestyle diseases. Participants who joined the present Motivation Makes the 
+Move! lifestyle intervention were overweight and sedentary adults (n = 76, ages 
+19-40). They answered questionnaires about physical activity and use of music. 
+They also underwent a cardiopulmonary exercise test and their body composition 
+was assessed. Additionally, the analyses' robustness was tested through 
+controlling for physical, sociodemographic and psychological health related 
+factors. We observed that despite the participants' self-reported commitment to 
+regular physical activity, their fitness level was poor. Using music as a mood 
+regulator was associated with lower cardiorespiratory fitness. Use of music was 
+also positively linked to body fat percentage, although this finding did not 
+remain significant after adjusting for age, educational level and experienced 
+health. We urge future research to address the relationship between music use 
+and risk factors of lifestyle diseases in a population sample.
+
+Copyright: © 2025 Ginström et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0317607
+PMCID: PMC11867320
+PMID: 40014605 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

@@ -1,0 +1,57 @@
+1. J Clin Nurs. 2023 May;32(9-10):2114-2127. doi: 10.1111/jocn.16309. Epub 2022
+Mar  29.
+
+Integrative review of non-pharmacological intervention and multidimensional 
+evaluation for intraoperative anxiety under spinal anaesthesia.
+
+Lim K(1)(2), Jung S(2)(3), Kim H(1)(4)(5)(6).
+
+Author information:
+(1)College of Nursing, Yonsei University, Seoul, Republic of Korea.
+(2)Severance Hospital, Yonsei University Health System, Seoul, Republic of 
+Korea.
+(3)Graduate School of Public Health, Yonsei University, Seoul, Republic of 
+Korea.
+(4)Brain Korea 21 FOUR Project, Seoul, Republic of Korea.
+(5)Mo-Im Kim Nursing Research Institute, Seoul, Republic of Korea.
+(6)Yonsei Evidence Based Nursing Centre of Korea: a JBI Affiliated Group, Yonsei 
+University, Seoul, Republic of Korea.
+
+INTRODUCTION: Patients under spinal anaesthesia experience high levels of 
+anxiety during surgery. Clinical nurses tried to manage patient's anxiety under 
+spinal anaesthesia using non-pharmacological interventions for its benefit. 
+Thus, it is required to identify comprehensive evidences of various 
+non-pharmacological interventions and of how to measure anxiety under spinal 
+anaesthesia.
+AIMS: This study aims to review current research on the non-pharmacological 
+interventions to relieve intraoperative anxiety under spinal anaesthesia and to 
+identify subjective and objective measures of intraoperative anxiety under 
+spinal anaesthesia.
+METHODS: Wittemore and Knafl's integrative review methodology was used. 
+Researchers conducted five scientific rigor steps; problem identification, 
+searching literature, evaluation of literature, analysis of literature and 
+presentation of results. The PRISMA checklist was used. To evaluate the level of 
+evidence, critical appraisal tools of Joanna Briggs Institute were used.
+RESULTS: Eleven studies were included in this integrative review. Delivering 
+music is the most frequently used as non-pharmacological intervention by 
+researchers. They tried to manage intraoperative anxiety under spinal 
+anaesthesia with using diverse genre and application of music. In addition, dry 
+cupping method, progressive muscle relaxation (PMR) exercise and virtual reality 
+(VR) goggles were used in included studies. Researchers measured intraoperative 
+anxiety under spinal anaesthesia with objective or subjective way. The 
+State-Trait Anxiety Inventory and visual analogue scale were used as subjective 
+method to approach intraoperative anxiety. In contrary, researchers tried to 
+obtain objective evidence of intraoperative anxiety with vital signs, cortisol, 
+blood glucose, alpha-amylase and adrenocorticotropic hormone.
+CONCLUSION: Various types of non-pharmacological interventions are effective to 
+manage patient's intraoperative anxiety under spinal anaesthesia. It is 
+recommended to measure intraoperative anxiety under spinal anaesthesia with 
+using both objective and subjective methods.
+RELEVANCE TO CLINICAL PRACTICE: Clinical nurses can use non-pharmacological 
+interventions to manage intraoperative anxiety under spinal anaesthesia by 
+comprehensive monitoring with diverse measures.
+
+© 2022 John Wiley & Sons Ltd.
+
+DOI: 10.1111/jocn.16309
+PMID: 35352416 [Indexed for MEDLINE]

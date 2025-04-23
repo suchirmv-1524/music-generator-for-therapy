@@ -1,0 +1,40 @@
+1. RETRACTED ARTICLE
+
+J Environ Public Health. 2022 Jul 31;2022:7709053. doi: 10.1155/2022/7709053. 
+eCollection 2022.
+
+Analysis of the Basic Characteristics and Teaching Environment and Mode of Music 
+Appreciation Course Based on Core Literacy.
+
+Lv H(1).
+
+Author information:
+(1)College of Music, Henan University, Kaifeng 475001, China.
+
+Retraction in
+    J Environ Public Health. 2023 Jun 28;2023:9815145. doi: 
+10.1155/2023/9815145.
+
+The main goals of a music appreciation course are to develop college students' 
+emotions, improve their musical abilities, and strengthen their conceptual 
+framework. This essay primarily introduces the fundamental elements and 
+instructional approach of a music appreciation course built on core literacy. In 
+order to clarify the need for and orientation of basic literacy in college music 
+appreciation teaching, as well as to understand the special value of the 
+subject, we conducted research on the relationship between basic literacy and 
+college music appreciation teaching. Based on this, a new detection algorithm 
+that fuses feature fusion and AM (attention mechanism) is proposed, and visual 
+AM is added to the algorithm based on AM features to help the agent learn the 
+best course of action quickly. The findings indicate that this method's 
+cumulative normalized discount gain increases by about 0.07 and that the 
+recommended list's overall quality has significantly improved. The hit ranking 
+is decreased by about 0.05 when compared to the collaborative neural network 
+filtering method without AM.
+
+Copyright © 2022 Hua Lv.
+
+DOI: 10.1155/2022/7709053
+PMCID: PMC9357672
+PMID: 35958382 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflicts of interest.

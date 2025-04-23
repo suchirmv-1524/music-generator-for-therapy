@@ -1,0 +1,44 @@
+1. Sensors (Basel). 2023 Jan 14;23(2):986. doi: 10.3390/s23020986.
+
+Using Deep Learning to Recognize Therapeutic Effects of Music Based on Emotions.
+
+Modran HA(1), Chamunorwa T(1), Ursuțiu D(1)(2), Samoilă C(1)(3), Hedeșiu H(4).
+
+Author information:
+(1)Faculty of Electrical Engineering and Computer Science, Transilvania 
+University of Brasov, 500036 Brasov, Romania.
+(2)Romanian Academy of Scientists, 050044 Bucharest, Romania.
+(3)Romanian Academy of Technical Sciences, 010413 Bucharest, Romania.
+(4)Electrical Machines and Drives Department, Technical University of Cluj 
+Napoca, 400027 Cluj-Napoca, Romania.
+
+Music is important in everyday life, and music therapy can help treat a variety 
+of health issues. Music listening is a technique used by music therapists in 
+various clinical treatments. As a result, music therapists must have an 
+intelligent system at their disposal to assist and support them in selecting the 
+most appropriate music for each patient. Previous research has not thoroughly 
+addressed the relationship between music features and their effects on patients. 
+The current paper focuses on identifying and predicting whether music has 
+therapeutic benefits. A machine learning model is developed, using a multi-class 
+neural network to classify emotions into four categories and then predict the 
+output. The neural network developed has three layers: (i) an input layer with 
+multiple features; (ii) a deep connected hidden layer; (iii) an output layer. 
+K-Fold Cross Validation was used to assess the estimator. The experiment aims to 
+create a machine-learning model that can predict whether a specific song has 
+therapeutic effects on a specific person. The model considers a person's musical 
+and emotional characteristics but is also trained to consider solfeggio 
+frequencies. During the training phase, a subset of the Million Dataset is used. 
+The user selects their favorite type of music and their current mood to allow 
+the model to make a prediction. If the selected song is inappropriate, the 
+application, using Machine Learning, recommends another type of music that may 
+be useful for that specific user. An ongoing study is underway to validate the 
+Machine Learning model. The developed system has been tested on many 
+individuals. Because it achieved very good performance indicators, the proposed 
+solution can be used by music therapists or even patients to select the 
+appropriate song for their treatment.
+
+DOI: 10.3390/s23020986
+PMCID: PMC9861051
+PMID: 36679783 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

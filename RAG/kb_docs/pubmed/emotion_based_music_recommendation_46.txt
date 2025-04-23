@@ -1,0 +1,42 @@
+1. J Intell Robot Syst. 2022;105(2):28. doi: 10.1007/s10846-022-01604-5. Epub
+2022  May 17.
+
+Comparing Social Robot Embodiment for Child Musical Education.
+
+de Souza Jeronimo B(1), de Albuquerque Wheler AP(1), de Oliveira JPG(2), Melo 
+R(3), Bastos-Filho CJA(2), Kelner J(1).
+
+Author information:
+(1)Centro de Informática, UFPE: Universidade Federal de Pernambuco, Recife, 
+Pernambuco Brazil.
+(2)Engenharia da Computação, UPE: Universidade de Pernambuco, Recife, Pernambuco 
+Brazil.
+(3)Departamento de Eletrônica e Sistemas, UFPE: Universidade Federal de 
+Pernambuco, Recife, Pernambuco Brazil.
+
+The present research focuses in the comparison of two social robot models 
+running the same Human-Robot Interaction (HRI) applications targeting the 
+context of music education for children aged 9-11, with the objective of 
+underlying the design choices favored by the target audience on the running 
+tasks. The Guitar Tuner consists of two main functionalities: tuning process and 
+performance evaluation, which we implemented using the NAO and Zenbo robots. 
+User evaluation included 20 children and assessed their perceived robot 
+embodiment preferences (e.g., shape, robot motion, displays, and emotional 
+expressivity) and perceived usability aspects. The evaluation used an 
+experimental remote protocol supporting collecting online feedback with users 
+during the COVID-19 pandemic. Empirical results supported performing 
+quantitative and qualitative evaluations of the HRI application and highlighting 
+the perceived differences of robot embodiment features. The discussions center 
+on improving a future version of the HRI application, plus children's 
+considerations about their preferred robot embodiment features during the 
+observation sessions. Finally, we propose recommendations for robot embodiment 
+design for children and learning based on this case study and discuss protocol 
+limitations during the social distancing context, that we believe as a valid 
+alternative to move forward with experimental designs, particularly in robotics, 
+becoming a great contribution to other researchers facing similar hurdles.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2022.
+
+DOI: 10.1007/s10846-022-01604-5
+PMCID: PMC9111945
+PMID: 35600218

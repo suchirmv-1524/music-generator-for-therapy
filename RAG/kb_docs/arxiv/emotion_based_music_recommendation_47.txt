@@ -1,0 +1,5 @@
+Title: Machine Learning Approaches to Hybrid Music Recommender Systems
+
+Abstract: Music recommender systems have become a key technology supporting the access to increasingly larger music catalogs in on-line music streaming services, on-line music shops, and private collections. The interaction of users with large music catalogs is a complex phenomenon researched from different disciplines. We survey our works investigating the machine learning and data mining aspects of hybrid music recommender systems (i.e., systems that integrate different recommendation techniques). We proposed hybrid music recommender systems based solely on data and robust to the so-called "cold-start problem" for new music items, favoring the discovery of relevant but non-popular music. We thoroughly studied the specific task of music playlist continuation, by analyzing fundamental playlist characteristics, song feature representations, and the relationship between playlists and the songs therein.
+
+Link: http://arxiv.org/abs/1807.05858v1

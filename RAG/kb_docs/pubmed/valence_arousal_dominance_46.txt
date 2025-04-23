@@ -1,0 +1,44 @@
+1. Diagnostics (Basel). 2023 Jun 22;13(13):2141. doi:
+10.3390/diagnostics13132141.
+
+Evaluation of Emotions from Brain Signals on 3D VAD Space via Artificial 
+Intelligence Techniques.
+
+Işık Ü(1), Güven A(2), Batbat T(2).
+
+Author information:
+(1)Biomedical Engineering Graduate Program, Graduate School of Natural and 
+Applied Sciences, Erciyes University, 38039 Kayseri, Türkiye.
+(2)Department of Biomedical Engineering, Engineering Faculty, Erciyes 
+University, 38039 Kayseri, Türkiye.
+
+Recent achievements have made emotion studies a rising field contributing to 
+many areas, such as health technologies, brain-computer interfaces, psychology, 
+etc. Emotional states can be evaluated in valence, arousal, and dominance (VAD) 
+domains. Most of the work uses only VA due to the easiness of differentiation; 
+however, very few studies use VAD like this study. Similarly, segment 
+comparisons of emotion analysis with handcrafted features also use VA space. At 
+this point, we primarily focused on VAD space to evaluate emotions and 
+segmentations. The DEAP dataset is used in this study. A comprehensive 
+analytical approach is implemented with two sub-studies: first, segmentation 
+(Segments I-VIII), and second, binary cross-comparisons and evaluations of eight 
+emotional states, in addition to comparisons of selected segments (III, IV, and 
+V), class separation levels (5, 4-6, and 3-7), and unbalanced and balanced data 
+with SMOTE. In both sub-studies, Wavelet Transform is applied to 
+electroencephalography signals to separate the brain waves into their bands (α, 
+β, γ, and θ bands), twenty-four attributes are extracted, and Sequential Minimum 
+Optimization, K-Nearest Neighbors, Fuzzy Unordered Rule Induction Algorithm, 
+Random Forest, Optimized Forest, Bagging, Random Committee, and Random Subspace 
+are used for classification. In our study, we have obtained high accuracy 
+results, which can be seen in the figures in the second part. The best accuracy 
+result in this study for unbalanced data is obtained for Low Arousal-Low 
+Valence-High Dominance and High Arousal-High Valence-Low Dominance emotion 
+comparisons (Segment III and 4.5-5.5 class separation), and an accuracy rate of 
+98.94% is obtained with the IBk classifier. Data-balanced results mostly seem to 
+outperform unbalanced results.
+
+DOI: 10.3390/diagnostics13132141
+PMCID: PMC10340442
+PMID: 37443535
+
+Conflict of interest statement: The authors declare no conflict of interest.

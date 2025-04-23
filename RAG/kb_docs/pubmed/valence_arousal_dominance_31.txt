@@ -1,0 +1,71 @@
+1. JMIR Hum Factors. 2024 Jan 26;11:e45494. doi: 10.2196/45494.
+
+The Role of Coherent Robot Behavior and Embodiment in Emotion Perception and 
+Recognition During Human-Robot Interaction: Experimental Study.
+
+Fiorini L(#)(1)(2), D'Onofrio G(3), Sorrentino A(1), Cornacchia Loizzo FG(2), 
+Russo S(4), Ciccone F(3), Giuliani F(4), Sancarlo D(5), Cavallo F(1)(2).
+
+Author information:
+(1)Department of Industrial Engineering, University of Florence, Firenze, Italy.
+(2)The BioRobotics Institute, Scuola Superiore Sant'Anna, Pontedera (Pisa), 
+Italy.
+(3)Clinical Psychology Service, Health Department, Fondazione IRCCS Casa 
+Sollievo della Sofferenza, San Giovanni Rotondo (Foggia), Italy.
+(4)Innovation & Research Unit, Fondazione IRCCS Casa Sollievo della Sofferenza, 
+San Giovanni Rotondo (Foggia), Italy.
+(5)Complex Unit of Geriatrics, Department of Medical Sciences, Fondazione IRCCS 
+Casa Sollievo della Sofferenza, San Giovanni Rotondo (Foggia), Italy.
+(#)Contributed equally
+
+BACKGROUND: Social robots are becoming increasingly important as companions in 
+our daily lives. Consequently, humans expect to interact with them using the 
+same mental models applied to human-human interactions, including the use of 
+cospeech gestures. Research efforts have been devoted to understanding users' 
+needs and developing robot's behavioral models that can perceive the user state 
+and properly plan a reaction. Despite the efforts made, some challenges 
+regarding the effect of robot embodiment and behavior in the perception of 
+emotions remain open.
+OBJECTIVE: The aim of this study is dual. First, it aims to assess the role of 
+the robot's cospeech gestures and embodiment in the user's perceived emotions in 
+terms of valence (stimulus pleasantness), arousal (intensity of evoked emotion), 
+and dominance (degree of control exerted by the stimulus). Second, it aims to 
+evaluate the robot's accuracy in identifying positive, negative, and neutral 
+emotions displayed by interacting humans using 3 supervised machine learning 
+algorithms: support vector machine, random forest, and K-nearest neighbor.
+METHODS: Pepper robot was used to elicit the 3 emotions in humans using a set of 
+60 images retrieved from a standardized database. In particular, 2 experimental 
+conditions for emotion elicitation were performed with Pepper robot: with a 
+static behavior or with a robot that expresses coherent (COH) cospeech behavior. 
+Furthermore, to evaluate the role of the robot embodiment, the third elicitation 
+was performed by asking the participant to interact with a PC, where a graphical 
+interface showed the same images. Each participant was requested to undergo only 
+1 of the 3 experimental conditions.
+RESULTS: A total of 60 participants were recruited for this study, 20 for each 
+experimental condition for a total of 3600 interactions. The results showed 
+significant differences (P<.05) in valence, arousal, and dominance when 
+stimulated with the Pepper robot behaving COH with respect to the PC condition, 
+thus underlying the importance of the robot's nonverbal communication and 
+embodiment. A higher valence score was obtained for the elicitation of the robot 
+(COH and robot with static behavior) with respect to the PC. For emotion 
+recognition, the K-nearest neighbor classifiers achieved the best accuracy 
+results. In particular, the COH modality achieved the highest level of accuracy 
+(0.97) when compared with the static behavior and PC elicitations (0.88 and 
+0.94, respectively).
+CONCLUSIONS: The results suggest that the use of multimodal communication 
+channels, such as cospeech and visual channels, as in the COH modality, may 
+improve the recognition accuracy of the user's emotional state and can reinforce 
+the perceived emotion. Future studies should investigate the effect of age, 
+culture, and cognitive profile on the emotion perception and recognition going 
+beyond the limitation of this work.
+
+©Laura Fiorini, Grazia D'Onofrio, Alessandra Sorrentino, Federica Gabriella 
+Cornacchia Loizzo, Sergio Russo, Filomena Ciccone, Francesco Giuliani, Daniele 
+Sancarlo, Filippo Cavallo. Originally published in JMIR Human Factors 
+(https://humanfactors.jmir.org), 26.01.2024.
+
+DOI: 10.2196/45494
+PMCID: PMC10858416
+PMID: 38277201 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.

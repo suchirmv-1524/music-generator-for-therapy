@@ -1,0 +1,5 @@
+Title: Bi-Sampling Approach to Classify Music Mood leveraging Raga-Rasa   Association in Indian Classical Music
+
+Abstract: The impact of Music on the mood or emotion of the listener is a well-researched area in human psychology and behavioral science. In Indian classical music, ragas are the melodic structure that defines the various styles and forms of the music. Each raga has been found to evoke a specific emotion in the listener. With the advent of advanced capabilities of audio signal processing and the application of machine learning, the demand for intelligent music classifiers and recommenders has received increased attention, especially in the 'Music as a service' cloud applications. This paper explores a novel framework to leverage the raga-rasa association in Indian classical Music to build an intelligent classifier and its application in music recommendation system based on user's current mood and the mood they aspire to be in.
+
+Link: http://arxiv.org/abs/2203.06583v1

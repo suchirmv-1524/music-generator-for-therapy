@@ -1,0 +1,35 @@
+1. Behav Res Methods. 2024 Aug;56(5):4893-4908. doi: 10.3758/s13428-023-02226-x. 
+Epub 2023 Oct 6.
+
+ANCW: Affective norms for 4030 Chinese words.
+
+Ying L(1), Ruyang Y(1), Chuanbin N(2), Yeqing W(1), Qing L(1), Yufan Z(1), Fei 
+G(1).
+
+Author information:
+(1)School of Foreign Languages and Cultures, Nanjing Normal University, No. 122# 
+Ninghai Road, Nanjing, 210097, People's Republic of China.
+(2)School of Foreign Languages and Cultures, Nanjing Normal University, No. 122# 
+Ninghai Road, Nanjing, 210097, People's Republic of China. nichuanbin@263.net.
+
+Affective information contained in words is gaining increased attention among 
+neurolinguists and psycholinguists around the world. This study established the 
+Affective Norms for Chinese Words (ANCW) with valence, arousal, dominance, and 
+concreteness ratings for 4030 words that were Chinese adaptations of the CET-4 
+(The National College English Test Band 4) official syllabus. Despite the 
+existing Chinese affective norms such as the Chinese Affective Words System 
+(CAWS), the ANCW provides much more and richer Chinese vocabulary. By using 
+7-point (ranging from 1 to 7) Likert scales in a paper-and-pencil procedure, we 
+obtained ratings for all variables from 3717 Chinese undergraduates. The ANCW 
+norms possessed good response reliability and were compatible with prior 
+normative studies in Chinese. The pairwise correlation analysis revealed 
+quadratic relations between valence and arousal, arousal and dominance, as well 
+as valence and concreteness. Additionally, valence and dominance, as well as 
+arousal and concreteness, presented a linear correlation, and concreteness and 
+dominance were correlated. The ANCW provides reliable and standardized stimulus 
+materials for further research involving emotional language processing.
+
+© 2023. The Psychonomic Society, Inc.
+
+DOI: 10.3758/s13428-023-02226-x
+PMID: 37801213 [Indexed for MEDLINE]

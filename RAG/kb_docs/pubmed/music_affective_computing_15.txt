@@ -1,0 +1,44 @@
+1. Sci Rep. 2021 Oct 6;11(1):19834. doi: 10.1038/s41598-021-98856-2.
+
+Music video emotion classification using slow-fast audio-video network and 
+unsupervised feature representation.
+
+Pandeya YR(1), Bhattarai B(2), Lee J(3).
+
+Author information:
+(1)Department of Computer Science and Engineering, Jeonbuk National University, 
+Jeonju, South Korea. yagyapandeya@gmail.com.
+(2)Department of Computer Science and Engineering, Jeonbuk National University, 
+Jeonju, South Korea.
+(3)Department of Computer Science and Engineering, Jeonbuk National University, 
+Jeonju, South Korea. chlee@jbnu.ac.kr.
+
+Affective computing has suffered by the precise annotation because the emotions 
+are highly subjective and vague. The music video emotion is complex due to the 
+diverse textual, acoustic, and visual information which can take the form of 
+lyrics, singer voice, sounds from the different instruments, and visual 
+representations. This can be one reason why there has been a limited study in 
+this domain and no standard dataset has been produced before now. In this study, 
+we proposed an unsupervised method for music video emotion analysis using music 
+video contents on the Internet. We also produced a labelled dataset and compared 
+the supervised and unsupervised methods for emotion classification. The music 
+and video information are processed through a multimodal architecture with 
+audio-video information exchange and boosting method. The general 2D and 3D 
+convolution networks compared with the slow-fast network with filter and channel 
+separable convolution in multimodal architecture. Several supervised and 
+unsupervised networks were trained in an end-to-end manner and results were 
+evaluated using various evaluation metrics. The proposed method used a large 
+dataset for unsupervised emotion classification and interpreted the results 
+quantitatively and qualitatively in the music video that had never been applied 
+in the past. The result shows a large increment in classification score using 
+unsupervised features and information sharing techniques on audio and video 
+network. Our best classifier attained 77% accuracy, an f1-score of 0.77, and an 
+area under the curve score of 0.94 with minimum computational cost.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-98856-2
+PMCID: PMC8494760
+PMID: 34615904 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

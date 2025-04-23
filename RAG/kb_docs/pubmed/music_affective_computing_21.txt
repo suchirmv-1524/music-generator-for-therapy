@@ -1,0 +1,42 @@
+1. Sci Data. 2020 Jun 15;7(1):177. doi: 10.1038/s41597-020-0507-6.
+
+Neural and physiological data from participants listening to affective music.
+
+Daly I(1), Nicolaou N(2)(3), Williams D(4), Hwang F(5), Kirke A(6), Miranda 
+E(6), Nasuto SJ(5).
+
+Author information:
+(1)Brain-Computer Interfaces and Neural Engineering Laboratory, School of 
+Computer Science and Electronic Engineering, University of Essex, Colchester, 
+CO4 3SQ, UK. i.daly@essex.ac.uk.
+(2)University of Nicosia Medical School, 21 Ilia Papakyriakou, 2414 Engomi, 
+CY-1700, Nicosia, Cyprus.
+(3)Centre for Neuroscience and Integrative Brain Research (CENIBRE), University 
+of Nicosia Medical School, 21 Ilia Papakyriakou, 2414 Engomi, CY-1700, Nicosia, 
+Cyprus.
+(4)Acoustics Research Centre, School of Computing, Science, and Engineering, 
+University of Salford, Manchester, UK.
+(5)Brain Embodiment Laboratory, Biomedical Engineering Section, School of 
+Biological Sciences, University of Reading, Reading, RG6 6AY, UK.
+(6)Interdisciplinary Centre for Computer Music Research, University of Plymouth, 
+Plymouth, UK.
+
+Music provides a means of communicating affective meaning. However, the 
+neurological mechanisms by which music induces affect are not fully understood. 
+Our project sought to investigate this through a series of experiments into how 
+humans react to affective musical stimuli and how physiological and neurological 
+signals recorded from those participants change in accordance with self-reported 
+changes in affect. In this paper, the datasets recorded over the course of this 
+project are presented, including details of the musical stimuli, participant 
+reports of their felt changes in affective states as they listened to the music, 
+and concomitant recordings of physiological and neurological activity. We also 
+include non-identifying meta data on our participant populations for purposes of 
+further exploratory analysis. This data provides a large and valuable novel 
+resource for researchers investigating emotion, music, and how they affect our 
+neural and physiological activity.
+
+DOI: 10.1038/s41597-020-0507-6
+PMCID: PMC7295758
+PMID: 32541806 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

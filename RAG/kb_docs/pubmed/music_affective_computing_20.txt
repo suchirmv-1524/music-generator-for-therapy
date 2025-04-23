@@ -1,0 +1,29 @@
+1. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:841-846. doi: 
+10.1109/EMBC44109.2020.9175482.
+
+Exploring EEG microstates for affective computing: decoding valence and arousal 
+experiences during video watching().
+
+Shen X, Hu X, Liu S, Song S, Zhang D.
+
+Investigating the electroencephalography (EEG) correlates of human emotional 
+experiences has attracted increasing interest in the field of affective 
+computing. Substantial progress has been made during the past decades, mainly by 
+using EEG features extracted from localized brain activities. The present study 
+explored a brain network-based feature defined by EEG microstates for a possible 
+representation of emotional experiences. A publicly available and widely used 
+benchmarking EEG dataset called DEAP was used, in which 32 participants watched 
+40 one-minute music videos with their 32channel EEG recorded. Four quasi-stable 
+prototypical microstates were obtained, and their temporal parameters were 
+extracted as features. In random forest regression, the microstate features 
+showed better performances for decoding valence (model fitting mean squared 
+error (MSE) = 3.85±0.28 and 4.07 ± 0.30, respectively, p = 0.022) and comparable 
+performances for decoding arousal (MSE = 3.30±0.30 and 3.41 ±0.31, respectively, 
+p = 0.169), as compared to conventional spectral power features. As microstate 
+features describe neural activities from a global spatiotemporal dynamical 
+perspective, our findings demonstrate a possible new mechanism for understanding 
+human emotion and provide a promising type of EEG feature for affective 
+computing.
+
+DOI: 10.1109/EMBC44109.2020.9175482
+PMID: 33018116 [Indexed for MEDLINE]

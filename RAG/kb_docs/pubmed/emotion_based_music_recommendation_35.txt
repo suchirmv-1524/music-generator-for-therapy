@@ -1,0 +1,49 @@
+1. Dementia (London). 2023 Jan;22(1):252-280. doi: 10.1177/14713012221127359.
+Epub  2022 Oct 4.
+
+The use of technology for arts-based activities in older adults living with mild 
+cognitive impairment or dementia: A scoping review.
+
+MacRitchie J(1), Floridou GA(2), Christensen J(2), Timmers R(1), de Witte L(3).
+
+Author information:
+(1)Department of Music, 7315The University of Sheffield, UK; Healthy Lifespan 
+Institute, 7315The University of Sheffield, UK.
+(2)Department of Music, 7315The University of Sheffield, UK.
+(3)Centre for Assistive Technology and Connected Healthcare (CATCH), 7315The 
+University of Sheffield, UK.
+
+For older adults living with mild cognitive impairment or dementia, creative 
+arts-based activities can offer many benefits from enjoyment as 
+leisure/recreation to an avenue to maintain cognitive, social and emotional 
+wellbeing. With growing interest and recognition that technology could have 
+potential to assist in delivering these activities in more accessible and 
+personalised ways, a scoping review was undertaken to systematically examine the 
+scientific literature for technology-assisted creative arts activities for older 
+adults living with dementia. We searched PubMed, PsychINFO, Web of Science, 
+Scopus and ACM Digital Library databases using keywords centering on population 
+with dementia, an intervention using technology, and a context of creative arts, 
+with no restrictions on the type of outcome measured. We retrieved 3739 records, 
+with an additional 22 from hand-searching. 51 full-text articles met the 
+inclusion and exclusion criteria. Findings of the review indicate technologies 
+principally being designed for music activities (listening, and music-making), 
+as well as storytelling and visual arts. The majority of devices were 
+custom-made, with studies mainly reporting on validating the success of the 
+device/intervention. This suggests most work in the field is currently at 
+prototyping stage, although a few devices are now commercially available. 
+Recommendations for future research includes involvement of participants 
+reporting on their previous experiences in the arts and how this influences 
+co-design choices, and inclusion of different severities of dementia in the 
+participant/co-design group. Furthering device development past prototyping 
+stage as well as collaboration between teams would enable comparisons to be made 
+across different types of devices used for the same activity, and comparisons 
+across arts-based activities that could lead to cross-disciplinary outcomes for 
+the design of creative arts-based assistive technologies.
+
+DOI: 10.1177/14713012221127359
+PMCID: PMC9772900
+PMID: 36194002 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.

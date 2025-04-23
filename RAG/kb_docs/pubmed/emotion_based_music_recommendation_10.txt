@@ -1,0 +1,49 @@
+1. Psychol Sport Exerc. 2025 Jan;76:102717. doi:
+10.1016/j.psychsport.2024.102717.  Epub 2024 Aug 6.
+
+One-HIIT wonder: Can music make high-intensity interval training more pleasant?
+
+Karageorghis CI(1), Guérin SMR(2), Fessler L(3), Howard LW(4), Pinto C(4), Ojuri 
+O(4), Kuan J(4), Samwell-Nash KG(4).
+
+Author information:
+(1)Department of Life Sciences, Brunel University London, Middlesex, United 
+Kingdom. Electronic address: costas.karageorghis@brunel.ac.uk.
+(2)Institute of Neuroscience, Université Catholique de Louvain, Brussels, 
+Belgium.
+(3)Univ. Grenoble-Alpes, SENS, F-38000 Grenoble, France.
+(4)Department of Life Sciences, Brunel University London, Middlesex, United 
+Kingdom.
+
+The use of music as an aid to recovery during and after exercise is an area of 
+growing scientific interest. We investigated the effects of in-task, 
+asynchronous music and respite-active music (i.e., music used for active 
+recovery in between high-intensity exercise bouts) on a range of psychological, 
+psychophysical and psychophysiological outcomes. Participants (N = 28; 14 
+females) made five laboratory visits for: (a) pre-test/familiarisation; (b) 
+fast-tempo music during supramaximal exercise bouts and medium-tempo music 
+during active-recovery periods; (c) fast-tempo music during exercise and no 
+music during recovery; (d) no music during exercise and medium-tempo music 
+during recovery; and (e) a no-music (throughout) control. A cycle 
+ergometer-based HIIT protocol comprising 6 × 60-s bouts at 100% Wmax with 75-s 
+active recovery was administered. Measures were taken at the end of supramaximal 
+bouts and active recovery periods (RPE, state attention, core affect, state 
+motivation), then upon cessation of the protocol (remembered pleasure and 
+exercise enjoyment). Heart rate and heart rate variability (HRV) measures were 
+taken throughout. The music manipulations only had an effect on state 
+motivation, which was higher (p = 0.036) in the fast tempo-medium tempo 
+condition compared to no-music control (Cohen's d = 0.49), and the SDNN 
+component of HRV, which was lower (p = 0.007) in the fast-tempo-no-music 
+condition compared to control (Cohen's d = 0.32). Collectively, the present 
+findings do not support any of the study hypotheses regarding the music-related 
+manipulations, and do not concur with the findings of related studies (e.g., 
+Karageorghis et al., 2021). The unexpected results are discussed with reference 
+to extant theory, and recommendations are offered in regard to music-related 
+applications.
+
+Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.psychsport.2024.102717
+PMID: 39117254 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest None.

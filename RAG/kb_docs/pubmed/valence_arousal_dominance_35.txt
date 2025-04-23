@@ -1,0 +1,50 @@
+1. Sci Rep. 2023 Dec 28;13(1):23093. doi: 10.1038/s41598-023-50310-1.
+
+A unique neuropsychophysiological approach to objectify emotion (dys)regulation 
+in healthy older adults during the COVID-19 pandemic.
+
+Amanzio M(1), Cipriani GE(2), Canessa N(3)(4), Borghesi F(2), Chirico A(5), 
+Cipresso P(2)(6).
+
+Author information:
+(1)Department of Psychology, University of Turin, 10024, Turin, Italy. 
+martina.amanzio@unito.it.
+(2)Department of Psychology, University of Turin, 10024, Turin, Italy.
+(3)ICoN Center, Scuola Universitaria Superiore IUSS, 27100, Pavia, Italy.
+(4)Cognitive Neuroscience Laboratory of Pavia Institute, Istituti Clinici 
+Scientifici Maugeri IRCCS, 27100, Pavia, Italy.
+(5)Department of Psychology, Research Center in Communication Psychology, 
+Università Cattolica del Sacro Cuore, 20123, Milan, Italy.
+(6)Applied Technology for Neuro-Psychology Laboratory, Istituto Auxologico 
+Italiano, Istituto di Ricovero e Cura a Carattere Scientifico, 20145, Milan, 
+Italy.
+
+The response of older people to the COVID-19 pandemic has attracted much 
+attention as they are at increased risk of adverse outcomes. A longitudinal 
+study has shown that improvement in global cognitive, executive and language 
+functioning in healthy older adults enrolled at the University of the Third Age 
+appears to play a protective role against emotional dysregulation and mood 
+changes during the pandemic. To date, no study has examined emotional 
+dysregulation through COVID-19-related images using facial electromyographic 
+recordings in healthy older adults. Therefore, we aimed to analyze the 
+relationships between zygomaticus and corrugator reactivity, neuropsychological 
+measures, and the affective dimensions of arousal, dominance, and valence. The 
+results showed an unexpected association between higher zygomaticus activity and 
+higher levels of apathy, depression, and anxiety. In contrast, increased 
+contracture of the corrugator was associated with poorer performance on 
+cognitive tests (global cognition, memory, executive functions) and physical 
+status, i.e., walking speed. These results are consistent with the reappraisal 
+of emotional stimuli in response to the challenges of the pandemic. 
+Interestingly, COVID-19-related stimuli triggered the activation of bottom-up 
+affectivity strategies associated with higher mood levels and interacted with 
+top-down factors that play an important role in the dysregulation of cognitive 
+control.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-50310-1
+PMCID: PMC10754879
+PMID: 38155179 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no financial and 
+non-financial competing interests.

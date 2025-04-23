@@ -1,0 +1,5 @@
+Title: Stacked Convolutional and Recurrent Neural Networks for Music Emotion   Recognition
+
+Abstract: This paper studies the emotion recognition from musical tracks in the 2-dimensional valence-arousal (V-A) emotional space. We propose a method based on convolutional (CNN) and recurrent neural networks (RNN), having significantly fewer parameters compared with the state-of-the-art method for the same task. We utilize one CNN layer followed by two branches of RNNs trained separately for arousal and valence. The method was evaluated using the 'MediaEval2015 emotion in music' dataset. We achieved an RMSE of 0.202 for arousal and 0.268 for valence, which is the best result reported on this dataset.
+
+Link: http://arxiv.org/abs/1706.02292v1

@@ -1,0 +1,36 @@
+1. IEEE Open J Eng Med Biol. 2024 Mar 18;5:627-636. doi: 
+10.1109/OJEMB.2024.3377923. eCollection 2024.
+
+Bayesian Inference of Hidden Cognitive Performance and Arousal States in 
+Presence of Music.
+
+Khazaei S(1), Amin MR(2), Tahir M(2), Faghih RT(1).
+
+Author information:
+(1)Department of Biomedical EngineeringNew York University New York NY 10010 
+USA.
+(2)Department of Electrical and Computer EngineeringUniversity of Houston 
+Houston TX 77004 USA.
+
+Goal: Poor arousal management may lead to reduced cognitive performance. 
+Specifying a model and decoder to infer the cognitive arousal and performance 
+contributes to arousal regulation via non-invasive actuators such as music. 
+Methods: We employ a Bayesian filtering approach within an 
+expectation-maximization framework to track the hidden states during the 
+[Formula: see text]-back task in the presence of calming and exciting music. We 
+decode the arousal and performance states from the skin conductance and 
+behavioral signals, respectively. We derive an arousal-performance model based 
+on the Yerkes-Dodson law. We design a performance-based arousal decoder by 
+considering the corresponding performance and skin conductance as the 
+observation. Results: The quantified arousal and performance are presented. The 
+existence of Yerkes-Dodson law can be interpreted from the arousal-performance 
+relationship. Findings display higher matrices of performance within the 
+exciting music. Conclusions: The performance-based arousal decoder has a better 
+agreement with the Yerkes-Dodson law. Our study can be implemented in designing 
+non-invasive closed-loop systems.
+
+© 2024 The Authors.
+
+DOI: 10.1109/OJEMB.2024.3377923
+PMCID: PMC11342937
+PMID: 39184959

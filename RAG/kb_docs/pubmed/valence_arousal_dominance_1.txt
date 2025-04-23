@@ -1,0 +1,29 @@
+1. Assessment. 2025 Mar 29:10731911251326371. doi: 10.1177/10731911251326371. 
+Online ahead of print.
+
+Leveraging Artificial Intelligence to Linguistically Compare Test Translations: 
+A Methodological Introduction and Demonstration.
+
+Natoli AP(1).
+
+Author information:
+(1)Sam Houston State University, Huntsville, TX, USA.
+
+The validity and utility of translated instruments (psychological measures) 
+depend on the quality of their translation, and differences in key linguistic 
+characteristics could introduce bias. Likewise, linguistic differences between 
+instruments designed to measure analogous constructs might contribute to similar 
+instruments possessing dissimilar psychometrics. This article introduces and 
+demonstrates the use of natural language processing (NLP), a subfield of 
+artificial intelligence, to linguistically analyze 13 translations of two 
+psychological measures previously translated into numerous languages. NLP was 
+used to generate estimates reflecting specific linguistic characteristics of 
+test items (emotional tone/intensity, sentiment, valence, arousal, and 
+dominance), which were then compared across translations at both the test- and 
+item-level, as well as between the two instruments. Results revealed that key 
+linguistic characteristics can profoundly vary both within and between tests. 
+Following a discussion of results, the current limitations of this approach are 
+summarized and strategies for advancing this methodology are proposed.
+
+DOI: 10.1177/10731911251326371
+PMID: 40156441

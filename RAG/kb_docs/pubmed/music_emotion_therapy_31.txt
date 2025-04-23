@@ -1,0 +1,50 @@
+1. Front Digit Health. 2025 Feb 25;7:1552396. doi: 10.3389/fdgth.2025.1552396. 
+eCollection 2025.
+
+Advancing personalized digital therapeutics: integrating music therapy, 
+brainwave entrainment methods, and AI-driven biofeedback.
+
+Jiao D(1).
+
+Author information:
+(1)Institute of Psychiatry, Psychology & Neuroscience, King's College London, 
+London, United Kingdom.
+
+Mental health disorders and cognitive decline are pressing global concerns, 
+increasing the demand for non-pharmacological interventions targeting emotional 
+dysregulation, memory deficits, and neural dysfunction. This review 
+systematically examines three promising methodologies-music therapy, brainwave 
+entrainment (binaural beats, isochronic tones, multisensory stimulation), and 
+their integration into a unified therapeutic paradigm. Emerging evidence 
+indicates that music therapy modulates affect, reduces stress, and enhances 
+cognition by engaging limbic, prefrontal, and reward circuits. Brainwave 
+entrainment, particularly within the gamma frequency range (30-100 Hz), 
+facilitates neural oscillatory patterns linked to relaxation, concentration, and 
+memory, with 40 Hz showing promise for cognitive enhancement, albeit with 
+individual variability. Synchronized multisensory stimulation, combining 
+auditory and visual inputs at gamma frequencies, has demonstrated potential in 
+enhancing memory and supporting neural integrity, particularly in Alzheimer's 
+disease. However, challenges such as patient response variability, lack of 
+standardization, and scalability hinder widespread implementation. Recent 
+research suggests that a synergistic application of these modalities may 
+optimize therapeutic outcomes by leveraging complementary mechanisms. To 
+actualize this, AI-driven biofeedback, enabling real-time physiological 
+assessment and individualized adjustments-such as tailoring musical complexity, 
+entrainment frequencies, and multisensory components-emerges as a promising 
+solution. This adaptive model enhances treatment accessibility and consistency 
+while maximizing long-term efficacy. Although in early stages, preliminary 
+evidence highlights its transformative potential in reshaping 
+non-pharmacological therapeutic strategies. Advancing this field requires 
+interdisciplinary research, rigorous evaluation, and ethical data stewardship to 
+develop innovative, patient-centered solutions for mental health and cognitive 
+rehabilitation.
+
+© 2025 Jiao.
+
+DOI: 10.3389/fdgth.2025.1552396
+PMCID: PMC11893577
+PMID: 40070544
+
+Conflict of interest statement: The author declares that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,55 @@
+1. Sci Rep. 2025 Mar 10;15(1):8276. doi: 10.1038/s41598-025-92679-1.
+
+Music tempo modulates emotional states as revealed through EEG insights.
+
+Yang Z(1), Su Q(2), Xie J(1), Su H(2), Huang T(2), Han C(1), Zhang S(1), Zhang 
+K(3), Xu G(4)(5)(6).
+
+Author information:
+(1)School of Mechanical Engineering, Xi'an Jiaotong University, Xi'an, 710049, 
+China.
+(2)Joint School of Design and Innovation, Xi'an Jiaotong University, Xi'an, 
+710049, China.
+(3)Faillace Department of Psychiatry and Behavioral Sciences, McGovern Medical 
+School, University of Texas Health Science Center at Houston, Houston, TX, USA.
+(4)School of Mechanical Engineering, Xi'an Jiaotong University, Xi'an, 710049, 
+China. ghxu@mail.xjtu.edu.cn.
+(5)State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong 
+University, Xi'an, 710049, China. ghxu@mail.xjtu.edu.cn.
+(6)The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China. 
+ghxu@mail.xjtu.edu.cn.
+
+Music can effectively influence human emotions, with different melodies and 
+rhythms eliciting varying emotional responses. Among these, tempo is one of the 
+most important parameters affecting emotions. This study explores the impact of 
+music tempo on emotional states and the associated brain functional networks. A 
+total of 26 participants without any history of neurological or psychiatric 
+disorders and music training took part in the experiment, using classical piano 
+music clips at different tempi (56, 106, 156 bpm) as stimuli. The study was 
+conducted using emotional scales and electroencephalogram (EEG) analysis. The 
+results showed that the valence level of emotions significantly increased with 
+music tempo, while the arousal level exhibited a "V" shape relationship. EEG 
+analysis revealed significant changes in brainwave signals across different 
+frequency bands under different tempi. For instance, slow tempo induced higher 
+Theta and Alpha power in the frontal region, while fast tempo increased Beta and 
+Gamma band power. Moreover, fast tempo enhanced the average connectivity 
+strength in the frontal, temporal, and occipital regions, and increased phase 
+synchrony value (PLV) between the frontal and parietal regions. However, slow 
+tempo improves PLV between the occipital and parietal regions. The findings of 
+this study elucidate the effects of music tempo on the brain functional networks 
+related to emotion regulation, providing a theoretical basis for music-assisted 
+diagnosis and treatment of mood disorders. Furthermore, these results suggest 
+potential applications in emotion robotics, emotion-based human-computer 
+interaction, and emotion-based intelligent control.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-92679-1
+PMCID: PMC11893886
+PMID: 40065030 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests. Ethics declarations: This study has been approved by the 
+Biomedical Ethics Committee of Xi’an Jiaotong University (No. 2023−1552). 
+Approval for human experiments: Informed consent was obtained from all 
+participants.

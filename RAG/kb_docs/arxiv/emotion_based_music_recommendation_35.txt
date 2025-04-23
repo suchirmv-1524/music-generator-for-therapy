@@ -1,0 +1,5 @@
+Title: Multimodal Fusion Based Attentive Networks for Sequential Music   Recommendation
+
+Abstract: Music has the power to evoke intense emotional experiences and regulate the mood of an individual. With the advent of online streaming services, research in music recommendation services has seen tremendous progress. Modern methods leveraging the listening histories of users for session-based song recommendations have overlooked the significance of features extracted from lyrics and acoustic content. We address the task of song prediction through multiple modalities, including tags, lyrics, and acoustic content. In this paper, we propose a novel deep learning approach by refining Attentive Neural Networks using representations derived via a Transformer model for lyrics and Variational Autoencoder for acoustic features. Our model achieves significant improvement in performance over existing state-of-the-art models using lyrical and acoustic features alone. Furthermore, we conduct a study to investigate the impact of users' psychological health on our model's performance.
+
+Link: http://arxiv.org/abs/2110.01001v1

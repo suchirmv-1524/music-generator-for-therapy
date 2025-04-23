@@ -1,0 +1,54 @@
+1. Sci Data. 2023 Dec 7;10(1):878. doi: 10.1038/s41597-023-02701-2.
+
+A Chinese Face Dataset with Dynamic Expressions and Diverse Ages Synthesized by 
+Deep Learning.
+
+Han S(#)(1)(2), Guo Y(#)(1), Zhou X(#)(3), Huang J(4), Shen L(5), Luo 
+Y(6)(7)(8).
+
+Author information:
+(1)School of psychology, Magnetic Resonance Imaging Center, China-UK Visual 
+Information Processing Laboratory, Institute of Computer Vision, College of 
+Computer Science and Software Engineering, Shenzhen University, Shenzhen, China.
+(2)Department of Psychology and Center for Brain and Cognitive Sciences, School 
+of Education, Guangzhou University, Guangzhou, China.
+(3)State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal 
+University, Beijing, China.
+(4)School of Psychology, Sichuan Center of Applied Psychology, Chengdu Medical 
+College, Chengdu, China.
+(5)School of psychology, Magnetic Resonance Imaging Center, China-UK Visual 
+Information Processing Laboratory, Institute of Computer Vision, College of 
+Computer Science and Software Engineering, Shenzhen University, Shenzhen, China. 
+llshen@szu.edu.cn.
+(6)State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal 
+University, Beijing, China. luoyj@bnu.edu.cn.
+(7)School of Psychology, Sichuan Center of Applied Psychology, Chengdu Medical 
+College, Chengdu, China. luoyj@bnu.edu.cn.
+(8)Institute for Neuropsychological Rehabilitation, University of Health and 
+Rehabilitation Sciences, Qingdao, China. luoyj@bnu.edu.cn.
+(#)Contributed equally
+
+Facial stimuli have gained increasing popularity in research. However, the 
+existing Chinese facial datasets primarily consist of static facial expressions 
+and lack variations in terms of facial aging. Additionally, these datasets are 
+limited to stimuli from a small number of individuals, in that it is difficult 
+and time-consuming to recruit a diverse range of volunteers across different age 
+groups to capture their facial expressions. In this paper, a deep-learning based 
+face editing approach, StyleGAN, is used to synthesize a Chinese face dataset, 
+namely SZU-EmoDage, where faces with different expressions and ages are 
+synthesized. Leverage on the interpolations of latent vectors, continuously 
+dynamic expressions with different intensities, are also available. Participants 
+assessed emotional categories and dimensions (valence, arousal and dominance) of 
+the synthesized faces. The results show that the face database has good 
+reliability and validity, and can be used in relevant psychological experiments. 
+The availability of SZU-EmoDage opens up avenues for further research in 
+psychology and related fields, allowing for a deeper understanding of facial 
+perception.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41597-023-02701-2
+PMCID: PMC10703811
+PMID: 38062057
+
+Conflict of interest statement: The authors declare no competing interests.

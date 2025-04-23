@@ -1,0 +1,5 @@
+Title: Estimating Gradual-Emotional Behavior in One-Minute Videos with ESNs
+
+Abstract: In this paper, we describe our approach for the OMG- Emotion Challenge 2018. The goal is to produce utterance-level valence and arousal estimations for videos of approximately 1 minute length. We tackle this problem by first extracting facial expressions features of videos as time series data, and then using Recurrent Neural Networks of the Echo State Network type to model the correspondence between the time series data and valence-arousal values. Experimentally we show that the proposed approach surpasses the baseline methods provided by the organizers.
+
+Link: http://arxiv.org/abs/1805.08690v1

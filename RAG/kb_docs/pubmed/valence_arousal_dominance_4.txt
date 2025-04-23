@@ -1,0 +1,47 @@
+1. Sci Rep. 2025 Feb 21;15(1):6356. doi: 10.1038/s41598-025-90387-4.
+
+Behavioral (reaction time) and prefrontal cortex response revealed differences 
+in grief vs. sadness perception.
+
+Tripathi S(1), Imai H(2), Adachi I(2).
+
+Author information:
+(1)Center for the Evolutionary Origins of Human Behavior, Kyoto University, 
+Inuyama Campus, Aichi, Japan. tripathisrishti021@gmail.com.
+(2)Center for the Evolutionary Origins of Human Behavior, Kyoto University, 
+Inuyama Campus, Aichi, Japan.
+
+Research on basic emotions has expanded beyond the traditional six categories, 
+identifying over 20 distinct emotional states. However, differentiating some 
+emotions remained challenging due to partially overlapping facial expressions. 
+Grief and sadness are two such emotions that are difficult to distinguish. This 
+study investigated the behavioral and neural mechanisms of grief perception in 
+the prefrontal cortex (PFC), comparing it with sadness. Participants categorized 
+and rated emotional facial images in grief and sadness conditions on valence, 
+arousal, and dominance scales. While participants perceiving emotional facial 
+images prefrontal cortex (PFC) hemodynamic activities were measured using 
+functional near-infrared spectroscopy (fNIRS). Explicit behavioral responses 
+showed no significant differences, however implicit measures (reaction times) 
+revealed distinctions between grief and sadness perception. Further fNIRS 
+results indicated increased oxy-Hb in the right dorsolateral PFC for grief 
+condition images compared to sadness condition images. Additionally, cultural 
+differences were observed, with Asian participants showing higher oxy-Hb 
+responses in the dorsal PFC for unpleasant facial stimuli in grief conditions. 
+These findings support cultural variability in emotion perception and 
+regulation. The combination of behavioral reaction time and neuroimaging data 
+suggests distinct implicit perceptual and neural processing mechanisms for grief 
+and sadness. This indicates separate automatic implicit mechanisms for these 
+emotions.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-90387-4
+PMCID: PMC11845682
+PMID: 39984554 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethical approval: All experiments were conducted 
+in accordance with the Declaration of Helsinki and the Ethical Guidelines for 
+Medical and Health Research Involving Human Subjects by the Japanese Ministry of 
+Health, Labor, and Welfare, and approved by the Kyoto University Primate 
+Research Institute Human Ethics Committee (no. 2018-16).

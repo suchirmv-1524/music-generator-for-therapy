@@ -1,0 +1,34 @@
+1. Sensors (Basel). 2021 Jul 20;21(14):4927. doi: 10.3390/s21144927.
+
+Deep-Learning-Based Multimodal Emotion Classification for Music Videos.
+
+Pandeya YR(1), Bhattarai B(1), Lee J(1).
+
+Author information:
+(1)Department of Computer Science and Engineering, Jeonbuk National University, 
+Jeonju-City 54896, Korea.
+
+Music videos contain a great deal of visual and acoustic information. Each 
+information source within a music video influences the emotions conveyed through 
+the audio and video, suggesting that only a multimodal approach is capable of 
+achieving efficient affective computing. This paper presents an affective 
+computing system that relies on music, video, and facial expression cues, making 
+it useful for emotional analysis. We applied the audio-video information 
+exchange and boosting methods to regularize the training process and reduced the 
+computational costs by using a separable convolution strategy. In sum, our 
+empirical findings are as follows: (1) Multimodal representations efficiently 
+capture all acoustic and visual emotional clues included in each music video, 
+(2) the computational cost of each neural network is significantly reduced by 
+factorizing the standard 2D/3D convolution into separate channels and 
+spatiotemporal interactions, and (3) information-sharing methods incorporated 
+into multimodal representations are helpful in guiding individual information 
+flow and boosting overall performance. We tested our findings across several 
+unimodal and multimodal networks against various evaluation metrics and visual 
+analyzers. Our best classifier attained 74% accuracy, an f1-score of 0.73, and 
+an area under the curve score of 0.926.
+
+DOI: 10.3390/s21144927
+PMCID: PMC8309938
+PMID: 34300666 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

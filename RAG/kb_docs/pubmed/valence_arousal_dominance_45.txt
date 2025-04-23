@@ -1,0 +1,60 @@
+1. Front Behav Neurosci. 2023 Jul 7;17:1141607. doi: 10.3389/fnbeh.2023.1141607. 
+eCollection 2023.
+
+Emotion regulation strategies and the two-dimensional model of adult attachment: 
+a pilot study.
+
+Domic-Siede M(1), Guzmán-González M(1), Burgos J(2), Carvallo C(2), 
+Flores-Guerra C(2), Fredes-Valenzuela C(2), Suazo J(2), Véliz-García O(1), 
+Calderón C(1), Sánchez-Corzo A(3), Perrone-Bertolotti M(4)(5), Marín-Medina 
+J(6).
+
+Author information:
+(1)Núcleo de Investigación en Neurociencia Cognitiva y Afectiva, Laboratorio de 
+Neurociencia Cognitiva, Escuela de Psicología, Universidad Católica del Norte, 
+Antofagasta, Chile.
+(2)Laboratorio de Neurociencia Cognitiva, Escuela de Psicología, Universidad 
+Católica del Norte, Antofagasta, Chile.
+(3)Multimodal Functional Brain Imaging and Neurorehabilitation Hub, Department 
+of Diagnostic Imaging, St. Jude Children's Research Hospital, Memphis, TN, 
+United States.
+(4)Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, LPNC, 
+Grenoble, France.
+(5)Institut Universitaire de France, Paris, France.
+(6)Unidad de Terapia Familiar, Centro de Intervención y Asesoría Psicosocial 
+CIAP, Escuela de Psicología, Universidad Católica del Norte, Antofagasta, Chile.
+
+INTRODUCTION: Emotion Regulation plays a crucial role in human's daily lives. 
+Extensive research has shown that people with different attachment orientations 
+exhibit divergencies in how they perform emotion regulation strategies.
+METHODS: 44 adults performed an experimental emotion regulation task in which 
+they were instructed to attend, reappraise, or suppress their emotions while 
+viewing negative and neutral images taken from the International Affective 
+Picture System (IAPS). Afterward, participants rated valence, arousal, and 
+emotional dominance elicited by the images. Additionally, attachment 
+orientations were measured using the ECR-12 questionnaire.
+RESULTS: Results showed a relationship between attachment avoidance and the 
+level of arousal during the reappraisal condition; specifically, the higher 
+attachment avoidance levels, the greater the emotional intensity during the 
+implementation of cognitive reappraisal strategy. Such results suggest an 
+association between failing in downregulate intense emotions using cognitive 
+reappraisal when there are higher levels of attachment avoidance. Consistently, 
+we also found that lower dominance during reappraisal was associated with more 
+levels of avoidance.
+CONCLUSION: These results indicate that people with higher levels of attachment 
+avoidance experience difficulties when using the cognitive reappraisal strategy 
+to reduce the emotional impact produced by negative emotional stimuli. Our 
+findings reinforce the idea that avoidant people experience high physiological 
+activation when experience emotions.
+
+Copyright © 2023 Domic-Siede, Guzmán-González, Burgos, Carvallo, Flores-Guerra, 
+Fredes-Valenzuela, Suazo, Véliz-García, Calderón, Sánchez-Corzo, 
+Perrone-Bertolotti and Marín-Medina.
+
+DOI: 10.3389/fnbeh.2023.1141607
+PMCID: PMC10359990
+PMID: 37484522
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,47 @@
+1. PLoS One. 2024 Jan 22;19(1):e0296633. doi: 10.1371/journal.pone.0296633. 
+eCollection 2024.
+
+Perceptuo-affective organization of touched materials in younger and older 
+adults.
+
+Drewing K(1).
+
+Author information:
+(1)HapLab, Institute for Psychology, Justus-Liebig University, Giessen, Germany.
+
+In everyday interaction we touch different materials, which we experience along 
+a limited number of perceptual and emotional dimensions: For instances, a furry 
+surface feels soft and pleasant, whereas sandpaper feels rough and unpleasant. 
+In a previous study, younger adults manually explored a representative set of 
+solid, fluid and granular materials. Their ratings were made along six 
+perceptual dimensions (roughness, fluidity, granularity, deformability, 
+fibrousness, heaviness) and three emotional ones (valence, arousal, dominance). 
+Perceptual and emotional dimensions were systematically correlated. Here, we 
+wondered how this perceptuo-affective organization of touched materials depends 
+on age, given that older adults show decline in haptic abilities, in particular 
+detail perception. 30 younger participants (~22 years, half females) and 15 
+older participants (~66 years) explored 25 materials using 18 perceptual and 9 
+emotional adjectives. We extracted 6 perceptual and 2 emotional dimensions. 
+Older and younger adults showed similar dimensions. However, in younger 
+participants roughness and granularity judgments were done separately, while 
+they were collapsed in a single dimension in older people. Further, age groups 
+differed in the perception of roughness, granularity and valence, and older 
+people did not show a positive correlation between valence and granularity as 
+did younger people. As expected, control analyses between young males and 
+females did not reveal similar gender differences. Overall, the results 
+demonstrate that older people organize and experience materials partly 
+differently from younger people, which we lead back to sensory decline. However, 
+other aspects of perceptual organization that also include fine perception are 
+preserved into older age.
+
+Copyright: © 2024 Knut Drewing. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0296633
+PMCID: PMC10802953
+PMID: 38252623 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

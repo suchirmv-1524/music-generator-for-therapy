@@ -1,0 +1,44 @@
+1. R Soc Open Sci. 2024 Nov 6;11(11):241623. doi: 10.1098/rsos.241623.
+eCollection  2024 Nov.
+
+Appreciation of singing and speaking voices is highly idiosyncratic.
+
+Bruder C(1), Frieler K(1), Larrouy-Maestri P(1)(2).
+
+Author information:
+(1)Max Planck Institute for Empirical Aesthetics, Frankfurt am Main, Germany.
+(2)Center for Language, Music, and Emotion (CLaME), New York, NY, USA.
+
+Voice preferences are an integral part of interpersonal interactions and shape 
+how people connect with each other. While a large number of studies have 
+investigated the mechanisms behind (speaking) voice attractiveness, very little 
+research was dedicated to other types of vocalizations. In this Registered 
+Report, we proposed to investigate voice preferences with an integrative 
+approach. To this end, we used a newly recorded and validated stimulus set of 
+contrasting vocalizations by 22 highly trained female singers speaking and 
+singing the same material (in Brazilian Portuguese) in contrasting styles (sung 
+as a lullaby, as a pop song or as an opera aria; and spoken aloud as if directed 
+to an adult audience and as if directed to an infant). We asked 62 participants 
+to rate these vocalizations in terms of how much they liked them; and we 
+compared the amount of shared taste (that is, how much participants agreed in 
+their preferences) across styles. We found highly idiosyncratic preferences 
+across all styles. Our predictions concerning shared taste were not confirmed: 
+although shared taste was higher for lullaby than for pop singing, it was 
+unexpectedly higher for operatic than pop singing, and higher for 
+infant-directed than adult-directed speech. Conversely, our prediction of 
+limited consistency in average preferences for some singers across styles was 
+confirmed, contradicting sexual selection-based ideas of singing and speaking as 
+'backup' signals of individual fitness. Our findings draw attention to the role 
+of individual differences in voice preferences and highlight the need for a 
+broader approach to understanding the underlying mechanisms of voice 
+preferences. Stage 1 recommendation and review history: 
+https://rr.peercommunityin.org/articles/rec?id=357. Stage 2 recommendation and 
+review history: https://rr.peercommunityin.org/articles/rec?id=802.
+
+© 2024 The Author(s).
+
+DOI: 10.1098/rsos.241623
+PMCID: PMC11537763
+PMID: 39508000
+
+Conflict of interest statement: We declare we have no competing interests.

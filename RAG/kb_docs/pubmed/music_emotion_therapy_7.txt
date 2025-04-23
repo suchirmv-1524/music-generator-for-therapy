@@ -1,0 +1,64 @@
+1. BMJ Open. 2025 Apr 9;15(4):e094040. doi: 10.1136/bmjopen-2024-094040.
+
+Virtual Reality and Sound Intervention under Chemotherapy (ViSu): study protocol 
+for a three-arm randomised-controlled trial.
+
+Holsteg S(#)(1)(2), Ernsten L(#)(2)(3), Schaal NK(3), Keßling LM(2), Schmutzler 
+N(2), Fehm TN(4)(5), Friebe V(4)(5), Gattermann N(4)(6), Ruckhäberle E(4)(5), 
+Karger A(4)(2).
+
+Author information:
+(1)Center for Integrated Oncology Düsseldorf (CIO-D), Düsseldorf, Germany 
+Steffen.Holsteg@med.uni-duesseldorf.de.
+(2)Clinical Institute for Psychosomatic Medicine and Psychotherapy, Medical 
+Faculty & University Hospital Düsseldorf, Heinrich-Heine-Universitat Düsseldorf, 
+Düsseldorf, Germany.
+(3)Department of Experimental Psychology, Heinrich Heine University Düsseldorf, 
+Düsseldorf, Germany.
+(4)Center for Integrated Oncology Düsseldorf (CIO-D), Düsseldorf, Germany.
+(5)Department of Gynecology and Obstetrics, University Hospital Düsseldorf, 
+Heinrich Heine University Düsseldorf, Düsseldorf, Germany.
+(6)Department of Hematology, Oncology, and Clinical Immunology, Medical Faculty 
+and University Hospital Düsseldorf, Heinrich-Heine-Universitat Düsseldorf, 
+Düsseldorf, Germany.
+(#)Contributed equally
+
+INTRODUCTION: Patients undergoing chemotherapy often experience side effects 
+during treatment, including psychological distress and symptoms of anxiety and 
+depression. Interventions during chemotherapy that divert attention from 
+potentially aversive environmental factors have been demonstrated to have a 
+beneficial impact on these symptoms. Virtual reality (VR) offers the potential 
+to visually and audibly disengage from the surrounding environment and can 
+create an alternative sense of presence. This could facilitate the 
+implementation of active guided interventions that may prove more effective than 
+receptive interventions, such as listening to music. The present study examines 
+the feasibility, acceptance and effectiveness of a VR intervention and a music 
+intervention during chemotherapy.
+METHODS: The single-centre three-arm, randomised-controlled trial investigates 
+the efficacy of a VR mindfulness intervention and a music intervention in 
+patients with cancer undergoing chemotherapy at the University Hospital 
+Düsseldorf, Germany. Patients were randomly assigned to receive either (a) the 
+VR mindfulness intervention, (b) the receptive music intervention or (c) the 
+standard care (control group) in two consecutive chemotherapy sessions. A 
+comprehensive psychological assessment and self-ratings using visual analogue 
+scales will be conducted with situational anxiety as the primary outcome 
+measure. Additionally, secondary measures will be employed to assess 
+cancer-related anxiety, self-efficacy and chemotherapy-related side effects. 
+Furthermore, salivary cortisol, heart rate and blood pressure will be recorded. 
+At the end of the study, an evaluation questionnaire will be completed. It is 
+planned to enrol 82 patients.
+ETHICS AND DISSEMINATION: The study has been approved by the ethics committee of 
+the medical faculty of the Heinrich-Heine-University Düsseldorf (2022-1880). 
+Written informed consent is obtained from the patients prior to participation. 
+The results will be published in international scientific, peer-reviewed 
+journals. Conference presentations are also planned.
+TRIAL REGISTRATION NUMBER: German Clinical Trials Register (DRKS00029738).
+
+© Author(s) (or their employer(s)) 2025. Re-use permitted under CC BY. Published 
+by BMJ Group.
+
+DOI: 10.1136/bmjopen-2024-094040
+PMCID: PMC11987127
+PMID: 40204322 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

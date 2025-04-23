@@ -1,0 +1,1321 @@
+1. BMC Neurosci. 2016 Aug 18;17 Suppl 1(Suppl 1):54. doi: 
+10.1186/s12868-016-0283-6.
+
+25th Annual Computational Neuroscience Meeting: CNS-2016.
+
+Sharpee TO(1), Destexhe A(2)(3), Kawato M(4), Sekulić V(5)(6), Skinner 
+FK(5)(6)(7)(8)(9)(10), Wójcik DK(11), Chintaluri C(11), Cserpán D(12), 
+Somogyvári Z(12), Kim JK(13), Kilpatrick ZP(14), Bennett MR(15), Josić 
+K(14)(16), Elices I(17), Arroyo D(17), Levi R(17)(18), Rodriguez FB(17), Varona 
+P(17), Hwang E(19)(20)(21), Kim B(19)(22)(23), Han HB(19)(24), Kim T(25), 
+McKenna JT(26), Brown RE(26), McCarley RW(26), Choi 
+JH(19)(22)(27)(20)(28)(29)(30), Rankin J(31)(32), Popp PO(31), Rinzel J(31)(33), 
+Tabas A(34), Rupp A(35)(35), Balaguer-Ballester E(34)(36), Maturana MI(37)(38), 
+Grayden DB(38)(39)(40)(41)(42)(43), Cloherty SL(44), Kameneva T(38), Ibbotson 
+MR(37)(45), Meffin H(37)(45)(46)(47)(48), Koren V(49)(50), Lochmann T(49)(50), 
+Dragoi V(51), Obermayer K(49)(50), Psarrou M(52), Schilstra M(52), Davey N(52), 
+Torben-Nielsen B(52), Steuber V(52), Ju H(53), Yu J(54), Hines ML(55), Chen 
+L(56), Yu Y(53), Kim J(57), Leahy W(58), Shlizerman E(57)(59), Birgiolas J(60), 
+Gerkin RC(60), Crook SM(2)(61), Viriyopase A(62)(63)(64), Memmesheimer 
+RM(62)(64)(65), Gielen S(62)(63), Dabaghian Y(66)(67), DeVito J(66), Perotti 
+L(68), Kim AJ(69), Fenk LM(69), Cheng C(68), Maimon G(69), Zhao C(70), Widmer 
+Y(71), Sprecher S(71), Senn W(60), Halnes G(72), Mäki-Marttunen T(73)(74), 
+Keller D(75), Pettersen KH(76)(77), Andreassen OA(73)(74), Einevoll 
+GT(72)(78)(79), Yamada Y(80), Steyn-Ross ML(81), Alistair Steyn-Ross D(81), 
+Mejias JF(31), Murray JD(82), Kennedy H(83), Wang XJ(31)(84), Kruscha A(85)(86), 
+Grewe J(87)(88), Benda J(87)(88), Lindner B(85)(86)(89), Badel L(90), Ohta 
+K(90), Tsuchimoto Y(90), Kazama H(90), Kahng B(91), Tam ND(92), Pollonini L(93), 
+Zouridakis G(94), Soh J(95), Kim D(95), Yoo M(96), Palmer SE(97), Culmone V(98), 
+Bojak I(98), Ferrario A(99), Merrison-Hort R(99), Borisyuk R(99), Kim CS(100), 
+Tezuka T(101), Joo P(102), Rho YA(103)(104), Burton SD(105)(106), Bard 
+Ermentrout G(103)(106), Jeong J(104)(107)(108)(109)(110)(111)(112), Urban 
+NN(105)(106), Marsalek P(113)(114), Kim HH(104), Moon SH(115), Lee DW(115), Lee 
+SB(115), Lee JY(115), Molkov YI(116), Hamade K(117), Teka W(118), Barnett 
+WH(116), Kim T(117), Markin S(117), Rybak IA(117), Forro C(119), Dermutz H(119), 
+Demkó L(119), Vörös J(119), Babichev A(66)(67), Huang H(120), Verduzco-Flores 
+S(121), Dos Santos F(122), Andras P(122), Metzner C(123)(124), Schweikard 
+A(125), Zurowski B(126), Roach JP(127), Sander LM(128)(129), Zochowski 
+MR(128)(129), Skilling QM(130), Ognjanovski N(131), Aton SJ(131), Zochowski 
+M(130)(129), Wang SJ(132)(133), Ouyang G(133), Guang J(134), Zhang M(134), 
+Michael Wong KY(135), Zhou C(133)(136)(137), Robinson PA(15)(138)(139)(140), 
+Sanz-Leon P(138)(139)(140), Drysdale PM(138)(139), Fung F(138)(139), Abeysuriya 
+RG(138), Rennie CJ(138)(139), Zhao X(138)(139), Choe Y(141), Yang HF(142), Mi 
+Y(143)(144), Lin X(143), Wu S(143)(144), Liedtke J(145)(146), Schottdorf 
+M(145)(146), Wolf F(145)(146), Yamamura Y(147), Wickens JR(147), Rumbell T(148), 
+Ramsey J(149), Reyes A(149), Draguljić D(149), Hof PR(150), Luebke J(151), 
+Weaver CM(137), He H(152), Yang X(153), Ma H(152), Xu Z(152), Wang Y(152), Baek 
+K(154)(155), Morris LS(154), Kundu P(156), Voon V(154), Agnes EJ(157), Vogels 
+TP(157), Podlaski WF(158), Giese M(159)(160), Kuravi P(161), Vogels R(159), 
+Seeholzer A(162), Podlaski W(158), Ranjan R(163), Vogels T(162), Torres JJ(164), 
+Baroni F(165), Latorre R(17), Gips B(62), Lowet E(62)(166), Roberts MJ(62)(166), 
+de Weerd P(166), Jensen O(62), van der Eerden J(62), Goodarzinick A(167), Niry 
+MD(167)(168), Valizadeh A(167)(169)(170)(171), Pariz A(170), Parsi SS(170), 
+Warburton JM(172), Marucci L(173), Tamagnini F(174)(175), Brown J(174)(175), 
+Tsaneva-Atanasova K(176), Kleberg FI(177), Triesch J(177)(178), Moezzi B(179), 
+Iannella N(179)(180), Schaworonkow N(178), Plogmacher L(178), Goldsworthy 
+MR(181), Hordacre B(181), McDonnell MD(179)(182), Ridding MC(181), Zapotocky 
+M(183)(184), Smit D(183)(184)(185), Fouquet C(185), Trembleau A(185), Dasgupta 
+S(80)(186)(187)(188), Nishikawa I(189), Aihara K(189)(190), Toyoizumi T(191), 
+Robb DT(192), Mellen N(107), Toporikova N(108), Tang R(193), Tang YY(194), Liang 
+G(194), Kiser SA(195), Howard JH Jr(196), Goncharenko J(52), Voronenko 
+SO(85)(89), Ahamed T(197), Stephens G(197)(198), Yger P(199), Lefebvre B(199), 
+Spampinato GLB(199), Esposito E(199), et Olivier Marre MS(199), Choi H(200), 
+Song MH(201), Chung S(202), Lee DD(203), Sompolinsky H(202)(204), Phillips 
+RS(205)(8), Smith J(205), Chatzikalymniou AP(8)(9), Ferguson K(8)(206), Alex 
+Cayco Gajic N(207), Clopath C(208)(209), Angus Silver R(207), Gleeson 
+P(207)(210), Marin B(207), Sadeh S(207), Quintana A(207)(210), Cantarelli M(28), 
+Dura-Bernal S(211)(212)(213), Lytton WW(211)(212)(214)(213), Davison A(215), Li 
+L(144), Zhang W(144), Wang D(144)(216), Song Y(109), Park S(109)(217), Choi 
+I(217), Shin HS(217), Choi H(57)(218)(219), Pasupathy A(218)(219), Shea-Brown 
+E(57)(219)(220)(221), Huh D(222), Sejnowski TJ(222)(223), Vogt SM(224), Kumar 
+A(225)(226)(227)(228)(229)(230), Schmidt R(224)(225), Van Wert S(231), Schiff 
+SJ(231)(186), Veale R(232), Scheutz M(233), Lee SW(104)(234)(235), Gallinaro 
+J(236), Rotter S(236), Rubchinsky LL(237)(238), Cheung CC(237), 
+Ratnadurai-Giridharan S(237), Shomali SR(239), Ahmadabadi MN(239)(240), 
+Shimazaki H(241), Nader Rasuli S(242)(243), Zhao X(143), Rasch MJ(143), Wilting 
+J(244), Priesemann V(146)(244)(245)(246)(247)(248), Levina A(249), Rudelt 
+L(247), Lizier JT(250)(251), Spinney RE(251), Rubinov M(252)(253), Wibral 
+M(254), Bak JH(255), Pillow J(256), Zaho Y(257)(258), Park IM(254)(259), Kang 
+J(260), Park HJ(261), Jang J(104), Paik SB(104)(255)(262)(263), Choi 
+W(104)(262)(263), Lee C(104), Song M(104)(263), Lee H(104), Park Y(104), Yilmaz 
+E(264), Baysal V(264), Ozer M(265), Saska D(266), Nowotny T(266)(267), Chan 
+HK(267), Diamond A(267), Herrmann CS(268), Murray MM(269), Ionta S(269), Hutt 
+A(270), Lefebvre J(271), Weidel P(5), Duarte R(5)(272)(273), Morrison 
+A(5)(272)(274)(275)(276)(229)(277), Lee JH(278)(279), Iyer R(278)(279), Mihalas 
+S(278)(279), Koch C(278), Petrovici MA(279), Leng L(279), Breitwieser O(278), 
+Stöckel D(279), Bytschok I(279), Martel R(279), Bill J(279), Schemmel J(279), 
+Meier K(279), Esler TB(40), Burkitt AN(31)(38)(40), Kerr RR(280), Tahayori 
+B(281), Nolte M(180), Reimann MW(180), Muller E(180), Markram H(180), Parziale 
+A(282)(283), Senatore R(282)(283)(284), Marcelli A(282)(283), Skiker K(285), 
+Maouene M(286), Neymotin SA(212)(287), Seidenstein A(212)(288), Lakatos P(289), 
+Sanger TD(290)(291), Menzies RJ(292), McLauchlan C(292), van Albada 
+SJ(293)(276), Kedziora DJ(292), Neymotin S(213), Kerr CC(292), Suter BA(294), 
+Shepherd GMG(294), Ryu J(295), Lee SH(295)(296)(297)(298), Lee J(296), Lee 
+HJ(297), Lim D(298), Wang J(299), Lee H(299), Jung N(300), Anh Quang L(300), 
+Maeng SE(300), Lee TH(300), Lee JW(300), Park CH(301)(302), Ahn S(303)(304), 
+Moon J(301)(302), Choi YS(302), Kim J(303), Jun SB(303)(305)(304), Lee 
+S(303)(304), Lee HW(301)(302)(306), Jo S(304), Jun E(304), Yu S(304), Goetze 
+F(307)(308), Lai PY(307), Kim S(309), Kwag J(309), Jang HJ(309), Filipović 
+M(227)(310), Reig R(311), Aertsen A(227)(310), Silberberg G(312), Bachmann 
+C(276), Buttler S(276), Jacobs H(313)(314)(315), Dillen K(316), Fink 
+GR(316)(317), Kukolja J(316)(317), Kepple D(318), Giaffar H(318), Rinberg 
+D(319), Shea S(318), Koulakov A(318), Bahuguna J(229)(277)(230), Tetzlaff 
+T(277), Kotaleski JH(230), Kunze T(320)(321), Peterson A(322), Knösche T(320), 
+Kim M(323), Kim H(323), Park JS(324), Yeon JW(324), Kim SP(324)(325), Kang 
+JH(325), Lee C(325), Spiegler A(326), Petkoski S(326)(327), Palva MJ(328), Jirsa 
+VK(326), Saggio ML(326), Siep SF(326), Stacey WC(329)(330)(331), Bernar C(326), 
+Choung OH(104), Jeong Y(104), Lee YI(104)(110), Kim SH(104)(110), Jeong M(104), 
+Lee J(104)(111), Kwon J(104)(110), Kralik JD(104)(111), Jahng J(104)(110), Hwang 
+DU(332), Kwon JH(104)(112), Park SM(104)(112), Kim S(104), Kim H(104), Kim 
+PS(104), Yoon S(104)(110), Lim S(104)(110), Park C(333), Miller T(333), Clements 
+K(333), Ahn S(334), Ji EH(335), Issa FA(333), Baek J(336), Oba S(336), Yoshimoto 
+J(337)(338), Doya K(337), Ishii S(336), Mosqueiro TS(339), Strube-Bloss MF(340), 
+Smith B(341), Huerta R(339), Hadrava M(341)(342)(343), Hlinka J(342), Bos 
+H(276), Helias M(276)(344), Welzig CM(345), Harper ZJ(345)(346), Kim WS(347), 
+Shin IS(347), Baek HM(348), Han SK(347), Richter R(347), Vitay J(347), Beuth 
+F(347), Hamker FH(347)(348), Toppin K(349), Guo Y(349), Graham BP(350), Kale 
+PJ(351), Gollo LL(351)(352)(353), Stern M(354), Abbott LF(355), Fedorov 
+LA(356)(357), Giese MA(356)(357), Ardestani MH(358)(160), Faraji MJ(359), 
+Preuschoff K(360), Gerstner W(359), van Gendt MJ(361), Briaire JJ(361), Kalkman 
+RK(361), Frijns JHM(361)(362), Lee WH(363), Frangou S(363), Fulcher BD(364), 
+Tran PHP(364), Fornito A(364), Gliske SV(330), Lim E(365), Holman KA(366), Fink 
+CG(365)(367), Kim JS(368)(369), Mu S(370), Briggman KL(371), Sebastian Seung 
+H(368)(370); the EyeWirers; Wegener D(372), Bohnenkamp L(365)(74), Ernst 
+UA(372), Devor A(373)(124), Dale AM(374)(373)(375), Lines GT(376), Edwards 
+A(377), Tveito A(377), Hagen E(276), Senk J(276), Diesmann 
+M(276)(378)(379)(380)(381)(382), Schmidt M(78), Bakker R(62)(379), Shen K(383), 
+Bezgin G(384), Hilgetag CC(385)(347), van Albada SJ(379), Sun 
+H(386)(387)(388)(389), Sourina O(386)(388), Huang GB(386)(388), Klanner 
+F(388)(390), Denk C(388), Glomb K(391), Ponce-Alvarez A(390), Gilson 
+M(390)(392), Ritter P(393)(394)(395)(396), Deco G(390)(397)(392), Witek 
+MAG(398), Clarke EF(399), Hansen M(400), Wallentin M(401), Kringelbach 
+ML(398)(401)(402), Vuust P(398)(401), Klingbeil G(403), De Schutter 
+E(403)(404)(405)(406)(407), Chen W(404), Zang Y(405), Hong S(408), Takashima 
+A(406), Zamora C(407), Gallimore AR(407), Goldschmidt D(407), Manoonpong P(187), 
+Karoly PJ(409)(410), Freestone DR(409)(411), Soundry D(411), Kuhlmann L(412), 
+Paninski L(411), Cook M(409), Lee J(413), Fishman YI(352), Cohen YE(413), 
+Roberts JA(209)(414), Cocchi L(209), Sweeney Y(415), Lee S(27)(416), Jung 
+WS(27)(20), Kim Y(28), Jung Y(21)(417), Song YK(417), Chavane F(418), Soman 
+K(419), Muralidharan V(419), Srinivasa Chakravarthy V(419), Shivkumar S(419), 
+Mandali A(419), Pragathi Priyadharsini B(419), Mehta H(419), Davey CE(43), 
+Brinkman BAW(57)(420), Kekona T(57), Rieke F(420)(221), Buice M(36), De Pittà 
+M(421)(355)(422), Berry H(355)(353)(423), Brunel N(355)(353), Breakspear M(414), 
+Marsat G(358), Drew J(29), Chapman PD(29), Daly KC(29), Bradle SP(29), Seo 
+SB(424), Su J(425), Kavalali ET(426), Blackwell J(425), Shiau L(190), Buhry 
+L(427), Basnayake K(428), Lee SH(104)(429), Levy BA(430), Baker CI(430)(431), 
+Leleu T(432), Philips RT(221), Chhabria K(221).
+
+Author information:
+(1)Computational Neurobiology Laboratory, The Salk Institute for Biological 
+Studies, San Diego, CA USA
+(2)UNIC, CNRS, Gif sur Yvette, France
+(3)The European Institute for Theoretical Neuroscience (EITN), Paris, France
+(4)ATR Computational Neuroscience Laboratories, 2-2 Hikaridai, Seika-cho, 
+Soraku-gun, Kyoto, 619-0288 Japan
+(5)Krembil Research Institute, University Health Network, Toronto, ON M5T 2S8 
+Canada
+(6)Department of Physiology, University of Toronto, Toronto, ON M5S 1A8 Canada
+(7)Department of Medicine (Neurology), University of Toronto, Toronto, ON M5T 
+2S8 Canada
+(8)Department of Physics, University of New Hampshire, Durham, NH 03824 USA
+(9)Krembil Research Institute, University Health Network, Toronto, ON Canada
+(10)Department of Neuroscience, Yale School of Medicine, New Haven, CT 06520 USA
+(11)Department of Neurophysiology, Nencki Institute of Experimental Biology, 
+Warsaw, Poland
+(12)Department of Theory, Wigner Research Centre for Physics of the Hungarian 
+Academy of Sciences, Budapest, 1121 Hungary
+(13)Department of Mathematical Sciences, KAIST, Daejoen, 34141 Republic of Korea
+(14)Department of Mathematics, University of Houston, Houston, TX 77004 USA
+(15)Department of Biochemistry & Cell Biology and Institute of Biosciences and 
+Bioengineering, Rice University, Houston, TX 77005 USA
+(16)Department of Biology and Biochemistry, University of Houston, Houston, TX 
+77004 USA
+(17)Grupo de Neurocomputación Biológica, Dpto. de Ingeniería Informática, 
+Escuela Politécnica Superior, Universidad Autónoma de Madrid, Madrid, Spain
+(18)Department of Biological Sciences, University of Southern California, Los 
+Angeles, CA USA
+(19)Center for Neuroscience, Korea Institute of Science and Technology, 
+Hwarang-ro 14-gil 5, Seongbuk-gu, Seoul, 02792 South Korea
+(20)Department of Neurology, Albert Einstein College of Medicine, Bronx, NY 
+10461 USA
+(21)Center for Neuroscience, KIST, Seoul, 02792 South Korea
+(22)Department of Neuroscience, University of Science and Technology, 217 
+Gajeong-ro, Yuseong-gu, Daejon, 34113 South Korea
+(23)Systems Neuroscience Group, QIMR Berghofer Medical Research Institute, 
+Herston, QLD 4006 Australia
+(24)Department of Psychology, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, 
+Seoul, 03722 South Korea
+(25)Department of Psychiatry, Kyung Hee University Hospital at Gangdong, 892, 
+Dongnam-ro, Gangdong-gu, Seoul, 05278 South Korea
+(26)Department of Psychiatry, Veterans Administration Boston Healthcare System 
+and Harvard Medical School, Brockton, MA 02301 USA
+(27)Department of Electrical and Electronic Engineering, The University of 
+Melbourne, Parkville, VIC 3010 Australia
+(28)Department of Bioengineering, Imperial College London, London, UK
+(29)Department of Physics, POSTECH, Pohang, 37673 South Korea
+(30)Center for Neuroscience, Korea Institute of Science and Technology, Seoul, 
+South Korea
+(31)Center for Neural Science, New York University, New York, NY 10003 USA
+(32)Department of Psychiatry, VA Boston Healthcare System & Harvard Medical 
+School, Brockton, MA USA
+(33)Courant Institute of Mathematical Sciences, New York University, New York, 
+NY 10012 USA
+(34)Faculty of Science and Technology, Bournemouth University, Bournemouth, 
+England, UK
+(35)Heidelberg University, Baden-Württemberg, Germany
+(36)Bernstein Center for Computational Neuroscience, Heidelberg-Mannheim, 
+Baden-Württemberg, Germany
+(37)National Vision Research Institute, Australian College of Optometry, 
+Carlton, 3053 Australia
+(38)NeuroEngineering Laboratory, Dept. Electrical & Electronic Engineering, 
+University of Melbourne, Parkville, VIC 3010 Australia
+(39)Centre for Neural Engineering, University of Melbourne, Parkville, 3010 
+Australia
+(40)Kirchhoff-Institute for Physics, University of Heidelberg, Heidelberg, 
+Germany
+(41)Korea Basic Science Institute, Cheongju, Chungbuk 28119 Republic of Korea
+(42)Center for Neuroscience, Korea Institute of Science and Technology, Seoul, 
+02792 Korea
+(43)Program in Nano Science and Technology, Seoul National University, Seoul, 
+08826 Korea
+(44)Department of Physiology, Monash University, Melbourne, 3800 Australia
+(45)ARC Centre of Excellence for Integrative Brain Function, Dept. Optometry and 
+Vision Sciences, University of Melbourne, Parkville, 3010 Australia
+(46)Monash Institute of Medical Engineering, Monash University, Melbourne, 
+Australia
+(47)National Vision Research Institute, Melbourne, Australia
+(48)Department of Physics, Chungbuk National University, Cheongju, Chungbuk 
+28644 Republic of Korea
+(49)Institute of Software Engineering and Theoretical Computer Science, 
+Technische Universitaet Berlin, 10587 Berlin, Germany
+(50)Bernstein Center for Computational Neuroscience Berlin, 
+Humboldt-Universitaet zu Berlin, 10115 Berlin, Germany
+(51)Department of Neurobiology and Anatomy, University of Texas-Houston Medical 
+School, Houston, TX 77030 USA
+(52)Centre for Computer Science and Informatics Research, University of 
+Hertfordshire, Hatfield, AL10 9AB UK
+(53)School of Life Science and the Collaborative Innovation Center for Brain 
+Science, Fudan University, Shanghai, 200438 China
+(54)LinyiHospitalof TraditionalChineseMedicine, 211 Jiefang Road, Lanshan, 
+Linyi, 276000 Shandong Province China
+(55)Department of Neuroscience, Yale University School of Medicine, New Haven, 
+CT 06520 USA
+(56)Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, 
+Fudan University, Shanghai, China
+(57)Department of Applied Mathematics, University of Washington, Seattle, WA 
+98195 USA
+(58)Amazon.com lnc, Seattle, WA 98108 USA
+(59)Department of Electrical Engineering, University of Washington, Seattle, WA 
+98195 USA
+(60)School of Life Science, Arizona State University, Tempe, AZ 85287 USA
+(61)School of Mathematical and Statistical Sciences, Arizona State University, 
+Tempe, AZ 85287 USA
+(62)Donders Institute for Brain, Cognition and Behaviour, Radboud University 
+Nijmegen (Medical Centre), Nijmegen, The Netherlands
+(63)Department for Biophysics, Faculty of Science, Radboud University Nijmegen, 
+Nijmegen, The Netherlands
+(64)Department for Neuroinformatics, Faculty of Science, Radboud University 
+Nijmegen, Nijmegen, The Netherlands
+(65)Center for Theoretical Neuroscience, Columbia University, New York, NY USA
+(66)Department of Neurology Pediatrics, Baylor College of Medicine, Houston, TX 
+77030 USA
+(67)Department of Computational and Applied Mathematics, Rice University, 
+Houston, TX 77005 USA
+(68)Physics Department, Texas Southern University, 3100 Cleburne St, Houston, TX 
+77004 USA
+(69)Laboratory of Integrative Brain Function, The Rockefeller University, New 
+York, NY 10065 USA
+(70)Department of Physiology, University of Bern, 3012 Bern, Switzerland
+(71)Department of Biology, University of Fribourg, 1700 Fribourg, Switzerland
+(72)Department of Mathematical Sciences and Technology, Norwegian University of 
+Life Sciences, Ås, Norway
+(73)NORMENT, Institute of Clinical Medicine, University of Oslo, Oslo, Norway
+(74)Department of Structure and Function of Neural Networks, Korea Brain 
+Research Institute, Daegu, 41068 Republic of Korea
+(75)The Blue Brain Project, École Polytechnique Fédérale de Lausanne (EPFL), 
+Lausanne, Switzerland
+(76)Letten Centre and Glialab, Dept. of Molecular Medicine, Inst. of Basic 
+Medical Sciences, University of Oslo, Oslo, Norway
+(77)Centre for Molecular Medicine Norway, University of Oslo, Oslo, Norway
+(78)Department of Physics, University of Oslo, Oslo, Norway
+(79)Brain Research Institute, University of Bremen, 28334 Bremen, Germany
+(80)IBM Research - Tokyo, Tokyo, Japan
+(81)School of Engineering, University of Waikato, Hamilton, 3240 New Zealand
+(82)Department of Psychiatry, Yale School of Medicine, New Haven, CT 06511 USA
+(83)INSERM U846, Stem Cell and Brain Research Institute, Bron Cedex, France
+(84)NYU-ECNU Institute of Brain and Cognitive Science, NYU Shanghai, Shanghai, 
+China
+(85)Bernstein Center for Computational Neuroscience, 10115 Berlin, Germany
+(86)Institute for Physics, Humboldt-Universität zu Berlin, 12489 Berlin, Germany
+(87)Institute for Neurobiology, Eberhardt Karls Universität Tübingen, Tübingen, 
+Germany
+(88)Bernstein Center for Computational Neuroscience, Munich, Germany
+(89)Department of Physics, Humboldt University, 10099 Berlin, Germany
+(90)Riken Brai Science Institute, 2-1 Hirosawa, Wako, Saitama Japan
+(91)Department of Physics and Astronomy, Seoul National University, Seoul, 08826 
+Korea
+(92)Department of Biological Sciences, University of North Texas, Denton, TX 
+76203 USA
+(93)College of Technology, the University of Houston, Houston, TX 77204 USA
+(94)Departments of Engineering Technology, Computer Science, and Electrical and 
+Computer Engineering, University of Houston, Houston, TX 77204 USA
+(95)Biological Cybernetics, School of Electrical and Electronic Engineering, 
+Yonsei University, Shinchon, Seoul, 120-749 South Korea
+(96)Committee on Computational Neuroscience, University of Chicago, Chicago, IL 
+USA
+(97)Department of Organismal Biology and Anatomy, University of Chicago, 
+Chicago, IL USA
+(98)School of Psychology, University of Reading, Reading, Berkshire RG1 6AY UK
+(99)School of Computing and Mathematics, Plymouth University, Plymouth, PL4 8AA 
+UK
+(100)Department of Physics, Chonnam National University, Gwangju, 61186 Republic 
+of Korea
+(101)Faculty of Library, Information and Media Science, University of Tsukuba, 
+Tsukuba, 305-0821 Japan
+(102)Physics, POSTECH, Pohang, 37673 Republic of Korea
+(103)Department of Mathematics, University of Pittsburgh, Pittsburgh, PA 15260 
+USA
+(104)Department of Bio and Brain Engineering/Program of Brain and Cognitive 
+Engineering, Korea Advanced Institute of Science and Technology (KAIST), 
+Daejeon, 34141 South Korea
+(105)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, 
+PA 15213 USA
+(106)Center for the Neural Basis of Cognition, Pittsburgh, PA 15213 USA
+(107)Department of Pediatrics, University of Louisville, Louisville, KY 40208 
+USA
+(108)Department of Biology, Washington and Lee University, Lexington, VA 24450 
+USA
+(109)School of System Science, Beijing Normal University, Beijing, 100875 China
+(110)Dept of Neurology, Dept of Biomedical Engineering, University of Michigan, 
+Ann Arbor, MI 48109 USA
+(111)Program of Brain and Cognitive Engineering, College of Engineering, Korea 
+Advanced Institute of Science and Technology (KAIST), Daejeon, 34141 South Korea
+(112)Division of Computational Mathematics, National Institute for Mathematical 
+Sciences (NIMS), Daejeon, 34047 South Korea
+(113)Inst. of Pathological Physiology, First Faculty of Medicine, Charles 
+University in Prague, 128 53 Prague, Czech Republic
+(114)Czech Technical University in Prague, Zikova 1903/4, 166 36 Prague, Czech 
+Republic
+(115)Korea Science Academy of KAIST, Busan, 10547 South Korea
+(116)Department of Mathematics and Statistics, Georgia State University, 
+Atlanta, GA 30303 USA
+(117)Department of Neurobiology and Anatomy, Drexel University, Philadelphia, PA 
+19129 USA
+(118)Department of Mathematical Sciences, Indiana University – Purdue 
+University, Indianapolis, IN 46202 USA
+(119)LBB, ETH Zürich, 8051 Zurich, Switzerland
+(120)RIKEN Brain Science Institute, Wako-shi, Saitama, Japan
+(121)Computational Neuroscience Unit, Okinawa Institute of Science and 
+Technology, Okinawa, 1919-1 Japan
+(122)School of Computing and Mathematics, Keele University, 
+Newcastle-under-Lyme, ST5 5BG UK
+(123)Science and Technology Research Institute, University of Hertfordshire, 
+Hatfield, UK
+(124)Computer Science Department, Princeton University, Princeton, NJ 08544 USA
+(125)Institute for Robotics and Cognitive Systems, University of Luebeck, 
+Luebeck, Germany
+(126)Department of Psychiatry, University of Luebeck, Schleswig-Holstein, 
+Luebeck, Germany
+(127)Neuroscience Graduate Program, University of Michigan, Ann Arbor, MI 48109 
+USA
+(128)Center for the Study of Complex Systems, University of Michigan, Ann Arbor, 
+MI 48109 USA
+(129)Department of Physics, University of Michigan, Ann Arbor, MI 48109 USA
+(130)Biophysics Program, University of Michigan, Ann Arbor, MI 48109 USA
+(131)Department of Molecular, Cellular, and Developmental Biology, University of 
+Michigan, Ann Arbor, MI 48109 USA
+(132)Department of Physics, Shaanxi Normal University, Xi’An City, ShaanXi 
+Province China
+(133)Department of Physics and Centre for Nonlinear Studies, Institute of 
+Computational and Theoretical Studies, Hong Kong Baptist University, Kowloon 
+Tong, Hong Kong
+(134)State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal 
+University, Beijing, China
+(135)Department of Physics, Hong Kong University of Science and Technology, 
+Clear Water Bay, Hong Kong
+(136)Beijing Computational Science Research Center, Beijing, 100084 People’s 
+Republic of China
+(137)Research Centre, HKBU Institute of Research and Continuing Education, 
+Shenzhen, China
+(138)School of Physics, University of Sydney, Sydney, NSW 2006 Australia
+(139)Center for Integrative Brain Function, University of Sydney, Sydney, NSW 
+2006 Australia
+(140)Bernstein Center Freiburg & Faculty of Biology, University of Freiburg, 
+Baden-Württember, Freiburg, 79194 Germany
+(141)Department of Computer Science & Engineering, Texas A&M University, College 
+Station, TX 77845 USA
+(142)Research Center for Information Technology Innovation, Academia Sinica, 
+Taipei, Taiwan
+(143)State Key Lab of Cognitive Neuroscience & Learning, IDG/McGovern Institute 
+for Brain Research, Beijing Normal University, Beijing, 100875 China
+(144)Neuroinformatics group Unité de Neurosciences, Information et Complexité, 
+CNRS, Gif sur Yvette, France
+(145)Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany
+(146)Bernstein Center for Computational Neuroscience, Göttingen, Germany
+(147)Neurobiology Research Unit, Okinawa Institute of Science and Technology, 
+Onna-son, Okinawa, 904-0412 Japan
+(148)Computational Biology Center, IBM Research, Thomas J. Watson Research 
+Center, Yorktown Heights, NY 10598 USA
+(149)Department of Mathematics, Franklin and Marshall College, Lancaster, PA 
+17604 USA
+(150)Fishberg Department of Neuroscience and Friedman Brain Institute, Icahn 
+School of Medicine at Mount Sinai, New York, NY 10029 USA
+(151)Department of Anatomy and Neurobiology, Boston University School of 
+Medicine, Boston, MA 02118 USA
+(152)Institute of Microelectronics, Tsinghua University, Beijing, 100081 China
+(153)School of Software, Beijing Institute of Technology, Beijing, 100083 China
+(154)Department of Psychiatry, University of Cambridge, Cambridge, CB2 0QQ UK
+(155)Department of Biomedical Engineering, Ulsan National Institute of Science 
+and Technology, Ulsan, South Korea
+(156)Departments of Radiology and Psychiatry, Icahn School of Medicine at Mount 
+Sinai, New York City, NY 10029 USA
+(157)Centre for Neural Circuits and Behaviour, University of Oxford, Oxford, OX1 
+3SR UK
+(158)Centre for Neural Circuits and Behaviour, University of Oxford, Oxford, UK
+(159)Section Computational Sensomotorics, CIN & HIH, Department of Cognitive 
+Neurology, University Clinic Tübingen, Tübingen, Germany
+(160)Faculty of Medicine, Technion, Haifa, Israel
+(161)Lab. Neuro en Psychofysiologie, Dept. Neuroscience, KU Leuven, Louvain, 
+Belgium
+(162)Laboratory of Computational Neuroscience, EPF Lausanne, Lausanne, 
+Switzerland
+(163)The Blue Brain Project, EPF Lausanne, Lausanne, Switzerland
+(164)Departamento de Electromagnetismo y Física de la Materia, and Institute 
+“Carlos I” for Theoretical and Computational Physics, University of Granada, 
+Granada, Spain
+(165)School of Psychological Sciences, Faculty of Biomedical and Psychological 
+Sciences, Monash University, Parkville, Australia
+(166)Faculty of Psychology and Neuroscience, Maastricht University, 6200 MD 
+Maastricht, The Netherlands
+(167)Department of Physics, Institute for Advanced Studies in Basic Sciences 
+(IASBS), Zanjan, 45137-66731 Iran
+(168)Center for Research in Climate Change and Global Warming (CRCC), Institute 
+for Advanced Studies in Basic Sciences (IASBS), Zanjan, 45137-66731 Iran
+(169)School of Cognitive Sciences, Institute for Research in Fundamental 
+Sciences (IPM), Tehran, Iran
+(170)Department of Physics, Institute for Advanced Studies in Basic Sciences, 
+Zanjan, Iran
+(171)School of Cognitive Sciences, Institute for Studies in Theoretical Physics 
+and Mathematics, Niavaran, Tehran, Iran
+(172)Bristol Centre for Complexity Sciences, University of Bristol, Bristol, BS8 
+1TR UK
+(173)Department of Engineering Mathematics, University of Bristol, Bristol, BS8 
+1UB UK
+(174)School of Physiology and Pharmacology, University of Bristol, Bristol, BS8 
+1TD UK
+(175)Medical School, University of Exeter, Exeter, EX4 4PE UK
+(176)Department of Mathematics, University of Exeter, Exeter, EX4 4QF UK
+(177)Frankfurt Institute for Advanced Studies, 60438 Frankfurt am Main, Hessen, 
+Germany
+(178)Frankfurt Institute for Advanced Studies, Goethe-Universität, Frankfurt am 
+Main, Germany
+(179)Computational and Theoretical Neuroscience Laboratory, School of 
+Information Technology and Mathematical Sciences, University of South Australia, 
+Adelaide, Australia
+(180)School of Mathematical Sciences, University of Nottingham, Nottingham, UK
+(181)Robinson Research Institute, School of Medicine, University of Adelaide, 
+Adelaide, Australia
+(182)Department of Computer Science, Chemnitz University of Technology, 
+Chemnitz, Germany
+(183)Institute of Physiology of the Czech Academy of Sciences, Prague, Czech 
+Republic
+(184)Institute of Biophysics and Informatics, First Faculty of Medicine, Charles 
+University in Prague, Prague, Czech Republic
+(185)IBPS, Neuroscience Paris Seine, CNRS UMR8246, Inserm U1130, UPMC UM 119, 
+Université Pierre et Marie Curie, Paris, France
+(186)Center for Neural Engineering, Department of Engineering Science and 
+Mechanics, The Pennsylvania State University, University Park, PA 16802 USA
+(187)Computational Neuroscience Unit, Okinawa Institute of Science and 
+Technology, Okinawa, 904-0411 Japan
+(188)Computational Neuroscience Unit, Okinawa Institute of Science and 
+Technology Graduate University, Onna-son, Okinawa Japan
+(189)The University of Tokyo, Tokyo, Japan
+(190)Department of Neuroscience, University of Texas Southwestern Medical 
+Center, Dallas, TX 75390 USA
+(191)RIKEN Brain Science Institute, Tokyo, Japan
+(192)Department of Mathematics, Computer Science and Physics, Roanoke College, 
+Salem, VA 24153 USA
+(193)Department of Psychology, Washington University in St. Louis, St. Louis, MO 
+63130 USA
+(194)Department of Psychological Sciences, Texas Tech University, Lubbock, TX 
+79409 USA
+(195)The Department of Veteran Affairs, District of Columbia VA Medical Center, 
+Washington, DC 20420 USA
+(196)Department of Psychology, The Catholic University of America, Washington, 
+DC 20064 USA
+(197)Biological Physics Theory Unit, Okinawa Institute of Science and 
+Technology, Okinawa, 904-0495 Japan
+(198)Department of Physics and Astronomy, Vrije Universiteit Amsterdam, 
+Amsterdam, The Netherlands
+(199)Institut de la Vision, INSERM UMRS 968, CNRS UMR 7210, Paris, France
+(200)Bernstein Center Freiburg, Institute of Biology III, University of 
+Freiburg, 79100 Freiburg, Germany
+(201)fourMs group, Dept. Musicology, University of Oslo, 0371 Oslo, Norway
+(202)Center for Brain Science, Harvard University, Cambridge, MA 02138 USA
+(203)Department of Electrical and Systems Engineering, University of 
+Pennsylvania, Philadelphia, PA 19104 USA
+(204)Edmond and Lily Safra Center for Brain Sciences, Hebrew University, 91904 
+Jerusalem, Israel
+(205)NINDS, NIH, Bethesda, MD 20892 USA
+(206)Department of Physiology, University of Toronto, Toronto, ON Canada
+(207)Department of Medicine (Neurology), University of Toronto, Toronto, ON 
+Canada
+(208)Department of Neuroscience, Physiology and Pharmacology, University College 
+London, London, UK
+(209)Department of Statistics, Columbia University, New York, NY USA
+(210)Department Physiology, Northwestern University, Chicago, IL 60611 USA
+(211)Metacell LLC, San Diego, CA USA
+(212)Department of Computer Science, ENSAT, Abdelmalek Essaadi’s University, 
+Tangier, Morocco
+(213)Department Neurology, Kings County Hospital Center, Brooklyn, NY 11203 USA
+(214)Div Neurology, Child Neurology and Movement Disorders, Children’s Hospital 
+Los Angeles, Los Angeles, CA USA
+(215)State University of New York Downstate Medical Center, Brooklyn, NY USA
+(216)State Key Laboratory of Cognitive Neuroscience & Learning, IDG/McGovern 
+Institute for Brain Research, Beijing Normal University, Beijing, 100875 China
+(217)Bio and Brain Engineering, KAIST, Daejeon, 34141 Republic of Korea
+(218)Center for Cognition and Sociality, IBS, Daejeon, 34047 Republic of Korea
+(219)Department of Biological Structure, University of Washington, Seattle, WA 
+98195 USA
+(220)Department of Neuroscience, University of Science and Technology, Daejon, 
+34113 Korea
+(221)Institut de Neuroscienes de la Timone (INT), CNRS & Aix-Marseille 
+University, 27 Boulevard Jean Moulin, 13005 Marseille, France
+(222)UW Institute for Neuroengineering, University of Washington, Seattle, WA 
+98195 USA
+(223)The Salk Institute for Biological Studies, La Jolla, CA 92037 USA
+(224)Division of Biological Sciences, University of California at San Diego, La 
+Jolla, CA 92095 USA
+(225)BrainLinks-BrainTools, Cluster of Excellence, University of Freiburg, 
+Freiburg, Germany
+(226)Faculty of Biology and Bernstein Center Freiburg, University of Freiburg, 
+Freiburg, Germany
+(227)Department of Brain and Cognitive Engineering, Korea University, Seoul, 
+Korea
+(228)Department of Neuroscience, Karolinska Institute, Stockholm, 17177 Sweden
+(229)Department of Neurology, University Hospital of Cologne, Cologne, Germany
+(230)Institute of Neuroscience and Medicine (INM-6), Institute for Advanced 
+Simulation (IAS-6) and JARA BRAIN Institute I, Jülich Research Centre, Jülich, 
+Germany
+(231)Department of Computational Biology, Royal Institute of Technology 
+Stockholm, Stockholm, Sweden
+(232)Departments of Neurosurgery and Physics, The Pennsylvania State University, 
+University Park, PA 16802 USA
+(233)National Institute for Physiological Sciences, Okazaki, Aichi Japan
+(234)Department of Computer Science, Tufts University, Medford, MA USA
+(235)Program of Brain and Cognitive Engineering, Korea Advanced Institute of 
+Science and Technology (KAIST), Daejeon, South Korea
+(236)KAIST Institute for Health Science and Technology, Korea Advanced Institute 
+of Science and Technology (KAIST), Daejeon, South Korea
+(237)School of Physics, University of Sydney, Sydney, NSW Australia
+(238)Department of Mathematical Sciences, Indiana University-Purdue University 
+Indianapolis, Indianapolis, IN USA
+(239)Stark Neurosciences Research Institute, Indiana University School of 
+Medicine, Indianapolis, IN USA
+(240)School of Cognitive Sciences, Institute for Research in Fundamental 
+Sciences (IPM), Tehran, 19395-5746 Iran
+(241)School of ECE, College of Engineering, University of Tehran, Tehran, 
+14155-6619 Iran
+(242)RIKEN Brain Science Institute, Wako, Saitama 351-0198 Japan
+(243)Department of Physics, University of Guilan, Rasht, 41335-1914 Iran
+(244)School of Physics, Institute for Research in Fundamental Sciences (IPM), 
+Tehran, 19395-5531 Iran
+(245)Max-Planck-Institute for Dynamics and Self-Organization, 37077 Göttingen, 
+Germany
+(246)IST Austria, 3400 Klosterneuburg, Austria
+(247)BCCN & MPI for Dynamics and Self-Organization, 37077 Göttingen, Germany
+(248)MEG Unit, Brain Imaging Center, Goethe University, 60528 Frankfurt am Main, 
+Germany
+(249)Bernstein Center for Computational Neuroscience, University of Göttingen, 
+37075 Göttingen, Germany
+(250)Dept. of Non-linear Dynamics, Max Planck Institute for Dynamics and 
+Self-Organization, Göttingen, Germany
+(251)School of Civil Engineering, The University of Sydney, Sydney, NSW 
+Australia
+(252)Complex Systems Research Group, Faculty of Engineering & IT, The University 
+of Sydney, Sydney, NSW 2006 Australia
+(253)Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA 20147 
+USA
+(254)Department of Psychiatry, University of Cambridge, Cambridge, UK
+(255)Department of Nonlinear Dynamics, Max Planck Institute for Dynamics & 
+Self-Organization, Göttingen, Germany
+(256)Department of Physics & Lewis-Sigler Institute for Integrative Genomics, 
+Princeton University, Princeton, NJ 08544 USA
+(257)Department of Neurobiology and Behavior, Stony Brook University, Stony 
+Brook, NY 11794 USA
+(258)Department of Applied Mathematics and Statistics, Stony Brook University, 
+Stony Brook, NY 11794 USA
+(259)Department of Psychology & Princeton Neuroscience Institute, Princeton 
+University, Princeton, NJ 08544 USA
+(260)Institute for Advanced Computational Science, Stony Brook University, Stony 
+Brook, NY 11794 USA
+(261)Graduate School of Life Science, University of Hyogo, 3-2-1 Koto, Kamigori, 
+Ako, Hyogo 678-1297 Japan
+(262)Department of Nuclear Medicine, Radiology and Psychiatry, Yonsei University 
+College of Medicine, Department of Cognitive Science, Yonsei University, 50 
+Yonsei-ro, Sinchon-dong Seodaemoon-gu, Seoul, 120-752 Republic of Korea
+(263)Program of Brain and Cognitive Engineering, Korea Advanced Institute of 
+Science and Technology, Daejeon, 34141 Republic of Korea
+(264)Program of Brain and Cognitive Engineering, KAIST, Daejeon, 34141 Republic 
+of Korea
+(265)Department of Biomedical Engineering, Bülent Ecevit University, 67100 
+Zonguldak, Turkey
+(266)Department of Electrical and Electronics Engineering, Bülent Ecevit 
+University, 67100 Zonguldak, Turkey
+(267)School of Engineering and Informatics, Sussex Neuroscience, University of 
+Sussex, Falmer, Brighton, BN1 9QJ UK
+(268)School of Engineering and Informatics, University of Sussex, Falmer, 
+Brighton BN1 9QJ UK
+(269)Research Center Neurosensory Science, Carl-von-Ossietzky University 
+Oldenburg, Oldenburg, Germany
+(270)The Laboratory for Investigative Neurophysiology (The LINE), Department of 
+Clinical Neurosciences and Department of Radiology, University Hospital Center 
+and University of Lausanne, 1011 Lausanne, Switzerland
+(271)Deutscher Wetterdienst, 63067 Offenbach, Germany
+(272)Institute of Advanced Simulation (IAS-6) & Institute of Neuroscience and 
+Medicine (INM-6) & JARA BRAIN Institute I, Jülich Research Center, 52425 Jülich, 
+Germany
+(273)Bernstein Center Freiburg, Albert-Ludwig University of Freiburg, Freiburg 
+im Breisgau 79104, Germany
+(274)Institute for Adaptive and Neural Computation, School of Informatics, 
+University of Edinburgh, Edinburgh, EH8 9AB UK
+(275)Institute of Cognitive Neuroscience, Faculty of Psychology, Ruhr-University 
+Bochum, 44801 Bochum, Germany
+(276)Dept. of Computational Science and Technology, School of Computer Science 
+and Communication, KTH Royal Institute of Technology, 10040 Stockholm, Sweden
+(277)NYU Neuroscience Institute, New York, NY 10016 USA
+(278)Simulation Laboratory Neuroscience – Bernstein Facility for Simulation and 
+Database Technology, Institute for Advanced Simulation, Jülich Aachen Research 
+Alliance, Jülich Research Center, Jülich, Germany
+(279)Allen Institute for Brain Science, Seattle, WA 98109 USA
+(280)NeuroEngineering Laboratory, Electrical & Electronic Engineering, The 
+University of Melbourne, Parkville, VIC 3010 Australia
+(281)IBM Research, Melbourne, Australia
+(282)Blue Brain Project, École Polytechnique fédérale de Lausanne (EPFL), 
+Geneva, Switzerland
+(283)Department of Information and Electrical Engineering, University of 
+Salerno, 84084 Fisciano, SA Italy
+(284)Department of Information and Electrical Engineering and Applied 
+Mathematics, University of Salerno, Fisciano, SA 81100 Italy
+(285)Laboratory of Neural Computation, Istituto Italiano di Tecnologia, 
+Rovereto, TN 38068 Italy
+(286)LIST Laboratory, FST, Abdelmalek Essaadi’s University, Tangier, Morocco
+(287)Department Physiology & Pharmacology, SUNY Downstate, Brooklyn, NY 11203 
+USA
+(288)Department Neuroscience, Yale University School of Medicine, New Haven, CT 
+USA
+(289)Department of Chemical & Biomedical Engineering, Tandon School of 
+Engineering, NYU, Brooklyn, NY USA
+(290)Nathan Kline Institute for Psychiatric Research, Orangeburg, NY USA
+(291)Department Biomedical Engineering, University of Southern California, Los 
+Angeles, CA USA
+(292)Department of Physiology & Pharmacology, SUNY Downstate Medical Center, 
+Brooklyn, NY 11023 USA
+(293)Complex Systems Group, School of Physics, University of Sydney, Sydney, NSW 
+2006 Australia
+(294)Institute of Neuroscience and Medicine (INM-6), Jülich Research Centre and 
+JARA, Jülich, Germany
+(295)Department of Neuroscience, Physiology & Pharmacology, University College 
+London, London, WC1E6BT UK
+(296)Brain and Cognitive Science, Seoul National University, Seoul, 151-742 
+Republic of Korea
+(297)Department of Brain and Cognitive Sciences, Seoul National University, 
+Seoul, 151-742 Korea
+(298)Department of Brain and Cognitive Neuroscience, Seoul National University, 
+Gwanak-gu, South Korea
+(299)Department of Brain and Cognitive Sciences, Seoul National University, 
+Seoul, 08826 South Korea
+(300)Physics Department, Pohang University of Science and Technology, Pohang, 
+South Korea
+(301)Department of Physics, Inha University, Namgu, Incheon, 22212 Korea
+(302)Departments of Neurology, Ewha Womans University School of Medicine, Seoul, 
+Korea
+(303)Department of Medical Science, Ewha Womans University School of Medicine, 
+Seoul, Korea
+(304)Brain & Cognitive Sciences, Ewha Womans University College of Scranton, 
+Seoul, Korea
+(305)Department of Electronics Engineering, Ewha Womans University College of 
+Engineering, Seoul, Korea
+(306)Department of Electronics Engineering, Ewha Womans University, Seoul, 
+120-750 Korea
+(307)Department of Neurology, Ewha Womans University, Seoul, 120-750 Korea
+(308)Department of Physics, National Central University, Chung-Li, Taiwan, ROC
+(309)Taiwan International Graduate Program for Molecular Science and Technology, 
+Institute for Atomic and Molecular Sciences, Academia Sinica, Taipei, Taiwan, 
+ROC
+(310)Bernstein Center Freiburg, Freiburg, Germany
+(311)Faculty of Biology, University of Freiburg, 79104 Freiburg, Germany
+(312)Instituto de Neurociencias de Alicante, University of Alicante, Alicante, 
+Spain
+(313)Institute of Neuroscience and Medicine (INM-6) and Institute for Advanced 
+Simulation (IAS-6) and JARA BRAIN Institute I, Jülich Research Centre, 52425 
+Jülich, Germany
+(314)Faculty of Health, Medicine and Life Science, School for Mental Health and 
+Neuroscience (MHeNS),Alzheimer Centre Limburg, Maastricht University Medical 
+Centre, PO Box 616, 6200 MD Maastricht, The Netherlands
+(315)Department of Radiology &Athinoula A. Martinos Center for Biomedical 
+Imaging, Massachusetts General Hospital, Harvard Medical School, Boston, MA 
+02114 USA
+(316)Department of Cognitive Neuroscience, Faculty of Psychology and 
+Neuroscience, Maastricht University, PO BOX 616, 6200 MD Maastricht, The 
+Netherlands
+(317)Cognitive Neuroscience, Inst. of Neuroscience and Medicine (INM-3), Jülich 
+Research Centre, Jülich, Germany
+(318)Computational Neuroscience, Bernstein Center Freiburg, 79104 Freiburg, 
+Germany
+(319)Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724 USA
+(320)Computational Brain Science, Dept. of Computational Science and Technology, 
+School of Computer Science and Communication, KTH, Royal Institute of 
+Technology, Stockholm, Sweden
+(321)Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, 
+Germany
+(322)Institute of Biomedical Engineering and Informatics, Ilmenau University of 
+Technology, Ilmenau, Germany
+(323)Department of Medicine, University of Melbourne, Melbourne, Australia
+(324)Division of IoT and Robotics Convergence Research, DGIST, Daegu, 42988 
+Korea
+(325)Department of Human Factors Engineering, Ulsan National Institute of 
+Science and Technology, Ulsan, 689-798 South Korea
+(326)Department of Human and Systems Engineering, Ulsan National Institute of 
+Science and Technology, Ulsan, South Korea
+(327)INSERM UMR 1106 Institut de Neurosciences des Systèmes - Aix-Marseille 
+Université, Marseille, France
+(328)Aix-Marseille Université, CNRS, ISM UMR 7287, 13288 Marseille, France
+(329)Neuroscience Center, University of Helsinki, 00014 Helsinki, Finland
+(330)Geneva Finance Research Institute (GFRI) and Swiss Center for Affective 
+Sciences (CISA), University of Geneva, 1211 Geneva, Switzerland
+(331)ENT-Department, Leiden University Medical Centre, Leiden, 2300 RC The 
+Netherlands
+(332)Program of Brain Engineering, College of Engineering, Korea Advanced 
+Institute of Science and Technology (KAIST), Daejeon, 34141 Republic of Korea
+(333)Program of Brain and Cognitive Engineering, Korea Advanced Institute of 
+Science and Technology (KAIST), Daejeon, 34141 South Korea
+(334)Department of Mathematics, North Carolina A&T State University, Greensboro, 
+NC 27411 USA
+(335)Department of Biology, East Carolina University, Greenville, NC 27858 USA
+(336)Department of Mathematics, East Carolina University, Greenville, NC 27858 
+USA
+(337)David Geffen School of Medicine, UCLA, Los Angeles, CA 90095 USA
+(338)Graduate School of Informatics, Kyoto University, Yoshidahonmachi 36-1, 
+Sakyo, Kyoto, Japan
+(339)Neural Computation Unit, Okinawa Institute of Science and Technology 
+Graduate University, 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa Japan
+(340)Graduate School of Information Science, Nara Institute of Science and 
+Technology, 8916-5 Takayama, Ikoma, Nara Japan
+(341)University of California San Diego, La Jolla, CA USA
+(342)Biocenter University of Würzburg, Würzburg, Germany
+(343)School of Life Sciences, Arizona State University, Tempe, AZ USA
+(344)Department of Cybernetics, Faculty of Electrical Engineering, Czech 
+Technical University in Prague, 166 27 Prague, Czech Republic
+(345)Department of Nonlinear Dynamics and Complex Systems, Institute of Computer 
+Science, The Czech Academy of Sciences, 182 07 Prague, Czech Republic
+(346)National Institute of Mental Health, 250 67 Klecany, Czech Republic
+(347)Department of Physics, Faculty 1, RWTH Aachen University, 52074 Aachen, 
+Germany
+(348)Departments of Neurology and Physiology, Medical College of Wisconsin, 
+Milwaukee, WI 53226 USA
+(349)College of Engineering & Applied Science, University of 
+Wisconsin-Milwaukee, Milwaukee, WI 53211 USA
+(350)Bernstein Center for Computational Neuroscience, Charité University 
+Medicine, Berlin, Germany
+(351)Department of Mathematics, Drexel University, Philadelphia, PA 19104 USA
+(352)Department of Medicine, The University of Melbourne, Parkville, VIC 3010 
+Australia
+(353)Department of Physiology and Biophysics, University of Washington, Seattle, 
+WA 98195 USA
+(354)National Vision Research Institute, Australian College of Optometry, 
+Carlton, VIC 3053 Australia
+(355)Centre for Neural Engineering, University of Melbourne, Parkville, VIC 3010 
+Australia
+(356)Computational and Theoretical Neuroscience Laboratory, School of 
+Information Technology and Mathematical Sciences, University of South Australia, 
+Mawson Lakes, SA 5095 Australia
+(357)Computing Science & Mathematics, School of Natural Sciences, University of 
+Stirling, Stirling, FK9 4LA UK
+(358)Systems Neuroscience Group, QIMR Berghofer Medical Research Institute, 
+Brisbane, QLD 4006 Australia
+(359)Department of Neuroscience and Department of Physiology and Cellular 
+Biophysics, Columbia University, New York, NY USA
+(360)Section for Computational Sensomotorics, Dept. Cognitive Neurology, 
+CIN&HIH, Tübingen, Germany
+(361)GTC, International Max Planck Research School, University of Tübingen, 
+Tübingen, Germany
+(362)Section Computational Sensomotorics, Department of Cognitive Neurology, CIN 
+& HIH, 72076 Tübingen, Germany
+(363)IMPRS for Cognitive and Systems Neuroscience, University Clinic Tübingen, 
+72076 Tübingen, Germany
+(364)School of Life Sciences, Brain Mind Institute and School of Computer and 
+Communication Sciences, Ecole Polytechnique Federal de Lausanne (EPFL), 1015 
+Lausanne, Switzerland
+(365)Leiden Institute for Brain and Cognition, 2300 RC Leiden, The Netherlands
+(366)Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New 
+York, NY 10029 USA
+(367)Monash Institute of Cognitive and Clinical Neurosciences, Monash 
+University, Clayton, VIC 3168 Australia
+(368)Department of Neurology, University of Michigan, Ann Arbor, MI 48104 USA
+(369)Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI 
+48104 USA
+(370)Department of Physics, Ohio Wesleyan University, Delaware, OH 43015 USA
+(371)Department of Physics, Towson University, Towson, MD 21252 USA
+(372)Neuroscience Program, Ohio Wesleyan University, Delaware, OH 43015 USA
+(373)Circuit Dynamics and Connectivity Unit, National Institute of Neurological 
+Disorders and Stroke, National Institutes of Health, Bethesda, MD 20824 USA
+(374)Princeton Neuroscience Institute, Princeton University, Princeton, NJ 08544 
+USA
+(375)Department of Neurosciences, University of California San Diego, La Jolla, 
+CA USA
+(376)NORMENTa, Institute of Clinical Medicine, University of Oslo, Oslo, Norway
+(377)Institute for Neurophysics, University of Bremen, 28334 Bremen, Germany
+(378)Department of Radiology, University of California San Diego, La Jolla, CA 
+USA
+(379)Biocomputation Research Group, University of Hertfordshire, Hatfield, UK
+(380)Institute of Neuroscience and Medicine (INM-6) and Institute for Advanced 
+Simulation (IAS-6), and JARA BRAIN Institute I, Jülich Research Centre, Jülich, 
+Germany
+(381)Rotman Research Institute, Baycrest, Toronto, ON M6A 2E1 Canada
+(382)McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill 
+University, Montreal, QC Canada
+(383)Simula Research Laboratory and Center for Cardiological Innovation, Oslo, 
+Norway
+(384)Multimodal Imaging Laboratory, UC San Diego, La Jolla, CA USA
+(385)Department of Psychiatry, Psychotherapy and Psychosomatics, Medical 
+Faculty, RWTH Aachen University, 52074 Aachen, Germany
+(386)Department of Computational Neuroscience, University Medical Center 
+Eppendorf, Hamburg, Germany
+(387)Department of Health Sciences, Boston University, Boston, MA USA
+(388)Department of Psychiatry, Psychotherapy and Psychosomatics, Medical 
+Faculty, RWTH Aachen University, Aachen, Germany
+(389)Department of Physics, Faculty 1, RWTH Aachen University, Aachen, Germany
+(390)Energy Research Institute @ NTU (ERI@N), Interdisciplinary Graduate School, 
+Nanyang Technological University, Singapore, 639798 Singapore
+(391)Fraunhofer IDM @ NTU, Nanyang Technological University, Singapore, 639798 
+Singapore
+(392)Dept. of Neurology, Charité - University Medicine, 10117 Berlin, Germany
+(393)School of Electrical and Electronic Engineering, Nanyang Technological 
+University, Singapore, 639798 Singapore
+(394)Future Mobility Research Lab, A Joint Initiative of BMW Group & NTU, 
+Nanyang Technological University, Singapore, 639798 Singapore
+(395)School of Computer Engineering, Nanyang Technological University, 
+Singapore, 639798 Singapore
+(396)Center for Brain and Cognition, Universitat Pompeu Fabra, 08018 Barcelona, 
+Spain
+(397)Minerva Research Group Brain Modes, Max Planck Institute for Human 
+Cognitive and Brain Sciences, 04103 Leipzig, Germany
+(398)Bernstein Focus State Dependencies of Learning & Bernstein Center for 
+Computational Neuroscience, 10115 Berlin, Germany
+(399)Berlin School of Mind and Brain & Mind and Brain Institute, Humboldt 
+University, 10117 Berlin, Germany
+(400)Catalan Institution for Advanced Studies (ICREA), Universitat Barcelona, 
+08010 Barcelona, Spain
+(401)Center for Brain Cognition, Universitat Pompeu Fabra, Barcelona, Spain
+(402)Center for Music in the Brain, Aarhus University & Royal Academy of Music, 
+Aarhus/Aalborg, Denmark
+(403)Faculty of Music, University of Oxford, Oxford, UK
+(404)Department of Psychology and Behavioural Sciences, Aarhus University, 
+Aarhus, Denmark
+(405)Center of Functionally Integrative Neuroscience, Aarhus University, Aarhus, 
+Denmark
+(406)Department of Psychiatry, University of Oxford, Oxford, UK
+(407)Computational Neuroscience Unit, Okinawa Institute of Science and 
+Technology, 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa 904-0495 Japan
+(408)Computational Neuroscience Unit, Okinawa Institute of Science and 
+Technology Graduate University, Onna-son, Okinawa, 904-0495 Japan
+(409)Computational Neuroscience Unit, Okinawa Institute of Science and 
+Technology Graduate University, Okinawa, 904-0895 Japan
+(410)Riken Brain Science Institute, 2-1 Hirosawa, Wako, Saitama Japan
+(411)Champalimaud Neuroscience Programme, Champalimaud Center for the Unknown, 
+Lisbon, Portugal
+(412)Center of Biorobotics, Mærsk Mc-Kinney Møller Institute, University of 
+Southern Denmark, Odense, Denmark
+(413)IBM, IBM Research - Tokyo, Tokyo, 103-8510 Japan
+(414)Howard Hughes Medical Institute, University of Washington, Seattle, WA 
+98195 USA
+(415)Swinburne University of Technology, Hawthorn, VIC 3122 Australia
+(416)Department of Otorhinolaryngology – Head and Neck Surgery, University of 
+Pennsylvania, Philadelphia, PA 19104 USA
+(417)Department of Industrial and Management Engineering, POSTECH, Pohang, 37673 
+South Korea
+(418)Department of Neuroscience, University of Science and Technology, Daejon, 
+South Korea
+(419)Department of Biotechnology, Indian Institute of Technology Madras, 
+Chennai, Tamil Nadu 600036 India
+(420)Center for Neural Science, New York University, 4 Washington Place, 10003, 
+New York NY USA
+(421)Department of Electrical and Electronic Engineering, University of 
+Melbourne, Parkville, VIC 3010 Australia
+(422)Project-Team BEAGLE, INRIA Rhône-Alpes, 69603 Villeurbanne, France
+(423)Department of Statistics, University of Chicago, Chicago, IL 60637 USA
+(424)Department of Biology, West Virginia University, Morgantown, WV 26506 USA
+(425)Department of Neurobiology, University of Chicago, Chicago, IL 60637 USA
+(426)Department of Mathematics, University of Texas at Arlington, Arlington, TX 
+76019 USA
+(427)Department of Mathematics, University of Houston, Clear Lake, Houston, TX 
+77059 USA
+(428)Department of Computational Neurosciences, University of Lorraine, 54600 
+Nancy, France
+(429)Computational Neurosciences Laboratory, Ecole Polytechnique Federale de 
+Lausanne, 1015 Lausanne, Switzerland
+(430)Program of Brain and Cognitive Engineering, Korea Advanced Institute of 
+Science and Technology (KAIST), Daejeon, 34141 Republic of Korea
+(431)Institute of Industrial Science, the University of Tokyo, Tokyo, Japan
+(432)Laboratory of Brain and Cognition, National Institute of Mental Health, 
+National Institutes of Health, Bethesda, MD 20892 USA
+
+A1 Functional advantages of cell-type heterogeneity in neural circuits Tatyana 
+O. Sharpee A2 Mesoscopic modeling of propagating waves in visual cortex Alain 
+Destexhe A3 Dynamics and biomarkers of mental disorders Mitsuo Kawato F1 Precise 
+recruitment of spiking output at theta frequencies requires dendritic h-channels 
+in multi-compartment models of oriens-lacunosum/moleculare hippocampal 
+interneurons Vladislav Sekulić, Frances K. Skinner F2 Kernel methods in 
+reconstruction of current sources from extracellular potentials for single cells 
+and the whole brains Daniel K. Wójcik, Chaitanya Chintaluri, Dorottya Cserpán, 
+Zoltán Somogyvári F3 The synchronized periods depend on intracellular 
+transcriptional repression mechanisms in circadian clocks. Jae Kyoung Kim, 
+Zachary P. Kilpatrick, Matthew R. Bennett, Kresimir Josić O1 Assessing 
+irregularity and coordination of spiking-bursting rhythms in central pattern 
+generators Irene Elices, David Arroyo, Rafael Levi, Francisco B. Rodriguez, 
+Pablo Varona O2 Regulation of top-down processing by cortically-projecting 
+parvalbumin positive neurons in basal forebrain Eunjin Hwang, Bowon Kim, 
+Hio-Been Han, Tae Kim, James T. McKenna, Ritchie E. Brown, Robert W. McCarley, 
+Jee Hyun Choi O3 Modeling auditory stream segregation, build-up and bistability 
+James Rankin, Pamela Osborn Popp, John Rinzel O4 Strong competition between 
+tonotopic neural ensembles explains pitch-related dynamics of auditory cortex 
+evoked fields Alejandro Tabas, André Rupp, Emili Balaguer-Ballester O5 A simple 
+model of retinal response to multi-electrode stimulation Matias I. Maturana, 
+David B. Grayden, Shaun L. Cloherty, Tatiana Kameneva, Michael R. Ibbotson, 
+Hamish Meffin O6 Noise correlations in V4 area correlate with behavioral 
+performance in visual discrimination task Veronika Koren, Timm Lochmann, 
+Valentin Dragoi, Klaus Obermayer O7 Input-location dependent gain modulation in 
+cerebellar nucleus neurons Maria Psarrou, Maria Schilstra, Neil Davey, Benjamin 
+Torben-Nielsen, Volker Steuber O8 Analytic solution of cable energy function for 
+cortical axons and dendrites Huiwen Ju, Jiao Yu, Michael L. Hines, Liang Chen, 
+Yuguo Yu O9 C. elegans interactome: interactive visualization of Caenorhabditis 
+elegans worm neuronal network Jimin Kim, Will Leahy, Eli Shlizerman O10 Is the 
+model any good? Objective criteria for computational neuroscience model 
+selection Justas Birgiolas, Richard C. Gerkin, Sharon M. Crook O11 Cooperation 
+and competition of gamma oscillation mechanisms Atthaphon Viriyopase, 
+Raoul-Martin Memmesheimer, Stan Gielen O12 A discrete structure of the brain 
+waves Yuri Dabaghian, Justin DeVito, Luca Perotti O13 Direction-specific 
+silencing of the Drosophila gaze stabilization system Anmo J. Kim, Lisa M. Fenk, 
+Cheng Lyu, Gaby Maimon O14 What does the fruit fly think about values? A model 
+of olfactory associative learning Chang Zhao, Yves Widmer, Simon Sprecher,Walter 
+Senn O15 Effects of ionic diffusion on power spectra of local field potentials 
+(LFP) Geir Halnes, Tuomo Mäki-Marttunen, Daniel Keller, Klas H. Pettersen,Ole A. 
+Andreassen, Gaute T. Einevoll O16 Large-scale cortical models towards 
+understanding relationship between brain structure abnormalities and cognitive 
+deficits Yasunori Yamada O17 Spatial coarse-graining the brain: origin of 
+minicolumns Moira L. Steyn-Ross, D. Alistair Steyn-Ross O18 Modeling large-scale 
+cortical networks with laminar structure Jorge F. Mejias, John D. Murray, Henry 
+Kennedy, Xiao-Jing Wang O19 Information filtering by partial synchronous spikes 
+in a neural population Alexandra Kruscha, Jan Grewe, Jan Benda, Benjamin Lindner 
+O20 Decoding context-dependent olfactory valence in Drosophila Laurent Badel, 
+Kazumi Ohta, Yoshiko Tsuchimoto, Hokto Kazama P1 Neural network as a scale-free 
+network: the role of a hub B. Kahng P2 Hemodynamic responses to emotions and 
+decisions using near-infrared spectroscopy optical imaging Nicoladie D. Tam P3 
+Phase space analysis of hemodynamic responses to intentional movement directions 
+using functional near-infrared spectroscopy (fNIRS) optical imaging technique 
+Nicoladie D.Tam, Luca Pollonini, George Zouridakis P4 Modeling jamming avoidance 
+of weakly electric fish Jaehyun Soh, DaeEun Kim P5 Synergy and redundancy of 
+retinal ganglion cells in prediction Minsu Yoo, S. E. Palmer P6 A neural field 
+model with a third dimension representing cortical depth Viviana Culmone, Ingo 
+Bojak P7 Network analysis of a probabilistic connectivity model of the Xenopus 
+tadpole spinal cord Andrea Ferrario, Robert Merrison-Hort, Roman Borisyuk P8 The 
+recognition dynamics in the brain Chang Sub Kim P9 Multivariate spike train 
+analysis using a positive definite kernel Taro Tezuka P10 Synchronization of 
+burst periods may govern slow brain dynamics during general anesthesia Pangyu 
+Joo P11 The ionic basis of heterogeneity affects stochastic synchrony Young-Ah 
+Rho, Shawn D. Burton, G. Bard Ermentrout, Jaeseung Jeong, Nathaniel N. Urban P12 
+Circular statistics of noise in spike trains with a periodic component Petr 
+Marsalek P14 Representations of directions in EEG-BCI using Gaussian readouts 
+Hoon-Hee Kim, Seok-hyun Moon, Do-won Lee, Sung-beom Lee, Ji-yong Lee, Jaeseung 
+Jeong P15 Action selection and reinforcement learning in basal ganglia during 
+reaching movements Yaroslav I. Molkov, Khaldoun Hamade, Wondimu Teka, William H. 
+Barnett, Taegyo Kim, Sergey Markin, Ilya A. Rybak P17 Axon guidance: modeling 
+axonal growth in T-Junction assay Csaba Forro, Harald Dermutz, László Demkó, 
+János Vörös P19 Transient cell assembly networks encode persistent spatial 
+memories Yuri Dabaghian, Andrey Babichev P20 Theory of population coupling and 
+applications to describe high order correlations in large populations of 
+interacting neurons Haiping Huang P21 Design of biologically-realistic 
+simulations for motor control Sergio Verduzco-Flores P22 Towards understanding 
+the functional impact of the behavioural variability of neurons Filipa Dos 
+Santos, Peter Andras P23 Different oscillatory dynamics underlying gamma 
+entrainment deficits in schizophrenia Christoph Metzner, Achim Schweikard, 
+Bartosz Zurowski P24 Memory recall and spike frequency adaptation James P. 
+Roach, Leonard M. Sander, Michal R. Zochowski P25 Stability of neural networks 
+and memory consolidation preferentially occur near criticality Quinton M. 
+Skilling, Nicolette Ognjanovski, Sara J. Aton, Michal Zochowski P26 Stochastic 
+Oscillation in Self-Organized Critical States of Small Systems: Sensitive 
+Resting State in Neural Systems Sheng-Jun Wang, Guang Ouyang, Jing Guang, 
+Mingsha Zhang, K. Y. Michael Wong, Changsong Zhou P27 Neurofield: a C++ library 
+for fast simulation of 2D neural field models Peter A. Robinson, Paula 
+Sanz-Leon, Peter M. Drysdale, Felix Fung, Romesh G. Abeysuriya, Chris J. Rennie, 
+Xuelong Zhao P28 Action-based grounding: Beyond encoding/decoding in neural code 
+Yoonsuck Choe, Huei-Fang Yang P29 Neural computation in a dynamical system with 
+multiple time scales Yuanyuan Mi, Xiaohan Lin, Si Wu P30 Maximum entropy models 
+for 3D layouts of orientation selectivity Joscha Liedtke, Manuel Schottdorf, 
+Fred Wolf P31 A behavioral assay for probing computations underlying curiosity 
+in rodents Yoriko Yamamura, Jeffery R. Wickens P32 Using statistical sampling to 
+balance error function contributions to optimization of conductance-based models 
+Timothy Rumbell, Julia Ramsey, Amy Reyes, Danel Draguljić, Patrick R. Hof, 
+Jennifer Luebke, Christina M. Weaver P33 Exploration and implementation of a 
+self-growing and self-organizing neuron network building algorithm Hu He, Xu 
+Yang, Hailin Ma, Zhiheng Xu, Yuzhe Wang P34 Disrupted resting state brain 
+network in obese subjects: a data-driven graph theory analysis Kwangyeol Baek, 
+Laurel S. Morris, Prantik Kundu, Valerie Voon P35 Dynamics of cooperative 
+excitatory and inhibitory plasticity Everton J. Agnes, Tim P. Vogels P36 
+Frequency-dependent oscillatory signal gating in feed-forward networks of 
+integrate-and-fire neurons William F. Podlaski, Tim P. Vogels P37 
+Phenomenological neural model for adaptation of neurons in area IT Martin Giese, 
+Pradeep Kuravi, Rufin Vogels P38 ICGenealogy: towards a common topology of 
+neuronal ion channel function and genealogy in model and experiment Alexander 
+Seeholzer, William Podlaski, Rajnish Ranjan, Tim Vogels P39 Temporal input 
+discrimination from the interaction between dynamic synapses and neural 
+subthreshold oscillations Joaquin J. Torres, Fabiano Baroni, Roberto Latorre, 
+Pablo Varona P40 Different roles for transient and sustained activity during 
+active visual processing Bart Gips, Eric Lowet, Mark J. Roberts, Peter de Weerd, 
+Ole Jensen, Jan van der Eerden P41 Scale-free functional networks of 2D Ising 
+model are highly robust against structural defects: neuroscience implications 
+Abdorreza Goodarzinick, Mohammad D. Niry, Alireza Valizadeh P42 High frequency 
+neuron can facilitate propagation of signal in neural networks Aref Pariz, 
+Shervin S. Parsi, Alireza Valizadeh P43 Investigating the effect of Alzheimer’s 
+disease related amyloidopathy on gamma oscillations in the CA1 region of the 
+hippocampus Julia M. Warburton, Lucia Marucci, Francesco Tamagnini, Jon Brown, 
+Krasimira Tsaneva-Atanasova P44 Long-tailed distributions of inhibitory and 
+excitatory weights in a balanced network with eSTDP and iSTDP Florence I. 
+Kleberg, Jochen Triesch P45 Simulation of EMG recording from hand muscle due to 
+TMS of motor cortex Bahar Moezzi, Nicolangelo Iannella, Natalie Schaworonkow, 
+Lukas Plogmacher, Mitchell R. Goldsworthy, Brenton Hordacre, Mark D. McDonnell, 
+Michael C. Ridding, Jochen Triesch P46 Structure and dynamics of axon network 
+formed in primary cell culture Martin Zapotocky, Daniel Smit, Coralie Fouquet, 
+Alain Trembleau P47 Efficient signal processing and sampling in random networks 
+that generate variability Sakyasingha Dasgupta, Isao Nishikawa, Kazuyuki Aihara, 
+Taro Toyoizumi P48 Modeling the effect of riluzole on bursting in respiratory 
+neural networks Daniel T. Robb, Nick Mellen, Natalia Toporikova P49 Mapping 
+relaxation training using effective connectivity analysis Rongxiang Tang, 
+Yi-Yuan Tang P50 Modeling neuron oscillation of implicit sequence learning 
+Guangsheng Liang, Seth A. Kiser, James H. Howard, Jr., Yi-Yuan Tang P51 The role 
+of cerebellar short-term synaptic plasticity in the pathology and medication of 
+downbeat nystagmus Julia Goncharenko, Neil Davey, Maria Schilstra, Volker 
+Steuber P52 Nonlinear response of noisy neurons Sergej O. Voronenko, Benjamin 
+Lindner P53 Behavioral embedding suggests multiple chaotic dimensions underlie 
+C. elegans locomotion Tosif Ahamed, Greg Stephens P54 Fast and scalable spike 
+sorting for large and dense multi-electrodes recordings Pierre Yger, Baptiste 
+Lefebvre, Giulia Lia Beatrice Spampinato, Elric Esposito, Marcel Stimberg et 
+Olivier Marre P55 Sufficient sampling rates for fast hand motion tracking Hansol 
+Choi, Min-Ho Song P56 Linear readout of object manifolds SueYeon Chung, Dan D. 
+Lee, Haim Sompolinsky P57 Differentiating models of intrinsic bursting and 
+rhythm generation of the respiratory pre-Bötzinger complex using phase response 
+curves Ryan S. Phillips, Jeffrey Smith P58 The effect of inhibitory cell network 
+interactions during theta rhythms on extracellular field potentials in CA1 
+hippocampus Alexandra Pierri Chatzikalymniou, Katie Ferguson, Frances K. Skinner 
+P59 Expansion recoding through sparse sampling in the cerebellar input layer 
+speeds learning N. Alex Cayco Gajic, Claudia Clopath, R. Angus Silver P60 A set 
+of curated cortical models at multiple scales on Open Source Brain Padraig 
+Gleeson, Boris Marin, Sadra Sadeh, Adrian Quintana, Matteo Cantarelli, Salvador 
+Dura-Bernal, William W. Lytton, Andrew Davison, R. Angus Silver P61 A synaptic 
+story of dynamical information encoding in neural adaptation Luozheng Li, Wenhao 
+Zhang, Yuanyuan Mi, Dahui Wang, Si Wu P62 Physical modeling of rule-observant 
+rodent behavior Youngjo Song, Sol Park, Ilhwan Choi, Jaeseung Jeong, Hee-sup 
+Shin P64 Predictive coding in area V4 and prefrontal cortex explains dynamic 
+discrimination of partially occluded shapes Hannah Choi, Anitha Pasupathy, Eric 
+Shea-Brown P65 Stability of FORCE learning on spiking and rate-based networks 
+Dongsung Huh, Terrence J. Sejnowski P66 Stabilising STDP in striatal neurons for 
+reliable fast state recognition in noisy environments Simon M. Vogt, Arvind 
+Kumar, Robert Schmidt P67 Electrodiffusion in one- and two-compartment neuron 
+models for characterizing cellular effects of electrical stimulation Stephen Van 
+Wert, Steven J. Schiff P68 STDP improves speech recognition capabilities in 
+spiking recurrent circuits parameterized via differential evolution Markov Chain 
+Monte Carlo Richard Veale, Matthias Scheutz P69 Bidirectional transformation 
+between dominant cortical neural activities and phase difference distributions 
+Sang Wan Lee P70 Maturation of sensory networks through homeostatic structural 
+plasticity Júlia Gallinaro, Stefan Rotter P71 Corticothalamic dynamics: 
+structure, number of solutions and stability of steady-state solutions in the 
+space of synaptic couplings Paula Sanz-Leon, Peter A. Robinson P72 Optogenetic 
+versus electrical stimulation of the parkinsonian basal ganglia. Computational 
+study Leonid L. Rubchinsky, Chung Ching Cheung, Shivakeshavan 
+Ratnadurai-Giridharan P73 Exact spike-timing distribution reveals higher-order 
+interactions of neurons Safura Rashid Shomali, Majid Nili Ahmadabadi, Hideaki 
+Shimazaki, S. Nader Rasuli P74 Neural mechanism of visual perceptual learning 
+using a multi-layered neural network Xiaochen Zhao, Malte J. Rasch P75 Inferring 
+collective spiking dynamics from mostly unobserved systems Jens Wilting, Viola 
+Priesemann P76 How to infer distributions in the brain from subsampled 
+observations Anna Levina, Viola Priesemann P77 Influences of embedding and 
+estimation strategies on the inferred memory of single spiking neurons Lucas 
+Rudelt, Joseph T. Lizier, Viola Priesemann P78 A nearest-neighbours based 
+estimator for transfer entropy between spike trains Joseph T. Lizier, Richard E. 
+Spinney, Mikail Rubinov, Michael Wibral, Viola Priesemann P79 Active learning of 
+psychometric functions with multinomial logistic models Ji Hyun Bak, Jonathan 
+Pillow P81 Inferring low-dimensional network dynamics with variational latent 
+Gaussian process Yuan Zaho, Il Memming Park P82 Computational investigation of 
+energy landscapes in the resting state subcortical brain network Jiyoung Kang, 
+Hae-Jeong Park P83 Local repulsive interaction between retinal ganglion cells 
+can generate a consistent spatial periodicity of orientation map Jaeson Jang, 
+Se-Bum Paik P84 Phase duration of bistable perception reveals intrinsic time 
+scale of perceptual decision under noisy condition Woochul Choi, Se-Bum Paik P85 
+Feedforward convergence between retina and primary visual cortex can determine 
+the structure of orientation map Changju Lee, Jaeson Jang, Se-Bum Paik P86 
+Computational method classifying neural network activity patterns for imaging 
+data Min Song, Hyeonsu Lee, Se-Bum Paik P87 Symmetry of 
+spike-timing-dependent-plasticity kernels regulates volatility of memory 
+Youngjin Park, Woochul Choi, Se-Bum Paik P88 Effects of time-periodic coupling 
+strength on the first-spike latency dynamics of a scale-free network of 
+stochastic Hodgkin-Huxley neurons Ergin Yilmaz, Veli Baysal, Mahmut Ozer P89 
+Spectral properties of spiking responses in V1 and V4 change within the trial 
+and are highly relevant for behavioral performance Veronika Koren, Klaus 
+Obermayer P90 Methods for building accurate models of individual neurons Daniel 
+Saska, Thomas Nowotny P91 A full size mathematical model of the early olfactory 
+system of honeybees Ho Ka Chan, Alan Diamond, Thomas Nowotny P92 
+Stimulation-induced tuning of ongoing oscillations in spiking neural networks 
+Christoph S. Herrmann, Micah M. Murray, Silvio Ionta, Axel Hutt, Jérémie 
+Lefebvre P93 Decision-specific sequences of neural activity in balanced random 
+networks driven by structured sensory input Philipp Weidel, Renato Duarte, 
+Abigail Morrison P94 Modulation of tuning induced by abrupt reduction of SST 
+cell activity Jung H. Lee, Ramakrishnan Iyer, Stefan Mihalas P95 The functional 
+role of VIP cell activation during locomotion Jung H. Lee, Ramakrishnan Iyer, 
+Christof Koch, Stefan Mihalas P96 Stochastic inference with spiking neural 
+networks Mihai A. Petrovici, Luziwei Leng, Oliver Breitwieser, David Stöckel, 
+Ilja Bytschok, Roman Martel, Johannes Bill, Johannes Schemmel, Karlheinz Meier 
+P97 Modeling orientation-selective electrical stimulation with retinal 
+prostheses Timothy B. Esler, Anthony N. Burkitt, David B. Grayden, Robert R. 
+Kerr, Bahman Tahayori, Hamish Meffin P98 Ion channel noise can explain firing 
+correlation in auditory nerves Bahar Moezzi, Nicolangelo Iannella, Mark D. 
+McDonnell P99 Limits of temporal encoding of thalamocortical inputs in a 
+neocortical microcircuit Max Nolte, Michael W. Reimann, Eilif Muller, Henry 
+Markram P100 On the representation of arm reaching movements: a computational 
+model Antonio Parziale, Rosa Senatore, Angelo Marcelli P101 A computational 
+model for investigating the role of cerebellum in acquisition and retention of 
+motor behavior Rosa Senatore, Antonio Parziale, Angelo Marcelli P102 The 
+emergence of semantic categories from a large-scale brain network of semantic 
+knowledge K. Skiker, M. Maouene P103 Multiscale modeling of M1 multitarget 
+pharmacotherapy for dystonia Samuel A. Neymotin, Salvador Dura-Bernal, Alexandra 
+Seidenstein, Peter Lakatos, Terence D. Sanger, William W. Lytton P104 Effect of 
+network size on computational capacity Salvador Dura-Bernal, Rosemary J. 
+Menzies, Campbell McLauchlan, Sacha J. van Albada, David J. Kedziora, Samuel 
+Neymotin, William W. Lytton, Cliff C. Kerr P105 NetPyNE: a Python package for 
+NEURON to facilitate development and parallel simulation of biological neuronal 
+networks Salvador Dura-Bernal, Benjamin A. Suter, Samuel A. Neymotin, Cliff C. 
+Kerr, Adrian Quintana, Padraig Gleeson, Gordon M. G. Shepherd, William W. Lytton 
+P107 Inter-areal and inter-regional inhomogeneity in co-axial anisotropy of 
+Cortical Point Spread in human visual areas Juhyoung Ryu, Sang-Hun Lee P108 Two 
+bayesian quanta of uncertainty explain the temporal dynamics of cortical 
+activity in the non-sensory areas during bistable perception Joonwon Lee, 
+Sang-Hun Lee P109 Optimal and suboptimal integration of sensory and value 
+information in perceptual decision making Hyang Jung Lee, Sang-Hun Lee P110 A 
+Bayesian algorithm for phoneme Perception and its neural implementation Daeseob 
+Lim, Sang-Hun Lee P111 Complexity of EEG signals is reduced during 
+unconsciousness induced by ketamine and propofol Jisung Wang, Heonsoo Lee P112 
+Self-organized criticality of neural avalanche in a neural model on complex 
+networks Nam Jung, Le Anh Quang, Seung Eun Maeng, Tae Ho Lee, Jae Woo Lee P113 
+Dynamic alterations in connection topology of the hippocampal network during 
+ictal-like epileptiform activity in an in vitro rat model Chang-hyun Park, Sora 
+Ahn, Jangsup Moon, Yun Seo Choi, Juhee Kim, Sang Beom Jun, Seungjun Lee, Hyang 
+Woon Lee P114 Computational model to replicate seizure suppression effect by 
+electrical stimulation Sora Ahn, Sumin Jo, Eunji Jun, Suin Yu, Hyang Woon Lee, 
+Sang Beom Jun, Seungjun Lee P115 Identifying excitatory and inhibitory synapses 
+in neuronal networks from spike trains using sorted local transfer entropy Felix 
+Goetze, Pik-Yin Lai P116 Neural network model for obstacle avoidance based on 
+neuromorphic computational model of boundary vector cell and head direction cell 
+Seonghyun Kim, Jeehyun Kwag P117 Dynamic gating of spike pattern propagation by 
+Hebbian and anti-Hebbian spike timing-dependent plasticity in excitatory 
+feedforward network model Hyun Jae Jang, Jeehyun Kwag P118 Inferring 
+characteristics of input correlations of cells exhibiting up-down state 
+transitions in the rat striatum Marko Filipović, Ramon Reig, Ad Aertsen, Gilad 
+Silberberg, Arvind Kumar P119 Graph properties of the functional connected brain 
+under the influence of Alzheimer’s disease Claudia Bachmann, Simone Buttler, 
+Heidi Jacobs, Kim Dillen, Gereon R. Fink, Juraj Kukolja, Abigail Morrison P120 
+Learning sparse representations in the olfactory bulb Daniel Kepple, Hamza 
+Giaffar, Dima Rinberg, Steven Shea, Alex Koulakov P121 Functional classification 
+of homologous basal-ganglia networks Jyotika Bahuguna,Tom Tetzlaff, Abigail 
+Morrison, Arvind Kumar, Jeanette Hellgren Kotaleski P122 Short term memory based 
+on multistability Tim Kunze, Andre Peterson, Thomas Knösche P123 A 
+physiologically plausible, computationally efficient model and simulation 
+software for mammalian motor units Minjung Kim, Hojeong Kim P125 Decoding 
+laser-induced somatosensory information from EEG Ji Sung Park, Ji Won Yeon, 
+Sung-Phil Kim P126 Phase synchronization of alpha activity for EEG-based 
+personal authentication Jae-Hwan Kang, Chungho Lee, Sung-Phil Kim P129 
+Investigating phase-lags in sEEG data using spatially distributed time delays in 
+a large-scale brain network model Andreas Spiegler, Spase Petkoski, Matias J. 
+Palva, Viktor K. Jirsa P130 Epileptic seizures in the unfolding of a 
+codimension-3 singularity Maria L. Saggio, Silvan F. Siep, Andreas Spiegler, 
+William C. Stacey, Christophe Bernard, Viktor K. Jirsa P131 Incremental 
+dimensional exploratory reasoning under multi-dimensional environment Oh-hyeon 
+Choung, Yong Jeong P132 A low-cost model of eye movements and memory in personal 
+visual cognition Yong-il Lee, Jaeseung Jeong P133 Complex network analysis of 
+structural connectome of autism spectrum disorder patients Su Hyun Kim, Mir 
+Jeong, Jaeseung Jeong P134 Cognitive motives and the neural correlates 
+underlying human social information transmission, gossip Jeungmin Lee, Jaehyung 
+Kwon, Jerald D. Kralik, Jaeseung Jeong P135 EEG hyperscanning detects neural 
+oscillation for the social interaction during the economic decision-making 
+Jaehwan Jahng, Dong-Uk Hwang, Jaeseung Jeong P136 Detecting purchase decision 
+based on hyperfrontality of the EEG Jae-Hyung Kwon, Sang-Min Park, Jaeseung 
+Jeong P137 Vulnerability-based critical neurons, synapses, and pathways in the 
+Caenorhabditis elegans connectome Seongkyun Kim, Hyoungkyu Kim, Jerald D. 
+Kralik, Jaeseung Jeong P138 Motif analysis reveals functionally asymmetrical 
+neurons in C. elegans Pyeong Soo Kim, Seongkyun Kim, Hyoungkyu Kim, Jaeseung 
+Jeong P139 Computational approach to preference-based serial decision dynamics: 
+do temporal discounting and working memory affect it? Sangsup Yoon, Jaehyung 
+Kwon, Sewoong Lim, Jaeseung Jeong P141 Social stress induced neural network 
+reconfiguration affects decision making and learning in zebrafish Choongseok 
+Park, Thomas Miller, Katie Clements, Sungwoo Ahn, Eoon Hye Ji, Fadi A. Issa P142 
+Descriptive, generative, and hybrid approaches for neural connectivity inference 
+from neural activity data JeongHun Baek, Shigeyuki Oba, Junichiro Yoshimoto, 
+Kenji Doya, Shin Ishii P145 Divergent-convergent synaptic connectivities 
+accelerate coding in multilayered sensory systems Thiago S. Mosqueiro, Martin F. 
+Strube-Bloss, Brian Smith, Ramon Huerta P146 Swinging networks Michal Hadrava, 
+Jaroslav Hlinka P147 Inferring dynamically relevant motifs from oscillatory 
+stimuli: challenges, pitfalls, and solutions Hannah Bos, Moritz Helias P148 
+Spatiotemporal mapping of brain network dynamics during cognitive tasks using 
+magnetoencephalography and deep learning Charles M. Welzig, Zachary J. Harper 
+P149 Multiscale complexity analysis for the segmentation of MRI images Won Sup 
+Kim, In-Seob Shin, Hyeon-Man Baek, Seung Kee Han P150 A neuro-computational 
+model of emotional attention René Richter, Julien Vitay, Frederick Beuth, Fred 
+H. Hamker P151 Multi-site delayed feedback stimulation in parkinsonian networks 
+Kelly Toppin, Yixin Guo P152 Bistability in Hodgkin–Huxley-type equations 
+Tatiana Kameneva, Hamish Meffin, Anthony N. Burkitt, David B. Grayden P153 Phase 
+changes in postsynaptic spiking due to synaptic connectivity and short term 
+plasticity: mathematical analysis of frequency dependency Mark D. McDonnell, 
+Bruce P. Graham P154 Quantifying resilience patterns in brain networks: the 
+importance of directionality Penelope J. Kale, Leonardo L. Gollo P155 Dynamics 
+of rate-model networks with separate excitatory and inhibitory populations Merav 
+Stern, L. F. Abbott P156 A model for multi-stable dynamics in action recognition 
+modulated by integration of silhouette and shading cues Leonid A. Fedorov, 
+Martin A. Giese P157 Spiking model for the interaction between action 
+recognition and action execution Mohammad Hovaidi Ardestani, Martin Giese P158 
+Surprise-modulated belief update: how to learn within changing environments? 
+Mohammad Javad Faraji, Kerstin Preuschoff, Wulfram Gerstner P159 A fast, 
+stochastic and adaptive model of auditory nerve responses to cochlear implant 
+stimulation Margriet J. van Gendt, Jeroen J. Briaire, Randy K. Kalkman, Johan H. 
+M. Frijns P160 Quantitative comparison of graph theoretical measures of 
+simulated and empirical functional brain networks Won Hee Lee, Sophia Frangou 
+P161 Determining discriminative properties of fMRI signals in schizophrenia 
+using highly comparative time-series analysis Ben D. Fulcher, Patricia H. P. 
+Tran, Alex Fornito P162 Emergence of narrowband LFP oscillations from completely 
+asynchronous activity during seizures and high-frequency oscillations Stephen V. 
+Gliske, William C. Stacey, Eugene Lim, Katherine A. Holman, Christian G. Fink 
+P163 Neuronal diversity in structure and function: cross-validation of 
+anatomical and physiological classification of retinal ganglion cells in the 
+mouse Jinseop S. Kim, Shang Mu, Kevin L. Briggman, H. Sebastian Seung, the 
+EyeWirers P164 Analysis and modelling of transient firing rate changes in area 
+MT in response to rapid stimulus feature changes Detlef Wegener, Lisa 
+Bohnenkamp, Udo A. Ernst P165 Step-wise model fitting accounting for 
+high-resolution spatial measurements: construction of a layer V pyramidal cell 
+model with reduced morphology Tuomo Mäki-Marttunen, Geir Halnes, Anna Devor, 
+Christoph Metzner, Anders M. Dale, Ole A. Andreassen, Gaute T. Einevoll P166 
+Contributions of schizophrenia-associated genes to neuron firing and cardiac 
+pacemaking: a polygenic modeling approach Tuomo Mäki-Marttunen, Glenn T. Lines, 
+Andy Edwards, Aslak Tveito, Anders M. Dale, Gaute T. Einevoll, Ole A. Andreassen 
+P167 Local field potentials in a 4 × 4 mm2 multi-layered network model Espen 
+Hagen, Johanna Senk, Sacha J. van Albada, Markus Diesmann P168 A spiking network 
+model explains multi-scale properties of cortical dynamics Maximilian Schmidt, 
+Rembrandt Bakker, Kelly Shen, Gleb Bezgin, Claus-Christian Hilgetag, Markus 
+Diesmann, Sacha Jennifer van Albada P169 Using joint weight-delay spike-timing 
+dependent plasticity to find polychronous neuronal groups Haoqi Sun, Olga 
+Sourina, Guang-Bin Huang, Felix Klanner, Cornelia Denk P170 Tensor decomposition 
+reveals RSNs in simulated resting state fMRI Katharina Glomb, Adrián 
+Ponce-Alvarez, Matthieu Gilson, Petra Ritter, Gustavo Deco P171 Getting in the 
+groove: testing a new model-based method for comparing task-evoked vs 
+resting-state activity in fMRI data on music listening Matthieu Gilson, Maria AG 
+Witek, Eric F. Clarke, Mads Hansen, Mikkel Wallentin, Gustavo Deco, Morten L. 
+Kringelbach, Peter Vuust P172 STochastic engine for pathway simulation (STEPS) 
+on massively parallel processors Guido Klingbeil, Erik De Schutter P173 Toolkit 
+support for complex parallel spatial stochastic reaction–diffusion simulation in 
+STEPS Weiliang Chen, Erik De Schutter P174 Modeling the generation and 
+propagation of Purkinje cell dendritic spikes caused by parallel fiber synaptic 
+input Yunliang Zang, Erik De Schutter P175 Dendritic morphology determines how 
+dendrites are organized into functional subunits Sungho Hong, Akira Takashima, 
+Erik De Schutter P176 A model of Ca2+/calmodulin-dependent protein kinase II 
+activity in long term depression at Purkinje cells Criseida Zamora, Andrew R. 
+Gallimore, Erik De Schutter P177 Reward-modulated learning of population-encoded 
+vectors for insect-like navigation in embodied agents Dennis Goldschmidt, 
+Poramate Manoonpong, Sakyasingha Dasgupta P178 Data-driven neural models part 
+II: connectivity patterns of human seizures Philippa J. Karoly, Dean R. 
+Freestone, Daniel Soundry, Levin Kuhlmann, Liam Paninski, Mark Cook P179 
+Data-driven neural models part I: state and parameter estimation Dean R. 
+Freestone, Philippa J. Karoly, Daniel Soundry, Levin Kuhlmann, Mark Cook P180 
+Spectral and spatial information processing in human auditory streaming Jaejin 
+Lee, Yonatan I. Fishman, Yale E. Cohen P181 A tuning curve for the global 
+effects of local perturbations in neural activity: Mapping the systems-level 
+susceptibility of the brain Leonardo L. Gollo, James A. Roberts, Luca Cocchi 
+P182 Diverse homeostatic responses to visual deprivation mediated by neural 
+ensembles Yann Sweeney, Claudia Clopath P183 Opto-EEG: a novel method for 
+investigating functional connectome in mouse brain based on optogenetics and 
+high density electroencephalography Soohyun Lee, Woo-Sung Jung, Jee Hyun Choi 
+P184 Biphasic responses of frontal gamma network to repetitive sleep deprivation 
+during REM sleep Bowon Kim, Youngsoo Kim, Eunjin Hwang, Jee Hyun Choi P185 
+Brain-state correlate and cortical connectivity for frontal gamma oscillations 
+in top-down fashion assessed by auditory steady-state response Younginha Jung, 
+Eunjin Hwang, Yoon-Kyu Song, Jee Hyun Choi P186 Neural field model of localized 
+orientation selective activation in V1 James Rankin, Frédéric Chavane P187 An 
+oscillatory network model of Head direction and Grid cells using locomotor 
+inputs Karthik Soman, Vignesh Muralidharan, V. Srinivasa Chakravarthy P188 A 
+computational model of hippocampus inspired by the functional architecture of 
+basal ganglia Karthik Soman, Vignesh Muralidharan, V. Srinivasa Chakravarthy 
+P189 A computational architecture to model the microanatomy of the striatum and 
+its functional properties Sabyasachi Shivkumar, Vignesh Muralidharan, V. 
+Srinivasa Chakravarthy P190 A scalable cortico-basal ganglia model to understand 
+the neural dynamics of targeted reaching Vignesh Muralidharan, Alekhya Mandali, 
+B. Pragathi Priyadharsini, Hima Mehta, V. Srinivasa Chakravarthy P191 Emergence 
+of radial orientation selectivity from synaptic plasticity Catherine E. Davey, 
+David B. Grayden, Anthony N. Burkitt P192 How do hidden units shape effective 
+connections between neurons? Braden A. W. Brinkman, Tyler Kekona, Fred Rieke, 
+Eric Shea-Brown, Michael Buice P193 Characterization of neural firing in the 
+presence of astrocyte-synapse signaling Maurizio De Pittà, Hugues Berry, Nicolas 
+Brunel P194 Metastability of spatiotemporal patterns in a large-scale network 
+model of brain dynamics James A. Roberts, Leonardo L. Gollo, Michael Breakspear 
+P195 Comparison of three methods to quantify detection and discrimination 
+capacity estimated from neural population recordings Gary Marsat, Jordan Drew, 
+Phillip D. Chapman, Kevin C. Daly, Samual P. Bradley P196 Quantifying the 
+constraints for independent evoked and spontaneous NMDA receptor mediated 
+synaptic transmission at individual synapses Sat Byul Seo, Jianzhong Su, Ege T. 
+Kavalali, Justin Blackwell P199 Gamma oscillation via adaptive exponential 
+integrate-and-fire neurons LieJune Shiau, Laure Buhry, Kanishka Basnayake P200 
+Visual face representations during memory retrieval compared to perception 
+Sue-Hyun Lee, Brandon A. Levy, Chris I. Baker P201 Top-down modulation of 
+sequential activity within packets modeled using avalanche dynamics Timothée 
+Leleu, Kazuyuki Aihara Q28 An auto-encoder network realizes sparse features 
+under the influence of desynchronized vascular dynamics Ryan T. Philips, 
+Karishma Chhabria, V. Srinivasa Chakravarthy
+
+DOI: 10.1186/s12868-016-0283-6
+PMCID: PMC5001212
+PMID: 27534393

@@ -1,0 +1,54 @@
+1. Brain Topogr. 2023 Sep;36(5):698-709. doi: 10.1007/s10548-023-00974-9. Epub
+2023  Jun 23.
+
+Sex Differences in Neural Correlates of Emotion Regulation in Relation to 
+Resting Heart Rate Variability.
+
+Min J(1)(2), Koenig J(3), Nashiro K(1), Yoo HJ(1), Cho C(1), Thayer JF(4), 
+Mather M(5)(6).
+
+Author information:
+(1)University of Southern California, Davis School of Gerontology, Los Angeles, 
+USA.
+(2)University of Southern California, Department of Psychology, Los Angeles, 
+USA.
+(3)University of Cologne, Faculty of Medicine and University Hospital Cologne, 
+Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, 
+Cologne, Germany.
+(4)University of California Irvine, Department of Psychological Science, Irvine, 
+USA.
+(5)University of Southern California, Davis School of Gerontology, Los Angeles, 
+USA. mara.mather@usc.edu.
+(6)University of Southern California, Department of Psychology, Los Angeles, 
+USA. mara.mather@usc.edu.
+
+Erratum in
+    Brain Topogr. 2024 Nov;37(6):1242. doi: 10.1007/s10548-024-01069-9.
+
+Prior studies suggest that sex differences in emotion regulation (ER) ability 
+contribute to sex disparities in affective disorders. In behavioral studies, 
+females rely more on maladaptive strategies to cope with emotional distress than 
+males. Neuroimaging studies suggest that males more efficiently regulate emotion 
+than females by showing less prefrontal cortex activity (suggesting less effort) 
+for similar amygdala activity (similar regulation outcome). However, 
+physiological studies involving heart rate variability (HRV) indicated that, 
+compared with males, females have higher resting HRV, indicative of 
+parasympathetic dominance and better control of emotion. To help resolve these 
+apparently inconsistent findings, we examined sex differences in how resting HRV 
+relates to brain activity while using cognitive reappraisal, one of the adaptive 
+strategies. Based on 51 males and 49 females, we found that females showed 
+different levels of self-rated emotional intensity and amygdala activity for 
+negative versus positive emotions, while males did not. Females also showed 
+greater overall prefrontal cortex activity but similar levels of amygdala 
+activity compared to males. Sex differences in how resting HRV related to brain 
+activity during ER were evident only during viewing or regulating positive 
+emotion. The results suggest that sex differences in the neural correlates of ER 
+and resting HRV might lie in valence more than arousal modulation.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s10548-023-00974-9
+PMCID: PMC10415482
+PMID: 37353651 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

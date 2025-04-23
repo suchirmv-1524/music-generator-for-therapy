@@ -1,0 +1,59 @@
+1. Front Psychol. 2024 Jan 11;14:1266758. doi: 10.3389/fpsyg.2023.1266758. 
+eCollection 2023.
+
+Effects of affectively-loaded childhood-related photos from the IAPS on the 
+induction of involuntary autobiographical memories in young and older adults.
+
+Navarro B(1)(2), Jimeno MV(1)(3), Fernández-Aguilar L(1)(3), Nieto M(1)(2), 
+Toledano-González A(1)(4), Cantero MJ(5), Ros L(1)(2), Latorre JM(1)(2).
+
+Author information:
+(1)Unidad de Psicología Cognitiva Aplicada, Instituto de Discapacidades 
+Neurológicas, Universidad de Castilla-La Mancha, Albacete, Spain.
+(2)Departamento de Psicología, Facultad de Medicina de Albacete, Universidad de 
+Castilla-La Mancha, Albacete, Spain.
+(3)Departamento de Psicología, Facultad de Derecho, Universidad de Castilla-La 
+Mancha, Albacete, Spain.
+(4)Departamento de Psicología, Facultad de Ciencias de la Salud, Talavera de la 
+Reina, Toledo, Spain.
+(5)Departamento de Psicología Evolutiva y de la Educación, Universitat de 
+València, Valencia, Spain.
+
+OBJECTIVE: Aging produces changes in emotional reactivity and the retrieval of 
+autobiographical memories. The main aim of this study was to assess age-related 
+differences, comparing emotion induction and autobiographical memory recall 
+using photos from the International Affective Picture System (IAPS) that are 
+thematically related to childhood.
+METHOD: A cross-sectional observational study was conducted, with the 
+participation of 327 individuals (168 young adults and 159 older adults) with no 
+cognitive impairment and aged between 18 and 88 years. We showed the 
+participants a set of five pictures from the IAPS, the affective content of 
+which was related to childhood. Two of these were considered to be positive 
+images, two negative and one neutral, according to the valence of these pictures 
+in the literature. The main study variables were the reactions associated with 
+emotional valence or pleasure, arousal and dominance, after viewing the photos, 
+and the autobiographical memories retrieved by the participants.
+RESULTS: The younger adults retrieved a larger number of memories than their 
+older counterparts. As regards the responses to the five affective pictures 
+(IAPS) on valence, arousal and dominance (IAPS), statistically significant 
+differences were only found for pictures 2,345 (BlackEye), with a more positive 
+valence in the group of older adults and higher arousal in the young ones, and 
+2,312 (Mother), with a more positive valence in the group of older persons. A 
+greater number of memories were retrieved for the photos that generated higher 
+levels of pleasure, greater relaxation and greater emotional control.
+CONCLUSION: Of the variables that may be associated with the elicitation of 
+involuntary autobiographical memories, the most significant are age and a 
+positive stimulus.
+
+Copyright © 2024 Navarro, Jimeno, Fernández-Aguilar, Nieto, Toledano-González, 
+Cantero, Ros and Latorre.
+
+DOI: 10.3389/fpsyg.2023.1266758
+PMCID: PMC10811954
+PMID: 38282849
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The author(s) declared that 
+they were an editorial board member of Frontiers, at the time of submission. 
+This had no impact on the peer review process and the final decision.

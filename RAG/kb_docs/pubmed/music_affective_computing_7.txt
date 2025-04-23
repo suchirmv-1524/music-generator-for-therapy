@@ -1,0 +1,45 @@
+1. Infancy. 2023 Sep-Oct;28(5):910-929. doi: 10.1111/infa.12556. Epub 2023 Jul
+19.
+
+Automated measurement of infant and mother Duchenne facial expressions in the 
+Face-to-Face/Still-Face.
+
+Ahn YA(1), Önal Ertuğrul I(2), Chow SM(3), Cohn JF(4), Messinger DS(1)(5)(6).
+
+Author information:
+(1)Department of Psychology, University of Miami, Coral Gables, Florida, USA.
+(2)Department of Information and Computing Sciences, Utrecht University, 
+Utrecht, The Netherlands.
+(3)Department of Human Development and Family Studies, Pennsylvania State 
+University, State College, Pennsylvania, USA.
+(4)Department of Psychology, University of Pittsburgh, Pittsburgh, Pennsylvania, 
+USA.
+(5)Department of Electrical and Computer Engineering, University of Miami, Coral 
+Gables, Florida, USA.
+(6)Departments of Pediatrics and Music Engineering, University of Miami, Coral 
+Gables, Florida, USA.
+
+Although still-face effects are well-studied, little is known about the degree 
+to which the Face-to-Face/Still-Face (FFSF) is associated with the production of 
+intense affective displays. Duchenne smiling expresses more intense positive 
+affect than non-Duchenne smiling, while Duchenne cry-faces express more intense 
+negative affect than non-Duchenne cry-faces. Forty 4-month-old infants and their 
+mothers completed the FFSF, and key affect-indexing facial Action Units (AUs) 
+were coded by expert Facial Action Coding System coders for the first 30 s of 
+each FFSF episode. Computer vision software, automated facial affect recognition 
+(AFAR), identified AUs for the entire 2-min episodes. Expert coding and AFAR 
+produced similar infant and mother Duchenne and non-Duchenne FFSF effects, 
+highlighting the convergent validity of automated measurement. Substantive AFAR 
+analyses indicated that both infant Duchenne and non-Duchenne smiling declined 
+from the FF to the SF, but only Duchenne smiling increased from the SF to the 
+RE. In similar fashion, the magnitude of mother Duchenne smiling changes over 
+the FFSF were 2-4 times greater than non-Duchenne smiling changes. Duchenne 
+expressions appear to be a sensitive index of intense infant and mother 
+affective valence that are accessible to automated measurement and may be a 
+target for future FFSF research.
+
+© 2023 International Congress of Infant Studies.
+
+DOI: 10.1111/infa.12556
+PMCID: PMC10426229
+PMID: 37466002 [Indexed for MEDLINE]

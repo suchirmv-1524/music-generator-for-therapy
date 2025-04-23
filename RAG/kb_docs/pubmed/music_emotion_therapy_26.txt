@@ -1,0 +1,47 @@
+1. Ann Med Surg (Lond). 2025 Jan 31;87(2):780-790. doi: 
+10.1097/MS9.0000000000002912. eCollection 2025 Feb.
+
+Management of preoperative anxiety with non-pharmacological methods in pediatric 
+patients in resource-limited settings: a literature review.
+
+Achule A(1), Gedeno K(1), Aweke Z(2).
+
+Author information:
+(1)Department of Anesthesia, College of Medicine and Health Science, Arba Minch 
+University, Arba Minch, Ethiopia.
+(2)Department of Anesthesia, College of Medicine and Health Science, Dilla 
+University, Dilla, Ethiopia.
+
+BACKGROUND: Anxiety disorders are common in children and among the most 
+prevalent psychiatric issues. Untreated preoperative anxiety can lead to 
+increased complications and a higher risk for future anxiety disorders and major 
+depression. Therefore, addressing preoperative anxiety in children is crucial to 
+prevent perioperative and long-term adverse effects.
+OBJECTIVE: This review aimed to evaluate various articles and develop a 
+management plan based on evidence for the prevention of preoperative anxiety in 
+children using non-pharmacological approaches in areas with limited resources.
+METHODS: This systematic review was conducted according to the Preferred 
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) protocol. 
+Databases, such as PubMed, Cochrane Library, and Google Scholar, were searched 
+for high-quality evidence to draw appropriate conclusions.
+RESULT: A total of 7669 articles were retrieved from the search engines. These 
+articles were then filtered based on intervention, outcome, population data, 
+inclusion and exclusion criteria, and methodological quality. After the 
+filtration process, only 35 studies met the inclusion criteria for comprehensive 
+review.
+CONCLUSION: The Children's Emotional Manifestation Scale (CEMS) effectively 
+assesses preoperative anxiety in children. Evidence suggests that 
+non-pharmacological interventions such as clowning, music therapy, audiovisuals, 
+virtual reality, and cognitive-behavioral therapy are effective in preventing 
+preoperative anxiety. Practitioners can choose a suitable non-pharmacological 
+approach based on availability and cost.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MS9.0000000000002912
+PMCID: PMC11918547
+PMID: 40110318
+
+Conflict of interest statement: The authors declare no potential conflicts of 
+interest with respect to the research, authorship, or publication of this 
+article.

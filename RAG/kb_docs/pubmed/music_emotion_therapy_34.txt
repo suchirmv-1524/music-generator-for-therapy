@@ -1,0 +1,42 @@
+1. Ann Med. 2025 Dec;57(1):2476728. doi: 10.1080/07853890.2025.2476728. Epub 2025
+ Mar 10.
+
+Development of color learning protocol based on music-color association for 
+people with visual impairment.
+
+Park HY(1).
+
+Author information:
+(1)Music Therapy Major, Graduate School of Church Music, Kosin University, 
+Busan, South Korea.
+
+BACKGROUND: This research developed and confirmed the feasibility of a 
+color-learning mobile application for people with visual impairment based on the 
+hypothesis that the music-color association may be synaesthetically induced 
+through emotion.
+METHODS: In total, 120 participants with visual impairment, comprising 60 
+congenital and 60 adventitious cases, were recruited. They underwent sequential 
+procedures: Procedure 1 involved selecting color-music associations and 
+designing tasks; Procedure 2 focused on application development with 
+accessibility features; and Procedure 3 verified usability and effectiveness.
+RESULTS: Significant improvements were observed in hue, luminance, and 
+saturation scores following the use of the music-color association application 
+among participants with both congenital and adventitious visual impairment. The 
+effectiveness of the application in facilitating color learning is evident, 
+suggesting its potential utility in enhancing color perception in this 
+population.
+CONCLUSIONS: This research introduces a novel framework for color learning among 
+visually impaired individuals using a music-based synesthetic approach. The 
+developed mobile application offers a promising avenue for efficiently improving 
+color perception and learning, thereby addressing the critical need for 
+accessibility and education for this population. Further research should explore 
+the long-term effects and broader applications of synesthetic-induced learning 
+in diverse contexts.
+
+DOI: 10.1080/07853890.2025.2476728
+PMCID: PMC11894748
+PMID: 40059778 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares that the research was 
+conducted without any commercial or financial relationships that could be 
+construed as a potential conflict of interest.

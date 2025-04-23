@@ -1,0 +1,67 @@
+1. Psychiatry Clin Neurosci. 2019 Feb;73(2):50-62. doi: 10.1111/pcn.12799. Epub 
+2018 Dec 25.
+
+Emotional expression in psychiatric conditions: New technology for clinicians.
+
+Grabowski K(1), Rynkiewicz A(2)(3), Lassalle A(4), Baron-Cohen S(5), Schuller 
+B(6), Cummins N(6), Baird A(7), Podgórska-Bednarz J(8)(9), Pieniążek 
+A(8)(10)(11), Łucka I(12).
+
+Author information:
+(1)Department of Psychiatry, Adult Psychiatry Clinic, Faculty of Medicine, 
+Medical University of Gdansk, Gdansk, Poland.
+(2)Neurodevelopmental Disorders Research Lab, Institute of Experimental and 
+Clinical Medicine, Faculty of Medicine, University of Rzeszow, Rzeszow, Poland.
+(3)Center for Diagnosis, Therapy and Education SPECTRUM ASC-MED, Gdansk & 
+Rzeszow, Poland.
+(4)Department of Psychology, Brain & Cognition, University of Amsterdam, 
+Amsterdam, Netherlands.
+(5)Autism Research Centre, Department of Psychiatry, University of Cambridge, 
+Cambridge, UK.
+(6)Department of Computing, GLAM - Group on Language, Audio, and Music, Imperial 
+College London, London, UK.
+(7)Embedded Intelligence for Health Care and Wellbeing, University of Augsburg, 
+Augsburg, Germany.
+(8)Institute of Physiotherapy, Faculty of Medicine, University of Rzeszow, 
+Rzeszow, Poland.
+(9)Association for Children with Attention Deficit Hyperactivity Disorder in 
+Rzeszow, Rzeszow, Poland.
+(10)SOLIS RADIUS Association for People with Disabilities and Autism Spectrum 
+Disorders in Rzeszow, Rzeszow, Poland.
+(11)Medical Center for Children with Autism Spectrum Disorders in Rzeszow, 
+Rzeszow, Poland.
+(12)Developmental Psychiatry, Psychotic and Geriatric Disorders Clinic, 
+Department of Psychiatry, Faculty of Medicine, Medical University of Gdansk, 
+Gdansk, Poland.
+
+AIM: Emotional expressions are one of the most widely studied topics in 
+neuroscience, from both clinical and non-clinical perspectives. Atypical 
+emotional expressions are seen in various psychiatric conditions, including 
+schizophrenia, depression, and autism spectrum conditions. Understanding the 
+basics of emotional expressions and recognition can be crucial for diagnostic 
+and therapeutic procedures. Emotions can be expressed in the face, gesture, 
+posture, voice, and behavior and affect physiological parameters, such as the 
+heart rate or body temperature. With modern technology, clinicians can use a 
+variety of tools ranging from sophisticated laboratory equipment to smartphones 
+and web cameras. The aim of this paper is to review the currently used tools 
+using modern technology and discuss their usefulness as well as possible future 
+directions in emotional expression research and treatment strategies.
+METHODS: The authors conducted a literature review in the PubMed, EBSCO, and 
+SCOPUS databases, using the following key words: 'emotions,' 'emotional 
+expression,' 'affective computing,' and 'autism.' The most relevant and 
+up-to-date publications were identified and discussed. Search results were 
+supplemented by the authors' own research in the field of emotional expression.
+RESULTS: We present a critical review of the currently available technical 
+diagnostic and therapeutic methods. The most important studies are summarized in 
+a table.
+CONCLUSION: Most of the currently available methods have not been adequately 
+validated in clinical settings. They may be a great help in everyday practice; 
+however, they need further testing. Future directions in this field include more 
+virtual-reality-based and interactive interventions, as well as development and 
+improvement of humanoid robots.
+
+© 2018 The Authors. Psychiatry and Clinical Neurosciences © 2018 Japanese 
+Society of Psychiatry and Neurology.
+
+DOI: 10.1111/pcn.12799
+PMID: 30565801 [Indexed for MEDLINE]

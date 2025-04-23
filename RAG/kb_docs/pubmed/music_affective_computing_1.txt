@@ -1,0 +1,43 @@
+1. J Pers Med. 2024 May 14;14(5):521. doi: 10.3390/jpm14050521.
+
+Emotional State Measurement Trial (EMOPROEXE): A Protocol for Promoting Exercise 
+in Adults and Children with Cerebral Palsy.
+
+Gómez-González IM(1)(2), Castro-García JA(1)(2), Merino-Monge M(1), 
+Sánchez-Antón G(1), Hamidi F(3), Mendoza-Sagrera A(4), Molina-Cantero AJ(1).
+
+Author information:
+(1)Departamento de Tecnología Electrónica, E.T.S.I. Informática, Universidad de 
+Sevilla, 41012 Sevilla, Spain.
+(2)Instituto Universitario de Investigación de Ingeniería Informática, 
+Universidad de Sevilla, 41012 Sevilla, Spain.
+(3)Information Systems Department, University of Maryland, College Park, MD 
+20742, USA.
+(4)Asociación Sevillana de Parálisis Cerebral, 41704 Dos Hermanas, Spain.
+
+BACKGROUND: The protocol described in this paper is part of a research project 
+coordinated between three Spanish universities, where a technology aimed at 
+improving the quality of life of people with cerebral palsy will be developed. 
+Part of the proposed technology will consist of an interface and a series of 
+applications to increase motivation for daily physical activity. The basis of 
+these developments is the measurement of the emotional state of the subjects.
+METHODS: The experimental protocol is designed with two research objectives, on 
+the one hand to identify the emotional state through physiological signals, and 
+on the other to determine whether music can be a motivating factor to promote 
+physical activity. It is specifically designed for subjects with cerebral palsy, 
+taking into account the special characteristics of this population. These are 
+people with whom it is difficult to use questionnaires to have a basis to 
+contrast with the measured physiological signals, so measurements must be taken 
+in carefully chosen daily-life situations.
+DISCUSSION: We hope our findings show which physiological parameters are the 
+most robust to measure the emotional state and how to design rehabilitation and 
+physical activity promotion routines that are motivating, in addition to being 
+able to avoid risk factors during the performance of these routines.
+TRIAL REGISTRATION: NCT05621057.
+
+DOI: 10.3390/jpm14050521
+PMCID: PMC11122634
+PMID: 38793103
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

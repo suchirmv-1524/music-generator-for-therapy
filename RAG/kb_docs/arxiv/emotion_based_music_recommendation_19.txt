@@ -1,0 +1,5 @@
+Title: Music Recommendation System based on Emotion, Age and Ethnicity
+
+Abstract: A Music Recommendation System based on Emotion, Age, and Ethnicity is developed in this study, using FER-2013 and ``Age, Gender, and Ethnicity (Face Data) CSV'' datasets. The CNN architecture, which is extensively used for this kind of purpose has been applied to the training of the models. After adding several appropriate layers to the training end of the project, in total, 3 separate models are trained in the Deep Learning side of the project: Emotion, Ethnicity, and Age. After the training step of these models, they are used as classifiers on the web application side. The snapshot of the user taken through the interface is sent to the models to predict their mood, age, and ethnic origin. According to these classifiers, various kinds of playlists pulled from Spotify API are proposed to the user in order to establish a functional and user-friendly atmosphere for the music selection. Afterward, the user can choose the playlist they want and listen to it by following the given link.
+
+Link: http://arxiv.org/abs/2212.04782v1

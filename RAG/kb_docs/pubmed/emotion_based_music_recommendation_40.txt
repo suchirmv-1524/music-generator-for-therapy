@@ -1,0 +1,39 @@
+1. Comput Intell Neurosci. 2022 Jul 5;2022:7646000. doi: 10.1155/2022/7646000. 
+eCollection 2022.
+
+Music Individualization Recommendation System Based on Big Data Analysis.
+
+Sun P(1).
+
+Author information:
+(1)The School of Arts, Yangtze University, Jingzhou 434023, China.
+
+This study discovers a certain complementary relationship between different 
+algorithms after conducting a comprehensive and in-depth analysis of proposal 
+algorithms. This study proposes a big data music individualization proposal 
+method based on big data analysis, which integrates user behaviour, behaviour 
+context, user information, and music work information, based on traditional 
+music proposal methods; improves the collaborative filtering proposal algorithm 
+based on user behaviour; and calculates the semantic similarity between lyrics, 
+as well as the song co-occurrence similarity based on the user's music download 
+history. Because the lyrics represent the thoughts and feelings that the song 
+wishes to convey to the listeners, the proposal module is completed, and the 
+music proposal system is realized, by combining the two different similar 
+information, using the improved algorithm and the Hadoop distributed framework. 
+The music similarity and label similarity are combined to alleviate the problem 
+of cold start and data sparseness, and a mixed similarity calculation formula is 
+proposed to calculate the similarity between music. The accuracy similarity of 
+the big data music proposal model proposed in this study is improved by about 
+20% through experimental comparison when compared with the collaborative 
+filtering model and the hybrid model. It reflects the efficiency, scalability, 
+and stability of the music proposal system as well as the ability to meet users' 
+individual music needs.
+
+Copyright © 2022 Pengfei Sun.
+
+DOI: 10.1155/2022/7646000
+PMCID: PMC9276508
+PMID: 35837215 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares that there are no conflicts 
+of interest.

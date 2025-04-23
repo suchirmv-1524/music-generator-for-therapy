@@ -1,0 +1,5 @@
+Title: Automated Music Therapy for Anxiety and Depression Management in Older   People (AMITY)
+
+Abstract: The onset of old age brings physiological and mental changes, with anxiety and depression being common mental disorders that can trigger other health issues and reduce lifespan. However, due to a global shortage of mental health professionals, combined with a growing population and limited awareness, these disorders often go undiagnosed. Music therapy offers a reliable method to address psychological, emotional, and cognitive needs. This paper presents an approach that monitors anxiety and depression symptoms in real time using low-complexity body sensors, followed by automated personalised music therapy, reducing the dependence on therapists and improving mental health care accessibility.
+
+Link: http://arxiv.org/abs/2410.02552v1

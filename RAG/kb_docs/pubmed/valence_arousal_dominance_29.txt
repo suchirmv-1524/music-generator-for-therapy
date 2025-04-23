@@ -1,0 +1,52 @@
+1. Comput Biol Med. 2024 May;173:108329. doi: 10.1016/j.compbiomed.2024.108329. 
+Epub 2024 Mar 19.
+
+An enhanced Coati Optimization Algorithm for global optimization and feature 
+selection in EEG emotion recognition.
+
+Houssein EH(1), Hammad A(2), Emam MM(3), Ali AA(4).
+
+Author information:
+(1)Faculty of Computers and Information, Minia University, Minia, Egypt. 
+Electronic address: essam.halim@mu.edu.eg.
+(2)Faculty of Computers and Information, Minia University, Minia, Egypt. 
+Electronic address: asmaa.hammad@mu.edu.eg.
+(3)Faculty of Computers and Information, Minia University, Minia, Egypt. 
+Electronic address: marwa.khalef@mu.edu.eg.
+(4)Faculty of Computers and Information, Minia University, Minia, Egypt. 
+Electronic address: a.ali@mu.edu.eg.
+
+Emotion recognition based on Electroencephalography (EEG) signals has garnered 
+significant attention across diverse domains including healthcare, education, 
+information sharing, and gaming, among others. Despite its potential, the 
+absence of a standardized feature set poses a challenge in efficiently 
+classifying various emotions. Addressing the issue of high dimensionality, this 
+paper introduces an advanced variant of the Coati Optimization Algorithm (COA), 
+called eCOA for global optimization and selecting the best subset of EEG 
+features for emotion recognition. Specifically, COA suffers from local optima 
+and imbalanced exploitation abilities as other metaheuristic methods. The 
+proposed eCOA incorporates the COA and RUNge Kutta Optimizer (RUN) algorithms. 
+The Scale Factor (SF) and Enhanced Solution Quality (ESQ) mechanism from RUN are 
+applied to resolve the raised shortcomings of COA. The proposed eCOA algorithm 
+has been extensively evaluated using the CEC'22 test suite and two EEG emotion 
+recognition datasets, DEAP and DREAMER. Furthermore, the eCOA is applied for 
+binary and multi-class classification of emotions in the dimensions of valence, 
+arousal, and dominance using a multi-layer perceptron neural network (MLPNN). 
+The experimental results revealed that the eCOA algorithm has more powerful 
+search capabilities than the original COA and seven well-known counterpart 
+methods related to statistical, convergence, and diversity measures. 
+Furthermore, eCOA can efficiently support feature selection to find the best EEG 
+features to maximize performance on four quadratic emotion classification 
+problems compared to the methods of its counterparts. The suggested method 
+obtains a classification accuracy of 85.17% and 95.21% in the binary 
+classification of low and high arousal emotions in two public datasets: DEAP and 
+DREAMER, respectively, which are 5.58% and 8.98% superior to existing approaches 
+working on the same datasets for different subjects, respectively.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2024.108329
+PMID: 38513391 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest No conflict of 
+interest exists.

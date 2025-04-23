@@ -1,0 +1,5 @@
+Title: Emotion Manipulation Through Music -- A Deep Learning Interactive Visual   Approach
+
+Abstract: Music evokes emotion in many people. We introduce a novel way to manipulate the emotional content of a song using AI tools. Our goal is to achieve the desired emotion while leaving the original melody as intact as possible. For this, we create an interactive pipeline capable of shifting an input song into a diametrically opposed emotion and visualize this result through Russel's Circumplex model. Our approach is a proof-of-concept for Semantic Manipulation of Music, a novel field aimed at modifying the emotional content of existing music. We design a deep learning model able to assess the accuracy of our modifications to key, SoundFont instrumentation, and other musical features. The accuracy of our model is in-line with the current state of the art techniques on the 4Q Emotion dataset. With further refinement, this research may contribute to on-demand custom music generation, the automated remixing of existing work, and music playlists tuned for emotional progression.
+
+Link: http://arxiv.org/abs/2406.08623v1

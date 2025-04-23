@@ -1,0 +1,5 @@
+Title: Video Soundtrack Generation by Aligning Emotions and Temporal Boundaries
+
+Abstract: We introduce EMSYNC, a video-based symbolic music generation model that aligns music with a video's emotional content and temporal boundaries. It follows a two-stage framework, where a pretrained video emotion classifier extracts emotional features, and a conditional music generator produces MIDI sequences guided by both emotional and temporal cues. We introduce boundary offsets, a novel temporal conditioning mechanism that enables the model to anticipate and align musical chords with scene cuts. Unlike existing models, our approach retains event-based encoding, ensuring fine-grained timing control and expressive musical nuances. We also propose a mapping scheme to bridge the video emotion classifier, which produces discrete emotion categories, with the emotion-conditioned MIDI generator, which operates on continuous-valued valence-arousal inputs. In subjective listening tests, EMSYNC outperforms state-of-the-art models across all subjective metrics, for music theory-aware participants as well as the general listeners.
+
+Link: http://arxiv.org/abs/2502.10154v1

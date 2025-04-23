@@ -1,0 +1,64 @@
+1. BMC Complement Med Ther. 2025 Apr 2;25(1):124. doi:
+10.1186/s12906-025-04837-7.
+
+The impact of group music therapy on anxiety, stress, and wellbeing levels, and 
+chemotherapy-induced side effects for oncology patients and their caregivers 
+during chemotherapy: a retrospective cohort study.
+
+Salgado-Vasco A(1)(2), Torres-Morales J(1)(2)(3), Durán-Rojas CI(4), 
+Beltrán-Sánchez LY(4), Amarillo M(2), Ettenberger M(5)(6).
+
+Author information:
+(1)Music Therapy Service, Department of Social Management, University Hospital 
+Fundación Santa Fe de Bogotá, Cra. 7 # 117-15, 110121, Bogotá, Colombia.
+(2)SONO - Centro de Musicoterapia, Bogotá, Colombia.
+(3)Department of Music Therapy, Berklee College of Music, Boston, USA.
+(4)Cancer Institute Fundación Santa Fe de Bogotá, Fundación Santa Fe de Bogotá, 
+Bogotá, Colombia.
+(5)Music Therapy Service, Department of Social Management, University Hospital 
+Fundación Santa Fe de Bogotá, Cra. 7 # 117-15, 110121, Bogotá, Colombia. 
+musicoterapia@fsfb.org.co.
+(6)SONO - Centro de Musicoterapia, Bogotá, Colombia. musicoterapia@fsfb.org.co.
+
+INTRODUCTION: Cancer is currently the second most common cause of death 
+worldwide and is often treated with chemotherapy. Music therapy is a widely used 
+adjunct therapy offered in oncology settings to attenuate negative impacts of 
+treatment on patient's physical and mental health; however, music therapy 
+research during chemotherapy is relatively scarce. The aim of this study is to 
+evaluate the impact of group music therapy sessions with patients and caregivers 
+on their perceived anxiety, stress, and wellbeing levels and the perception of 
+chemotherapy-induced side effects for patients.
+MATERIALS AND METHODS: This is a retrospective cohort study following the STROBE 
+guidelines. From April to October 2022, 41 group music therapy sessions 
+including 141 patients and 51 caregivers were conducted. Participants filled out 
+pre- and post-intervention Visual Analogue Scales (VAS) assessing their anxiety, 
+stress, and wellbeing levels, and for patients the intensity of 
+chemotherapy-induced side effects.
+RESULTS: The results show a statistically significant decrease of anxiety and 
+stress levels (p < .001), an increase in well-being of patients and caregivers 
+(p < .001, p = .009), and a decrease in patients' perceived intensity of 
+chemotherapy-induced side effects (p = .003). Calculated effect sizes were 
+moderate for anxiety, stress, and well-being levels, and small for 
+chemotherapy-induced side effects.
+DISCUSSION: This is the first study regarding group music therapy sessions for 
+cancer patients and their caregivers during chemotherapy in Colombia. Music 
+therapy has been found to be a valuable strategy to reduce psychological 
+distress in this population and to provide opportunities for fostering self-care 
+and social interaction.
+CONCLUSIONS: Music therapy should be considered as a valuable complementary 
+therapy during chemotherapy. However, it is crucial to conduct prospective 
+studies with parallel group designs to confirm these preliminary findings.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12906-025-04837-7
+PMCID: PMC11966791
+PMID: 40176020 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study was approved by the Ethics Committee of the University 
+Hospital Fundación Santa Fe de Bogotá, CCEI-16508–2024, on June 18th, 2024. All 
+participants provided informed consent to participate in the interventions and 
+data collection. The study fully adheres to the Declaration of Helsinki. Consent 
+to publication: Not applicable. Competing interests: The authors declare no 
+competing interests.

@@ -1,0 +1,61 @@
+1. Complement Ther Clin Pract. 2025 May;59:101973. doi:
+10.1016/j.ctcp.2025.101973.  Epub 2025 Mar 18.
+
+Evaluating the impact of lavender aromatherapy and music therapy on reducing 
+stress, anxiety, and depression in female nurses during the COVID-19 pandemic.
+
+Yang HJ(1), Li MW(2), Chen TC(3).
+
+Author information:
+(1)Department of Public Health, College of Health Care and Management, Chung 
+Shan Medical University, Taichung, Taiwan; Department of Family and Community 
+Medicine, Chung Shan Medical University Hospital, Taichung, Taiwan.
+(2)Changhua Hospital Ministry of Health and Welfare Nursing Department, 
+Changhua, Taiwan.
+(3)Department of Public Health, College of Health Care and Management, Chung 
+Shan Medical University, Taichung, Taiwan. Electronic address: 
+jenny258989@gmail.com.
+
+PURPOSE: Nurses often experience high levels of physical and psychological 
+stress due to frequent exposure to emergency and critical situations, which can 
+adversely affect their professional performance. This study aimed to evaluate 
+and compare the short- and long-term impacts of combining aromatherapy with 
+music therapy versus using aromatherapy alone on the physical and psychological 
+well-being of nurses during the COVID-19 pandemic.
+METHOD: This study employed a quasi-experimental design without non-intervention 
+control group and recruited 60 nurses from a regional teaching hospital in 
+central Taiwan between February and November 2023. Participants were randomly 
+assigned to two groups: one group received aromatherapy, and the other group 
+received a combination of aromatherapy and music therapy. The aromatherapy 
+intervention involved inhaling gas infused with lavender essential oil. The 
+intervention was conducted once a week during the lunch break for 20 min over a 
+six-week period. Physiological and psychological indicators were compared before 
+and after the intervention. Physiological indicators included systolic blood 
+pressure (SBP), diastolic blood pressure (DBP), and pulse rate (PR). 
+Psychological indicators included scores on the Nursing Stress Scale (NSS), Beck 
+Anxiety Inventory (BAI), and Beck Depression Inventory (BDI), which measured 
+stress, anxiety, and depression, respectively.
+RESULTS: Overall, after each aromatherapy intervention, the physiological and 
+psychological measures of the nurses in both groups showed significant 
+reductions (p < 0.05) based on paired t-tests. After six measurements, a one-way 
+repeated measures ANOVA was conducted, revealing that most physiological and 
+psychological measures of the nurses in the aromatherapy-only group were 
+significantly reduced (p < 0.05), although no significant differences were found 
+for diastolic blood pressure and pulse rate. In the group receiving aromatherapy 
+combined with music therapy, all physiological and psychological measures showed 
+significant reductions in repeated measures tests (p < 0.05). These results 
+suggest that aromatherapy combined with music therapy not only improved physical 
+and psychological symptoms immediately but also had lasting effects for at least 
+six weeks.
+CONCLUSIONS: This study found that aromatherapy effectively reduced the physical 
+and psychological stress of nurses, with even greater benefits when combined 
+with music therapy. This approach not only provided immediate effects but also 
+were associated with lasting benefits for an extended duration.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctcp.2025.101973
+PMID: 40127529 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest.

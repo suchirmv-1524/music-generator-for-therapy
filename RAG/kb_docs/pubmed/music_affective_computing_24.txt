@@ -1,0 +1,46 @@
+1. PLoS One. 2019 Mar 18;14(3):e0213516. doi: 10.1371/journal.pone.0213516. 
+eCollection 2019.
+
+A closed-loop, music-based brain-computer interface for emotion mediation.
+
+Ehrlich SK(1), Agres KR(2)(3), Guan C(4), Cheng G(1).
+
+Author information:
+(1)Chair for Cognitive Systems, Department of Electrical and Computer 
+Engineering, Technische Universität München (TUM), Munich, Germany.
+(2)Institute of High Performance Computing, Social and Cognitive Computing 
+Department, Agency for Science, Technology and Research (A*STAR), Singapore, 
+Singapore.
+(3)Yong Siew Toh Conservatory of Music, National University of Singapore (NUS), 
+Singapore, Singapore.
+(4)School of Computer Science and Engineering, Nanyang Technological University 
+(NTU), Singapore, Singapore.
+
+Emotions play a critical role in rational and intelligent behavior; a better 
+fundamental knowledge of them is indispensable for understanding higher order 
+brain function. We propose a non-invasive brain-computer interface (BCI) system 
+to feedback a person's affective state such that a closed-loop interaction 
+between the participant's brain responses and the musical stimuli is 
+established. We realized this concept technically in a functional prototype of 
+an algorithm that generates continuous and controllable patterns of synthesized 
+affective music in real-time, which is embedded within a BCI architecture. We 
+evaluated our concept in two separate studies. In the first study, we tested the 
+efficacy of our music algorithm by measuring subjective affective responses from 
+11 participants. In a second pilot study, the algorithm was embedded in a 
+real-time BCI architecture to investigate affective closed-loop interactions in 
+5 participants. Preliminary results suggested that participants were able to 
+intentionally modulate the musical feedback by self-inducing emotions (e.g., by 
+recalling memories), suggesting that the system was able not only to capture the 
+listener's current affective state in real-time, but also potentially provide a 
+tool for listeners to mediate their own emotions by interacting with music. The 
+proposed concept offers a tool to study emotions in the loop, promising to cast 
+a complementary light on emotion-related brain research, particularly in terms 
+of clarifying the interactive, spatio-temporal dynamics underlying affective 
+processing in the brain.
+
+DOI: 10.1371/journal.pone.0213516
+PMCID: PMC6422328
+PMID: 30883569 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

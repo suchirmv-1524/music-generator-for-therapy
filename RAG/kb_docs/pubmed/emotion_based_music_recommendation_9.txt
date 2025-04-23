@@ -1,0 +1,58 @@
+1. Sci Rep. 2024 Aug 16;14(1):18995. doi: 10.1038/s41598-024-69578-y.
+
+The effects of combining visual-auditory stimuli with exercise on short-term 
+affect improvement: a randomized controlled trial.
+
+Tao M(#)(1)(2), Huang H(#)(1), Gao J(2), Cao Y(1), Zhuang J(3).
+
+Author information:
+(1)School of Exercise and Health, Shanghai University of Sport, Shanghai, China.
+(2)School of Sports and Health Sciences, Zhejiang Normal University, Jinhua, 
+China.
+(3)School of Exercise and Health, Shanghai University of Sport, Shanghai, China. 
+zhuangjie@sus.edu.cn.
+(#)Contributed equally
+
+Prior research has explored the effects of engaging with real or virtual natural 
+landscapes and listening to music during aerobic exercise on short-term affect, 
+however, the specific differences in the improvement of short-term affect by 
+different combinations of Virtual Reality (VR) and music rhythm require further 
+investigation. The objective of this study is to investigate the effects of 
+various combinations of VR and music on short-term mood, thereby providing a 
+reference for future research on public fitness. This study recruited 132 valid 
+participants (mean age 24.0 ± 0.9 years), with a gender distribution of 68 males 
+and 64 females. Participants were randomly assigned to one of four groups: 
+Visual-Music (V-M), Music-Visual (M-V), Visual-only (V), and Music-only (M). The 
+exercise mode was 15 min of aerobic power cycling with 2 min of low-intensity 
+power cycling intervals in the middle. After the exercise, the participants were 
+asked to sit and then performed either a VR intervention or a music intervention 
+for 15 min. The collected indicators included blood pressure, positive/negative 
+affect, and heart rate variability indicators (RMSSD, SDNN, LF/HF). Data 
+analysis included descriptive statistics, repeated measures ANOVA, and 
+multifactor ANOVA. The effect of different VR and Music combined with exercise 
+interventions on the improvement of short-term affect was analyzed based on the 
+effect size (ɳp2) and combined with the significance p-value. Intra-group 
+results showed that DBP, positive and negative affect, SDNN, RMSSD indicators in 
+V-M group were significant differences (p < 0.05), while SBP, positive affect, 
+negative affect, SDNN, RMSSD, LF/HF indicators in M-V group were significant 
+differences (p < 0.05). Only SDNN and RMSSD indicators in M group had 
+significant differences (p < 0.05), and only SBP and RMSSD indicators in V group 
+had significant differences (p < 0.05). The results between groups showed that 
+only SDNN and LH/HF groups had a significant difference (p < 0.05), other 
+indicators had a trend of improvement or positive promotion to a certain extent, 
+but the statistical difference was not significant (p > 0.05). Aerobic exercise 
+with consistent intensity and the combined visual-auditory interventions (M-V 
+and V-M) significantly improved blood pressure, and the short-term affect of 
+physiological responses (LF/HF, SDNN, RMSSD), along with subjective affect 
+measures, compared to other groups. These findings suggest that incorporating VR 
+and music with exercise can effectively enhance short-term affect, recommending 
+an integrated approach to aerobic exercise and relaxation through music and 
+visual exposure to natural environments.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-69578-y
+PMCID: PMC11329759
+PMID: 39152161 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

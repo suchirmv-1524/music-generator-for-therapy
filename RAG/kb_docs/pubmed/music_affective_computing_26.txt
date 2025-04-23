@@ -1,0 +1,47 @@
+1. Front Psychol. 2018 Nov 13;9:2118. doi: 10.3389/fpsyg.2018.02118. eCollection 
+2018.
+
+Effects of Musical Tempo on Musicians' and Non-musicians' Emotional Experience 
+When Listening to Music.
+
+Liu Y(1)(2)(3), Liu G(1)(2)(3)(4)(5), Wei D(1)(2)(3), Li Q(2)(3)(4), Yuan 
+G(2)(3)(4), Wu S(2)(3)(4), Wang G(6), Zhao X(2)(3)(4).
+
+Author information:
+(1)Faculty of Psychology, Southwest University, Chongqing, China.
+(2)Institute of Affective Computing and Information Processing, Southwest 
+University, Chongqing, China.
+(3)Chongqing Brain Science Collaborative Innovation Center, Southwest 
+University, Chongqing, China.
+(4)School of Electronic and Information Engineering of Southwest University, 
+Chongqing, China.
+(5)Chongqing Key Laboratory of Non-linear Circuit and Intelligent Information 
+Processing, Southwest University, Chongqing, China.
+(6)School of Music, Southwest University, Chongqing, China.
+
+Tempo is an important musical element that affects human's emotional processes 
+when listening to music. However, it remains unclear how tempo and training 
+affect individuals' emotional experience of music. To explore the neural 
+underpinnings of the effects of tempo on music-evoked emotion, music with fast, 
+medium, and slow tempi were collected to compare differences in emotional 
+responses using functional magnetic resonance imaging (fMRI) of neural activity 
+between musicians and non-musicians. Behaviorally, musicians perceived higher 
+valence in fast music than did non-musicians. The main effects of musicians and 
+non-musicians and tempo were significant, and a near significant interaction 
+between group and tempo was found. In the arousal dimension, the mean score of 
+medium-tempo music was the highest among the three kinds; in the valence 
+dimension, the mean scores decreased in order from fast music, medium music, to 
+slow music. Functional analyses revealed that the neural activation of musicians 
+was stronger than those of non-musicians in the left inferior parietal lobe 
+(IPL). A comparison of tempi showed a stronger activation from fast music than 
+slow music in the bilateral superior temporal gyrus (STG), which provided 
+corresponding neural evidence for the highest valence reported by participants 
+for fast music. Medium music showed stronger activation than slow music in the 
+right Heschl's gyrus (HG), right middle temporal gyrus (MTG), right posterior 
+cingulate cortex (PCC), right precuneus, right IPL, and left STG. Importantly, 
+this study confirmed and explained the connection between music tempo and 
+emotional experiences, and their interaction with individuals' musical training.
+
+DOI: 10.3389/fpsyg.2018.02118
+PMCID: PMC6243583
+PMID: 30483173

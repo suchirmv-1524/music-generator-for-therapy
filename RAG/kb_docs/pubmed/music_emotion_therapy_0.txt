@@ -1,0 +1,67 @@
+1. JMIR Res Protoc. 2025 Apr 16;14:e67764. doi: 10.2196/67764.
+
+Using Music to Promote Hong Kong Young People's Emotion Regulation and Reduce 
+Their Mood Symptoms and Loneliness: Protocol for a Pilot Randomized Controlled 
+Trial.
+
+Cao Y(1), Shi Y(1), Low DCW(1), Shek DTL(2), Shum DHK(2), Tanksale R(3), Dingle 
+G(3).
+
+Author information:
+(1)Department of Social Work and Social Administration, The University of Hong 
+Kong, Pok Fu Lam, China (Hong Kong).
+(2)Department of Applied Social Sciences, The Hong Kong Polytechnic University, 
+Kowloon, China (Hong Kong).
+(3)School of Psychology, University of Queensland, Brisbane, Australia.
+
+BACKGROUND: Mental health needs in the community surged during the pandemic, 
+with concerning reports of increased negative mood symptoms among youth. At the 
+same time, preventive psychoeducational interventions were insufficient within 
+frontline youth mental health services in Hong Kong, and research specifically 
+addressing youth loneliness remained limited on an international scale. Given 
+the association between loneliness and other mental health symptoms, 
+psychoeducational programs that empower adolescents to cope with emotions may 
+help address both the research gap and local demand. As such, Tuned In, a 
+previously validated intervention program originally developed in Australia, was 
+introduced to the local context. Cultural adaptations and an added focus on 
+loneliness were incorporated into the project to enhance its acceptability and 
+test its effectiveness.
+OBJECTIVE: This study aims to evaluate an adapted version of the Tuned In 
+music-based psychoeducation program, designed to reduce loneliness, depression, 
+and anxiety symptoms among young people in Hong Kong by enhancing their emotion 
+regulation skills.
+METHODS: Participants aged 16-19 years will be randomly assigned to either the 
+experimental or control group. The experimental group will receive an online, 
+group-based psychoeducation program focused on emotion recognition and 
+management, delivered weekly over 4 consecutive weeks. The intervention is 
+grounded in Russell's emotion circumplex model and music psychology, and program 
+content included: The 2D model and characteristics of emotions from different 
+quadrants (session 1); happiness and loneliness (session 2); high-arousal and 
+negative-valence emotions, for example, stress and anxiety (sessions 3); and 
+anxiety, perfectionism, and a celebration of achievement (session 4). Both 
+therapist- and participant-selected music will be used in the intervention to 
+provide a rich repertoire for group discussion, psychoeducation, reflection, and 
+the practice of social skills. The main outcome measures will be assessed using 
+the Emotion Regulation Questionnaire, the Difficulties in Emotion Regulation 
+Scale, the Depression Anxiety Stress Scale, and the De Jong Gierveld Loneliness 
+Scale. Feedback on the project arrangement will be gathered through qualitative 
+input. A mixed methods analysis will be conducted following data collection.
+RESULTS: The project was successfully funded in February 2023 by the Health and 
+Medical Research Fund in Hong Kong and commenced in August 2023. As of September 
+16, 2024, a total of 316 completed questionnaires had been received through 
+Qualtrics for screening purposes, with 89 participants deemed eligible for the 
+program. The project is scheduled to conclude in August 2025, with results to be 
+published thereafter.
+CONCLUSIONS: Participants are expected to show improvements in emotion 
+regulation, along with reductions in mood symptoms and loneliness, following the 
+intervention.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT06147297; 
+https://clinicaltrials.gov/study/NCT06147297.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): DERR1-10.2196/67764.
+
+©Yuan Cao, Yuanxin Shi, Debbie Chi Wing Low, Daniel T L Shek, David H K Shum, 
+Radhika Tanksale, Genevieve Dingle. Originally published in JMIR Research 
+Protocols (https://www.researchprotocols.org), 16.04.2025.
+
+DOI: 10.2196/67764
+PMID: 40239199 [Indexed for MEDLINE]

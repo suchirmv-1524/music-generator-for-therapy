@@ -1,0 +1,55 @@
+1. Front Behav Neurosci. 2024 Oct 2;18:1422361. doi: 10.3389/fnbeh.2024.1422361. 
+eCollection 2024.
+
+How the arts heal: a review of the neural mechanisms behind the therapeutic 
+effects of creative arts on mental and physical health.
+
+Barnett KS(1), Vasiu F(1).
+
+Author information:
+(1)Balance Medical Center, Vancouver, BC, Canada.
+
+BACKGROUND: The creative arts have long been known for their therapeutic 
+potential. These modalities, which include dance, painting, and music, among 
+others, appear to be effective in enhancing emotional expression and alleviating 
+adverse physiological and psychological effects. Engagement in creative arts can 
+be pursued as a personal hobby, in a classroom setting, or through a formal 
+therapeutic intervention with a qualified therapist. Engagement can be active 
+(i.e., creating) or passive (i.e., viewing, listening). Regardless of the 
+modality and manner of engagement, the mechanisms explaining the therapeutic 
+efficacy of creative arts remain poorly understood.
+OBJECTIVE: This study aims to systematically review research investigating the 
+neurological mechanisms activated during active or passive engagement in 
+creative arts, with a specific emphasis on the roles of the medial prefrontal 
+cortex (mPFC) and the amygdala in emotional regulation (ER) and creative 
+behaviors. The review seeks to provide preliminary evidence for the possible 
+existence of common neural mechanisms underlying both phenomena, which could 
+inform the development of targeted therapeutic interventions leveraging creative 
+arts for ER.
+METHODS: A systematic review was conducted following the Cochrane Collaboration 
+guideline and PRISMA standards to identify studies examining the neurological 
+mechanisms underlying creative activities.
+RESULTS: A total of six out of 85 records meet the inclusion criteria, with all 
+being basic research studies. Preliminary findings suggest that active and 
+passive engagement with creative arts consistently activate neural circuits 
+implicated in adaptive emotional regulation, including the mPFC and amygdala. 
+These activations mirror the neural pathways engaged in effective ER strategies, 
+suggesting the possible existence of shared mechanisms between creative 
+expression and emotional processing.
+CONCLUSION: The evidence underscores the potential of creative arts as a 
+complementary therapeutic strategy alongside conventional care and other 
+evidence-based mind-body modalities. By elucidating the shared neural mechanisms 
+between creative arts engagement and ER, this review contributes to the 
+theoretical and practical understanding of the role of creative arts in mental 
+health. Future research is recommended to further explore these neural 
+correlations and their implications for therapeutic practice.
+
+Copyright © 2024 Barnett and Vasiu.
+
+DOI: 10.3389/fnbeh.2024.1422361
+PMCID: PMC11480958
+PMID: 39416439
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

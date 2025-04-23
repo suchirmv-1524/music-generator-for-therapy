@@ -1,0 +1,57 @@
+1. Int J Multimed Inf Retr. 2023;12(1):13. doi: 10.1007/s13735-023-00275-8. Epub 
+2023 Jun 2.
+
+Emotion-aware music tower blocks (EmoMTB ): an intelligent audiovisual interface 
+for music discovery and recommendation.
+
+Melchiorre AB(1)(2), Penz D(1)(3), Ganhör C(1), Lesota O(1)(2), Fragoso V(1), 
+Fritzl F(4), Parada-Cabaleiro E(1)(2), Schubert F(5)(6), Schedl M(1)(2).
+
+Author information:
+(1)Institute of Computational Perception, Johannes Kepler University Linz, Linz, 
+Austria.
+(2)Human-centered Artificial Intelligence, Linz Institute of Technology, Linz, 
+Austria.
+(3)TU Wien, Vienna, Austria.
+(4)Salzburg University of Applied Sciences, Salzburg, Austria.
+(5)University of Applied Arts Vienna, Vienna, Austria.
+(6)St. Pölten UAS, St. Pölten, Austria.
+
+Music listening has experienced a sharp increase during the last decade thanks 
+to music streaming and recommendation services. While they offer text-based 
+search functionality and provide recommendation lists of remarkable utility, 
+their typical mode of interaction is unidimensional, i.e., they provide lists of 
+consecutive tracks, which are commonly inspected in sequential order by the 
+user. The user experience with such systems is heavily affected by cognition 
+biases (e.g., position bias, human tendency to pay more attention to first 
+positions of ordered lists) as well as algorithmic biases (e.g., popularity 
+bias, the tendency of recommender systems to overrepresent popular items). This 
+may cause dissatisfaction among the users by disabling them to find novel music 
+to enjoy. In light of such systems and biases, we propose an intelligent 
+audiovisual music exploration system named EmoMTB . It allows the user to browse 
+the entirety of a given collection in a free nonlinear fashion. The navigation 
+is assisted by a set of personalized emotion-aware recommendations, which serve 
+as starting points for the exploration experience. EmoMTB  adopts the metaphor 
+of a city, in which each track (visualized as a colored cube) represents one 
+floor of a building. Highly similar tracks are located in the same building; 
+moderately similar ones form neighborhoods that mostly correspond to genres. 
+Tracks situated between distinct neighborhoods create a gradual transition 
+between genres. Users can navigate this music city using their smartphones as 
+control devices. They can explore districts of well-known music or decide to 
+leave their comfort zone. In addition, EmoMTB   integrates an emotion-aware 
+music recommendation system that re-ranks the list of suggested starting points 
+for exploration according to the user's self-identified emotion or the 
+collective emotion expressed in EmoMTB 's Twitter channel. Evaluation of 
+EmoMTB   has been carried out in a threefold way: by quantifying the homogeneity 
+of the clustering underlying the construction of the city, by measuring the 
+accuracy of the emotion predictor, and by carrying out a web-based survey 
+composed of open questions to obtain qualitative feedback from users.
+
+© The Author(s) 2023.
+
+DOI: 10.1007/s13735-023-00275-8
+PMCID: PMC10238318
+PMID: 37274943
+
+Conflict of interest statement: Conflict of interestThe authors have no 
+competing interests to declare that are relevant to the content of this article.

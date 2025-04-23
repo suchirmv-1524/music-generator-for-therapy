@@ -1,0 +1,60 @@
+1. Heliyon. 2025 Feb 20;11(4):e42842. doi: 10.1016/j.heliyon.2025.e42842. 
+eCollection 2025 Feb 28.
+
+How positive emotions affect entrepreneurial intention of college students: A 
+moderated mediation model.
+
+Pan L(1), Li J(2), Du T(3), Hu Z(4), Ye JH(5)(6).
+
+Author information:
+(1)School of Education and Music, Hainan Vocational University of Science and 
+Technology, Haikou, 571126, China.
+(2)School of Design, Hainan Vocational University of Science and Technology, 
+Haikou, 571126, China.
+(3)School of Marxism, Hengshui University, Hengshui, 053000, China.
+(4)School of Finance and Economics, Hainan Vocational University of Science and 
+Technology, Haikou, 571126, China.
+(5)Faculty of Education, Beijing Normal University, Beijing, 100875, China.
+(6)National Institute of Vocational Education, Beijing Normal University, 
+Beijing, 100875, China.
+
+Entrepreneurial intention (EI) is a crucial requirement for encouraging 
+significant entrepreneurial activity, which is essential for economic growth and 
+social stability. Cultivating college students' EI is a critical element of 
+higher education. Based on the theory of planned behavior (TPB), this study 
+constructs a moderated mediation model, aiming to explore the intricate 
+processes and conditioning elements that influence the EI of college students 
+and investigate the mediating role of future time perspective (FTP) between 
+positive emotion (PE) and entrepreneurial intention (EI) among Chinese college 
+students, as well as the moderating role of gender. In this study, we used a 
+questionnaire survey method to collect a valid sample of 890 college students in 
+China through Questionnaire Star (https://www.wix.cn; an online questionnaire 
+collection platform widely used in various research fields in China) and used 
+SPSS and AOMS to conduct the preliminary statistics and reliability tests. 
+PROCESS version 3.5 by Hayes (a plug-in for SPSS) was used for hypothesis 
+testing. The findings revealed that PE significantly positively influenced EI, 
+and FTP completely mediated the relationship between PE and EI. However, it was 
+discovered that gender did not exhibit any significant moderating effect on the 
+influence of PE on EI through FTP. The findings of this study enhance our 
+comprehension of the significance of PE among college students and expand our 
+awareness of the mechanisms and circumstances in which PE impacts EI. This study 
+serves as a reminder to educators to prioritize the role of FTP and gender 
+intervention in the development of EI among college students but also offers 
+empirical evidence and practical recommendations for effectively fostering EI 
+among college students. Furthermore, the results of this study establish a 
+foundation to facilitate future researchers' investigation of the causal 
+relationships between these variables.
+
+© 2025 Published by Elsevier Ltd.
+
+DOI: 10.1016/j.heliyon.2025.e42842
+PMCID: PMC11891716
+PMID: 40066050
+
+Conflict of interest statement: The authors declare the following financial 
+interests/personal relationships which may be considered as potential competing 
+interests:Ling Pan reports financial support and administrative support were 
+provided by Department of Education, Hainan Province, China. If there are other 
+authors, they declare that they have no known competing financial interests or 
+personal relationships that could have appeared to influence the work reported 
+in this paper.

@@ -1,0 +1,39 @@
+1. Sci Data. 2024 Jun 19;11(1):648. doi: 10.1038/s41597-024-03429-3.
+
+EmoWear: Wearable Physiological and Motion Dataset for Emotion Recognition and 
+Context Awareness.
+
+Rahmani MH(1), Symons M(2), Sobhani O(3), Berkvens R(3), Weyn M(3).
+
+Author information:
+(1)University of Antwerp - imec, IDLab - Faculty of Applied Engineering, 
+Sint-Pietersvliet 7, Antwerp, 2000, Belgium. mohammad.rahmani@uantwerpen.be.
+(2)Department of Communication Studies, Faculty of Social Sciences, University 
+of Antwerp, Antwerp, 2000, Belgium.
+(3)University of Antwerp - imec, IDLab - Faculty of Applied Engineering, 
+Sint-Pietersvliet 7, Antwerp, 2000, Belgium.
+
+The EmoWear dataset provides a bridge to explore Emotion Recognition (ER) via 
+Seismocardiography (SCG), the measurement of small cardio-respiratory induced 
+vibrations on the chest wall through Inertial Measurement Units (IMUs). We 
+recorded Accelerometer (ACC), Gyroscope (GYRO), Electrocardiography (ECG), Blood 
+Volume Pulse (BVP), Respiration (RSP), Electrodermal Activity (EDA), and Skin 
+Temperature (SKT) data from 49 participants who watched validated emotionally 
+stimulating video clips. They self-assessed their emotional valence, arousal, 
+and dominance, as well as extra questions about the video clips. Also, we asked 
+the participants to walk, talk, and drink, so that researchers can detect gait, 
+voice, and swallowing using the same IMU. We demonstrate the effectiveness of 
+emotion stimulation with statistical methods and verify the quality of the 
+collected signals through signal-to-noise ratio and correlation analysis. 
+EmoWear can be used for ER via SCG, ER during gait, multi-modal ER, and the 
+study of IMUs for context-awareness. Targeted contextual information include 
+emotions, gait, voice activity, and drinking, all having the potential to be 
+sensed via a single IMU.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41597-024-03429-3
+PMCID: PMC11187197
+PMID: 38898046 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

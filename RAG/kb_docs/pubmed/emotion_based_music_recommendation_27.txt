@@ -1,0 +1,34 @@
+1. Sensors (Basel). 2023 Feb 1;23(3):1608. doi: 10.3390/s23031608.
+
+Wearables and Machine Learning for Improving Runners' Motivation from an 
+Affective Perspective.
+
+Baldassarri S(1), García de Quirós J(1), Beltrán JR(2), Álvarez P(1).
+
+Author information:
+(1)Computer Science and Systems Engineering Department, Engineering Research 
+Institute of Aragon (I3A), University of Zaragoza, 50018 Zaragoza, Spain.
+(2)Electronic Engineering and Communications Department, Engineering Research 
+Institute of Aragon (I3A), University of Zaragoza, 50009 Zaragoza, Spain.
+
+Wearable technology is playing an increasing role in the development of 
+user-centric applications. In the field of sports, this technology is being used 
+to implement solutions that improve athletes' performance, reduce the risk of 
+injury, or control fatigue, for example. Emotions are involved in most of these 
+solutions, but unfortunately, they are not monitored in real-time or used as a 
+decision element that helps to increase the quality of training sessions, nor 
+are they used to guarantee the health of athletes. In this paper, we present a 
+wearable and a set of machine learning models that are able to deduce runners' 
+emotions during their training. The solution is based on the analysis of 
+runners' electrodermal activity, a physiological parameter widely used in the 
+field of emotion recognition. As part of the DJ-Running project, we have used 
+these emotions to increase runners' motivation through music. It has required 
+integrating the wearable and the models into the DJ-Running mobile application, 
+which interacts with the technological infrastructure of the project to select 
+and play the most suitable songs at each instant of the training.
+
+DOI: 10.3390/s23031608
+PMCID: PMC9920630
+PMID: 36772647 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

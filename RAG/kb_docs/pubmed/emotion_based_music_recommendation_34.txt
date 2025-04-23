@@ -1,0 +1,34 @@
+1. J Integr Complement Med. 2023 May;29(5):279-291. doi: 10.1089/jicm.2022.0623. 
+Epub 2022 Nov 10.
+
+Barriers to Implementation of Music Listening Interventions for Cancer-Related 
+Phenomena: A Mapping Review.
+
+Kiernan JM(1), DeCamp K(1), Sender J(1), Given C(1).
+
+Author information:
+(1)College of Nursing, Michigan State University, East Lansing, MI, USA.
+
+Introduction: Despite music listening interventions (MLIs) being recommended in 
+multiple clinical practice guidelines, implementation into oncology clinical 
+practice sites has been slow. This mapping review aimed to critique and identify 
+barriers to MLI clinical implementation, as well as offer practical solutions 
+for both clinicians and researchers. Methods: A PRISMA-based mapping review of 
+MLI literature was performed using CINAHL, PubMed, PsycINFO, and Web of Science 
+databases. Eligibility criteria included studies with MLIs as independent 
+variables and cancer-related phenomena as outcome variables. Search was 
+performed in October 2021, and no date limit was set. Results: Thirty-eight 
+studies met the eligibility criteria for inclusion. Several aspects of MLI 
+studies suggested potential barrier status to clinician or patient adoption. 
+These findings included choice of music, music delivery hardware, dose of MLI, 
+and timing of MLI specific to outcomes of interest (e.g., pain, anxiety, mood). 
+Few investigators addressed the concurrent effects of pharmaceuticals (e.g., 
+analgesics, anxiolytics), and controlling for the effects of competing auditory 
+stimuli was minimal. Discussion: This review has identified several barriers 
+that may obstruct clinician and patient adoption of MLIs, despite level of 
+evidence for MLIs that presently exists in the literature. The review makes 
+practical suggestions for clinicians, researchers, and patients to overcome the 
+present barriers and ease MLIs into common practice in clinics and homes.
+
+DOI: 10.1089/jicm.2022.0623
+PMID: 36355075 [Indexed for MEDLINE]

@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+.DS_Store
+node_modules
+VAD_Models/V.pth
+VAD_Models/AD.pth

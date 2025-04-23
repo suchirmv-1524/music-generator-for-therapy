@@ -1,0 +1,41 @@
+1. PLoS One. 2023 Jun 14;18(6):e0285135. doi: 10.1371/journal.pone.0285135. 
+eCollection 2023.
+
+A listener preference model for spatial sound reproduction, incorporating 
+affective response.
+
+Moiragias G(1), Mourjopoulos J(1).
+
+Author information:
+(1)Audio and Acoustic Technology Group, Department of Electrical and Computer 
+Engineering, University of Patras, Rio Patras, Achaia, Greece.
+
+This work presents results and models for listener preference to music delivered 
+via different spatial reproduction formats, here via mono, stereo and 
+multichannel (5.1-ch) reproduction. Although this problem has been researched in 
+the past, the current work introduces an elaborate multistage experimental 
+procedure which considers the contribution of listener-specific emotional 
+responses (valence and arousal) to his/hers Overall Listening Experience (OLE). 
+The test procedure registers the individual listener preference and 
+familiarization with the content of each test audio sample. A spatial 
+envelopment metric, extracted directly from each audio signal sample is utilized 
+as attribute for the perceived differences between the 3 different systems. This 
+attribute, along with listener content preference (for each music sample) and 
+his/hers affective response attributes are combined into linear regression 
+model(s) which can predict the dominant trends for rating OLE. A novel linear 
+tree approach is also proposed which highlights additional associations between 
+the attributes within this multidimensional space. Comparative performance 
+analysis shows that the proposed linear tree approach also achieves improved 
+predictions for OLE ratings.
+
+Copyright: © 2023 Moiragias, Mourjopoulos. This is an open access article 
+distributed under the terms of the Creative Commons Attribution License, which 
+permits unrestricted use, distribution, and reproduction in any medium, provided 
+the original author and source are credited.
+
+DOI: 10.1371/journal.pone.0285135
+PMCID: PMC10266670
+PMID: 37315025 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

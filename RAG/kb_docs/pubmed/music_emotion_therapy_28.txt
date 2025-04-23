@@ -1,0 +1,54 @@
+1. Ann N Y Acad Sci. 2025 Apr;1546(1):120-135. doi: 10.1111/nyas.15315. Epub 2025
+ Mar 18.
+
+Cortical and behavioral tracking of rhythm in music: Effects of pitch 
+predictability, enjoyment, and expertise.
+
+Keitel A(1), Pelofi C(2)(3), Guan X(3)(4), Watson E(1), Wight L(1)(5), Allen 
+S(1), Mencke I(6)(7), Keitel C(#)(1), Rimmele J(#)(3)(8).
+
+Author information:
+(1)Department of Psychology, University of Dundee, Dundee, UK.
+(2)Department of Psychology, New York University, New York, New York, USA.
+(3)Max Planck NYU Center for Language, Music, and Emotion, New York, New York, 
+USA.
+(4)Digital and Cognitive Musicology Lab, École Polytechnique Fédérale de 
+Lausanne, Lausanne, Switzerland.
+(5)School of Psychology, Aston University, Birmingham, UK.
+(6)Department of Medical Physics and Acoustics, University of Oldenburg, 
+Oldenburg, Germany.
+(7)Department of Music, Max-Planck-Institute for Empirical Aesthetics, 
+Frankfurt, Germany.
+(8)Department of Cognitive Neuropsychology, Max-Planck-Institute for Empirical 
+Aesthetics, Frankfurt, Germany.
+(#)Contributed equally
+
+The cortical tracking of stimulus features is a crucial neural requisite of how 
+we process continuous music. We here tested whether cortical tracking of the 
+beat, typically related to rhythm processing, is modulated by pitch 
+predictability and other top-down factors. Participants listened to tonal (high 
+pitch predictability) and atonal (low pitch predictability) music while 
+undergoing electroencephalography. We analyzed their cortical tracking of the 
+acoustic envelope. Cortical envelope tracking was stronger while listening to 
+atonal music, potentially reflecting listeners' violated pitch expectations and 
+increased attention allocation. Envelope tracking was also stronger with more 
+expertise and enjoyment. Furthermore, we showed cortical tracking of pitch 
+surprisal (using IDyOM), which suggests that listeners' expectations match those 
+computed by the IDyOM model, with higher surprisal for atonal music. 
+Behaviorally, we measured participants' ability to finger-tap to the beat of 
+tonal and atonal sequences in two experiments. Finger-tapping performance was 
+better in the tonal condition, indicating a positive effect of pitch 
+predictability on behavioral rhythm processing. Cortical envelope tracking 
+predicted tapping performance for tonal music, as did pitch-surprisal tracking 
+for atonal music, indicating that high and low predictability might impose 
+different processing regimes. Taken together, our results show various ways that 
+top-down factors impact musical rhythm processing.
+
+© 2025 The Author(s). Annals of the New York Academy of Sciences published by 
+Wiley Periodicals LLC on behalf of The New York Academy of Sciences.
+
+DOI: 10.1111/nyas.15315
+PMCID: PMC11998481
+PMID: 40101105 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no competing interests.

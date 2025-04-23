@@ -1,0 +1,39 @@
+1. Eur J Investig Health Psychol Educ. 2025 Mar 10;15(3):33. doi: 
+10.3390/ejihpe15030033.
+
+Enhancing Emotional Intelligence in Autism Spectrum Disorder Through 
+Intervention: A Systematic Review.
+
+García-García L(1), Martí-Vilar M(1), Hidalgo-Fuentes S(1), Cabedo-Peris J(2).
+
+Author information:
+(1)Basic Psychology Department, Faculty of Psychology and Speech Therapy, 
+Universitat de València, 46010 Valencia, Spain.
+(2)Faculty of Health Sciences, Universidad Internacional de Valencia (VIU), 
+46002 Valencia, Spain.
+
+Limitations in some emotional characteristics that are conceptualized in the 
+definition of emotional intelligence can be seen among people with autism 
+spectrum disorder. The main objective of this study is the analysis of the 
+effectiveness of interventions directed to enhance emotional recognition and 
+emotional regulation among this specific population. A systematic review was 
+carried out in databases such as Psycinfo, WoS, SCOPUS, and PubMed, identifying 
+a total of 572 articles, of which 29 met the inclusion criteria. The total 
+sample included 1061 participants, mainly children aged between 4 and 13 years. 
+The analyzed interventions focused on improving emotional recognition, with 
+significant results in the identification of emotions such as happiness, 
+sadness, and anger, although some showed limitations in the duration of these 
+effects. The most used programs included training in facial recognition, virtual 
+reality, and the use of new technologies such as robots. These showed 
+improvements in both emotional recognition and social skills. Other types of 
+interventions such as music therapy or the use of drama techniques were also 
+implemented. However, a gender bias and lack of consistency between results from 
+different cultures were observed. The conclusions indicate that, although the 
+interventions reviewed seem effective, more research is needed to maximize their 
+impact on the ASD population.
+
+DOI: 10.3390/ejihpe15030033
+PMCID: PMC11941702
+PMID: 40136772
+
+Conflict of interest statement: The authors declare no conflicts of interest.

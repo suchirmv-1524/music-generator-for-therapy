@@ -1,0 +1,36 @@
+1. Physiol Meas. 2011 Oct;32(10):1529-39. doi: 10.1088/0967-3334/32/10/002. Epub 
+2011 Aug 18.
+
+Comparison of blood volume pulse and skin conductance responses to mental and 
+affective stimuli at different anatomical sites.
+
+Kushki A(1), Fairley J, Merja S, King G, Chau T.
+
+Author information:
+(1)Bloorview Research Institute, Holland Bloorview Kids Rehabilitation Hospital, 
+Toronto, Ontario, Canada.
+
+Measurements of blood volume pulse (BVP) and skin conductance are commonly used 
+as indications of psychological arousal in affective computing and human-machine 
+interfaces. To date, palmar surfaces remain the primary site for these 
+measurements. Placement of sensors on palmar surfaces, however, is undesirable 
+when recordings are fraught with motion and pressure artifacts. These artifacts 
+are frequent when the human participant has involuntary movements as in 
+hyperkinetic cerebral palsy. This motivates the use of alternative measurement 
+sites. The present study examined the correlation between measurements of blood 
+volume pulse and skin conductance obtained from three different sites on the 
+body (fingers, toes and ear for BVP; fingers, toes and arch of the foot for skin 
+conductance) in response to cognitive and affective stimuli. The results of this 
+pilot study indicated significant inter-site correlation among signal features 
+derived from different sites, with the exception of BVP amplitude, the number of 
+electrodermal reactions and the slope of the electrodermal activity response. We 
+attribute these differences in part to inter-site discrepancies in local skin 
+conditions, such as skin temperature. Despite these differences, significant 
+changes from baseline were present in the responses to the cognitive and 
+affective stimuli at non-palmar sites, suggesting that these sites may provide 
+viable signal measurements for use in affective computing and human-machine 
+interface applications.
+
+DOI: 10.1088/0967-3334/32/10/002
+PMCID: PMC5028198
+PMID: 21849720 [Indexed for MEDLINE]

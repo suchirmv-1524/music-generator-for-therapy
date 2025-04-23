@@ -1,0 +1,60 @@
+1. BMC Anesthesiol. 2023 Apr 3;23(1):109. doi: 10.1186/s12871-023-02060-w.
+
+Effect of music listening on perioperative anxiety, acute pain and pain 
+catastrophizing in women undergoing elective cesarean delivery: a randomized 
+controlled trial.
+
+Kakde A(1), Lim MJ(1), Shen H(2), Tan HS(1)(3), Tan CW(4)(5), Sultana R(6), Sng 
+BL(1)(3).
+
+Author information:
+(1)Department of Women's Anesthesia, KK Women's and Children's Hospital, 100 
+Bukit Timah Road, Singapore, 229899, Singapore.
+(2)Division of Nursing, KK Women's and Children's Hospital, Singapore, 
+Singapore.
+(3)Anesthesiology and Perioperative Sciences Academic Clinical Program, Duke-NUS 
+Medical School, Singapore, Singapore.
+(4)Department of Women's Anesthesia, KK Women's and Children's Hospital, 100 
+Bukit Timah Road, Singapore, 229899, Singapore. tan.chin.wen@kkh.com.sg.
+(5)Anesthesiology and Perioperative Sciences Academic Clinical Program, Duke-NUS 
+Medical School, Singapore, Singapore. tan.chin.wen@kkh.com.sg.
+(6)Center for Quantitative Medicine, Duke-NUS Medical School, Singapore, 
+Singapore.
+
+BACKGROUND: Anxiety may adversely impact mother and her newborn. Music listening 
+is a safe and efficacious treatment that may to reduce perioperative anxiety. 
+The effect on acute pain and pain catastrophizing scores remains unclear. We 
+aimed to determine whether perioperative music listening reduces anxiety, acute 
+pain, and pain catastrophizing scale (PCS) scores following elective cesarean 
+delivery under spinal anesthesia.
+METHODS: After randomization into music listening and control groups, baseline 
+patient characteristics, visual analog scale-anxiety (VAS-A) scores, pain 
+scores, PCS total and sub-scores, and music preferences were collected 
+preoperatively. Before surgery, parturients in the experimental group listened 
+to music of their own choice for 30 min. Music listening was continued during 
+administration of spinal anesthesia and cesarean delivery, and for 30 min 
+following surgery. Postoperative VAS-A score, acute pain score, PCS scores, 
+music preferences, satisfaction score, and feedback were recorded.
+RESULTS: We analyzed 108 parturients (music: n = 53; control: n = 55). Music 
+listening was associated with reduced postoperative VAS-A (mean difference (MD) 
+-1.43, 95%CI -0.63 to -2.22), PCS total score (MD -6.39, 95%CI -2.11 to -10.66), 
+PCS sub-scores on rumination (MD -1.68, 95%CI -0.12 to -3.25), magnification (MD 
+-1.53, 95%CI -0.45 to -2.62), and helplessness (MD -3.17, 95%CI -1.29 to -5.06) 
+sub-scores. There was no significant difference in postoperative acute pain 
+scores. The majority (> 95%) of parturients reported "excellent" and "good" 
+satisfaction with music listening, and most provided positive feedback.
+CONCLUSION: Perioperative music listening was associated with reduced 
+postoperative anxiety and lower pain catastrophizing. Based on the good patient 
+satisfaction and positive feedback received, the use of music listening in the 
+obstetric setting is recommended.
+TRIAL REGISTRATION: This study was registered on Clinicaltrials.gov NCT03415620 
+on 30/01/2018.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12871-023-02060-w
+PMCID: PMC10069065
+PMID: 37013499 [Indexed for MEDLINE]
+
+Conflict of interest statement: Ban Leong Sng is an associate editor of BMC 
+Anesthesiology. All other authors declare that they have no competing interests.

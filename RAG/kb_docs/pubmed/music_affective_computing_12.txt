@@ -1,0 +1,38 @@
+1. Sensors (Basel). 2022 Dec 29;23(1):382. doi: 10.3390/s23010382.
+
+MERP: A Music Dataset with Emotion Ratings and Raters' Profile Information.
+
+Koh EY(1), Cheuk KW(1), Heung KY(1), Agres KR(2)(3), Herremans D(1).
+
+Author information:
+(1)Information Systems Technology and Design Pillar, Singapore University of 
+Technology and Design, Singapore 487372, Singapore.
+(2)Yong Siew Toh Conservatory of Music, National University Singapore, Singapore 
+117376, Singapore.
+(3)Centre for Music and Health, National University Singapore, Singapore 117376, 
+Singapore.
+
+Music is capable of conveying many emotions. The level and type of emotion of 
+the music perceived by a listener, however, is highly subjective. In this study, 
+we present the Music Emotion Recognition with Profile information dataset 
+(MERP). This database was collected through Amazon Mechanical Turk (MTurk) and 
+features dynamical valence and arousal ratings of 54 selected full-length songs. 
+The dataset contains music features, as well as user profile information of the 
+annotators. The songs were selected from the Free Music Archive using an 
+innovative method (a Triple Neural Network with the OpenSmile toolkit) to 
+identify 50 songs with the most distinctive emotions. Specifically, the songs 
+were chosen to fully cover the four quadrants of the valence-arousal space. Four 
+additional songs were selected from the DEAM dataset to act as a benchmark in 
+this study and filter out low quality ratings. A total of 452 participants 
+participated in annotating the dataset, with 277 participants remaining after 
+thoroughly cleaning the dataset. Their demographic information, listening 
+preferences, and musical background were recorded. We offer an extensive 
+analysis of the resulting dataset, together with a baseline emotion prediction 
+model based on a fully connected model and an LSTM model, for our newly proposed 
+MERP dataset.
+
+DOI: 10.3390/s23010382
+PMCID: PMC9824842
+PMID: 36616980 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

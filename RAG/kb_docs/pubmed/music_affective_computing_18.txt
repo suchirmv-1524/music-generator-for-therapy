@@ -1,0 +1,30 @@
+1. Sensors (Basel). 2021 Apr 29;21(9):3092. doi: 10.3390/s21093092.
+
+LUX: Smart Mirror with Sentiment Analysis for Mental Comfort.
+
+Yu H(1), Bae J(1), Choi J(1), Kim H(1).
+
+Author information:
+(1)School of Intelligent Mechatronics Engineering, Sejong University, Seoul 
+05006, Korea.
+
+As COVID-19 solidifies its presence in everyday life, the interest in mental 
+health is growing, resulting in the necessity of sentiment analysis. A smart 
+mirror is suitable for encouraging mental comfort due to its approachability and 
+scalability as an in-home AI device. From the aspect of natural language 
+processing (NLP), sentiment analysis for Korean lacks an emotion dataset 
+regarding everyday conversation. Its significant differences from English in 
+terms of language structure make implementation challenging. The proposed smart 
+mirror LUX provides Korean text sentiment analysis with the deep learning model, 
+which examines GRU, LSTM, CNN, Bi-LSTM, and Bi-GRU networks. There are four 
+emotional labels: anger, sadness, neutral, and happiness. For each emotion, 
+there are three possible interactive responses: reciting wise sayings, playing 
+music, and sympathizing. The implemented smart mirror also includes more-typical 
+functions, such as a wake-up prompt, a weather reporting function, a calendar, a 
+news reporting function, and a clock.
+
+DOI: 10.3390/s21093092
+PMCID: PMC8125726
+PMID: 33946700 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

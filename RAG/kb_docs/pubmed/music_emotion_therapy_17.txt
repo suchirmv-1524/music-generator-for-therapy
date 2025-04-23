@@ -1,0 +1,38 @@
+1. Entropy (Basel). 2025 Mar 18;27(3):317. doi: 10.3390/e27030317.
+
+Framework for Groove Rating in Exercise-Enhancing Music Based on a CNN-TCN 
+Architecture with Integrated Entropy Regularization and Pooling.
+
+Chen J(1)(2), Han J(2), Su P(2), Zhou G(2).
+
+Author information:
+(1)College of Sports and Health Sciences, Xi'an Physical Education University, 
+Xi'an 710068, China.
+(2)School of P. E and Sports, Beijing Normal University, Beijing 100875, China.
+
+Groove, a complex aspect of music perception, plays a crucial role in eliciting 
+emotional and physical responses from listeners. However, accurately quantifying 
+and predicting groove remains challenging due to its intricate acoustic 
+features. To address this, we propose a novel framework for groove rating that 
+integrates Convolutional Neural Networks (CNNs) with Temporal Convolutional 
+Networks (TCNs), enhanced by entropy regularization and entropy-pooling 
+techniques. Our approach processes audio files into Mel-spectrograms, which are 
+analyzed by a CNN for feature extraction and by a TCN to capture long-range 
+temporal dependencies, enabling precise groove-level prediction. Experimental 
+results show that our CNN-TCN framework significantly outperforms benchmark 
+methods in predictive accuracy. The integration of entropy pooling and 
+regularization is critical, with their omission leading to notable reductions in 
+R2 values. Our method also surpasses the performance of CNN and other 
+machine-learning models, including long short-term memory (LSTM) networks and 
+support vector machine (SVM) variants. This study establishes a strong 
+foundation for the automated assessment of musical groove, with potential 
+applications in music education, therapy, and composition. Future research will 
+focus on expanding the dataset, enhancing model generalization, and exploring 
+additional machine-learning techniques to further elucidate the factors 
+influencing groove perception.
+
+DOI: 10.3390/e27030317
+PMCID: PMC11941122
+PMID: 40149241
+
+Conflict of interest statement: The authors declare no conflicts of interest.

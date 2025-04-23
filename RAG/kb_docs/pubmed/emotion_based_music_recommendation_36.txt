@@ -1,0 +1,42 @@
+1. Aging Ment Health. 2023 Jun;27(6):1056-1067. doi:
+10.1080/13607863.2022.2116404.  Epub 2022 Sep 8.
+
+Sensory-based interventions for the immediate de-escalation of agitation 
+in people with dementia: A systematic review.
+
+Cheung DSK(1), Wang SS(1), Li Y(1), Ho KHM(2), Kwok RKH(1), Mo SH(1), 
+Bressington D(3).
+
+Author information:
+(1)School of Nursing, The Hong Kong Polytechnic University, Hung Hom, Hong Kong.
+(2)The Nethersole School of Nursing, Faculty of Medicine, The Chinese University 
+of Hong Kong, Ma Liu Shui, Hong Kong.
+(3)College of Nursing and Midwifery, Charles Darwin University, Casuarina, 
+Northern Territory, Australia.
+
+Objectives: Sensory-based interventions are commonly used to reduce the 
+occurrence of agitation in people with dementia over extended periods. However, 
+the evidence regarding their immediate de-escalation effects is unclear. The 
+objectives of this systematic review are to (a) identify which sensory-based 
+interventions have been used for de-escalating agitation and (b) examine the 
+immediate effects of these interventions on de-escalating agitation in people 
+with dementia.Methods: A systematic review was performed in accordance with 
+PRISMA guidelines. Data sources were identified by searching Embase, Medline, 
+PsycINFO, and CINAHL for publications up to 2 March 2022. The de-escalating 
+agitation effect had to be measured during the intervention or within 15 min 
+after commencing the treatment. Only randomized controlled trials or 
+quasi-experimental studies published in English were included.Results: Nine 
+studies met the inclusion criteria: two randomized controlled trials, one 
+cross-over study, and six quasi-experimental studies. All were conducted in 
+Western countries, involving a total of 246 participants. Music-related 
+interventions were investigated in seven studies, and a positive effect on 
+de-escalating agitation was found, with no side-effects. All of the studies had 
+methodological limitations, including a single group design, blinding, an 
+insufficient sample size, and imprecisely reported results.Conclusion: There is 
+a profound dearth of rigorous studies examining the immediate agitation 
+de-escalating effects of sensory-based interventions on people with dementia. 
+However, the limited evidence on music-related interventions is encouraging. 
+More rigorous research is recommended to confirm the effects.
+
+DOI: 10.1080/13607863.2022.2116404
+PMID: 36073320 [Indexed for MEDLINE]

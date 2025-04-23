@@ -1,0 +1,51 @@
+1. Behav Sci (Basel). 2024 Dec 13;14(12):1195. doi: 10.3390/bs14121195.
+
+Does Trauma Change the Way Individuals with Post-Traumatic Stress Disorder 
+(PTSD) Deal with Positive Stimuli?
+
+Pino O(1), Rossi M(1), Malvezzi MC(1).
+
+Author information:
+(1)Department of Medicine and Surgery, University of Parma, Via Volturno, 39, 
+43125 Parma, PR, Italy.
+
+INTRODUCTION: Post-Traumatic Stress Disorder (PTSD) is a highly prevalent 
+disorder and a highly debilitating condition. Although current theories focused 
+on depressed mood and intrusion as critical dimensions, the mechanism through 
+which depression increases the risk of PTSD remains unclear. Research usually 
+concentrates on the hyperactive negative valence system (NVS) (e.g., increased 
+fear and threat responses), but some evidence suggests a significant role for 
+the hypoactive positive valence system (PVS) (e.g., less neural activation 
+towards rewards).
+METHOD: The main aim of the present research was to investigate whether probable 
+PTSD leads to a different evaluation of the implicit processing in a refugee's 
+sample. Ratings of arousal, dominance, and valence from 60 International 
+Affective Picture System (IAPS) pictures (positive, neutral, and negative) were 
+collected from 42 individuals with probable PTSD, and a group of 26 
+trauma-exposed individuals (Mage = 28.49 years, SD = ±7.78).
+RESULTS: ANOVA results revealed a main group effect (η2p = 0.379) on arousal, 
+dominance, valence dimensions, and pictures' categories (η2p = 0.620), 
+confirming evidence according to which PTSD origins a state of maladaptive 
+hyperarousal and troubles the regulation of emotions, and not supporting the 
+view that such difficulties arise only with negative stimuli. Participants with 
+probable PTSD deemed negative stimuli as more threatening than they really are, 
+reacting to unpleasant images with greater negative emotionality (i.e., enhanced 
+arousal and lower valence ratings) compared with individuals without PTSD. 
+Moreover, they rated positive stimuli as less pleasant. Furthermore, arousal 
+ratings were negatively correlated with valence (r = -0.709, p < 0.01) 
+indicating that pictures with high arousal (negative) were associated with lower 
+valence.
+DISCUSSION: Our findings supported evidence according to which PTSD caused a 
+constant state of hyperarousal and difficulties in regulating emotions facing 
+environmental stimuli. Positive stimuli are considered less pleasant, and this 
+inhibits from completely benefiting from them.
+CONCLUSION: Our study provides evidence for a differential and potentially 
+complementary involvement of NVS and PVS in PTSD development. Intervention for 
+PTSD may, thus, target both negative and positive valence processing.
+
+DOI: 10.3390/bs14121195
+PMCID: PMC11673864
+PMID: 39767336
+
+Conflict of interest statement: The author has no conflicts of interest that are 
+directly or indirectly related to the work submitted for publication to report.

@@ -1,0 +1,5 @@
+Title: Multi-Modal Continuous Valence And Arousal Prediction in the Wild Using   Deep 3D Features and Sequence Modeling
+
+Abstract: Continuous affect prediction in the wild is a very interesting problem and is challenging as continuous prediction involves heavy computation. This paper presents the methodologies and techniques used in our contribution to predict continuous emotion dimensions i.e., valence and arousal in ABAW competition on Aff-Wild2 database. Aff-Wild2 database consists of videos in the wild labelled for valence and arousal at frame level. Our proposed methodology uses fusion of both audio and video features (multi-modal) extracted using state-of-the-art methods. These audio-video features are used to train a sequence-to-sequence model that is based on Gated Recurrent Units (GRU). We show promising results on validation data with simple architecture. The overall valence and arousal of the proposed approach is 0.22 and 0.34, which is better than the competition baseline of 0.14 and 0.24 respectively.
+
+Link: http://arxiv.org/abs/2002.12766v1

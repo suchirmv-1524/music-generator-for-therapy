@@ -1,0 +1,93 @@
+1. JMIR Form Res. 2023 Aug 23;7:e44267. doi: 10.2196/44267.
+
+Developing Culturally Appropriate Content for a Child-Rearing App to Support 
+Young Children's Socioemotional and Cognitive Development in Afghanistan: 
+Co-Design Study.
+
+LaMonica HM(1), Crouse JJ(1), Song YJC(1), Alam M(1), Wilson CE(1), Hindmarsh 
+G(1), Yoon A(1), Boulton KA(2), Ekambareshwar M(1), Loblay V(1)(3), Troy J(4), 
+Torwali M(4), Guastella AJ(2), Banati RB(5)(6), Hickie IB(1).
+
+Author information:
+(1)Youth Mental Health and Technology Team, Brain and Mind Centre, The 
+University of Sydney, Sydney, Australia.
+(2)Clinic for Autism and Neurodevelopment Research, Brain and Mind Centre, The 
+University of Sydney, Sydney, Australia.
+(3)The Australian Prevention Partnership Centre, Sydney, Australia.
+(4)Faculty of Arts and Social Sciences, The University of Sydney, Sydney, 
+Australia.
+(5)Medical Imaging Sciences, Faculty of Medicine and Health, Brain and Mind 
+Centre, The University of Sydney, Sydney, Australia.
+(6)Australian Nuclear Science and Technology Organisation, Sydney, Australia.
+
+BACKGROUND: Optimal child-rearing practices can help mitigate the consequences 
+of detrimental social determinants of health in early childhood. Given the 
+ubiquity of personal digital technologies worldwide, the direct delivery of 
+evidence-based information about early childhood development holds great 
+promise. However, to make the content of these novel systems effective, it is 
+crucial to incorporate place-based cultural beliefs, traditions, circumstances, 
+and value systems of end users.
+OBJECTIVE: This paper describes the iterative approach used to develop the 
+Thrive by Five child-rearing app in collaboration with Afghan parents, 
+caregivers (eg, grandparents, aunts, and nannies), and subject matter experts 
+(SMEs). We outline how co-design methodologies informed the development and 
+cultural contextualization of content to meet the specific needs of Afghan 
+parents and the content was tested and refined in collaboration with key Afghan 
+stakeholders.
+METHODS: The preliminary content was developed based on a comprehensive 
+literature review of the historical and sociocultural contexts in Afghanistan, 
+including factors that influence child-rearing practices and early childhood 
+development. After an initial review and refinement based on feedback from SMEs, 
+this content was populated into a beta app for testing. Overall, 8 co-design 
+workshops were conducted in July and August 2021 and February 2022 with 39 
+Afghan parents and caregivers and 6 SMEs to collect their feedback on the app 
+and its content. The workshops were audio recorded and transcribed; detailed 
+field notes were taken by 2 scribes. A theoretical thematic analysis using 
+semantic codes was conducted to inform the refinement of existing content and 
+development of new content to fulfill the needs identified by participants.
+RESULTS: The following 4 primary themes were identified: child-rearing in the 
+Afghan sociocultural context, safety concerns, emotion and behavior management, 
+and physical health and nutrition. Overall, participants agreed that the app had 
+the potential to deliver valuable information to Afghan parents; however, owing 
+to the volatility in the country, participants recommended including more 
+activities that could be safely done indoors, as mothers and children are 
+required to spend most of their time at home. Additionally, restrictions on 
+public engagement in music required the removal of activities referencing 
+singing that might be performed outside the home. Further, activities to help 
+parents reduce their children's screen time, promote empathy, manage emotions, 
+regulate behavior, and improve physical health and nutrition were requested.
+CONCLUSIONS: Direct engagement with Afghan parents, caregivers, and SMEs through 
+co-design workshops enabled the development and refinement of evidence-based, 
+localized, and contextually relevant child-rearing activities promoting healthy 
+social, emotional, and cognitive development during the first 5 years of 
+children's lives. Importantly, the content was adapted for the ongoing conflict 
+in Afghanistan with the aim of empowering Afghan parents and caregivers to 
+support their children's developmental potential despite the security concerns 
+and situational stressors.
+
+©Haley M LaMonica, Jacob J Crouse, Yun J C Song, Mafruha Alam, Chloe E Wilson, 
+Gabrielle Hindmarsh, Adam Yoon, Kelsie A Boulton, Mahalakshmi Ekambareshwar, 
+Victoria Loblay, Jakelin Troy, Mujahid Torwali, Adam J Guastella, Richard B 
+Banati, Ian B Hickie. Originally published in JMIR Formative Research 
+(https://formative.jmir.org), 23.08.2023.
+
+DOI: 10.2196/44267
+PMCID: PMC10483291
+PMID: 37610805
+
+Conflict of interest statement: Conflicts of Interest: IBH is the co-director, 
+health and policy at the Brain and Mind Centre, University of Sydney. The Brain 
+and Mind Centre operates an early-intervention youth service at Camperdown under 
+contract to headspace. He is the chief scientific adviser to and a 3.2% equity 
+shareholder in InnoWell Pty Ltd. InnoWell was formed by the University of Sydney 
+(32% equity) and PricewaterhouseCoopers (Australia; 32% equity) to deliver the 
+A$30 million (US $21.6 million) Australian government–funded Project Synergy 
+(2017-2020; a 3-year program for the transformation of mental health services) 
+and to lead the transformation of mental health services internationally through 
+the use of innovative technologies. HML is a section editor for JMIR Aging, a 
+sister journal to JMIR Pediatrics and Parenting. She does not receive any 
+financial benefit for this role or undue advantage in the peer-review process. 
+VL is a board member of Matana Foundation, a philanthropic organization that 
+provides funding to programs for disadvantaged young people in Australia. She 
+does not receive any financial benefit for this role. All other authors declare 
+no competing interests.

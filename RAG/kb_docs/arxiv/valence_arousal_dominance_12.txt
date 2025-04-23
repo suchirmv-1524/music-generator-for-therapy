@@ -1,0 +1,5 @@
+Title: Entropy-Assisted Multi-Modal Emotion Recognition Framework Based on   Physiological Signals
+
+Abstract: As the result of the growing importance of the Human Computer Interface system, understanding human's emotion states has become a consequential ability for the computer. This paper aims to improve the performance of emotion recognition by conducting the complexity analysis of physiological signals. Based on AMIGOS dataset, we extracted several entropy-domain features such as Refined Composite Multi-Scale Entropy (RCMSE), Refined Composite Multi-Scale Permutation Entropy (RCMPE) from ECG and GSR signals, and Multivariate Multi-Scale Entropy (MMSE), Multivariate Multi-Scale Permutation Entropy (MMPE) from EEG, respectively. The statistical results show that RCMSE in GSR has a dominating performance in arousal, while RCMPE in GSR would be the excellent feature in valence. Furthermore, we selected XGBoost model to predict emotion and get 68% accuracy in arousal and 84% in valence.
+
+Link: http://arxiv.org/abs/1809.08410v1
